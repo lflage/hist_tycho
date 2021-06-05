@@ -1,0 +1,2907 @@
+
+|:| [START HEADER]|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|
+|:| PLEASE SET CHARACTER ENCODING SYSTEM TO UTF-8
+|:| Tycho Brahe Parsed Corpus of Historical Portuguese 
+|:| Document ID: m_005
+|:| Encoding: UTF-8
+|:| Last Saved: 01.03.2013
+|:| Title: O Regente
+|:| Author: Mesquita, Marcelino
+|:| Version: Simple Text, for Automatic Tools
+|:| Edition Type: Complete Modernization of Orthography
+|:| [END HEADER]|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|
+
+   
+[ prologue ] 
+      [ title:  ARAUTO ]
+      [ title:  ( com três reverências )]
+      [ salutation: 
+      [ 1 ]  Senhoras , Senhores :]
+      [ salutation: 
+      [ 2 ]  A peça ( rigorosamente histórica ) que vamos ter a honra de representar diante de vós , evoca da nossa gloriosa história um dos mais belos e comoventes episódios .]
+      [ salutation: 
+      [ 3 ]  Nem de fingidas virtudes , nem de imaginários feitos foi tecida a trama singela da cativante história .]
+      [ salutation: 
+      [ 4 ]  Passo a passo , pela escrita do famoso cronista , na singela narração dos casos , os homens erguem-se , passam , cheios de tanta bondade que igualam os santos , cheios de tanto valor que excedem os heróis !]
+      [ salutation: 
+      [ 5 ]  O dever da honra imaculável , o culto sagrado da amizade , o amor humano na mais alta expressão do desinteresse , erguido até ao sacrifício , enchem de um esplendor sobrehumano essa velha alma portuguesa , em cuja tempera parece terem-se fundido toda a bondade Cristã e todo o orgulho dos Césares !]
+      [ salutation: 
+      [ 6 ]  Em tais grandezas viveu , e não há maior consolo que mostrá-las à alma de hoje , cheia de vergonhas de vencida e de soluços de morte .]
+      [ salutation: 
+      [ 7 ]  Vós que me ouvis , mulheres e homens , desta nobilíssima terra de Portugal , descendentes de heróis , netos de santos , portugueses , enfim !
+      [ 8 ]  Se tremestes um dia de orgulho pelo passado , se corastes um dia de pejo pelo presente , sentireis esta peça !]
+      [ salutation: 
+      [ 9 ]  Sem dúvida , conhecereis , por vezes , que o autor fraquejou ante a magnitude do assunto :
+      [ 10 ]  lembrai-vos que o desculpa a nobreza da situação e sede benevolentes , Senhoras , sede benevolentes , Senhores !][ end prologue ] 
+      
+      [ title:  PERSONAGENS ]
+      [ 11 ]  Dom Pedro , duque de Coimbra , o Regente .
+      [ 12 ]  D. Alvaro Vaz d'Almada , conde de Avranches .
+      [ 13 ]  Dom Affonso , conde de Barcelos , 1.° duque de Bragança .
+      [ 14 ]  O conde de Ourem .
+      [ 15 ]  O Arcebispo de Lisboa .
+      [ 16 ]  Vasco Berrêdo .
+      [ 17 ]  Dom Alvaro de Castro .
+      [ 18 ]  João Vogado .
+      [ 19 ]  Luiz Gomes da Grãn .
+      [ 20 ]  Alvaro Affonso .
+      [ 21 ]  Luiz d'Azevedo .
+      [ 22 ]  Vasco Martins da Silveira .
+      [ 23 ]  O bispo d'Évora .
+      [ 24 ]  Mestre Diogo Peres .
+      [ 25 ]  Mestre Lopo Fernandes .
+      [ 26 ]  Frei Vasco da Alagôa .
+      [ 27 ]  Dona Leonor d'Aragão .
+      [ 28 ]  Dona Izabel , rainha .
+      [ 29 ]  Fidalgos , damas , pagens , populares , judeus , frades , besteiros , escudeiros , arautos .
+      [ title:  QUADRO I ]
+      [ title:  Anno de 1440]
+      [ 30 ]  No largo da Sé , em Lisboa .
+      [ 31 ]  Sobre os degraus do templo , um popular , mestre Diogo Peres , alfaiate , tenta ler uma carta pegada na ombreira da porta .
+      [ 32 ]  Populares , escudeiros , mulheres , besteiros , agrupam-se em grande grifa pelas escadas e em baixo , no largo .
+      [ 33 ]  É de tarde .
+      [ character:  Mestre Diogo . —]
+      [ 34 ]  Vede se vos calais , gritadores de má morte !
+      [ 35 ]  Ou me calo eu e vinde vós ler .
+      [ character:  Mestre Lopo . —]
+      [ 36 ]  Eia , arraia miúda , assossegai .
+      [ character:  1.° Popular . —]
+      [ 37 ]  Lede vós , mestre Diogo Peres , que não são nossos olhos afeitos a entender de escritas .
+      [ 38 ]  ( O ruído continua ) .
+      [ character:  Vozes . —]
+      [ 39 ]  Silêncio , silêncio , ouvide !
+      [ character:  Mestre Diogo . —]
+      [ 39 ]  ( Lê ) .
+      [ 40 ]  Carta que o mui alto e honrado príncipe o infante Dom Pedro , manda a todas as cidades e vilas ...
+      [ 41 ]  ( O ruído continua .
+      [ 42 ]  Um escudeiro puxa da espada contra os populares que o afugentam )
+      [ character:  Mestre Diogo . —]
+      [ 43 ]  Serenai , por uma vez , homens de pouco siso .
+      [ character:  1.° Besteiro . —]
+      [ 44 ]  O perro do escudeiro ameaçava-nos , com os homens de armas da rainha .
+      [ character:  1.° Popular . —]
+      [ 45 ]  Mas lede , mestre Diogo , a carta do nosso infante .
+      [ character:  Vozes . —]
+      [ 46 ]  A carta , a carta !
+      [ character:  Mestre Diogo . —]
+      [ 47 ]  Quereis ouvir , a final ?
+      [ character:  Vozes . —]
+      [ 48 ]  Lede , lede .
+      [ character:  Mestre Diogo . —]
+      [ 49 ]  « Carta que o mui alto e honrado príncipe , o infante Dom Pedro , manda a todas as cidades e vilas como defensor que é destes reinos .
+      [ 50 ]  Fidalgos , cavaleiros e homens bons eu vos envio muito saudar .
+      [ 51 ]  Bem sabeis como na morte do meu muito alto e pre-zado irmão e senhor El-Rei Dom Duarte , que Deus tenha , foi seu testamento aberto , e nele foi visto e lido , que deixava a Regência destes reinos à mui alta e nobre rainha Dona Leonor d'Aragão , sua mulher e nossa senhora .
+      [ 52 ]  Sabeis como reunido , logo , o conselho este decidiu que a Regência fosse dada aos mui altos príncipes e senhores meus irmãos os infantes Dom João e Dom Henrique e a mim , sendo deixada à Rainha a administração da fazenda e provimento dos ofícios e cargos .
+      [ character:  Vozes . —]
+      [ 53 ]  Andou bem o conselho .
+      [ character:  Mestre Lopo . —]
+      [ 54 ]  Ouvi .
+      [ character:  Mestre Diogo . —]
+      [ 55 ]  Sabeis como se jurou fidelidade a El-Rei Nosso Senhor Dom Affonso V , e como o Conde de Barcelos , Dom Affonso , e mais fidalgos foram contra o conselho e pela Rainha .
+      [ 56 ]  No intento de acabar discórdias se abriram as cortes , que confirmaram a vontade do conselho e a mim me deram o cargo de defensor do reino , que muito me aprouve porque tal foi meu pai o muito nobre e glorioso Rei Dom João I , mestre d'Aviz .
+      [ character:  Vozes . —]
+      [ 57 ]  Viva Dom Pedro !
+      [ character:  Vozes . —]
+      [ 58 ]  Viva o infante !
+      [ character:  Vozes . —]
+      [ 59 ]  Viva !
+      [ character:  Mestre Diogo . —]
+      [ 60 ]  « O governo do reino , assim determinado , tem trazido os povos descontentes e por esta razão se vão abrir novas cortes para resolverem como seja melhor .
+      [ 61 ]  E , como haja sabido que a Rainha Nossa Senhora encomendou aos fidalgos e seus parciais o virem armados e com seus homens de armas , o que indica não tenção de paz , mas determinação de vencer pela força , como defensor do reino e dos povos vos encomendo e mando que sejais prestes , cavaleiros , escudeiros , e homens de armas , cada um como lhe pertencer e os besteiros com suas bestas e assim homens de pé e outras pessoas na maneira em que cada um deve servir .
+      [ 62 ]  E que logo que houverdes meus recados possais vir onde vos mandar para nosso serviço e por bem de vós todos e deste reino .
+      [ 63 ]  E , de assim o fazerdes vo-lo terei em grande serviço e recebereis , de nós , mercê .
+      [ 64 ]  Escrito em Lisboa no ano de Nosso Senhor Jesus Cristo de 1440 .
+      [ 65 ]  Infante Dom Pedro .
+      [ character:  Vozes . —]
+      [ 66 ]  Viva o infante !
+      [ character:  Vozes . —]
+      [ 67 ]  Viva !
+      [ character:  Vozes . —]
+      [ 68 ]  Viva Dom Pedro !
+      [ character:  Vozes . —]
+      [ 69 ]  Viva !
+      [ character:  Mestre Lopo . —]
+      [ 70 ]  Haveis ouvido ?
+      [ 71 ]  Pois pensai em vos aparelhardes , em breve ?
+      [ character:  Escudeiro . —]
+      [ 72 ]  Apercebidos somos , mestre Lopo .
+      [ 73 ]  E que Deus vos guarde e ao vosso grande amigo o infante Dom João ; que esse , louvado Deus , não é pela aragonesa !
+      [ character:  Mestre Lopo . —]
+      [ 74 ]  Deixai isso ao conde de Barcelos , ao filho o conde de Ourem e ao muito soberbo senhor Dom Pedro de Noronha , arcebispo de Lisboa e outros fidalgos .
+      [ character:  Brites . —]
+      [ 75 ]  Lá o arcebispo é parente da Rainha , e vai pelos seus ; mas o conde de Barcelos o que quer ?
+      [ character:  Mestre Lopo . —]
+      [ 76 ]  Não o sabeis ?
+      [ 77 ]  Quer casar a neta com El-Rei , e como está ajustado o casamento com a filha do nosso infante , daí lhe vem a raiva .
+      [ character:  1.° Popular . —]
+      [ 78 ]  Ele é o mais rico fidalgo de Portugal !
+      [ character:  Mestre Lopo . —]
+      [ 79 ]  É um bastardo ...
+      [ 80 ]  faltam-lhe as honras da corte .
+      [ character:  Brites . —]
+      [ 81 ]  É então o conselheiro da Rainha ?
+      [ character:  Mestre Lopo . —]
+      [ 82 ]  Ele , o filho , e mais fidalgos inimigos de Dom Pedro .
+      [ 83 ]  Este é pelo povo , eles uns pelos outros , contra nós .
+      [ 84 ]  Assim o assentaram e juraram num conselho secreto que houveram numa igreja de Torres Novas .
+      [ character:  2.° Popular . —]
+      [ 85 ]  Pois vida nos dê Deus , que grandes coisas se vão ver nesta terra .
+      [ character:  Escudeiro . —]
+      [ 86 ]  Com mil lanças que assim será se os senhores fidalgos não quiserem escutar a voz do povo e nomeá-lo regente .
+      [ character:  Mestre Lopo . —]
+      [ 87 ]  Mas , só !
+      [ character:  Brites . —]
+      [ 88 ]  Só , está visto .
+      [ 89 ]  Que é agora uma mulher a governar homens ?
+      [ character:  1.° Popular . —]
+      [ 90 ]  E uma estrangeira por de mais .
+      [ character:  2.° Popular . —]
+      [ 91 ]  E mal aconselhada .
+      [ character:  Mestre Lopo . —]
+      [ 92 ]  Que dizeis agora dos varejos ?
+      [ 93 ]  Que lhos pagarão os mercadores ?
+      [ character:  1.° Popular . —]
+      [ 94 ]  Que não .
+      [ 95 ]  Nem a Vasco Martins , nem a ela .
+      [ character:  Mestre Lopo . —]
+      [ 96 ]  O alvará manda pagar .
+      [ character:  Escudeiro . —]
+      [ 97 ]  Um alvará rasga-se !
+      [ character:  Mestre Lopo . —]
+      [ 98 ]  E as justiças da Rainha ?
+      [ character:  1.° Popular . —]
+      [ 99 ]  Deixai lá que ainda há outra maior .
+      [ character:  Mestre Lopo . —]
+      [ 100 ]  Maior ?
+      [ character:  1.° Popular . —]
+      [ 101 ]  A justiça de Deus que , às vezes , anda na terra !
+      [ character:  Vozes . —]
+      [ 102 ]  Olhai , olhai !
+      [ 103 ]  ( Um troço de populares entra , ruidosamente ) .
+      [ character:  3.° Popular . —]
+      [ 104 ]  Que recebam os varejos .
+      [ character:  4.° Popular . —]
+      [ 105 ]  Raça de Judas !
+      [ 106 ]  Pagaram-no .
+      [ 107 ]  A aragonesa e o aio que venham pelas contas .
+      [ character:  3.° Popular . —]
+      [ 108 ]  É preciso desenganá-la de uma vez .
+      [ 109 ]  Levou-nos a Tânger onde aquele pobre infante morre mártir como um santo e quer levar-nos à miséria .
+      [ character:  Vozes . —]
+      [ 110 ]  Que houve ?
+      [ 111 ]  Que houve ?
+      [ character:  3.° Popular . —]
+      [ 112 ]  É que o escrivão das sisas , Alvaro Affonso e Bartholomeu Gômes , contador , abriram mesa na casa da câmara para receber os varejos .
+      [ 113 ]  Antes puseram-se a ler o alvará ... mas não acabaram .
+      [ character:  Brites . —]
+      [ 114 ]  Por quê ?
+      [ character:  3.° Popular . —]
+      [ 115 ]  Porque os atiramos pelas janelas fora .
+      [ 116 ]  ( Gargalhadas ) .
+      [ character:  1.° Popular . —]
+      [ 116 ]  ( Saindo da igreja ) .
+      [ 117 ]  Pois é fazer o mesmo ao frade sandeu que está a insultar-nos do púlpito com os homens de armas da rainha , a notar-nos de revoltosos e insolentes , merecedores de castigos como os dados em Bruges aos da nossa igualha .
+      [ character:  2.° Popular . —]
+      [ 118 ]  Enforcar-nos ?
+      [ 119 ]  Quem é o sandeu ?
+      [ character:  1.° Popular . —]
+      [ 120 ]  Frei Vasco da Alagôa .
+      [ character:  1.° Popular . —]
+      [ 121 ]  Façamo-lo calar .
+      [ character:  Brites . —]
+      [ 122 ]  Arranca-se-lhe a língua .
+      [ character:  Vozes . —]
+      [ 123 ]  Morra o padre !
+      [ 124 ]  Morra !
+      [ 124 ]  ( Correndo para a igreja ) .
+      [ character:  Brites . —]
+      [ 125 ]  Vamos lá dentro .
+      [ 126 ]  ( O frade aparece empurrado pelo povo ) .
+      [ character:  Mestre Lopo . —]
+      [ 126 ]  ( A Diogo )
+      [ 127 ]  A maré sobe de mais .
+      [ 128 ]  Começa a matar .
+      [ 129 ]  Quereis ver se é vindo o infante ?
+      [ 129 ]  ( Saem ) .
+      [ character:  1.° Popular . —]
+      [ 130 ]  Acusais-nos de traidores , vamos , dizei a quem ?
+      [ 131 ]  Somos por Dom Pedro nosso defensor , pelos filhos de Dom João I , pelos irmãos de Dom Duarte o nosso bom rei .
+      [ 132 ]  Vós por quem sois Dom Goliardo ?
+      [ character:  Brites . —]
+      [ 133 ]  Falai , dizei , ou vos enforcamos no cordão do hábito !
+      [ character:  Frei Vasco . —]
+      [ 134 ]  Sede prudentes .
+      [ character:  2.° Popular . —]
+      [ 135 ]  Sede-o vós primeiro e não venhais vomitar sandices na igreja de Deus .
+      [ character:  3.° Popular . —]
+      [ 136 ]  Que tal o burlão ?
+      [ 137 ]  Fazeis da igreja tavolagem ? !
+      [ character:  Brites . —]
+      [ 138 ]  Olhai que imitais a Judas se jogais a nossa terra .
+      [ character:  Frei Vasco . —]
+      [ 139 ]  Homens de ruim condição e fraca ideia .
+      [ 140 ]  Que sabeis vós de coisas do governo para vos meterdes onde não sois chamados ?
+      [ 141 ]  Ide para vossas casas , a vossos misteres e deixai o reino e o seu governo a quem competir .
+      [ character:  Escudeiro . —]
+      [ 142 ]  A vós e a outros como vós que cantais de papo enquanto combatemos à lançada ?
+      [ character:  1.° Popular . —]
+      [ 143 ]  Quantos centos de lanças quebrastes em Aljubarrota ?
+      [ character:  2.° Popular . —]
+      [ 144 ]  O estafermo andou talvez na tomada de Ceuta ?
+      [ character:  Brites . —]
+      [ 145 ]  Andou , ao pé das cubas do vinho .
+      [ character:  Escudeiro . —]
+      [ 146 ]  Deixai-me ver as cicatrizes dos alfanges , que vos dão direito a despegar assim a língua contra nós , homens desta leal cidade de Lisboa , que defendemos os nossos foros , porque os conquistamos na guerra e os não entregamos aos fidalgos traidores nem às manhas de uma rainha vendida .
+      [ character:  Frei Vasco . —]
+      [ 147 ]  Calai-vos , senhor escudeiro , não encontreis a forca depois do vosso arrazoado !
+      [ 148 ]  A Rainha , nossa senhora , é uma honrada dama que não pode andar descomposta em arraiais de vilanagem .
+      [ 149 ]  Quanto ao vosso infante é , como vós , um rebelde ...
+      [ character:  Escudeiro . —]
+      [ 149 ]  ( Interrompe )
+      [ 150 ]  Eh ! Eh ! ides mudar o latim , Dom perro de pregador , ou visitareis vosso amo , no inferno !
+      [ 150 ]  ( Tira a espada )
+      [ 151 ]  Quem bole na virtude de sua mercê a Rainha ?
+      [ 152 ]  Honrada dona será , e é !
+      [ 153 ]  Quanto ao infante , nosso senhor , é o mais honrado príncipe de Portugal , o defensor do povo , vosso inimigo e de outros como vós .
+      [ character:  Brites . —]
+      [ 154 ]  Negai-o , se podeis .
+      [ character:  Vozes . —]
+      [ 155 ]  Negai lá !
+      [ 156 ]  Negai lá !
+      [ character:  Escudeiro . —]
+      [ 157 ]  Com mil lanças que o não fará , e em troca será dos nossos .
+      [ character:  Frei Vasco . —]
+      [ 158 ]  Dos vossos ?
+      [ character:  Escudeiro . —]
+      [ 159 ]  Dos vossos : pois ides levantar um viva ao Dom Infante , com a mesma língua com que o malsinastes .
+      [ character:  Frei Vasco . —]
+      [ 160 ]  Por Deus que não .
+      [ 161 ]  Essa é a voz dos traidores : lançai-a , vós .
+      [ character:  Brites . —]
+      [ 162 ]  Uma corda .
+      [ character:  Escudeiro . —]
+      [ 163 ]  Eh ! galeote , tu que sa-bes os nós da forca , lança-lha à gorja .
+      [ character:  Frade . —]
+      [ 164 ]  Deixai-me , cobardes .
+      [ 165 ]  Eh ! de El-Rei !
+      [ 166 ]  Eh ! de El-Rei !
+      [ character:  Escudeiro . —]
+      [ 167 ]  Vai gritar para o inferno .
+      [ 168 ]  Tem-no , galeote .
+      [ character:  Galeote . —]
+      [ 169 ]  Nem Belzebu o livra .
+      [ 169 ]  ( O padre aparece amarrado )
+      [ character:  Escudeiro . —]
+      [ 170 ]  Vamos , vá :
+      [ 171 ]  Viva o Infante !
+      [ 171 ]  ( Um murmúrio de povo que chega , engrossa rápido , dando vivas ao Infante )
+      [ character:  1.° Popular . —]
+      [ 172 ]  O Infante Dom Pedro e Dom Alvaro o Capitão-mor do mar .
+      [ character:  Vozes . —]
+      [ 173 ]  O infante , o infante !
+      [ character:  Escudeiro . —]
+      [ 174 ]  Não o larguem .
+      [ 175 ]  Sua senhoria vai ver como são tratados os cães que lhe mordem .
+      [ 175 ]  ( O Infante seguido de Dom Alvaro Vaz d'Almada aparece no meio do povo , que o aclama , armado à ligeira )
+      [ character:  Dom Pedro . —]
+      [ 176 ]  Assossegai , amigos .
+      [ 177 ]  Que arruídos perturbam a paz da cidade ?
+      [ 178 ]  Por que tantos motins e rixas ?
+      [ 179 ]  Estou no meio de vós pronto , como meu pai , para atender as vossas reclamações e pedidos se neles houver justiça .
+      [ 180 ]  Que quereis ?
+      [ character:  Mestre Lopo . —]
+      [ 181 ]  Senhor , que nos despachem nossos negócios atrasados .
+      [ character:  Mestre Diogo . —]
+      [ 182 ]  Que se não paguem os varejos .
+      [ character:  Brites . —]
+      [ 183 ]  Que nos governem homens ...
+      [ character:  1.° Popular . —]
+      [ 184 ]  Que é cobardia do povo e vergonha de gentes sermos governados por saias de mulher .
+      [ character:  Mestre Lopo . —]
+      [ 185 ]  Queremos que quem nos governe , nos defenda contra os fidalgos e contra a vara dos seus meirinhos , que são como lobos sobre o pouco que havemos .
+      [ character:  Vozes . —]
+      [ 186 ]  Isso é , isso é .
+      [ character:  Almada . —]
+      [ 187 ]  Quereis Dom Pedro regente ?
+      [ 188 ]  Não é assim , leal povo da cidade ?
+      [ character:  Dom Pedro . —]
+      [ 189 ]  Dom Alvaro !
+      [ 189 ]  ( Ao povo ) .
+      [ 190 ]  Deixai os meus negócios e tratai antes dos vossos .
+      [ character:  Mestre Diogo . —]
+      [ 191 ]  Os vossos , nossos são , meu senhor .
+      [ character:  Dom Pedro . —]
+      [ 192 ]  Assim será ; mas fazei-o então , não em desordem , em motins nas ruas e nas praças , mas placidamente , como convém ao sossego do reino e do vosso bem-estar .
+      [ 193 ]  Não pede justiça entre tumultos e cometendo mortes quem tem um defensor que olhe por sua razão e direito .
+      [ 194 ]  Deliberai , antes , serenamente , em conselho , o que vos é mister e esperai as cortes .
+      [ 195 ]  Exponde pelos vossos juízes as vossas queixas e requerimentos .
+      [ 196 ]  Ali , contai comigo , com a minha voz : cá fora , contai com a minha espada !
+      [ character:  Vozes . —]
+      [ 197 ]  Viva o Infante !
+      [ 198 ]  Viva !
+      [ character:  Dom Pedro . —]
+      [ 198 ]  ( Indicando )
+      [ 199 ]  Quem prendeu e o que fez este homem ?
+      [ character:  1.° Popular . —]
+      [ 200 ]  Senhor , alcunhava-nos de traidores e ameaçava-nos do púlpito abaixo , com a forca .
+      [ character:  2.° Popular . —]
+      [ 201 ]  Insultava-vos de desleal e ambicioso !
+      [ character:  Dom Pedro . —]
+      [ 202 ]  Pois perdoai-lhe , vós , como eu lhe perdoo .
+      [ 203 ]  Soltai-o .
+      [ 203 ]  ( Ao padre ) .
+      [ 204 ]  Ide-vos em paz , e lembrai-vos que deveis ser a língua do perdão , e jamais a semente da guerra .
+      [ 205 ]  Deus , só , vê dentro de nós e conhece a lealdade do nosso co-ração e a honradez das nossas intenções .
+      [ 206 ]  Sede prudente em vossas falas .
+      [ 207 ]  Ide .
+      [ 207 ]  ( Desamarram e largam o padre . )
+      [ character:  Almada . —]
+      [ 208 ]  Como vos chamais ?
+      [ character:  Frade . —]
+      [ 209 ]  Frei Vasco da Alagôa .
+      [ character:  Almada . —]
+      [ 210 ]  Se sois da alagoa , amigo , para a outra vez coaxai mais devagar !
+      [ 210 ]  ( Gargalhadas .
+      [ 210 ]  O frade sai apupado ) .
+      [ character:  Dom Pedro . —]
+      [ 211 ]  Ide aos vossos misteres .
+      [ 212 ]  Deixai por ora as armas .
+      [ 213 ]  Fazei vosso conselho amanhã em São Domingos : deliberai e assentai no que for de justiça .
+      [ 214 ]  Ide dizer que sou convosco na cidade , e que me aprazerá vê-la sossegada .
+      [ 215 ]  As cortes vão abrir ; apercebei-vos para lutar como vos pedi .
+      [ 216 ]  Ide .
+      [ 216 ]  ( O povo dispersa , dando vivas )
+      [ character:  Almada . —]
+      [ 217 ]  Fazeis de bom pastor .
+      [ character:  Dom Pedro . —]
+      [ 218 ]  Essa deve ser sempre a função dos príncipes .
+      [ 219 ]  O povo é uma criança .
+      [ 220 ]  É preciso ameigá-lo muito e castigá-lo pouco .
+      [ 220 ]  ( Saem )
+      [ 221 ]  ( Anoitece : populares leem a carta com lanternas )
+      [ character:  1.° Popular . —]
+      [ 222 ]  Ouvistes as suas nobres palavras ?
+      [ character:  1.° Escudeiro . —]
+      [ 223 ]  É um verdadeiro príncipe : valente , bom e leal !
+      [ 224 ]  Graças a Deus que o temos por nós .
+      [ character:  Popular . —]
+      [ 225 ]  Como à melhor espada do reino , o nosso capitão-mor do mar , Dom Alvaro Vaz d'Almada .
+      [ character:  Escudeiro . —]
+      [ 226 ]  Oh ! esse é o maior cavaleiro de Portugal .
+      [ 227 ]  Tais coisas fez na França e Inglaterra , que El-Rei Henrique o fez da ordem da Jarreteira ; entendeis ?
+      [ 228 ]  Que só se dá a reis e a príncipes de sangue real !
+      [ character:  1.° Popular . —]
+      [ 229 ]  E amigos ... ?
+      [ character:  1.° Escudeiro . —]
+      [ 230 ]  Como se foram gêmeos se amam .
+      [ 231 ]  Juntos os vi pelejar em Ceuta e Tânger e juntos correram as sete partidas do mundo .
+      [ character:  1.° Popular . —]
+      [ 232 ]  Foi Dom Pedro que armou Dom Alvaro cavaleiro ?
+      [ character:  1.° Escudeiro . —]
+      [ 233 ]  Em Ceuta !
+      [ 234 ]  Nunca vereis nada igual .
+      [ 235 ]  Depois do combate , a mesquita encheu-se de cavaleiros para a ação de graças pela vitória e para encomendar os mortos !
+      [ 236 ]  O rei , o mestre d'Aviz , que grande rei aquele ! ...
+      [ 237 ]  As lágrimas corriam-lhe as barbas brancas , ao armar cavaleiros os filhos !
+      [ 238 ]  Por sua vez Dom Pedro armou Dom Alvaro e outros fidalgos e era de ver os abraços e lágrimas de alegria que todos se davam , cavaleiros e peões , como todos filhos desta nobre terra de Portugal .
+      [ 239 ]  Que raça de valentes !
+      [ 240 ]  E que orgulho o tê-los por senhores !
+      [ 241 ]  Hoje , governa-nos uma mulher , os fidalgos enchem-se e oprimem-nos .
+      [ 242 ]  Deixai , deixai ...
+      [ character:  1.° Popular . —]
+      [ 243 ]  Sabeis que se está fortificando , em casa o arcebispo ?
+      [ character:  1.° Escudeiro . —]
+      [ 244 ]  Como assim ?
+      [ character:  1.° Popular . —]
+      [ 245 ]  O palácio pega com a muralha do castelo ...
+      [ character:  1.° Escudeiro . —]
+      [ 246 ]  Sei .
+      [ character:  1.° Popular . —]
+      [ 247 ]  Pois abriu serventia interior para uns cubelos , de que se apossou , juntos à porta de Martim Moniz , armou os criados e pôs roldas .
+      [ character:  1.° Escudeiro . —]
+      [ 248 ]  O arcebispo joga a vida se o povo o sabe .
+      [ 249 ]  Não se lembrará do que aconteceu ao antecessor , no tempo de El-Rei Dom Fernando ?
+      [ 249 ]  ( Aponta uma torre da Sé ) .
+      [ character:  1.° Popular . —]
+      [ 250 ]  Que veio dali abaixo .
+      [ character:  1.° Escudeiro . —]
+      [ 251 ]  Esse .
+      [ 252 ]  ( Um grupo de populares vem ao lado , em ruído .
+      [ 253 ]  O alcaide de Lisboa e Gomes Borges com uma carta na mão , chegam seguidos de seis homens de armas .
+      [ 254 ]  Os populares cercam-nos . )
+      [ character:  2.° Popular . —]
+      [ 255 ]  Que a não pregareis , senhor Affonso Gomes !
+      [ character:  Alcaide . —]
+      [ 256 ]  Arredai .
+      [ character:  Vozes . —]
+      [ 257 ]  Arredai , vós .
+      [ character:  3.° Popular . —]
+      [ 258 ]  A nossa carta lá está não queremos outra .
+      [ character:  Alcaide . —]
+      [ 259 ]  À ordem da Rainha regente .
+      [ character:  1.° Escudeiro . —]
+      [ 260 ]  Qual regente ?
+      [ 261 ]  Temos um , nós , não queremos outro .
+      [ character:  Alcaide . —]
+      [ 262 ]  Abri .
+      [ 262 ]  ( Ao Gomes ) .
+      [ 263 ]  Pregai a carta .
+      [ character:  2.° Popular . —]
+      [ 264 ]  Não pregará , senhor alcaide , que o não consentiremos .
+      [ 265 ]  Nada nos tem a dizer Sua Alteza a Rainha , que o não saibamos .
+      [ character:  Alcaide . —]
+      [ 266 ]  Da parte da Rainha deixai passar , ou vos levarei à força .
+      [ character:  Vozes . —]
+      [ 267 ]  Fora o alcaide !
+      [ 268 ]  Morra !
+      [ 268 ]  ( Tiram as espadas ) .
+      [ 269 ]  Viva Dom Pedro !
+      [ character:  Alcaide . —]
+      [ 270 ]  Homens de armas .
+      [ 270 ]  ( Estes aproximam-se ) .
+      [ character:  1.° Escudeiro . —]
+      [ 271 ]  Quereis dança , senhor alcaide ?
+      [ 272 ]  Pois ides tê-la !
+      [ 272 ]  ( A Affonso Gomes ) .
+      [ 273 ]  Deixai-nos ver a carta .
+      [ 273 ]  ( Affonso Gomes recusa .
+      [ 273 ]  Ele arranca-lha da mão e rasga-a . )
+      [ 274 ]  Olhai como vos lemos !
+      [ character:  Alcaide . —]
+      [ 275 ]  A mim , homens de armas .
+      [ character:  1.° Escudeiro . —]
+      [ 276 ]  A eles , rapazes !
+      [ 277 ]  ( Trava-se luta .
+      [ 278 ]  A ronda é posta em fuga . )
+      [ title:  QUADRO II ]
+      [ title:  Uma saleta no paço]
+      [ 279 ]  ( Entram Ourem , o arcebispo , Berrêdo )
+      [ character:  O Arcebispo . —]
+      [ 280 ]  Que tempos ominosos !
+      [ 281 ]  A populaça audaz impõe a vontade a seus senhores !
+      [ character:  Ourem . —]
+      [ 282 ]  Vistes a resposta das cidades à carta de Dom Pedro ?
+      [ 283 ]  À carta da câmara de Lisboa ?
+      [ character:  Berrêdo . —]
+      [ 284 ]  Que se faça aclamar Regente .
+      [ character:  Ourem . —]
+      [ 285 ]  Ele o ousará ?
+      [ character:  Berrêdo . —]
+      [ 286 ]  Assim o creio .
+      [ character:  Arcebispo . —]
+      [ 287 ]  E o que nos resta ?
+      [ character:  Ourem . —]
+      [ 288 ]  A guerra .
+      [ character:  Berrêdo . —]
+      [ 289 ]  Temos ainda as cortes .
+      [ character:  Arcebispo . —]
+      [ 290 ]  Deixai as cortes que a nada levarão .
+      [ 291 ]  A arraia miúda tem o seu «forum» em São Domingos : ali esbravejou e aclamou o regente .
+      [ character:  Ourem . —]
+      [ 292 ]  E , nós ?
+      [ character:  Arcebispo . —]
+      [ 293 ]  Nós esperamos que hajam por bem deixar-nos o que ganhamos pelejando em Aljubarrota e na África .
+      [ 293 ]  ( Entra o conde de Barcelos ) .
+      [ character:  Barcelos . —]
+      [ 294 ]  Serenai , serenai !
+      [ character:  Arcebispo . —]
+      [ 295 ]  A Rainha ?...
+      [ character:  Barcelos . —]
+      [ 296 ]  Falei-lhe em resistir , não aceitou .
+      [ 297 ]  O infante está no Lumiar e vigia dali .
+      [ 298 ]  Alvaro Vaz reina na cidade , que os insulta e ameaça !
+      [ 299 ]  Os nossos chegam lentamente .
+      [ 300 ]  Não temos a força , resta-nos a astúcia !
+      [ character:  Ourem . —]
+      [ 301 ]  Como ?
+      [ character:  Barcelos . —]
+      [ 302 ]  A Rainha fugirá !
+      [ character:  Arcebispo . —]
+      [ 303 ]  Abandonar a cidade , é perder a batalha !
+      [ character:  Barcelos . —]
+      [ 304 ]  Na batalha , quem vence são os fortes .
+      [ 305 ]  As cortes serão deles , não podemos dominá-las , rejeitemo-las , como ilegais , não vamos lá .
+      [ character:  Arcebispo . —]
+      [ 306 ]  Será como quiserdes , senhor conde ; mas é outro o meu aviso .
+      [ 307 ]  Abandonar as cortes é libertar o povo , soltá-lo na sua fúria de baixos instintos de revolta , contra nós .
+      [ character:  Barcelos . —]
+      [ 308 ]  Reprimi vossos instintos bélicos , senhor arcebispo , até ao tempo próprio .
+      [ 309 ]  A espada não corta todos os nós !
+      [ 310 ]  Devemos obediência à Rainha nossa senhora .
+      [ 311 ]  Ela resolveu sair , eu a aprovo .
+      [ 312 ]  Resistiremos de longe , onde temos poder e esperaremos o dia em que possamos vencer .
+      [ character:  Arcebispo . —]
+      [ 313 ]  A maior parte das cidades são por Dom Pedro .
+      [ character:  Barcelos . —]
+      [ 314 ]  Deixai correr o tempo , elas serão por nós .
+      [ 315 ]  A ambição do Infante não parará na Regência ; a própria sabedoria e justiça lhe arrancarão os parciais !
+      [ 316 ]  Quem grita não pede justiça , quer favor .
+      [ 317 ]  Os homens não se governam com leis brandas , mas com autoridade .
+      [ 318 ]  Não conheceis o povo : acariciai-o , morder-vos-á : governai-o , beijar-vos-á as mãos !
+      [ character:  Pagem . —]
+      [ 319 ]  A Rainha .
+      [ 320 ]  ( A Rainha entra com comitiva de damas e fidalgos ) .
+      [ character:  Rainha . —]
+      [ 321 ]  Nobre Conde , e vós , senhores , a quem devo os favores da maior lealdade , aconselhai-me .
+      [ 321 ]  ( Senta-se ) .
+      [ 322 ]  Resolvi , vós o sabeis , senhor conde , retirar-me de Lisboa .
+      [ 323 ]  Sois todos expostos a perigos , eu o sou e El-Rei meu filho como criança que é , e os infantes .
+      [ 324 ]  O duque de Coimbra , como vassalo revoltoso , tudo fará desde que os irmãos são por ele .
+      [ 325 ]  Manda como senhor em desvairadas gentes .
+      [ 326 ]  A abertura das cortes trará a guerra .
+      [ 327 ]  Horroriza-me o sangue e a culpa de o fazer derramar .
+      [ 328 ]  Sairei .
+      [ 329 ]  É a vossa opinião ?
+      [ character:  Barcelos . —]
+      [ 330 ]  Assim o julgo .
+      [ character:  Rainha . —]
+      [ 331 ]  Tal me parece dever fazer , desde que estou numa cidade onde a minha posição e estado de rainha não posso sustentar dignamente .
+      [ 332 ]  Senhores , eu vos peço , lealmente , o vosso parecer e que me digais se posso contar convosco em defesa da minha pessoa e honra .
+      [ character:  Arcebispo . —]
+      [ 333 ]  Seguir-vos-emos , senhora , como vassalos .
+      [ character:  Barcelos . —]
+      [ 334 ]  Ofereci-vos , os meus castelos , à vossa escolha .
+      [ 335 ]  Mandai .
+      [ character:  Rainha . —]
+      [ 336 ]  Obrigada , conde .
+      [ 337 ]  Aceitarei se me for mister , e não esquecerei mais tanta dedicação .
+      [ 338 ]  Senhores , partiremos , hoje .
+      [ 339 ]  Depois da decisão popular em São Domingos , com o voto da câmara , eu sou , aqui , uma estrangeira .
+      [ 340 ]  As cortes confirmarão a vontade popular e seria indigno de nós , que as aprovássemos , assistindo a elas .
+      [ 341 ]  Compete-nos sair .
+      [ 342 ]  Estais prestes ?
+      [ character:  Vozes . —]
+      [ 343 ]  Quando quiserdes .
+      [ 344 ]  ( Ouve-se tropel , na rua .
+      [ 345 ]  Alguns fidalgos vão às janelas ) .
+      [ character:  1.° e 2.° Fidalgo . —]
+      [ 346 ]  O infante !
+      [ 347 ]  O infante !
+      [ character:  Barcelos . —]
+      [ 348 ]  A que virá ?
+      [ character:  Rainha . —]
+      [ 349 ]  Conde , eu não lhe falarei .
+      [ 349 ]  ( Levanta-se ) .
+      [ 350 ]  Recebei-o vós .
+      [ 351 ]  A sua rebeldia excita a minha cólera .
+      [ character:  Barcelos . —]
+      [ 352 ]  Mas ficastes de lhe pedir o alvará de casamento da filha , com El-Rei vosso filho e nosso senhor ?
+      [ 353 ]  É indispensável ...
+      [ character:  Rainha . —]
+      [ 354 ]  Pedi-lho vós .
+      [ 355 ]  Tendes melindre ?
+      [ character:  Barcelos . —]
+      [ 356 ]  Senhora , não .
+      [ 357 ]  Cumpro as vossas ordens .
+      [ 358 ]  É meu dever .
+      [ character:  Rainha . —]
+      [ 359 ]  Exigi-lho então , em meu nome .
+      [ 360 ]  Esperar-vos-ei para a partida , se não vier , acaso , prender-me .
+      [ character:  Barcelos . —]
+      [ 361 ]  Descansai .
+      [ character:  Arcebispo . —]
+      [ 362 ]  Aqui ?
+      [ 363 ]  Por Deus !
+      [ 364 ]  ( Alguns fidalgos levam as mãos às espadas ) .
+      [ character:  Barcelos . —]
+      [ 365 ]  Nada receeis .
+      [ 365 ]  ( Aos fidalgos ) .
+      [ 366 ]  Acompanhai a Rainha .
+      [ 367 ]  ( Rainha sai com os fidalgos .
+      [ 368 ]  Entra Dom Pedro ) .
+      [ character:  Dom Pedro . —]
+      [ 369 ]  Deus seja convosco , senhor conde ..
+      [ character:  Barcelos . —]
+      [ 370 ]  Senhor duque , que ele vos tenha em sua guarda .
+      [ character:  Dom Pedro . —]
+      [ 371 ]  A Rainha ?
+      [ character:  Barcelos . —]
+      [ 372 ]  Recolheu-se , agora .
+      [ 373 ]  Desejáveis ...
+      [ character:  Dom Pedro . —]
+      [ 374 ]  Falar-lhe .
+      [ character:  Barcelos . —]
+      [ 375 ]  Sua Alteza enfermou e não poderá falar-vos .
+      [ character:  Dom Pedro . —]
+      [ 376 ]  Era-me mister fazê-lo , para obedecer às suas ordens .
+      [ character:  Barcelos . —]
+      [ 377 ]  A Rainha me encarregou de receber todos os recados que para ela viessem .
+      [ character:  Dom Pedro . —]
+      [ 378 ]  Todos ?
+      [ character:  Barcelos . —]
+      [ 379 ]  Todos .
+      [ character:  Dom Pedro . —]
+      [ 380 ]  Ainda os meus ?
+      [ 380 ]  ( Com intenção ) .
+      [ character:  Barcelos . —]
+      [ 381 ]  Sua Alteza não fez exceções .
+      [ character:  D Pedro . —]
+      [ 382 ]  Não pensaria que eu viesse tão depressa .
+      [ 383 ]  Fazei-me a graça de a prevenir .
+      [ character:  Barcelos . —]
+      [ 384 ]  Perdoai-me , meu senhor irmão ; mas de vós mesmo Sua Alteza me encarregou de receber carta ou recado que houvésseis de lhe deixar .
+      [ character:  Dom Pedro . —]
+      [ 385 ]  De mim ?
+      [ character:  Barcelos . —]
+      [ 386 ]  Porque o seu estado de saúde não lhe permite entregar-se a negócios de cuidado .
+      [ character:  Dom Pedro . —]
+      [ 387 ]  E sabeis vós , senhor conde , o que me traz ?
+      [ character:  Barcelos . —]
+      [ 388 ]  Cuido não ignorar .
+      [ 389 ]  Sua Alteza me encarregou de receber de vossas mãos o documento de acordo para o casamento de El-Rei com vossa filha .
+      [ character:  Dom Pedro . —]
+      [ 390 ]  Por minha vida , que vos conhecia bastante ousado ; mas nunca vos suspeitei de tanto !
+      [ character:  Barcelos . —]
+      [ 391 ]  Senhor Duque !
+      [ character:  Dom Pedro . —]
+      [ 392 ]  À fé , senhor Conde .
+      [ 393 ]  A Rainha insulta-me pedindo-me um documento a que não tem direito ; ofende-me no meu amor de pai e na minha honra de cavaleiro e sois vós que esqueceis , quem sou e quem sois , sacrificando a vossa altivez ao prazer mesquinho de vos encarregardes de um insulto ?
+      [ character:  Barcelos . —]
+      [ 394 ]  Senhor , eu cumpro as ordens da Rainha , nossa senhora .
+      [ character:  Dom Pedro . —]
+      [ 395 ]  Não as de cavaleiro .
+      [ character:  Barcelos . —]
+      [ 396 ]  Senhor Duque !
+      [ character:  Dom Pedro . —]
+      [ 397 ]  Não as de cavaleiro , eu vo-lo digo , senhor !
+      [ character:  Barcelos . —]
+      [ 397 ]  ( Despeitado ) .
+      [ 398 ]  Não sois ainda Regente ; compete-vos obedecer .
+      [ character:  Dom Pedro . —]
+      [ 399 ]  E obedeço , a quem devo .
+      [ character:  Barcelos . —]
+      [ 399 ]  ( Irônico ) .
+      [ 400 ]  Ao povo !
+      [ character:  Dom Pedro . —]
+      [ 401 ]  A esse , a quem meu pai deveu a coroa e vós quanto sois .
+      [ 402 ]  Deixai-me ressalvar a malévola intenção do vosso dito .
+      [ 403 ]  Poderia recusar a Rainha o alvará de casamento de minha filha com El-Rei .
+      [ 404 ]  Acima , porém , de mim mesmo , amo o bem do reino , a tranquilidade do povo e o respeito pelos seus foros .
+      [ 404 ]  ( Excitado ) .
+      [ 405 ]  Se minha filha houver de subir a um trono , — pudesse eu lá sentá-la ! — como convém à bondade da sua alma e à nobreza do seu sangue , pouco me importará a inveja oculta do vosso coração , ou a confissão pública da Rainha .
+      [ 405 ]  ( Rasga o alvará e espalha os pedaços ) .
+      [ 406 ]  Levai-lho e dizei-lhe que os filhos do Mestre d'Aviz , não assaltam tronos ; quando os querem , conquistam-nos à espada e os alvarás , que lhos outorgam chamam-se Aljubarrotas ! »
+      [ character:  Barcelos . —]
+      [ 406 ]  ( Sufocando a alegria ) .
+      [ 407 ]  Vós sois um grande e generoso príncipe !
+      [ 408 ]  Prouvesse a Deus que a cólera vos não tirasse , tanta vez , o sereno pensar .
+      [ 409 ]  Eu não poderei levar a sua Alteza os farrapos do alvará .
+      [ 410 ]  Vossa ação , senhor du-que , pesa-me dizer-vo-lo , é uma ofensa a sua Alteza , imprópria de vós , desleal ...
+      [ character:  Dom Pedro . —]
+      [ 411 ]  Sabeis que não se dirá , jamais , impunemente , que foi desleal um filho do Mestre d'Aviz ...
+      [ character:  Barcelos . —]
+      [ 412 ]  Eu o sou , como vós ...
+      [ character:  Dom Pedro . —]
+      [ 413 ]  E de Dona Philippa de Lencastre ?
+      [ character:  Barcelos . —]
+      [ 413 ]  ( Contendo a ira ) .
+      [ 414 ]  Fazei , senhor , como vos aprouver .
+      [ character:  Dom Pedro . —]
+      [ 415 ]  Agradeço-vos a licença .
+      [ 416 ]  Ficai com Deus .
+      [ 416 ]  ( Sai ) .
+      [ character:  Barcelos . —]
+      [ 417 ]  Oh ! Deus , dai-me vida e valor , sustentai na minha alma este vigor do ódio para poder lavar-lhe no sangue a nódoa da sua língua .
+      [ 417 ]  ( Entram os fidalgos ) .
+      [ 418 ]  Insultou as minhas barbas , a minha velhice !
+      [ 418 ]  ( A Ourem ) .
+      [ 419 ]  Filho , encarrego o teu braço da minha defesa .
+      [ 420 ]  És forte e novo .
+      [ 420 ]  ( Ao arcebispo ) .
+      [ 421 ]  Padre , alcança-me do céu o favor da vingança !
+      [ character:  Arcebispo . —]
+      [ 422 ]  Deus será connosco .
+      [ character:  Barcelos . —]
+      [ 423 ]  Senhores , preparai-vos .
+      [ 424 ]  Vamos partir com a Rainha para as minhas terras .
+      [ 425 ]  Aí a defenderemos con-tra o infante .
+      [ 426 ]  Se houver mister , perto está a Espanha e os infantes de Aragão , seus irmãos , virão por ela .
+      [ 426 ]  ( À parte , ao filho ) .
+      [ 427 ]  Conde , ficai com o infante .
+      [ character:  Ourem . —]
+      [ 428 ]  Como ?
+      [ 429 ]  Eu ?
+      [ character:  Barcelos . —]
+      [ 430 ]  Se ele vencer , estarás a seu lado :
+      [ 431 ]  Se perder governarei eu .
+      [ 432 ]  Quando se joga a cabeça , é preciso ser compadre do carrasco .
+      [ character:  Pagem . —]
+      [ 433 ]  O príncipe Dom Pedro , pedido pelos homens bons , partiu para o Lumiar a toda a brida .
+      [ character:  Barcelos . —]
+      [ 434 ]  Para quê ?
+      [ character:  Pagem . —]
+      [ 435 ]  Pôr-se à frente dos seus homens de armas .
+      [ character:  Ourem . —]
+      [ 436 ]  E entrar na cidade ?
+      [ character:  Pagem . —]
+      [ 437 ]  Como regente !
+      [ character:  Barcelos . —]
+      [ 437 ]  ( Ao conde d'Ourem ) .
+      [ 438 ]  Faze o que te disse .
+      [ 439 ]  Senhores , vamos seguir a Rainha .
+      [ 439 ]  ( Saem todos ) .
+      [ title:  QUADRO III ]
+      [ title:  Largo da Sé]
+      [ character:  1.° Popular . —]
+      [ 440 ]  Que dia !
+      [ 441 ]  Que dia !
+      [ character:  2.° Popular . —]
+      [ 442 ]  Chega o nosso infante !
+      [ character:  3.° Popular . —]
+      [ 443 ]  Resolveu-se , enfim :
+      [ 444 ]  E , por que , mestre Lopo ?
+      [ 445 ]  Quem o resolveu ?
+      [ character:  Mestre Lopo . —]
+      [ 446 ]  Insultaram-no , no paço !
+      [ character:  3.° Popular . —]
+      [ 447 ]  Ah ! os vilões dos fidalgos !
+      [ 448 ]  Ele os fará conter .
+      [ character:  2.° Popular . —]
+      [ 449 ]  Partiu do Lumiar ?
+      [ character:  Mestre Lopo . —]
+      [ 450 ]  Há uma hora .
+      [ character:  1.° Popular . —]
+      [ 451 ]  E vem direito , aqui ?
+      [ character:  Mestre Lopo . —]
+      [ 452 ]  Ali , à Sé onde o honrado bispo de Évora , Dom Alvaro , lhe lançará a bênção , e fará seu juramento !
+      [ character:  2.° Popular . —]
+      [ 453 ]  Pelo povo ?
+      [ character:  Mestre Lopo . —]
+      [ 454 ]  Se ele é pelo povo .
+      [ character:  Vozes . —]
+      [ 455 ]  Viva o infante !
+      [ character:  Mestre Diogo . —]
+      [ 456 ]  Sabeis , amigos , que a Rainha fugiu ?
+      [ character:  2.° Popular . —]
+      [ 457 ]  Fugiu ?
+      [ character:  Mestre Diogo . —]
+      [ 458 ]  Agora .
+      [ 459 ]  Saiu às portas do mar com o conde de Barcelos , o nosso vilão do Arcebispo e mais fidalgos , que vinham às cortes .
+      [ 460 ]  Lá vão , de cavalgada , caminho de Alenquer .
+      [ character:  3.° Popular . —]
+      [ 461 ]  Que os leve o diabo que cá não hemos mister de tais amigos .
+      [ character:  1.° Popular . —]
+      [ 462 ]  A câmara não foi esperar o Regente ?
+      [ character:  Mestre Diogo . —]
+      [ 463 ]  Não : ele o proibiu .
+      [ 464 ]  As cortes não o proclamaram de direito !
+      [ character:  1.° Besteiro . —]
+      [ 465 ]  As cortes ?
+      [ 466 ]  Mas nós o proclamamos e o sustentaremos com os nossos braços e a nossa vida .
+      [ character:  2.° Popular . —]
+      [ 467 ]  Eles fugiram , então ?
+      [ 468 ]  Esses fidalgos !
+      [ 469 ]  Servem-se de nós na guerra , para se encherem e aproveitam a paz para nos roubarem .
+      [ 470 ]  A lição é bem dada !
+      [ 471 ]  Se o nosso sangue sustenta os reis , queremos que eles sejam quais quisermos e não eles .
+      [ character:  Vozes . —]
+      [ 472 ]  Chega o infante !
+      [ 473 ]  Chega o infante !
+      [ 474 ]  ( Ouvem-se charamelas e ruído crescente do povo que chega e o vem aclamando .
+      [ 475 ]  Engrossa o tumulto em vivas e gritos .
+      [ 476 ]  A porta da Sé abre-se : repicam os sinos e dentro ouve-se cantar de envolta com o órgão :
+      [ 477 ]  A meio do portal o bispo de Évora aparece , sob o pálio , ladeado de turiferários .
+      [ 478 ]  Um dignitário traz um missal .
+      [ 479 ]  Do lado oposto , precedido das charamelas , rodeado de fidalgos e povo , em cavalo ricamente ajaezado , trazido à rédea por dois pagens , o infante aparece .
+      [ 480 ]  Segue-o o pagem com escudo e lança .
+      [ 481 ]  O infante traz meia armadura )
+      [ character:  Vozes . —]
+      [ 482 ]  Viva o Infante !
+      [ character:  Vozes . —]
+      [ 483 ]  Alcácer pelo Regente !
+      [ character:  Vozes . —]
+      [ 484 ]  Viva o Regente .
+      [ 485 ]  ( O infante desmonta .
+      [ 486 ]  Dirige-se à Igreja .
+      [ 487 ]  O bispo recebe-o sob o pálio .
+      [ 488 ]  O padre abre o missal diante de Dom Pedro , que se descobre , como todos ) .
+      [ character:  Bispo . —]
+      [ 489 ]  Dignai-vos , senhor , por vossa mercê , fazer nas minhas mãos indi-gnas , o juramento que de vós espera todo o povo desta cidade de Lisboa , em defesa de seus direitos e senhorios , que de vossos antepassados houve pelo amor de tão altos e excelentes príncipes , cujo sangue haveis mais chegado que qualquer outro .
+      [ 490 ]  E , porque vos entregam suas honras e foros , vos pedem que os guardeis , como grande príncipe que sois , durante vossa regência .
+      [ character:  Dom Pedro . —]
+      [ 490 ]  ( A mão sobre o missal ) .
+      [ 491 ]  Eu o juro .
+      [ 492 ]  Em nome de Deus Nosso Senhor , e da sua Mãe Santíssima a Virgem Nossa Senhora , por São Miguel meu patrono , juro governar o reino , até que El-Rei Nosso Senhor , haja idade de o tomar ; de o defender contra todos os inimigos ; de respeitar e fazer respeitar os foros e regalias populares em todo o seu direito ; de proteger os pobres , os órfãos e as viúvas !
+      [ 493 ]  Assim o juro , perante Deus e perante os homens , desta leal cidade , em público e nas vossas mãos Dom Bispo , para que seja conhecida a minha palavra de homena-gem a El-Rei , nosso Senhor , e de lealdade aos fidalgos e povo deste reino de Portugal !
+      [ character:  Vozes . —]
+      [ 494 ]  Viva o infante !
+      [ 495 ]  Viva !
+      [ 496 ]  ( O infante monta e coloca-se em frente do portal ) .
+      [ character:  Bispo . —]
+      [ 497 ]  Eu vos abençoo , em nome do Padre , do Filho e do Espírito Santo .
+      [ character:  Vozes . —]
+      [ 498 ]  Amém .
+      [ 498 ]  ( O povo agita-se ; entre vivas e gritos , toque de charamelas e repiques de sinos , o cortejo sai .
+      [ 498 ]  Fim do prólogo ) .
+      [ title:  QUADRO IV ]
+      [ title:  Saleta do paço]
+      [ character:  Berrêdo . —]
+      [ 499 ]  Que figura tem o cavaleiro ?
+      [ character:  Pagem . —]
+      [ 500 ]  Nobre de sua pessoa e grande ar de comando .
+      [ character:  Berrêdo . —]
+      [ 501 ]  E procura o infante ?
+      [ character:  Pagem . —]
+      [ 502 ]  Assim o diz ... e que vem de África .
+      [ character:  Berrêdo . —]
+      [ 503 ]  De África ?...
+      [ 504 ]  Mandai-o entrar .
+      [ 504 ]  ( Sai o pagem . )
+      [ 505 ]  De África ?
+      [ character:  Almada . —]
+      [ 505 ]  ( Entrando ) .
+      [ 506 ]  Gastei menos tempo a atravessar o estreito .
+      [ character:  Berrêdo . —]
+      [ 507 ]  Ah ! Senhor conde de Avranches , desculpai .
+      [ 508 ]  Ordens do infante .
+      [ 509 ]  Quem suspeitava que fôsseis ...?
+      [ character:  Almada . —]
+      [ 510 ]  Eu mesmo .
+      [ 511 ]  Que Deus vos guarde .
+      [ 512 ]  O infante ?
+      [ character:  Berrêdo . —]
+      [ 513 ]  Em seus aposentos .
+      [ character:  Almada . —]
+      [ 514 ]  Não é aqui seu despacho ?
+      [ character:  Berrêdo . —]
+      [ 515 ]  Aqui é ...
+      [ 516 ]  Quereis que o avise ?
+      [ character:  Almada . —]
+      [ 517 ]  ... Não ; esperá-lo-ei .
+      [ 518 ]  Vós que sois seu particular , dizei-me presto o que se há passado , que em África mal chegam rumores de verdade .
+      [ 519 ]  O príncipe é regente ainda ?
+      [ character:  Berrêdo . —]
+      [ 520 ]  Sim , meu Senhor .
+      [ character:  Almada . —]
+      [ 521 ]  El-Rei deu-lhe de novo o cargo ?
+      [ character:  Berrêdo . —]
+      [ 522 ]  No mesmo dia e hora em que lho pediu .
+      [ character:  Almada . —]
+      [ 523 ]  Por que o pediu , então ?
+      [ character:  Berrêdo . —]
+      [ 524 ]  El-Rei chegara à idade própria ...
+      [ character:  Almada . —]
+      [ 525 ]  Então para que lho entregou de novo ?
+      [ character:  Berrêdo . —]
+      [ 525 ]  ( Velhacamente confidencial ) .
+      [ 526 ]  Foi um remorso senhor !
+      [ character:  Almada . —]
+      [ 527 ]  Hein ?
+      [ 528 ]  E eu sei quem lho fez sentir .
+      [ 529 ]  O duque , o filho , o arcebispo ?
+      [ 530 ]  Santa gente !
+      [ character:  Berrêdo . —]
+      [ 531 ]  Assim foi , meu senhor .
+      [ 532 ]  Persuadiram El-Rei que o senhor infante lhe não entregaria o reino .
+      [ character:  Almada . —]
+      [ 533 ]  Já percebi .
+      [ 534 ]  E , como ?
+      [ character:  Berrêdo . —]
+      [ 535 ]  Com bastas razões , caluniosas ...
+      [ character:  Almada . —]
+      [ 536 ]  Por São Miguel !
+      [ 537 ]  E ele ?
+      [ character:  Berrêdo . —]
+      [ 538 ]  Ele lhe desfez as intrigas , entregando-o no dia próprio , com as maiores mostras de respeito .
+      [ character:  Almada . —]
+      [ 539 ]  E , El-Rei ...
+      [ character:  Berrêdo . —]
+      [ 540 ]  El-Rei é muito novo .
+      [ 541 ]  Custa mais a dirigir um reino do que uma caçada .
+      [ character:  Almada . —]
+      [ 542 ]  E foi pôr-se e mandar falcões pela serra de Cintra , sem ver que anda nas garras de outros ...
+      [ character:  Berrêdo . —]
+      [ 543 ]  Que o não largam , lisongeando-lhe os instintos de monteador intrépido .
+      [ 544 ]  Assim têm suas praças e o afastam das coisas sérias e graves !
+      [ character:  Almada . —]
+      [ 545 ]  E a Dom Pedro muito estima El-Rei ?
+      [ character:  Berrêdo . —]
+      [ 546 ]  Senhor , não .
+      [ 547 ]  Antes parece que mais por força do que por vontade o tem em seu lugar .
+      [ character:  Almada . —]
+      [ 548 ]  Mas respeita-o ?
+      [ character:  Berrêdo . —]
+      [ 549 ]  Ah ! sim , que por suas qualidades e superior espírito o príncipe se impõe .
+      [ character:  Almada . —]
+      [ 550 ]  Seria mostrar receio de tais inimigos o não aceitar de novo a regência .
+      [ 551 ]  Fez bem o infante .
+      [ character:  Berrêdo . —]
+      [ 552 ]  A luta tem sido cruel .
+      [ character:  Almada . —]
+      [ 553 ]  Desde que parti ?
+      [ character:  Berrêdo . —]
+      [ 554 ]  E quando partistes ?
+      [ character:  Almada . —]
+      [ 555 ]  Logo que a Rainha fugiu para Espanha , e fomos apanhar em seu fojo o conde de Barcelos , que « valentemente » se entregou .
+      [ character:  Berrêdo . —]
+      [ 556 ]  Pois bem ...
+      [ 557 ]  A Rainha fugiu depois para o Crato .
+      [ 558 ]  O infante cercou-a .
+      [ 559 ]  Fugiu para Castela .
+      [ 560 ]  O conde de Barcelos ameaçado de uma grande derrota , lançou-se nos braços de Dom Pedro , que para lhe pagar a rebeldia lhe deu Bragança e o fez duque .
+      [ character:  Avranches . —]
+      [ 561 ]  Ora aí está uma vingança de tolo .
+      [ character:  Berrêdo . —]
+      [ 562 ]  A regência estabeleceu-se .
+      [ 563 ]  A Rainha trama em Espanha a guerra contra nós .
+      [ 564 ]  Vêm embaixadores , e aos últimos Dom Pedro , aborrecido , despede-os dizendo-lhes que podiam ir começar a guerra quando lhes apetecesse .
+      [ character:  Avranches . —]
+      [ 565 ]  E o Barcelos .
+      [ character:  Berrêdo . —]
+      [ 566 ]  Aliado com eles .
+      [ character:  Avranches . —]
+      [ 567 ]  Era de ver .
+      [ character:  Berrêdo . —]
+      [ 568 ]  Mas não vieram .
+      [ character:  Avranches . —]
+      [ 569 ]  Pudera !
+      [ character:  Berrêdo . —]
+      [ 570 ]  Dom Pedro governava como um grande príncipe .
+      [ 571 ]  O rei pequeno sempre rodeado por eles .
+      [ 572 ]  Sugeriram-lhe o ódio contra o infante , atribuindo-lhe os desastres da mãe .
+      [ 573 ]  O rei não o ama .
+      [ 574 ]  Lisongeiam-lhe a vaidade sem escrúpulos e em tanta intriga o enredaram que o levaram a pedir-lhe regência .
+      [ 575 ]  El-Rei porém viu bem um momento .
+      [ 576 ]  Casou publicamente com Dona Izabel e o casamento lançou o terror no arraial contrário .
+      [ 576 ]  ( Dom Alvaro passeia exaltado :
+      [ 576 ]  Berrêdo , velhacamente , observa-o ) .
+      [ 577 ]  A intriga rebentou então terrível .
+      [ 578 ]  Chegou até à calúnia .
+      [ 579 ]  Espalhou-se na cidade que matara a rainha e seus irmãos ... que lhe faziam estorvo ...
+      [ character:  Avranches . —]
+      [ 580 ]  Quem ?
+      [ 581 ]  Esmagá-los-ei .
+      [ character:  Berrêdo . —]
+      [ 582 ]  Contra a própria Rainha , meu senhor inventam-se ... amores .
+      [ character:  Avranches . —]
+      [ 583 ]  Por Deus e sabe-o o Infante ?
+      [ character:  Berrêdo . —]
+      [ 584 ]  Não , meu senhor .
+      [ 585 ]  Ele não acreditaria nunca que a ambição e o ódio do duque fossem até aí .
+      [ character:  Avranches . —]
+      [ 586 ]  E sabe-o , El-Rei ?
+      [ character:  Berrêdo . —]
+      [ 587 ]  Não , meu senhor ;
+      [ 588 ]  Espalhou-se pelo povo .
+      [ 589 ]  Um dia ou outro sabê-lo-á El-Rei .
+      [ 590 ]  E toda a sua má vontade acumulada contra o infante rebentará em seu desfavor .
+      [ character:  Avranches . —]
+      [ 591 ]  Mas eu cheguei .
+      [ 592 ]  Estou aqui .
+      [ 593 ]  Ele é só ? o príncipe ?
+      [ character:  Berrêdo . —]
+      [ 594 ]  Só .
+      [ 595 ]  A sua altiva consciência não vê as pequenas misérias ...
+      [ 596 ]  Perde-se , sorrindo , desdenhoso .
+      [ character:  Avranches . —]
+      [ 597 ]  Não é mau juntar à consciência a força de uma espada .
+      [ 598 ]  Nós veremos .
+      [ 598 ]  ( Um pagem entra ) .
+      [ character:  Berrêdo . —]
+      [ 599 ]  Eis o príncipe .
+      [ 599 ]  ( Dom Pedro entra ) .
+      [ character:  Dom Pedro . —]
+      [ 600 ]  Dom Alvaro .
+      [ character:  Avranches . —]
+      [ 601 ]  Meu senhor .
+      [ 601 ]  ( Abraçam-se ) .
+      [ character:  Dom Pedro . —]
+      [ 602 ]  Quando chegastes ?...
+      [ character:  Avranches . —]
+      [ 603 ]  Agora , meu senhor .
+      [ character:  Dom Pedro . —]
+      [ 604 ]  E viestes ?
+      [ character:  Avranches . —]
+      [ 605 ]  De longada .
+      [ 606 ]  Desembar-quei no Restelo .
+      [ 607 ]  Cavalguei e vim ver-vos .
+      [ character:  Dom Pedro . —]
+      [ 608 ]  Ceuta está sossegada ?
+      [ character:  Avranches . —]
+      [ 609 ]  Não tanto .
+      [ 610 ]  Não é porém guerra que vos dê cuidado .
+      [ 611 ]  Outras me disseram haver por cá .
+      [ 612 ]  Por essas vim .
+      [ character:  Dom Pedro . —]
+      [ 613 ]  Por mim viestes ?
+      [ character:  Avranches . —]
+      [ 614 ]  Por vós .
+      [ character:  Dom Pedro . —]
+      [ 615 ]  Boa lembrança a da vossa amizade .
+      [ 616 ]  Necessitava ter-vos junto a mim .
+      [ 617 ]  O desânimo entrou em meu espírito : o cansaço da luta mesquinha , o aborrecimento da vida !
+      [ 618 ]  Bem-vindo sejais .
+      [ 619 ]  Aconselhar-me-eis e em vós descansará minha alma de tantas privações e desgostos !
+      [ character:  Avranches . —]
+      [ 620 ]  Descansai vós , trabalharei eu .
+      [ character:  Dom Pedro . —]
+      [ 621 ]  Berrêdo , fazei entrar , para a sala grande , a deputação dos homens bons da cidade , que me procura .
+      [ 621 ]  ( Berrêdo sai ) .
+      [ 622 ]  Sabeis o que eles me querem ?
+      [ 623 ]  Pedir-me licença para me levantar uma estátua , em frente à porta dos Estaus .
+      [ character:  Avranches . —]
+      [ 624 ]  Ides concedê-la ?
+      [ character:  Dom Pedro . —]
+      [ 625 ]  Não ; vou recusá-la .
+      [ character:  Avranches . —]
+      [ 626 ]  Recusá-la ?
+      [ character:  Dom Pedro . —]
+      [ 627 ]  Não conheceis o povo ? —
+      [ 628 ]  É para lhe poupar o trabalho de a quebrar , mais tarde .
+      [ 629 ]  Vinde .
+      [ 629 ]  ( Saem ) .
+      [ title:  QUADRO V ]
+      [ title:  Casa do Duque de Bragança]
+      [ character:  Duque . —]
+      [ 630 ]  Vede que rei !
+      [ 631 ]  Um momento basta para esquecer despeitos e injúrias .
+      [ 632 ]  Ficou mais forte do que era , o Duque .
+      [ 633 ]  Dirão que o Rei o teme e ele o fará sentir a seus parciais e amigos !
+      [ character:  Arcebispo . —]
+      [ 634 ]  O que determinou El-Rei ?
+      [ character:  Ourem . —]
+      [ 635 ]  Quem sabe lá !
+      [ character:  Duque . —]
+      [ 636 ]  A Rainha !
+      [ 637 ]  Eu creio bem que fosse a Rainha !
+      [ character:  Arcebispo . —]
+      [ 638 ]  O seu valor é enorme no ânimo do rei .
+      [ 639 ]  Ele ama-a .
+      [ character:  Duque . —]
+      [ 640 ]  É vossa a culpa , arcebispo .
+      [ character:  Arcebispo . —]
+      [ 641 ]  Meu senhor .
+      [ 642 ]  Eu os tenho afastado com mostrar-lhes que são reprovados tão contínuos amores .
+      [ 643 ]  A ela como dama honesta que deva ser e comedida ; a El-Rei , mostrando-lhe o pe-rigo da perda da força física — por muito novo — e o enfraquecimento de dotes indispensáveis no monarca de um país guerreiro .
+      [ character:  Duque . —]
+      [ 644 ]  São muito novos ...
+      [ character:  Arcebispo . —]
+      [ 645 ]  Recomeçarei .
+      [ 646 ]  Alguma coisa hei conseguido .
+      [ character:  Duque . —]
+      [ 647 ]  Bem pouca .
+      [ character:  Arcebispo . —]
+      [ 648 ]  Foi o seu melhor golpe , esse segundo casamento .
+      [ 649 ]  Estava esquecido , declarar-se-ia nulo , tão secreto foi .
+      [ 650 ]  Ele o renovou antes de entregar a regência .
+      [ character:  Ourem . —]
+      [ 651 ]  Foi de bom guerreiro preparar a retirada .
+      [ character:  Duque . —]
+      [ 652 ]  É preciso anular essa influência .
+      [ 653 ]  Colocar-nos-á sempre nas mãos de Dom Pedro .
+      [ 654 ]  Custe o que custar , todos os meios servirão : ou estamos fatalmente , perdidos .
+      [ character:  Ourem . —]
+      [ 655 ]  Por que não tentar a revolução ?
+      [ 656 ]  Temos por nós todos os fidalgos da Liga de Torres Vedras .
+      [ character:  Duque . —]
+      [ 657 ]  Contra o Rei ?
+      [ character:  Arcebispo . —]
+      [ 658 ]  Contra o inferno !
+      [ 659 ]  Mas quem dirá que é contra o Rei ?
+      [ 660 ]  Di-lo-emos coato .
+      [ 661 ]  Deporemos Dom Pedro , à força : anular-lhe-emos o casamento .
+      [ character:  Duque . —]
+      [ 662 ]  Hoje ?
+      [ 663 ]  Todos os alcaides seguirão o príncipe e o Rei .
+      [ 664 ]  A luta será incerta e perdida , não poderemos nunca mais pensar na desforra .
+      [ 665 ]  Tenho o meu ódio a saciar , uma vingança onde está toda a minha vida e não desisto dela , necessito-a , quero-a .
+      [ 666 ]  Vós esqueceis , vós ?
+      [ 667 ]  Eu não .
+      [ 668 ]  Insultou o meu nascimento plebeu ; forçou-me a mendigar-lhe a graça quando a Rainha partiu e fiquei só , em campo ; estas vergonhas hei-de pagar-lhas com usura , para morrer descansado .
+      [ 669 ]  A humilhação valia bem um trono ; esse , perdeu-se ! —
+      [ 670 ]  Quem pensa em perdoar ?
+      [ character:  Arcebispo . —]
+      [ 671 ]  Eu não o digo .
+      [ character:  Duque . —]
+      [ 672 ]  Por cada derrota é preciso variar de tática .
+      [ 673 ]  É preciso lutar na sombra .
+      [ 674 ]  Contra a força a astúcia .
+      [ character:  Ourem . —]
+      [ 675 ]  A morte da Rainha levou-nos metade da força .
+      [ character:  Duque . —]
+      [ 676 ]  Pois não pensemos na força .
+      [ 677 ]  É dele , por ora , arranquemos-lha .
+      [ character:  Arcebispo . —]
+      [ 678 ]  E este é o momento .
+      [ 679 ]  Está só , completamente só .
+      [ character:  Duque . —]
+      [ 680 ]  Nada mais fácil de dizer ; nada mais difícil de conseguir .
+      [ 681 ]  O rei escapa-se-nos como um catavento que volta , sem cessar , para um novo ponto .
+      [ 682 ]  A rainha começa a dominá-lo , pela sua beleza e pela sua frescura e a nossa influência perde-se dia a dia .
+      [ character:  Ourem . —]
+      [ 683 ]  Em quem confiar ?
+      [ character:  Arcebispo . —]
+      [ 684 ]  No povo .
+      [ character:  Duque . —]
+      [ 685 ]  Oh !
+      [ 686 ]  De que têm servido os boatos espalhados ?
+      [ 687 ]  O povo ! é como o mar , tudo leva à superficie , tudo deixa na primeira praia !
+      [ 688 ]  E , depois , educaram-no à inglesa , com foros e privilégios ...
+      [ 689 ]  Que reis !
+      [ character:  Ourem . —]
+      [ 690 ]  Por quanto tempo El-Rei concederá a regência ?
+      [ character:  Arcebispo . —]
+      [ 691 ]  Quem sabe ?
+      [ character:  Ourem . —]
+      [ 692 ]  Se não gosta de reinar ...
+      [ character:  Duque . —]
+      [ 693 ]  Nós o temos afastado dos negócios do reino ; mas o que ganhamos se o deixamos fugir à nossa influência .
+      [ character:  Arcebispo . —]
+      [ 694 ]  Assim não é , Senhor .
+      [ 695 ]  El-Rei nos estima e quer como a ninguém .
+      [ 696 ]  Nunca deixou de vos ouvir com o maior respeito .
+      [ character:  Duque . —]
+      [ 697 ]  E faz o que quer ..
+      [ 697 ]  ( Passeia agitado ) .
+      [ character:  Arcebispo . —]
+      [ 698 ]  É preciso levá-lo para Almeirim uns dias .
+      [ 699 ]  Faremos uma grande montaria , afastá-lo-emos do tio e da mulher .
+      [ character:  Ourem . —]
+      [ 700 ]  A ocasião é a melhor .
+      [ 701 ]  O infante está só .
+      [ 702 ]  Morreu Dom João , Dom Henrique só pensa no mar , Alvaro Vaz anda às lançadas por Ceuta ...
+      [ 702 ]  ( Abre-se a porta , entra Berrêdo ) .
+      [ character:  Berrêdo . —]
+      [ 703 ]  Perdoai , senhores .
+      [ 704 ]  Alvaro Vaz não está em Ceuta , está em Lisboa .
+      [ character:  Arcebispo . —]
+      [ 705 ]  Como ?
+      [ 705 ]  ( espanto ) .
+      [ character:  Berrêdo . —]
+      [ 706 ]  Agora chegou .
+      [ character:  Duque . —]
+      [ 707 ]  Que mau vento o trouxe ?
+      [ character:  Ourem . —]
+      [ 708 ]  Onde o vistes ?
+      [ character:  Berrêdo . —]
+      [ 709 ]  No paço .
+      [ 710 ]  Acaba de desembarcar .
+      [ character:  Duque . —]
+      [ 711 ]  Eis um inimigo que é preciso temer .
+      [ character:  Berrêdo . —]
+      [ 712 ]  Falou comigo .
+      [ 713 ]  Vem em defesa do infante .
+      [ 714 ]  E ... lá se foi com ele pelos paços dentro .
+      [ character:  Arcebispo . —]
+      [ 715 ]  Irá falar a El-Rei .
+      [ 716 ]  Teremos tudo a perder do seu esforço e da sua ousadia .
+      [ character:  Duque . —]
+      [ 717 ]  É preciso que lhe não fale , tão cedo .
+      [ 718 ]  É preciso que alcancemos o pedido da regência .
+      [ 719 ]  Vós vos encarregareis do Rei , senhor de Ourem , impedindo por todos os modos que o conde de Avranches chegue até ele .
+      [ character:  Ourem . —]
+      [ 720 ]  No paço ?
+      [ 721 ]  É difícil consegui-lo por muito tempo .
+      [ character:  Duque . —]
+      [ 722 ]  Levai-o para Cintra .
+      [ 723 ]  Forjai com monteiro-mor a história de um javali .
+      [ 724 ]  O quer que seja .
+      [ 724 ]  ( Reflexivo )
+      [ 725 ]  El-Rei gosta de ouvir histórias de guerras e cavalarias ...
+      [ 725 ]  ( O Duque para em frente de Berrêdo ) .
+      [ 726 ]  Vós , vós nos podeis salvar , Vasco Berrêdo .
+      [ character:  Berrêdo . —]
+      [ 727 ]  Eu ?
+      [ 728 ]  Meu Senhor ?
+      [ character:  Duque . —]
+      [ 729 ]  Vós sim .
+      [ 730 ]  Vós sois o seu íntimo , o seu secretário , o seu protegido , quem duvidará do que afirmardes sobre o infante ?
+      [ character:  Berrêdo . —]
+      [ 731 ]  E ... eu afirmarei ?..
+      [ character:  Duque . —]
+      [ 732 ]  As velhas pretensões de Dom Pedro ao trono ...
+      [ 732 ]  ( Passeia agitado ) .
+      [ 733 ]  Ourem , se fôsseis para junto de El-Rei ?
+      [ 734 ]  Arcebispo , se vos fôsseis encontrar com Frei Gil , o confessor da Rainha ?
+      [ 735 ]  O tempo é precioso .
+      [ character:  Arcebispo . —]
+      [ 736 ]  Iremos , Senhor .
+      [ 736 ]  ( Saem ) .
+      [ character:  Duque . —]
+      [ 737 ]  Vinde cá , Berrêdo , vinde cá .
+      [ character:  Berrêdo . —]
+      [ 738 ]  Meu Senhor .
+      [ character:  Duque . —]
+      [ 739 ]  Sabeis que eu sei premiar ?
+      [ character:  Berrêdo . —]
+      [ 740 ]  O vosso coração é grande .
+      [ character:  Duque . —]
+      [ 741 ]  ... Dom Pedro não governará sempre .
+      [ 742 ]  Perdereis vosso ofício , como o valor no paço , se fordes contra mim .
+      [ 743 ]  Vereis esquecidas vossas qualidades e valor ...
+      [ character:  Berrêdo . —]
+      [ 744 ]  Mas vós , Senhor ...
+      [ character:  Duque . —]
+      [ 745 ]  Eu , sim ... vinde aqui , vinde aqui .
+      [ 745 ]  ( Confidente ) .
+      [ 746 ]  Permitis-me uma nota ?
+      [ character:  Berrêdo . —]
+      [ 747 ]  Meu Senhor , estou a ouvir-vos .
+      [ character:  Duque . —]
+      [ 748 ]  Sabeis que ... a Sé de Bragança me pertence ?
+      [ character:  Berrêdo . —]
+      [ 749 ]  Eu o sei .
+      [ character:  Duque . —]
+      [ 750 ]  E ... que está vaga ?
+      [ character:  Berrêdo . —]
+      [ 751 ]  ... Meu Senhor ! ...
+      [ character:  Duque . —]
+      [ 752 ]  Será para vós .
+      [ character:  Berrêdo . —]
+      [ 753 ]  Eu sou indigno ! ...
+      [ character:  Duque . —]
+      [ 754 ]  Deixai modéstias , agora .
+      [ 755 ]  Preciso de vós , absolutamente ; da vossa posição , do vosso valor .
+      [ 756 ]  Pago-o : eis tudo .
+      [ 757 ]  Uma mitra vale bem uma mentira .
+      [ 758 ]  Sejamos amigos .
+      [ 759 ]  Valho tanto como amigo como inimigo .
+      [ 760 ]  Sois novo , ambicioso ...
+      [ 761 ]  Vou adiante das vossas ambições de rapaz .
+      [ 762 ]  Sois um notário ; far-vos-ei príncipe da igreja .
+      [ character:  Berrêdo . —]
+      [ 763 ]  Mandai !
+      [ character:  Duque . —]
+      [ 764 ]  É preciso que digais diante de El-Rei que conheceis os velhos planos do Infante .
+      [ character:  Berrêdo . —]
+      [ 765 ]  Di-lo-ei .
+      [ character:  Duque . —]
+      [ 766 ]  Mas não somente esses .
+      [ 767 ]  Há longo tempo que corre pela cidade o boato de que ele envenenou a rainha Leonor sua cunhada e mãe de El-Rei ; que envenenou seu irmão Dom Duarte , pai de El-Rei ; que envenenou seu irmão Dom João ...
+      [ 768 ]  É preciso afirmar isto .
+      [ 769 ]  Se o afirmardes , El-Rei não poderá duvidar .
+      [ 770 ]  E fá-lo-eis com alma ...
+      [ 771 ]  O Rei é fácil de arrastar ...
+      [ character:  Berrêdo . —]
+      [ 772 ]  Di-lo-ei .
+      [ character:  Duque . —]
+      [ 773 ]  Diante de nós , de quem for ?
+      [ character:  Berrêdo . —]
+      [ 774 ]  Diante de vós todos .
+      [ character:  Duque . —]
+      [ 775 ]  Vós mo afirmais por juramento ?
+      [ character:  Berrêdo . —]
+      [ 776 ]  Como o quiserdes , Senhor .
+      [ character:  Duque . —]
+      [ 777 ]  A minha gratidão será para vós , Berrêdo ; e vos juro que não havereis razão de queixa contra ela .
+      [ character:  Berrêdo . —]
+      [ 778 ]  Meu Senhor , entrego-me nas vossas mãos .
+      [ 779 ]  Vós sois um grande príncipe , serei honrado em vos servir .
+      [ character:  Duque . —]
+      [ 780 ]  Ide dizê-lo ao arcebispo e a meu filho .
+      [ 780 ]  ( O duque dá-lhe a mão a beijar .
+      [ 780 ]  Berrêdo sai ) .
+      [ 781 ]  Vamos preparar o Rei .
+      [ 781 ]  ( Sai .
+      [ 781 ]  Fim do 2.° ato ) .
+      [ title:  QUADRO VI ]
+      [ title:  Saleta do paço]
+      [ character:  Duque . —]
+      [ 782 ]  Cometestes o maior erro , meu Senhor .
+      [ 783 ]  Perdoai que vo-lo diga .
+      [ 784 ]  Um Rei não confessa nunca a leviandade ou o erro de um ato .
+      [ 785 ]  Fez-se ?
+      [ 786 ]  Fez-se .
+      [ 787 ]  Pensa-se antes de o fazer , depois está feito !
+      [ character:  Rei . —]
+      [ 788 ]  Assim deve ser .
+      [ character:  Duque . —]
+      [ 789 ]  Pois vede : que é agora pedirdes a regência e quando vo-la dão não a aceitardes ?
+      [ 790 ]  Se bem estava , por que a pedistes ?
+      [ 791 ]  E se mal estava , por que deixá-la voltar ao antigo estado ?
+      [ character:  Rei . —]
+      [ 792 ]  Toquei os quatorze anos .
+      [ 793 ]  Era a idade de o fazer .
+      [ 794 ]  Era da lei .
+      [ character:  Duque . —]
+      [ 795 ]  Pois ficásseis com ela , então .
+      [ 796 ]  Recusá-la foi mostrardes-vos medroso de reinar .
+      [ 797 ]  Assim o dizem todos e assim o viu o povo , que mais engrandece agora o seu infante , como homem a quem tivestes receio de desgostar , ou de substituir .
+      [ character:  Rei . —]
+      [ 798 ]  Receio ?
+      [ character:  Duque . —]
+      [ 799 ]  Bem sei que não .
+      [ 800 ]  Sois um altivo e esperançoso príncipe , de uma clara razão e ânimo varonil ; mas deixais-vos tolher de bondades e atenções , que vos hão de prejudicar nos créditos de rei .
+      [ character:  Rei . —]
+      [ 801 ]  Evitá-las-ei .
+      [ character:  Duque . —]
+      [ 802 ]  Mas , já !
+      [ 803 ]  Que a primeira qualidade de um rei é ser forte , ter ânimo resoluto e impor a sua vontade !
+      [ 804 ]  A primeira qualidade de um rei , meu senhor , é sê-lo , é reinar !
+      [ character:  Rei . —]
+      [ 805 ]  E quem duvida de que eu o seja ?
+      [ character:  Duque . —]
+      [ 806 ]  Os seus amigos , dele .
+      [ character:  Rei . —]
+      [ 807 ]  Ousarão pensar que prolonguei a regência com medo de meu tio , o infante ?
+      [ character:  Duque . —]
+      [ 808 ]  Quem pode prender os maus juízos ?
+      [ 809 ]  Creio merecer-vos fé .
+      [ 810 ]  Eu a mereci da rainha , minha senhora e vossa mãe , que Deus tem .
+      [ 811 ]  Por ela arrisquei os bens e a vida .
+      [ 812 ]  A minha lealdade a seguiu até a morte ...
+      [ character:  Rei . —]
+      [ 813 ]  Sim , ela vos amava , tanto como eu .
+      [ character:  Duque . —]
+      [ 814 ]  Pois eu vos agradeço , e vos falo com o coração nas mãos .
+      [ 815 ]  Vós não sois o rei !
+      [ 816 ]  Vosso tio manda em tudo ; a ele todos obedecem ; é ele o respeitado , ele o temido !
+      [ 817 ]  Vós ? sois uma criança a quem é preciso tutelar .
+      [ 818 ]  Sois rei , no nome ; ele o é de facto .
+      [ 819 ]  Todo o seu poder ele o tem ; vós nenhum !
+      [ 820 ]  Haveis de senti-lo ainda .
+      [ 821 ]  Não se poupa nunca um inimigo ; morre-se-lhe nas mãos .
+      [ 822 ]  Lembrai-vos de vossa mãe ...
+      [ character:  Rei . —]
+      [ 823 ]  Lembra-me .
+      [ 824 ]  ( Entra o Arcebispo que beija a mão do rei ) .
+      [ character:  Arcebispo . —]
+      [ 825 ]  Meu senhor .
+      [ 826 ]  Estais , aqui , senhor Duque ?
+      [ 827 ]  Deus vos trouxe .
+      [ character:  Duque . —]
+      [ 828 ]  Conversava El-Rei ...
+      [ character:  Arcebispo . —]
+      [ 829 ]  Sobre o Regente ?
+      [ character:  Duque . —]
+      [ 830 ]  Desse era .
+      [ character:  Arcebispo . —]
+      [ 831 ]  Dele soube hoje os mais graves intentos que a minha lealdade não pode ocultar .
+      [ character:  Duque . —]
+      [ 832 ]  Ainda ?
+      [ character:  Rei . —]
+      [ 833 ]  Dizei , senhor Arcebispo .
+      [ character:  Arcebispo . —]
+      [ 834 ]  Senhor , sabeis quanto vos amamos , o senhor Duque e eu .
+      [ 835 ]  A dedicação por vossa mãe e senhora em vós recaiu .
+      [ 836 ]  Bastas vezes vos temos prevenido , aconselhado , de vos acautelardes contra o Regente .
+      [ 837 ]  As suspeitas aclararam-se , agora .
+      [ 838 ]  Vós o heis ajudado em seus planos de se apoderar do trono .
+      [ character:  Rei . —]
+      [ 839 ]  Eu ?
+      [ 840 ]  Arcebispo . —
+      [ 841 ]  Vós ; reentregando-lhe a regência !
+      [ 842 ]  Levou dez anos a pretender fixar-se no trono .
+      [ 843 ]  Dez anos de trabalho e de cálculo .
+      [ 844 ]  Serviu-se da intriga , dos favores mal cabidos , fortalecendo o povo , abolindo as aposentadorias , reformando as ordenações .
+      [ character:  Rei . —]
+      [ 845 ]  Nada lhe valeu .
+      [ character:  Arcebispo . —]
+      [ 846 ]  O trono ficava muito alto : o salto final incerto e perigoso !
+      [ character:  Rei . —]
+      [ 847 ]  Recuou ?
+      [ character:  Duque . —]
+      [ 848 ]  Ao contrário .
+      [ character:  Arcebispo . —]
+      [ 849 ]  Às benesses , aos cargos , à astúcia , sucedeu o ... crime !
+      [ character:  Rei . —]
+      [ 850 ]  O crime ?
+      [ character:  Duque . —]
+      [ 851 ]  O crime !?
+      [ character:  Arcebispo . —]
+      [ 852 ]  A voz do povo o dizia e diz .
+      [ 853 ]  Estranhou-se a rápida morte de vosso pai .
+      [ 854 ]  Ninguém explicou a misteriosa morte de vossa mãe e senhora !
+      [ character:  Rei . —]
+      [ 855 ]  Arcebispo !
+      [ character:  Duque . —]
+      [ 856 ]  Dom Pedro , é grave o que haveis dito .
+      [ character:  Arcebispo . —]
+      [ 857 ]  Senhor , que Deus me absolva se passou na minha cabeça caluniar o infante .
+      [ 858 ]  Alguém da sua intimidade , da sua proteção , da sua casa ; alguém a quem o remorso do silêncio confrangia , hoje falou !
+      [ 859 ]  Ministro de Deus , ouvi as suas revelações : como vassalo o aconselhei a vir junto de vós , para as dizer claramente ; prevenir-vos , contra o perigo de uma confiança mais longa !
+      [ character:  Rei . —]
+      [ 860 ]  E quem é esse ?
+      [ character:  Arcebispo . —]
+      [ 861 ]  Senhor , o protegido do Regente , o seu embaixador em Roma , o seu secretário particular , Vasco Berrêdo .
+      [ character:  Rei . —]
+      [ 862 ]  E veio convosco , dizeis ?
+      [ character:  Arcebispo . —]
+      [ 863 ]  Espera as vossas ordens .
+      [ character:  Rei . —]
+      [ 864 ]  Mandai-o entrar .
+      [ 864 ]  ( O arcebispo sai )
+      [ 865 ]  Que horrível história me contou o Arcebispo .
+      [ 866 ]  Poderá ser verdade , senhor meu tio e duque ?
+      [ character:  Duque . —]
+      [ 867 ]  O Arcebispo não mente .
+      [ 868 ]  A ambição do Regente vem de longa data !
+      [ 869 ]  Por suas ciências e manhas , o mundo inteiro é pequeno para a sua vaidade !
+      [ character:  Rei . —]
+      [ 870 ]  Mas ousaria ?...
+      [ character:  Duque . —]
+      [ 871 ]  Quem sabe ?
+      [ 872 ]  Ouviremos .
+      [ 873 ]  ( Entram o Arcebispo e Berrêdo ) .
+      [ character:  Rei . —]
+      [ 874 ]  Vinde e falai , vós .
+      [ 875 ]  Tirai-me de dentro da alma esta dor de ter de encontrar o crime a meu lado , manchando o meu sangue !
+      [ 876 ]  Vós sois um seu chegado amigo , um homem que tudo lhe deve !
+      [ 877 ]  Não mancheis a vossa vida com a ignomínia de uma afirmação sem base : não maculeis com a nódoa de uma suspeita vil a mão que vos acolheu amiga !
+      [ character:  Berrêdo . —]
+      [ 878 ]  Senhor , não !
+      [ 879 ]  Por minha posição e intimidade conheço todas as velhas intenções do duque Regente .
+      [ 880 ]  A sua ambição não tem fim .
+      [ 881 ]  Há longos anos trabalha pelo trono .
+      [ 882 ]  Com o conde de Luna — o condestável espanhol — combinara a invadir o reino e fazer-se aclamar .
+      [ 883 ]  O desfavor do condestável desfez-lhe os intentos !
+      [ 884 ]  Mil vezes me fez suas promessas de grandeza , quando fosse no trono , ao escrever-lhe suas cartas .
+      [ 885 ]  Uma só deixei de escrever por minhas mãos ao condestável : dias depois , vossa mãe , a rainha que Deus tenha , morria ... no convento !
+      [ character:  Rei . —]
+      [ 886 ]  Vós me afligis com um tormento inaudito !
+      [ 887 ]  Vossas palavras me atormentam ! ...
+      [ 888 ]  Que poderá fazer-vos vir revelar-me tais segredos , se dele tendes a proteção e o agrado ?
+      [ character:  Berrêdo . —]
+      [ 889 ]  Razão para a verdade do que digo .
+      [ 890 ]  Senhor , doía-me a injustiça .
+      [ 891 ]  Sois o nosso rei ; a vossa juventude e bondade cativam !
+      [ 892 ]  De ninguém merecíeis tal deslealdade !
+      [ 893 ]  E de vosso tio ! bem menos .
+      [ 894 ]  A consciência me obrigava a prevenir-vos : a sacrificar o reconheci-mento à obediência maior que um vassalo deve ao seu rei e senhor !
+      [ 895 ]  Se acaso só o volver das coisas explica as mortes de vosso pai e de vossa mãe , estranho acaso é esse , que leva , por sua ordem , as pessoas que podiam ser os obstáculos de um desígnio , que li tanta vez em suas conversas e feitos .
+      [ character:  Rei . —]
+      [ 896 ]  Por Deus ! quem poderá provar-me a terça parte do que me dizeis !
+      [ character:  Berrêdo . —]
+      [ 897 ]  Guardai-vos , Senhor .
+      [ 898 ]  O futuro o provará .
+      [ 899 ]  Tirai-lhe o poder por uma vez : cercai-vos de vossos amigos , os que o foram de vossa mãe e vos protegeram de menino , dai largas ao seu despeito , dele , e vos asseguro que as suas ações revelarão o orgulhoso , o rebelde e o traidor , afinal !
+      [ 900 ]  E perdoai-me a ousadia da revelação que por vós é !
+      [ character:  Rei . —]
+      [ 901 ]  Assim o acreditais , senhores ?
+      [ character:  Duque . —]
+      [ 902 ]  Pela nossa honra .
+      [ character:  Rei . —]
+      [ 903 ]  E o que me aconselhais ?
+      [ character:  Duque . —]
+      [ 904 ]  Que obreis como rei que sois .
+      [ 905 ]  Desobrigai-o de seu cargo , governai vós , com vosso alto engenho e como vos compete .
+      [ character:  Arcebispo . —]
+      [ 906 ]  Assim é .
+      [ character:  Rei . —]
+      [ 907 ]  Fazei saber a meu tio , o senhor Duque , que necessito falar-lhe , já .
+      [ 907 ]  ( O duque sai ) .
+      [ 908 ]  Quem poderia suspeitar de tanta ousadia !
+      [ 909 ]  Ficareis comigo , Berrêdo .
+      [ 910 ]  Eu vos agradeço a vossa dedicação e saberei pagar-vo-la .
+      [ character:  Berrêdo . —]
+      [ 911 ]  Senhor , assim fiz por honra própria e cuidando fazer o meu dever de súdito leal para convosco .
+      [ character:  Rei . —]
+      [ 912 ]  Senhor Arcebispo , logo depois da entrega da Regência que vou exigir , já , formaremos conselho para resolver as medidas a tomar contra tal estado .
+      [ 913 ]  Preveni os fidalgos a quem compete o estar .
+      [ character:  Arcebispo . —]
+      [ 914 ]  Far-se-á vossa vontade , Senhor .
+      [ 914 ]  ( Entram Dom Pedro e o Duque ) .
+      [ character:  Regente . —]
+      [ 915 ]  Sou às vossas ordens , Senhor .
+      [ character:  Rei . —]
+      [ 916 ]  Mandei por vós , senhor infante , para vos dizer que de novo me apraz e , já , retomar a regência .
+      [ character:  Regente . —]
+      [ 916 ]  ( Espanto ) .
+      [ 917 ]  Senhor , como vos aprouver .
+      [ 918 ]  Sois o meu rei , mandais .
+      [ 919 ]  Diante de todos os fidalgos e gentes do paço vo-la darei , por uma vez , e sem demora .
+      [ 920 ]  Dignai-vos esperar-me : demorar-me-ei o tempo de encontrar os selos e juntar os papéis de maior monta que julgo dever entregar-vos .
+      [ character:  Rei . —]
+      [ 921 ]  Esperar-vos-ei .
+      [ 921 ]  ( Dom Pedro sai ) .
+      [ 922 ]  Vou pela rainha que deverá assistir .
+      [ character:  Arcebispo . —]
+      [ 923 ]  Certamente .
+      [ 923 ]  ( Sai o rei ) .
+      [ character:  Duque . —]
+      [ 924 ]  Vamos para a sala .
+      [ character:  Arcebispo . —]
+      [ 925 ]  Berrêdo , ganhaste as tuas esporas de cavaleiro .
+      [ character:  Duque . —]
+      [ 926 ]  Tu as preferes ao barrete de Bispo ?
+      [ character:  Berrêdo . —]
+      [ 927 ]  Senhor , não .
+      [ 928 ]  Prefiro o barrete .
+      [ 929 ]  Não sinto em mim o valor do cavaleiro !
+      [ 930 ]  Eu sou humilde !
+      [ 930 ]  ( Saem ) .
+      [ title:  QUADRO VII ]
+      [ title:  Salão no Paço]
+      [ character:  Rei . —]
+      [ 930 ]  ( Entrando com a rainha e corte ) .
+      [ 931 ]  Fazei entrar o Duque .
+      [ 931 ]  ( O Duque entra .
+      [ 931 ]  Um pagem traz os selos e papéis sobre uma almofada ) .
+      [ 932 ]  Senhores , tendo determinado de tomar para sempre o ofício de rei , a meu mui alto e poderoso tio o Infante Dom Pedro , pedi houvesse por bem entregar-me a regência , que lhe havia prolongado .
+      [ 933 ]  Eu a vou receber de suas mãos , ante vós , para que fique bem assente , que em mim , só , ficam todos os poderes deste reino , que hei por graça de Deus e pelo valor de meus pais .
+      [ character:  Dom Pedro . —]
+      [ 934 ]  Meu senhor .
+      [ 935 ]  Com a mes-ma lealdade em minha vontade e a mesma obediência à vossa , venho entregar-vos , publicamente , os selos e o governo do reino que havia conservado por vossa ordem e crendo fazer-vos mercê .
+      [ 936 ]  Eu vos julgo em idade e razão de regerdes Portugal e de vos fazerdes , por vossa prudência e justiça , amado de tão nobre povo , como o foi vosso pai o mui alto senhor Dom Duarte , meu irmão , e El-Rei meu pai e vosso avô , de gloriosa memória !
+      [ 937 ]  Em honra do sangue que haveis , vos exorto a confiar ao vosso juízo as leis que a prudência de tão altos príncipes fabricou !
+      [ 938 ]  Se um dia , por vossa pouca idade , — que não permite conhecer , no fundo , os homens e as coisas — , sentirdes a necessidade dos conselhos de um velho , que vos reconhece como seu legítimo senhor e rei e vos defenderá contra todos os vossos inimigos , Senhor , dizei , que me honrareis em vosso serviço , como vassalo e vosso maior amigo que sou .
+      [ 939 ]  Disponde de mim , da minha espada e da minha vida !
+      [ character:  Rei . —]
+      [ 940 ]  Agradeço-vos , senhor Duque , o bem que fizestes ao reino pelo vosso alto valor .
+      [ 941 ]  Eu me esforçarei por imitar-vos com a ajuda de Deus , e me fico penhorado pelo oferecimento do vosso conselho .
+      [ character:  Dom Pedro . —]
+      [ 942 ]  Senhor , é a minha experiência de velho que ofereço colocar ao serviço da vossa mocidade !
+      [ 943 ]  A justiça é a mais alta virtude de um rei .
+      [ 944 ]  Ela pode existir , como a bondade , num coração de poucos anos ; mas a prudência , Senhor , afasta-a o calor da juventude !
+      [ 945 ]  Eu vos peço , por vosso bem , que sejais cauteloso no dizer , discreto no ouvir , refletido em mandar .
+      [ 946 ]  Os erros dos reis refletem-se em males dos povos que Deus confiou à sua guarda !
+      [ 947 ]  Desconfiai da adulação — a peçonha dos paços — ; julgai sempre a amizade um raro bem ; protegei o povo , os pequenos , os pobres ; eles vos deram o trono com o seu sangue e vos amarão do melhor modo , que não há querer , no mundo , como entre filhos e pais !
+      [ 948 ]  Desculpa-me : como filho vos amo : tomai como pe-didos os meus conselhos , que a Deus peço me tenha sempre na vossa ideia como servidor e leal vassalo , que juro ser agora e sempre !
+      [ character:  Rei . —]
+      [ 949 ]  Falais como um príncipe .
+      [ 950 ]  De novo vos digo que muito agradado de vós fico .
+      [ 951 ]  Dizei se alguma coisa desejais , por último , que muito me aprazerá o fazer-vo-la .
+      [ character:  Dom Pedro . —]
+      [ 952 ]  Durante os dez anos de regente , nem em bens nem em honras cresci .
+      [ 953 ]  Antes meus negócios e terras abandonei , no que hei sofrido muitas perdas e danos .
+      [ 954 ]  Peço-vos para sair , hoje , para Coimbra .
+      [ character:  Rei . —]
+      [ 955 ]  Fazei a vossa vontade e Deus vá convosco .
+      [ character:  Dom Pedro . —]
+      [ 956 ]  Meu Senhor !
+      [ 956 ]  ( Beija-lhe a mão .
+      [ 956 ]  Ante a Rainha )
+      [ 957 ]  Muito alta rainha minha senhora e filha muito amada : eu vos peço que no alto do trono a que Deus vos chamou honreis o vosso nome e o vosso sangue .
+      [ 958 ]  Fazei na vossa alma um templo para a virtude : baixai os ouvidos às lágrimas e aos dós : sede boa , humana , grande sem or-gulho , pequena sem baixeza .
+      [ 959 ]  Amai vosso rei , vosso marido e senhor , com a consciência de um alto dever perante os homens e perante Deus .
+      [ 959 ]  ( Comovido ) .
+      [ 960 ]  Guardai-me sempre em vosso coração muito bem querer , que se me afigura merecer-vo-lo , pelo carinho com que vos criei e pelo muito que vos amo e respeito .
+      [ 960 ]  ( Ajoelha e beija-lhe a mão .
+      [ 960 ]  Sai ) .
+      [ character:  Rei . —]
+      [ 960 ]  ( Ao duque e fidalgos ) .
+      [ 961 ]  Volto , para o conselho .
+      [ 961 ]  ( O rei levanta-se e sai ) .
+      [ character:  Duque . —]
+      [ 962 ]  Enfim !
+      [ character:  Arcebispo . —]
+      [ 963 ]  Cheguei a crer que as suas palavras mentidas fariam ainda recuar El-Rei !
+      [ character:  Duque . —]
+      [ 964 ]  Felizmente , não .
+      [ 965 ]  A regência acabou de uma vez .
+      [ 966 ]  Resta-nos arrancar-lhe o resto do poder , que ainda tem , e que poderá voltar contra nós .
+      [ 967 ]  É preciso expulsar dos castelos os alcaides que ele lá pôs ...
+      [ character:  Ourem . —]
+      [ 968 ]  A começar pelo filho , no de Elvas .
+      [ character:  Arcebispo . —]
+      [ 969 ]  Demitir Alvaro Vaz d'Almada da alcaidaria-mor de Lisboa .
+      [ character:  Duque . —]
+      [ 969 ]  ( A um fidalgo ) .
+      [ 970 ]  Tê-lo-eis vós , Silveira .
+      [ character:  1.° Fidalgo . —]
+      [ 971 ]  Obrigado , senhor .
+      [ character:  Duque . —]
+      [ 971 ]  ( A outro ) .
+      [ 972 ]  E vós o do Porto , Dom Vasco .
+      [ character:  2.° Fidalgo . —]
+      [ 973 ]  Pedia-vos o de Leiria , meu senhor .
+      [ character:  Duque . —]
+      [ 974 ]  Para vós será , Dom Luiz Coutinho .
+      [ 974 ]  ( Pausa ) .
+      [ 975 ]  Acreditais que vá serenamente para Coimbra ?
+      [ 976 ]  Não o julgueis ; é preciso unirmo-nos bem , no conselho , de modo que El-Rei não possa hesitar , nem reagir .
+      [ 977 ]  É preciso ganhar tempo ; o duque é arteiro e El-Rei é ... uma bandeira ... que anda com todos os ventos !
+      [ 978 ]  Estai firmes .
+      [ 979 ]  ( Entra o Rei com a comitiva e senta-se ) .
+      [ character:  Rei . —]
+      [ 980 ]  Senhor Duque e meu tio , a vós que me mereceis especial afeição vos peço que queirais tomar o lugar pri-meiro no guiamento das coisas do reino .
+      [ character:  Duque . —]
+      [ 981 ]  Eu vos agradeço e felicito , senhor , por haverdes tomado vosso lugar , como vos competia , em príncipe de tanto entendimento e prudência .
+      [ 982 ]  Estamos em conselho .
+      [ character:  Rei . —]
+      [ 983 ]  Pois deliberai .
+      [ character:  Duque . —]
+      [ 984 ]  Como cremos falsas as palavras de obediência do Infante , nos parece que primeiro haja de se tirarem de todos os castelos os alcaides que ele pôs .
+      [ character:  Rei . —]
+      [ 985 ]  É prudente .
+      [ character:  Arcebispo . —]
+      [ 986 ]  É preciso .
+      [ 986 ]  ( Ouve-se um pequeno ruído na sala próxima .
+      [ 986 ]  O rei olha ; o duque para um momento .
+      [ 986 ]  Faz-se silêncio .
+      [ 986 ]  Continua )
+      [ character:  Duque . —]
+      [ 987 ]  É mister afastá-lo , para sempre da corte e proibir aos fidalgos que o visitem .
+      [ character:  Rei. —]
+      [ 988 ]  Assim o entendeis ?
+      [ character:  Vozes . —]
+      [ 989 ]  Absolutamente .
+      [ character:  Rei . —]
+      [ 990 ]  Far-se-á .
+      [ 990 ]  ( Reboliço de espanto .
+      [ 990 ]  Alvaro Vaz , de meia armadura , aparece à porta ) .
+      [ character:  Avranches . —]
+      [ 991 ]  Como alferes-mor do Reino , pertence-me um lugar no conselho !
+      [ 992 ]  Fazei-me a graça de esperar , senhores , quero deliberar convosco !
+      [ 992 ]  ( Atravessa a sala , beija a mão ao rei ) .
+      [ 993 ]  Perdoai , meu senhor ! : quem tem o dever de batalhar por vós e o tem feito toda a vida pelos vossos , tem o direito de dar os conselhos que a sua experiência e lealdade lhe mandem .
+      [ character:  Rei . —]
+      [ 994 ]  Ninguém vos recusaria a entrada em nosso conselho .
+      [ 995 ]  Mas ... por que vir armado ?
+      [ character:  Avranches . —]
+      [ 996 ]  Meu senhor e rei .
+      [ 997 ]  A mim me avisaram de que não viesse , que seria ou preso , ou morto !
+      [ 998 ]  Tudo pode esperar-se de valentes que ferem por detrás !
+      [ 999 ]  Pus a minha cota e vim ; hei-de morrer com ela , como cavaleiro a quem pertence vesti-la em vossa defesa e minha !
+      [ character:  Rei . —]
+      [ 1000 ]  Agradeço-vos o empenho .
+      [ character:  Avranches . —]
+      [ 1001 ]  Nada tendes que agradecer !
+      [ 1002 ]  Sois o meu rei :
+      [ 1003 ]  A minha espada e a minha vida são vossas !
+      [ 1004 ]  Acreditais na minha palavra ?
+      [ character:  Rei . —]
+      [ 1005 ]  Como fidalgo que sois .
+      [ character:  Avranches . —]
+      [ 1006 ]  Nem podeis duvidar .
+      [ 1007 ]  Fez-me vosso pai capitão-mor do mar , neste reino : perguntai à sua memória se ele costumava premiar assim os desleais e os vilões ?!
+      [ character:  Duque . —]
+      [ 1008 ]  Memória honrada é essa .
+      [ character:  Avranches . —]
+      [ 1009 ]  Assim o achais , Duque ?
+      [ 1010 ]  Pois melhor vos fora que respeitásseis no Infante , o seu irmão querido , a nobreza e a honradez do sangue !
+      [ 1011 ]  E , mesmo em vós !...
+      [ character:  Duque . —]
+      [ 1012 ]  Quereis dizer ...
+      [ character:  Avranches . —]
+      [ 1013 ]  Que vós e todo o que ousar pôr a língua , no muito alto senhor o infante Dom Pedro , o mais primoroso cavaleiro das Espanhas , o mais leal caráter , o mais alto príncipe do reino ... mentis ... como desleais e traidores a ele e ao seu rei !
+      [ 1013 ]  ( Rumor ) .
+      [ character:  Duque . —]
+      [ 1014 ]  Dom Alvaro ...
+      [ character:  Avranches . —]
+      [ 1015 ]  Mentis ! pela gorja , como perros , como vilões , como Judas !
+      [ character:  Rei . —]
+      [ 1016 ]  Tende mão em vós , Dom Alvaro ...
+      [ character:  Avranches . —]
+      [ 1017 ]  Meu Senhor : El-Rei Henrique de Inglaterra me fez conde de Avranches na Normandia , porque lá ensinei como eram as cutiladas de Ceuta !
+      [ 1018 ]  Encheu-me de oiro !
+      [ 1019 ]  E , porque com honra e lealdade o servi sempre — dizem-no os alvarás — cobriu-me com o manto da jarreteira — que honra o manto dos reis , — a cota amolgada em cem combates !
+      [ 1020 ]  O imperador da Alemanha punha-me a seu lado na batalha , sentava-me a seu lado à sua mesa e como louvava as minhas cutiladas contra os turcos , ouvia o meu conselho em seus negócios !
+      [ 1021 ]  Ganhei , por minhas obras , em Espanha , em França , em Inglaterra , na Alemanha , na África , na Ásia , falar de mão a mão aos príncipes e aos reis !
+      [ 1022 ]  Exerço , aqui , o meu direito e não consentirei , com vida ! , que alguém me suspeite da menor mancha na minha honra de cavaleiro !
+      [ 1023 ]  Senhor ! o que disse , disse !
+      [ 1024 ]  Se algum de vós , ou todos ousais negá-lo , eu vos desafio a combater , a um e um , a dois e dois , a três e três , — que a vilania acobarda ! — porque vos lanço à cara o insulto de desleais , de falsos , ao vosso sangue , ao vosso nome , ao vosso rei !
+      [ 1025 ]  Esses sois todos vós !
+      [ 1025 ]  ( Atira o guante ao chão )
+      [ 1026 ]  E ousai negá-lo !!
+      [ 1027 ]  ( Grande confusão ; o rei levanta-se , rodeiam-no , Dom Alvaro encosta-se à espada com grande altivez ) .
+      [ character:  Arcebispo . —]
+      [ 1028 ]  O conselho não pode continuar .
+      [ character:  Berrêdo . —]
+      [ 1029 ]  Está desvairado .
+      [ character:  Duque . —]
+      [ 1030 ]  Senhor , saí .
+      [ 1031 ]  Faltou-vos ao respeito .
+      [ 1032 ]  Veremos como castigá-lo .
+      [ 1032 ]  ( O rei pensativo deixa-se conduzir ) .
+      [ character:  Avranches . —]
+      [ 1032 ]  ( A um pagem que fica a olhá-lo ) .
+      [ 1033 ]  Dai-me o meu guante .
+      [ character:  Pagem . —]
+      [ 1033 ]  ( Trazendo-lho ) .
+      [ 1034 ]  Ah ! meu senhor , como sois grande !
+      [ character:  Avranches . —]
+      [ 1035 ]  É muito fácil sê-lo amigo .
+      [ 1036 ]  Consciência limpa é fazer tanto caso da morte como da vida !
+      [ 1037 ]  ( Entra a Rainha aflita ) .
+      [ character:  Avranches . —]
+      [ 1038 ]  Dona Izabel , minha Senhora ...
+      [ character:  Rainha . —]
+      [ 1039 ]  Conde , vós sois um valente e leal amigo de meu pai !
+      [ character:  Avranches . —]
+      [ 1040 ]  Como a mim próprio o amei , bem o sabeis .
+      [ character:  Rainha . —]
+      [ 1041 ]  Defendei-o , agora .
+      [ 1042 ]  Matá-lo-ão .
+      [ 1043 ]  Está condenado !
+      [ character:  Avranches . —]
+      [ 1044 ]  Senhora , a honra de um cavaleiro pede-lhe muitas vezes a vida !
+      [ 1044 ]  ( A Rainha chora ) .
+      [ 1045 ]  Senhora minha , não choreis !
+      [ 1046 ]  É uma dor que a calúnia e as vis paixões dessa gente , possam fazer-vos chorar !
+      [ character:  Rainha . —]
+      [ 1047 ]  É por meu pai !
+      [ 1048 ]  Vós , um tão grande cavaleiro ... podereis ...
+      [ character:  Avranches . —]
+      [ 1049 ]  Tudo o que pode fazer um amor de irmão , um dever de cavaleiro , um respeito de filho , eu o farei por vosso pai , Senhora !
+      [ 1050 ]  Para ele vou , e , todo o resto da minha força , a última gota do meu sangue , o último ar da minha vida , será por sua vida !
+      [ 1051 ]  É tudo o que um velho pode oferecer em honra da irmandade que nos liga , em vingança do vosso pranto que me agonia .
+      [ 1051 ]  ( Comovido ) .
+      [ character:  Rainha . —]
+      [ 1052 ]  Obrigada .
+      [ 1053 ]  Ide , Deus vos ajudará .
+      [ 1054 ]  Contai com o meu agradecimento e as minhas orações !
+      [ 1054 ]  ( O conde beija-lhe a mão .
+      [ 1054 ]  A Rainha sai ) .
+      [ character:  Avranches . —]
+      [ 1054 ]  ( Ao pagem ) .
+      [ 1055 ]  Amigo , olhas-me , espantado ?
+      [ character:  Pagem . —]
+      [ 1056 ]  Julguei ver-vos chorar !
+      [ character:  Avranches . —]
+      [ 1057 ]  Ah ! Ah ! quase !
+      [ 1058 ]  Há três coisas que um cavaleiro português nunca vê sem abalo : um castigo de Deus ! a lâmina de uma espada ! e as lágrimas de uma mulher !
+      [ 1059 ]  Por onde é o caminho ?
+      [ character:  Pagem . —]
+      [ 1060 ]  Por aqui , meu senhor !
+      [ 1060 ]  ( Saem . —
+      [ 1060 ]  Fim do 3.° ato ) .
+      [ title:  QUADRO VIII ]
+      [ title:  O salão do castelo de Dom Pedro em Coimbra]
+      [ character:  Regente . —]
+      [ 1060 ]  ( Entra ) .
+      [ 1061 ]  Então , conde ?
+      [ 1061 ]  ( A Avranches que entra ) .
+      [ character:  Avranches . —]
+      [ 1062 ]  Ah ! meu senhor .
+      [ 1063 ]  Cheguei dentro do arraial do Duque .
+      [ 1064 ]  Gente bisonha e mal disciplinada .
+      [ 1065 ]  Demos-lhe , meu senhor , eu vos garanto que fogem como cervos .
+      [ character:  Regente . —]
+      [ 1066 ]  Esperemos .
+      [ 1067 ]  Não quero juntar mais uma prova de rebeldia a El-Rei meu senhor .
+      [ character:  Avranches . —]
+      [ 1068 ]  Terminareis por cansar-vos de tanto permitir que vos ofendam .
+      [ 1069 ]  Demais tendes deixado melindrar a vossa altivez de príncipe .
+      [ 1070 ]  É longo já o calvário ; por vós , pela minha amizade , querer-vos-ia menos santo !
+      [ character:  Regente . —]
+      [ 1071 ]  Terminarão por me fazer revoltar .
+      [ 1072 ]  A minha alma é cansada de sofrer !
+      [ 1073 ]  Não mereci por minhas intenções nem por meus atos esta miserável guerra de toda a hora !
+      [ 1073 ]  ( Pensativo ) .
+      [ 1074 ]  O rei é uma criança no meio de lobos !
+      [ 1074 ]  ( Senta-se ) .
+      [ character:  Avranches . —]
+      [ 1075 ]  É .
+      [ 1076 ]  E , estamos no começo .
+      [ 1077 ]  Vede : não há um mês que deixastes a regência ; que série de insultos !
+      [ 1078 ]  Nos primeiros dias o duque de Bragança corre todos os castelos , expulsa os vossos alcaides , sequestra as terras dos vossos parciais .
+      [ 1079 ]  A mim me tiraram o castelo de Lisboa !
+      [ 1079 ]  ( Rindo ) .
+      [ 1080 ]  Devo-lhes a mercê .
+      [ 1081 ]  Qualquer dia , em não tendo que fazer , vou tomá-lo !
+      [ 1082 ]  Como se fôsseis leproso desterraram-vos da corte e proíbe-se aos fidalgos o visitar-vos !
+      [ 1083 ]  Espalham que vos preparais para a guerra , mandam um emissário censurar-vos os preparativos , a quem tendes a paciência de mostrar vossos castelos .
+      [ character:  Regente . —]
+      [ 1084 ]  Era o mais claro desmentido .
+      [ character:  Avranches . —]
+      [ 1085 ]  Meu senhor , quem o duvidava ?
+      [ 1086 ]  O boato , era um boato e tinha um fim : fingir que vos estáveis armando e sob esse pretexto mandar todos aprestarem-se para a guerra , menos vós .
+      [ 1087 ]  Responder à hipocrisia com a sinceridade ...
+      [ character:  Regente . —]
+      [ 1088 ]  Fiz o meu dever .
+      [ character:  Avranches . —]
+      [ 1089 ]  Vós o tendes feito sempre ... de mais !
+      [ 1090 ]  Toda a força dos vossos inimigos daí vem .
+      [ 1091 ]  Nas coisas de estado , melhor do que eu o sabeis , a cabeça deve mandar no coração .
+      [ character:  Regente . —]
+      [ 1092 ]  A bondade deve temperar a justiça .
+      [ character:  Avranches . —]
+      [ 1093 ]  E fazer os ingratos !
+      [ 1094 ]  Se quando humilhastes esse Barcelos que se levantou pela rainha e que apanhado se vos deitou aos pés , como um rafeiro , o tivésseis mandado para o seu castelo , em paz , com um aviso claro de cordura para ao diante , as suas pretensões a governar , com a neta no trono , tinham acabado , ali .
+      [ 1095 ]  Como lhe castigastes a re-beldia ?
+      [ 1096 ]  Fazendo-o duque , dando-lhe Bragança , tenças , rendas ; honrando-o , enriquecendo-o !
+      [ 1097 ]  Vós fizestes o vosso dever ?
+      [ 1098 ]  Aí tendes o amigo !
+      [ 1098 ]  ( Pausa ) .
+      [ 1099 ]  O nobre conde de Ourem ! ... não entrou mais no paço desde que lhe negastes , justamente , o cargo de condestável .
+      [ 1100 ]  Deste-o a vosso filho ?
+      [ 1101 ]  Tiraram-lho !
+      [ character:  Regente . —]
+      [ 1102 ]  Esse golpe foi cruel para mim .
+      [ character:  Avranches . —]
+      [ 1103 ]  Mas estais um São Sebastião , meu príncipe .
+      [ 1104 ]  Cada um vos atira a sua frechada ; vós olhais o céu ... e vem outra !
+      [ 1105 ]  Como pagastes ao velhaco do Arcebispo as suas tramas ?
+      [ 1106 ]  Fugira à cólera do povo !
+      [ 1107 ]  Mandastes-lho vir do desterro , destes-lhe de novo o lugar e as rendas !
+      [ 1108 ]  Em paga ?
+      [ 1109 ]  Lá está junto de El-Rei , tramando a separação dele com vossa filha ... a quem calunia ..
+      [ character:  Regente . —]
+      [ 1109 ]  ( Levanta-se ) .
+      [ 1110 ]  Calai-vos !
+      [ 1111 ]  Pondes-me na cabeça uma tempestade !
+      [ character:  Avranches . —]
+      [ 1112 ]  Ah ! a bonança virá perto .
+      [ 1113 ]  Poupastes Berrêdo , vosso íntimo !
+      [ 1114 ]  Ele lá está , íntimo de El-Rei , a persuadi-lo de que lhe assassinastes o pai e a mãe , na ambição do trono , que ainda hoje pretendeis !
+      [ 1115 ]  Vós ! um assassino , um salteador de coroas !
+      [ character:  Regente . —]
+      [ 1116 ]  Mas que quereis vós , conde , o que vos impele ... ?
+      [ character:  Avranches . —]
+      [ 1117 ]  Que me digais : conde , tu és o meu grande , o meu maior amigo .
+      [ 1118 ]  Tu sabes todas estas infâmias e estás quedo ?
+      [ 1119 ]  De que te serve essa espada ?
+      [ 1120 ]  Permito-to , dá , fere , mata !
+      [ 1121 ]  É o meu ofício desde criança ; para nada mais presto ; aproveitai-me o que valho , eis o que eu quero !
+      [ 1122 ]  Esperar , esperar , cheira a cobardia !
+      [ character:  Regente . —]
+      [ 1123 ]  Oh !
+      [ 1123 ]  ( Magoado ) .
+      [ 1124 ]  Pouco esperareis .
+      [ 1125 ]  Deixai-me repousar o espírito cansado na vossa nobre amizade .
+      [ 1126 ]  Quando o coração sangra , o braço treme !
+      [ character:  Avranches . —]
+      [ 1126 ]  ( Reparando ) .
+      [ 1127 ]  Meu príncipe , se vos magoei , perdoai : o amor que vos tenho faz-me a vossa honra mais cara do que a minha !
+      [ character:  Regente . —]
+      [ 1128 ]  Amigo , amigo , os velhos têm às vezes arrufos de crianças !
+      [ 1129 ]  Façamos as pazes .
+      [ 1129 ]  ( Abraçam-se ) .
+      [ character:  Avranches . —]
+      [ 1130 ]  Vá , lá .
+      [ 1130 ]  ( Ouve-se uma trompa ) .
+      [ character:  Regente . —]
+      [ 1131 ]  Quem demanda o castelo ?
+      [ character:  Avranches . —]
+      [ 1132 ]  Um alferes .
+      [ character:  Regente . —]
+      [ 1133 ]  Um alferes .
+      [ character:  Avranches . —]
+      [ 1134 ]  De longe , que o alazão vem suado .
+      [ character:  Pagem . —]
+      [ 1135 ]  Um emissário de El-Rei .
+      [ character:  Regente . —]
+      [ 1136 ]  Que entre .
+      [ 1136 ]  ( Aos fidalgos que entram ) .
+      [ 1137 ]  Conhecestes o cavaleiro ?
+      [ character:  Alvaro Affonso . —]
+      [ 1138 ]  Nenhum de nós o conheceu .
+      [ character:  Luiz d'Azevedo . —]
+      [ 1139 ]  Pareceu-me Martin da Silveira pelas cores do barrete .
+      [ character:  Avranches . —]
+      [ 1140 ]  Deve ser .
+      [ 1141 ]  Temos nova ordem .
+      [ character:  Regente . —]
+      [ 1141 ]  ( Apreensivo ) .
+      [ 1142 ]  Todos os dias ordens , miseráveis artes de luta !
+      [ 1143 ]  Acabarão por esgotar-me o zelo e a paciência !
+      [ character:  Pagem . —]
+      [ 1144 ]  Que ordenais , senhor ?
+      [ character:  Regente . —]
+      [ 1145 ]  Que entre .
+      [ 1145 ]  ( Excitado ) .
+      [ 1146 ]  Por que não ?
+      [ 1147 ]  Receberei Silveira , serei mais uma vez corajoso para ouvir , a sangue frio , doestos e insultos !
+      [ 1148 ]  Que acatarei as ordens de El-Rei , se forem , ( iro- nia ) como são sempre , de justiça !
+      [ 1149 ]  Que sou leal vassalo , et cætera , et cætera ...
+      [ 1150 ]  Dizei ...
+      [ 1151 ]  Fazei entrar .
+      [ 1151 ]  ( Sai o pagem ) .
+      [ character:  Avranches . —]
+      [ 1152 ]  Preparai-vos , senhor , será mais uma cilada !
+      [ character:  Regente . —]
+      [ 1153 ]  Ou um insulto !
+      [ 1153 ]  ( Senta-se .
+      [ 1153 ]  Entra Silveira ) .
+      [ character:  Silveira . —]
+      [ 1154 ]  Mui alto príncipe e senhor , de novo , venho a vós da parte de El-Rei cumprir uma missão que me pesa .
+      [ 1155 ]  De vós espero o favor de me ouvirdes como sem culpa em minhas palavras , que a mim não pertencem mas a El-Rei nosso senhor .
+      [ character:  Regente . —]
+      [ 1156 ]  Dizei .
+      [ 1157 ]  El-Rei não será injusto com um seu vassalo !
+      [ character:  Silveira . —]
+      [ 1158 ]  Tendes em vosso poder as armas com que aprestastes o exército que foi a Espanha ?
+      [ character:  Regente . —]
+      [ 1159 ]  Comandava-o meu filho Pedro , que aí se honrou .
+      [ 1160 ]  El-Rei o sabe ; sabem-no todos .
+      [ 1161 ]  Vós as vistes nos armazéns , há poucos dias , quando viestes acusar-me de tentar a guerra .
+      [ 1162 ]  Lá estão , como eram .
+      [ character:  Silveira . —]
+      [ 1163 ]  El-Rei manda que mas entregueis , por completo .
+      [ character:  Regente . —]
+      [ 1164 ]  Dizei a El-Rei que me pertencem para minha defesa e dele e que as não poderei entregar , sem me perder .
+      [ 1165 ]  Que os meus inimigos , armados , como são , contra mim , me não poupariam ao ver-me indefeso .
+      [ 1166 ]  Que lhe enviarei seu custo em oiro , ou me dê tempo de mandar por outras a França !
+      [ character:  Silveira . —]
+      [ 1167 ]  Peço para vos dizer , senhor Duque , que as vossas razões não satisfarão a ordem de El-Rei !
+      [ character:  Regente . —]
+      [ 1168 ]  Desobedeço ?
+      [ 1169 ]  Ah ! El-Rei manda aprestarem-se para a guerra todos os fidalgos , excetuando-me a mim é como se me declarasse a guerra !
+      [ 1170 ]  Mandar-me entregar as armas é condenar-me à morte !
+      [ 1171 ]  Julgar-me-á louco ?
+      [ character:  Silveira . —]
+      [ 1172 ]  Não discutirei o meu mandado .
+      [ 1173 ]  Não entregais as armas ?
+      [ character:  Regente . —]
+      [ 1174 ]  Não posso .
+      [ character:  Silveira . —]
+      [ 1175 ]  Da parte de El-Rei vos anuncio que a vossa recusa será tomada como rebeldia .
+      [ character:  Regente . —]
+      [ 1176 ]  Que El-Rei faça o seu de-ver , eu farei o meu .
+      [ 1177 ]  Nada mais deseja El-Rei ?
+      [ character:  Silveira . —]
+      [ 1178 ]  Senhor , sim .
+      [ 1179 ]  Ele vos manda que deixeis passar , para Lisboa , o Duque de Bragança , que por seu mandado vai e a quem há quinze dias ousais impedir a passagem .
+      [ character:  Regente . —]
+      [ 1180 ]  Que o senhor duque entre em minhas terras , com o séquito que pertence a sua pessoa , que passará sem estorvo e eu o receberei como irmão e amigo .
+      [ 1181 ]  Como vem ?
+      [ 1182 ]  Não .
+      [ character:  Silveira . —]
+      [ 1183 ]  Os seus homens de armas ...
+      [ character:  Regente . —]
+      [ 1183 ]  ( Colérico ) .
+      [ 1184 ]  Não são séquito de viagem de nenhum príncipe , quatro mil peões , afora cavaleiros .
+      [ 1185 ]  Acaba de expulsar de todos os castelos os meus leais amigos , como se fora o rei e para dar-se a última prova da sua grandeza e poderio resolveu atravessar os meus domínios em som de guerra , porque vai à corte .
+      [ 1186 ]  Consinto ? :
+      [ 1187 ]  Passará altivo , humilhando-me , pisando com as patas dos seus cavalos a minha soberania em meus domínios ?
+      [ 1188 ]  Não consinto ? :
+      [ 1189 ]  Isso será opor-me às or-dens de El-Rei , rebelar-me !
+      [ 1190 ]  É um dilema .
+      [ 1191 ]  Conheço a cilada .
+      [ 1192 ]  Não passará .
+      [ character:  Silveira . —]
+      [ 1193 ]  Senhor , perdoai o que para vossas respostas me manda declarar-vos El-Rei .
+      [ 1194 ]  Entregai-me as armas e deixai passar o Duque — senão , além de serdes considerado rebelde , perdereis , desde já , todas as vossas tenças e rendas da corte !
+      [ character:  Regente . —]
+      [ 1194 ]  ( Com dignidade ) .
+      [ 1195 ]  El-Rei poderá empobrecer-me ; mas não me levará a consentir mácula em minha honra de cavaleiro .
+      [ 1196 ]  Eis a minha resposta e última !
+      [ character:  Silveira . —]
+      [ 1197 ]  Senhor , que Deus vos tenha em sua santa guarda .
+      [ 1198 ]  Cavaleiros .
+      [ 1198 ]  ( Corteja e sai ) .
+      [ character:  Regente . —]
+      [ 1199 ]  Que mais inventará a astúcia do Duque e dos seus amigos ?!
+      [ 1200 ]  Conseguirão enlouquecer-me .
+      [ 1201 ]  A paciência humana tem um limite no ódio e na vingança .
+      [ character:  Avranches . —]
+      [ 1202 ]  Serenai , meu Senhor ; sereis forçado a antepor , a final , à vossa altiva bondade o brio da vossa raça e o orgulho do vosso sangue .
+      [ 1203 ]  Eu vos preveni .
+      [ character:  Regente . —]
+      [ 1204 ]  O que oprime a minha alma é a dor da injustiça , conde !
+      [ 1205 ]  É o meu coração e não a minha honra que eles ferem .
+      [ 1206 ]  Essa defenderei eu contra todos os duques e todos os reis da terra !
+      [ character:  Pagem . —]
+      [ 1207 ]  Meu senhor .
+      [ character:  Regente . —]
+      [ 1208 ]  Dizei .
+      [ character:  Pagem . —]
+      [ 1209 ]  Procura-vos um novo emissário do senhor Duque de Bragança .
+      [ character:  Regente . —]
+      [ 1209 ]  ( Exaltado ) .
+      [ 1210 ]  Ainda outro ?
+      [ 1211 ]  Para quê ?
+      [ 1212 ]  Já respondi ao duque !
+      [ character:  Avranches . —]
+      [ 1213 ]  Recebei-o , senhor .
+      [ character:  Regente . —]
+      [ 1214 ]  Sim ?
+      [ 1215 ]  Que terei a fazer ?
+      [ 1216 ]  Não sou aqui o joguete de El-Rei ?
+      [ 1217 ]  O momo dos seus vassalos ?
+      [ 1218 ]  Sou eu que divirto a corte !
+      [ 1219 ]  Um príncipe que descaiu em bobo !
+      [ character:  Avranches . —]
+      [ 1220 ]  Oh ! oh !
+      [ 1221 ]  Enegrece a tormenta , o raio vem perto !
+      [ character:  Regente . —]
+      [ 1222 ]  Sim , fazei entrar .
+      [ 1222 ]  ( O pagem sai ) .
+      [ 1223 ]  O rei , o duque , o filho , o servo , todos têm o direito de mandar em minha casa !
+      [ 1224 ]  Pedem licença ainda ... hoje ... amanhã ...
+      [ 1224 ]  ( Ri nervoso , serena e senta-se ) .
+      [ character:  Mensageiro . —]
+      [ 1224 ]  ( Entra , inclina-se ) .
+      [ 1225 ]  O muito nobre senhor e Duque de Bragança , meu amo , de novo me envia ante vós , mais uma vez , que permitais a sua passagem , que como amigo vem e não a fazer-vos afronta ou agravo .
+      [ 1226 ]  Que é este o caminho de Lisboa onde El-Rei Nosso Senhor o manda que vá e por ele deseja seguir .
+      [ 1227 ]  Que os homens de armas que traz , o seguem , como de costume , por segurança pessoal e não em propósito de rixa !
+      [ 1228 ]  Sede servido ...
+      [ character:  Regente . —]
+      [ 1228 ]  ( Levanta-se terrível ) .
+      [ 1229 ]  É falso .
+      [ character:  Mensageiro . —]
+      [ 1230 ]  Senhor Duque .
+      [ character:  Regente . —]
+      [ 1231 ]  Mentis , vós , e o vosso Duque .
+      [ 1232 ]  Todos os caminhos vão a Roma e não é séquito de paz a hoste que o acompanha !
+      [ 1232 ]  ( Passeia pela sala furioso de cólera ; de súbito para em frente do emissário ) .
+      [ 1233 ]  Mas não !
+      [ 1234 ]  Mil vezes não !
+      [ 1235 ]  Por São Miguel , meu patrono , as injúrias do rei e os insultos do vassalo vão acabar de vez !
+      [ 1236 ]  Sabeis quem sou ? vós ?
+      [ 1237 ]  Dizei presto .
+      [ character:  Mensageiro . —]
+      [ 1238 ]  Sois Dom Pedro .
+      [ character:  Regente . —]
+      [ 1239 ]  Ainda o conheceis !
+      [ 1240 ]  O que foi regente , o que te fez nobre a ti , e rico ao teu senhor , esse a quem obedeces , como perro esfaimado à cata de outro osso !
+      [ 1241 ]  Mas sou ainda o mesmo homem , príncipe de Portugal , Duque de Coimbra , senhor dos meus castelos e das vidas dos refalsados que estejam dentro deles !
+      [ 1242 ]  Como ! tu e o teu senhor , essa velha carcaça avara de Judeu , pensais que a minha paciência é infinita , como a minha resignação , como a minha humildade ?
+      [ 1242 ]  ( Dominando-o com a figura ) .
+      [ 1243 ]  Diz : que alma te traz aqui ?
+      [ 1244 ]  Vens cumprir um mandato infamante e ousas vir ?
+      [ 1245 ]  Crês tu que Deus protege sempre os vis e os hipócritas ?
+      [ 1246 ]  Rirás tu do meu braço , crendo que deixei em Ceuta todo o sangue do Mestre d'Aviz ?
+      [ 1247 ]  Repara .
+      [ 1247 ]  ( Agarra-o pelo pescoço e fá-lo cair ) .
+      [ character:  Mensageiro . —]
+      [ 1248 ]  Príncipe !
+      [ character:  Regente . —]
+      [ 1248 ]  ( Levando a mão ao punhal ) .
+      [ 1249 ]  Raça de traidores !
+      [ character:  Avranches . —]
+      [ 1250 ]  Senhor , a cavalaria proíbe ...
+      [ character:  Regente . —]
+      [ 1250 ]  ( Larga-o ) .
+      [ 1251 ]  Vai-te !
+      [ 1252 ]  Vai-te !
+      [ 1252 ]  ( O mensageiro cumprimenta-o e vai a sair ) .
+      [ 1253 ]  Eh !
+      [ 1254 ]  Eh !
+      [ 1255 ]  Diz a teu amo de para sempre que não ! que não !
+      [ 1256 ]  Que nem o pé dum besteiro , nem a pata de um cavalo , ou a sombra de uma lança , pouse em terra minha , que se não lhe arrancarei as barbas e com elas o enforcarei na primeira figueira da estrada , como Judas que é !
+      [ 1257 ]  Vai , diz , que eu vou pela resposta .
+      [ 1257 ]  ( Aos nobres ) .
+      [ 1258 ]  A cavalo , senhores !
+      [ 1258 ]  ( Sai , seguem-no todos ) .
+      [ title:  QUADRO IX ]
+      [ title:  Lisboa . Saleta do paço .]
+      [ character:  Rei . —]
+      [ 1258 ]  ( Entrando com a comitiva ) .
+      [ 1259 ]  Visto ser chegado Vasco Martins com a resposta do infante , meu tio , mandai-o ante mim .
+      [ 1260 ]  Aqui ouvirei a última resolução do infante , desejando que ela seja do meu agrado , para sossego do reino e alegria da rainha sua filha e minha senhora .
+      [ character:  Berrêdo . —]
+      [ 1261 ]  Pelo ar de Vasco Martins se me afigura , meu senhor , que a resposta de vosso tio não aprazerá .
+      [ character:  Rei . —]
+      [ 1262 ]  Pois mal lhe irá , porque de todo se me vai a paciência contra suas teimas e caprichos .
+      [ character:  Berrêdo . —]
+      [ 1263 ]  O seu orgulho não conhece obediência .
+      [ character:  Rei . —]
+      [ 1264 ]  Eu o abaterei .
+      [ 1264 ]  ( Entra Martins ) .
+      [ 1265 ]  Vejamos Dom Vasco , o que respondeu meu tio às minhas ordens ?
+      [ character:  Martins . —]
+      [ 1266 ]  Senhor , ele se escusou do melhor modo que pôde , no mais claro espírito de rebeldia .
+      [ character:  Rei . —]
+      [ 1267 ]  As armas ?
+      [ character:  Martins . —]
+      [ 1268 ]  Ele as recusou , Senhor .
+      [ character:  Rei . —]
+      [ 1269 ]  Como ?
+      [ character:  Martins . —]
+      [ 1270 ]  Dizendo que as armas que possuía eram em sua mão para vossa defesa .
+      [ character:  Rei . —]
+      [ 1271 ]  Dispenso-lhe o auxílio .
+      [ 1272 ]  Entregue-as .
+      [ character:  Martins . —]
+      [ 1273 ]  Respondeu que entregá-las era desarmar-se e cair nas mãos dos seus inimigos .
+      [ 1274 ]  Que vo-las pagaria , ou lhe désseis tempo de mandar por outras .
+      [ character:  Ourem . —]
+      [ 1275 ]  Vede o rebelde , senhor ; jamais um vassalo ousou falar tão altivamente a seu rei .
+      [ character:  Rei . —]
+      [ 1276 ]  E sobre a passagem do Duque o que respondeu ?
+      [ character:  Martins . —]
+      [ 1277 ]  Que , não !
+      [ 1278 ]  Que não passaria em pé de guerra .
+      [ 1279 ]  Que se desarmasse e fosse a seu contento , que como irmão e amigo o receberia ; mas com gentes de armas , maior do que o seu costumado e dado séquito , que não !
+      [ 1280 ]  Que primeiro se levantaria contra o próprio rei , do que sofreria dano em sua vontade e honra !
+      [ 1281 ]  Que era vassalo de Castela e não do rei de Portugal ...
+      [ character:  Rei . —]
+      [ 1282 ]  Tal disse ?
+      [ 1282 ]  ( Espanto geral ) .
+      [ character:  Martins . —]
+      [ 1283 ]  E mais : que assim o proclamaria se preciso fosse e faria respeitar seus direitos .
+      [ character:  Rei . —]
+      [ 1284 ]  Por Deus , que o senhor Duque ousa levantar , de mais , a cabeça !
+      [ 1285 ]  É preciso mostrar-lhe que sou o rei !
+      [ 1286 ]  Toda a minha complacência acabou !
+      [ 1287 ]  Conde , fazei publicar os éditos declarando-o rebelde e todos os que com ele forem e no prazo de três dias não venham para nós .
+      [ 1288 ]  Que se façam os aprestos de guerra , e ordenai a todos os fidalgos que sejam prontos em dez dias .
+      [ 1289 ]  Iremos arrancá-lo ao seu castelo e esmagar de uma vez tanta audácia e orgulho !
+      [ 1290 ]  Que pena terá merecido ?
+      [ character:  Ourem . —]
+      [ 1291 ]  Os traidores merecem a morte !
+      [ character:  Arcebispo . —]
+      [ 1292 ]  Prender-se-á numa torre .
+      [ 1293 ]  É um príncipe .
+      [ character:  Berrêdo . —]
+      [ 1294 ]  O desterro .
+      [ character:  Pagem . —]
+      [ 1295 ]  A rainha .
+      [ 1295 ]  ( A comitiva da rainha não entra ) .
+      [ character:  Rainha . —]
+      [ 1295 ]  ( Entrando ) .
+      [ 1296 ]  Peço para vos falar , a sós , meu senhor .
+      [ character:  Rei . —]
+      [ 1297 ]  Escutai o que vos disse .
+      [ 1298 ]  Deixai-me .
+      [ character:  Arcebispo . —]
+      [ 1298 ]  ( Ao beijar-lhe a mão ) .
+      [ 1299 ]  Acautelai-vos contra as suas lágrimas , senhor .
+      [ 1299 ]  ( Saem ) .
+      [ character:  Rainha . —]
+      [ 1300 ]  Meu senhor , a resposta de Coimbra ? ...
+      [ character:  Rei . —]
+      [ 1301 ]  A mais audaz que um vassalo pode dizer a um rei ?
+      [ character:  Rainha . —]
+      [ 1302 ]  Recusou ?
+      [ character:  Rei . —]
+      [ 1303 ]  Ameaçou-me !
+      [ character:  Rainha . —]
+      [ 1304 ]  A vós ?
+      [ character:  Rei . —]
+      [ 1305 ]  A mim !
+      [ character:  Rainha . —]
+      [ 1306 ]  Eu o duvido , senhor .
+      [ character:  Rei . —]
+      [ 1307 ]  Sabê-lo-eis , em breve .
+      [ 1308 ]  Que irei por ele e em ferros perderá suas manhas de rebeldia e de audácia !
+      [ character:  Rainha . —]
+      [ 1308 ]  ( De joelhos ) .
+      [ 1309 ]  Ó meu senhor , entrego ao vosso coração bondoso a sorte de um pai !
+      [ 1310 ]  Não o acrediteis culpado !
+      [ 1311 ]  Conheço-lhe a alma boa , e o caráter leal !
+      [ character:  Rei . —]
+      [ 1312 ]  Levantai-vos .
+      [ 1312 ]  ( Levanta-a ) .
+      [ 1313 ]  As suas ações desmentem a sua lealdade .
+      [ character:  Rainha . —]
+      [ 1314 ]  Meu senhor , a verdade é tanta vez difícil de ver .
+      [ 1315 ]  Creio que me tendes amor e tendes obrado , ultimamente , como se vos fosse indiferente .
+      [ character:  Rei . —]
+      [ 1316 ]  Eu ?
+      [ character:  Rainha . —]
+      [ 1317 ]  Vós sim .
+      [ 1318 ]  Perdoai ...
+      [ 1319 ]  Aconselharam-vos ...
+      [ 1320 ]  Os conselheiros têm posto sobre a verdade a capa da calúnia !
+      [ 1321 ]  Acautelai-vos , senhor , que esta capa é sempre tão negra que não há luz que a atravesse e tão pesada que se não levanta com o peso dos crimes e das ambições que a pejam .
+      [ character:  Rei . —]
+      [ 1322 ]  Tendes uma língua de oiro : lembrais vosso pai falando .
+      [ character:  Rainha . —]
+      [ 1323 ]  Sou filha dele , que muito sabe porque viu as sete partidas do mundo !
+      [ 1324 ]  Ele sabe como se usupa um trono : teve-o dez anos na mão e entregou-vo-lo quando devia !
+      [ 1325 ]  E olhai que foi , como vosso avô , o rei do povo ; que a sua espada corta arneses como a do melhor cavaleiro .
+      [ character:  Rei . —]
+      [ 1326 ]  É do vosso bom coração o calor da defesa .
+      [ character:  Rainha . —]
+      [ 1327 ]  Só a culpa a merece e ele não é culpado .
+      [ character:  Rei . —]
+      [ 1328 ]  Quem vo-lo afirma ?
+      [ character:  Rainha . —]
+      [ 1329 ]  Sinto-o , no coração .
+      [ 1330 ]  Guardou-vos lealmente o trono , saiu como entrou , sem um grau a mais na fortuna ou nas honras e os que o acusam , a esses , ele os fez ricos e grandes !
+      [ 1331 ]  A ingratidão é a irmã do ódio !
+      [ character:  Rei . —]
+      [ 1331 ]  ( Indeciso ) .
+      [ 1332 ]  Ele pedirá perdão ?
+      [ character:  Rainha . —]
+      [ 1333 ]  Pedi-lho com todo o meu amor e com todas as minhas lágrimas .
+      [ character:  Rei . —]
+      [ 1334 ]  Perdoar-lhe-ei .
+      [ 1335 ]  Não se dirá que o receei ou me dominastes .
+      [ character:  Rainha . —]
+      [ 1336 ]  Adoro o vosso amor , detestaria a vossa obediência .
+      [ character:  Rei . —]
+      [ 1336 ]  ( Meigo ) .
+      [ 1337 ]  Prazer-me-ia o sossegar na sua lealdade e dar descanso ao vosso coração de filha .
+      [ 1338 ]  Pagar-vos-ei , bem que mal , quanto devo à vossa bondade .
+      [ character:  Rainha . —]
+      [ 1339 ]  Nada me deveis , Senhor .
+      [ 1340 ]  Afeiçoei ao vosso amor toda a minha vida ; sois bom , eu não saberia ser doutro modo .
+      [ character:  Rei . —]
+      [ 1340 ]  ( Irônico e meigo , beijando-a na testa ) .
+      [ 1341 ]  A minha bondade não cala as vossas censuras !
+      [ character:  Rainha . —]
+      [ 1342 ]  Nunca vos censurei .
+      [ 1343 ]  Peço meu Senhor .
+      [ 1344 ]  Guardai-vos dos que só louvam , dos lisonjeiros .
+      [ 1345 ]  A sua língua é como aquela vinha da Judeia , doce e amarga !
+      [ 1345 ]  ( Ouve-se tropel fora .
+      [ 1345 ]  O rei vai à janela .
+      [ 1345 ]  Com espanto ) .
+      [ 1346 ]  O Duque de Bragança !
+      [ 1347 ]  ( A rainha levanta-se pálida .
+      [ 1348 ]  O rei vai a dirigir-se à porta ) .
+      [ character:  Ourem . —]
+      [ 1348 ]  ( Entrando ) .
+      [ 1349 ]  Meu pai e senhor pede para vos falar , já , Senhor .
+      [ character:  Rei . —]
+      [ 1350 ]  Que nova traz ?
+      [ 1351 ]  Cedeu o infante ?
+      [ 1352 ]  Deixou-o passar ?
+      [ character:  Ourem . —]
+      [ 1353 ]  Vós o ouvireis , Senhor .
+      [ character:  Rei . —]
+      [ 1354 ]  Que venha .
+      [ character:  Rainha . —]
+      [ 1355 ]  Senhor ...
+      [ character:  Rei . —]
+      [ 1356 ]  Atendei .
+      [ 1357 ]  ( O duque entra , coberto de pó , arrastando-se cansado , a cabeça inclinada sobre o peito , seguido dalguns homens estropiados e da corte .
+      [ 1358 ]  Damas , fidalgos , etc. )
+      [ character:  Duque . —]
+      [ 1358 ]  ( Joelhando ) .
+      [ 1359 ]  Justiça , meu Senhor , Justiça !
+      [ character:  Rei . —]
+      [ 1360 ]  Meu velho duque , que estranho caso vos mostra , ante mim , em tão miserando estado ?
+      [ 1360 ]  ( Levanta-o ) .
+      [ character:  Duque . —]
+      [ 1361 ]  Senhor , o rebelde !
+      [ 1362 ]  Zombou dos meus anos , da minha fraqueza de velho !
+      [ 1363 ]  Forte e poderoso saiu-me ao caminho , em lugar azado e aí se preparava a destroçar-me a hoste !
+      [ 1364 ]  Deus me ouve , Senhor .
+      [ 1365 ]  Li a traição em muitos que me seguiam e cairia em suas mãos , dele !
+      [ 1366 ]  Chamei a mim em lugar escuso alguns cavaleiros fiéis e fugimos , de noite , galgando as serranias de Estrela .
+      [ 1367 ]  A noite foi terrível : gelava o ar , caía , em turbilhões , a neve , e por precipícios e algares nos salvamos milagrosamente !
+      [ 1368 ]  Uma só noite , Senhor , vergou a minha cabeça mais baixo do que o correr de longos anos !
+      [ 1369 ]  Vós sois o Rei ?
+      [ 1370 ]  Eu peço justiça !
+      [ 1371 ]  Cumpria as vossas ordens : o insulto é feito a vós , a vós !...
+      [ character:  Rei . —]
+      [ 1372 ]  Tê-la-eis , Duque de Bragança !
+      [ 1373 ]  A rebeldia é um crime que um rei não pode perdoar !
+      [ 1374 ]  O Duque de Coimbra não zombará debalde dos meus poucos anos !
+      [ 1375 ]  Acumulou sobre a sua cabeça a minha justa cólera .
+      [ 1376 ]  Ela responder-me-á pela sua lealdade .
+      [ character:  Rainha . —]
+      [ 1377 ]  Senhor , perdoai-lhe .
+      [ 1378 ]  Adiai o vosso castigo para o poderdes meditar com ânimo sereno .
+      [ 1378 ]  ( Chora ) .
+      [ character:  Rei . —]
+      [ 1379 ]  Senhora , não choreis que tenho de não ver as vossas lágrimas !
+      [ 1380 ]  Como perdoar-lhe ?
+      [ 1381 ]  Não vedes que me insulta a toda a hora , desprezando as minhas ordens , estropiando os meus vassalos , insultando a minha autoridade de Rei e Senhor ?
+      [ 1382 ]  Desde criança a magoar-me : revoltou-se contra minha mãe , obrigou-a a fugir , que lá morreu no desterro , pobre , de esmolas !
+      [ character:  Rainha . —]
+      [ 1383 ]  Não foi sua a culpa ...
+      [ character:  Rei . —]
+      [ 1384 ]  Mando-o entregar-me as armas , recusa ; mando-o deixar passar o Du-que , recusa ; é sempre fiel e nunca obedece !
+      [ character:  Rainha . —]
+      [ 1385 ]  Um rei não pode ferir a honra de um vassalo leal !
+      [ character:  Rei . —]
+      [ 1386 ]  Lealdade aparente onde a perfídia está aninhada como uma víbora na erva !
+      [ character:  Rainha . —]
+      [ 1386 ]  ( Altiva ) .
+      [ 1387 ]  Perdoai-me , meu Senhor e meu Rei .
+      [ 1388 ]  Vós o odiais , agora o reconheço , eu o amo !
+      [ 1389 ]  Fazei como entenderdes ser justo .
+      [ 1390 ]  Perdoai-me as súplicas ; eu fiz o meu dever , fazei vós o que julgardes ser o vosso .
+      [ 1390 ]  ( Sai ) .
+      [ character:  Duque . —]
+      [ 1391 ]  O que ordenais ?
+      [ character:  Rei. —]
+      [ 1392 ]  Em dez dias a guerra , sem tréguas .
+      [ 1393 ]  Sou o rei , ele um rebelde .
+      [ 1394 ]  Tê-lo-ei , vivo ou morto !
+      [ character:  Duque . —]
+      [ 1395 ]  Não recuareis , mais uma vez ?
+      [ character:  Rei. —]
+      [ 1396 ]  Empenho a minha palavra de rei , por vossa honra .
+      [ 1397 ]  Estais satisfeito ?
+      [ character:  Duque . —]
+      [ 1398 ]  Beijo-vos as mãos , meu Senhor , pela mercê .
+      [ 1399 ]  ( O rei a sair com a comitiva .
+      [ 1400 ]  O conde de Ourem ao pai que está pensativo ; abraçando-o ) .
+      [ character:  Ourem . —]
+      [ 1401 ]  Em que pensais , pai e senhor , na vingança ?
+      [ character:  Duque . —]
+      [ 1401 ]  ( Com olhar vivo ) .
+      [ 1402 ]  Enfim !
+      [ 1402 ]  ( Saem ) .
+      [ 1402 ]  — Fim do 4.° ato .
+      [ title:  QUADRO X ]
+      [ title:  Coimbra , Salão de Dom Pedro]
+      [ character:  Regente . —]
+      [ 1402 ]  ( Entre os fidalgos ) .
+      [ 1403 ]  Fazei entrar o emissário da corte .
+      [ 1403 ]  ( Senta-se .
+      [ 1403 ]  Dom Alvaro entra ) .
+      [ 1404 ]  Sois vós Dom Alvaro ?
+      [ 1405 ]  Folgo de vos ver .
+      [ 1406 ]  Como vai minha filha e El-Rei nosso Senhor ?
+      [ character:  Dom Alvaro de Castro . —]
+      [ 1407 ]  Vossa filha , Senhor , como muito que vos quer , vive na maior dor !
+      [ 1408 ]  As lágrimas são o único consolo da sua vida .
+      [ 1409 ]  Dia e noite Deus ouve as suas orações inundadas de prantos .
+      [ character:  Regente . —]
+      [ 1410 ]  Tristes são pois as novas que me trazeis !
+      [ character:  Castro . —]
+      [ 1411 ]  As piores .
+      [ 1412 ]  E perdoai-me , Senhor , que seja eu que vo-las traga .
+      [ 1413 ]  Mas , nisto creio fazer-vos favor e à muito nobre Rainha minha Senhora e vossa filha , que de mim confiou que lealmente fizesse seu recado !
+      [ character:  Regente . —]
+      [ 1414 ]  Leal sois e cavaleiro .
+      [ 1415 ]  Dizei-me o que vos traz .
+      [ character:  Castro . —]
+      [ 1415 ]  ( Tira-a ) .
+      [ 1416 ]  A carta de sua alteza vos esclarecerá !
+      [ 1417 ]  Preparai o espírito , senhor , que se há sido longa a série de vossas dores , elas não tocam o fim .
+      [ character:  Regente . —]
+      [ 1418 ]  Lede-a vós , fazei-me a graça .
+      [ character:  Castro . —]
+      [ 1418 ]  ( Lê ) .
+      [ 1419 ]  « Meu muito amado pai e senhor .
+      [ 1420 ]  Eu a Rainha vossa filha vos envio muito saudar como àquele que do coração muito quero e amo .
+      [ 1421 ]  Meu pai e Senhor , o Duque é chegado , aqui , em miserável estado , contando que de vós fora tratado indignamente , a ter de fugir , que o mataríeis se o pilhásseis !
+      [ 1422 ]  Que havíeis dito serdes vassalo de Castela e não de Portugal e assim o faríeis sentir a El-Rei e outras más novas que escuso .
+      [ 1423 ]  E assim foi em El-Rei tão grande cólera , que logo fez publicar éditos , nomeando-vos rebelde e todos os que são convosco se no prazo de três dias não vierem para El-Rei .
+      [ 1424 ]  E mais resolveu , para logo , que se fizessem apercebimentos de guerra para que no quinto de maio próximo , em pessoa , vá tomar-vos e fazer valer seus direitos .
+      [ 1425 ]  E se resolveu em conselho que tomado que sejais , sereis ou morto , ou preso em uma torre , ou desterrado , e confiscados todos os vossos bens !
+      [ 1426 ]  Com a esperança de vos salvar me lancei aos pés de El-Rei , meu Senhor , e com muitas lágrimas lhe pedi vosso perdão !
+      [ 1427 ]  E vendo a minha grande dor e choro e aflições , El-Rei me prometeu perdoar-vos se , em público , lhe pedísseis perdão do que haveis feito e dito .
+      [ 1428 ]  De joelhos , com minhas lágrimas e com todo o meu amor por vós , vos peço , que assim queirais fazer logo que virdes El-Rei , como bom que sois , perdoador de ofensas e agravos !
+      [ 1429 ]  Que assim me ensinastes que se deva fazer e bem mais os príncipes como exemplo .
+      [ 1430 ]  Meu senhor e pai , peço-vos que olheis , como sou , entre o vosso amor e o amor de El-Rei , e que queirais trazer-me o sossego e ao reino ...
+      [ character:  Regente . —]
+      [ 1430 ]  ( Comovido ) .
+      [ 1431 ]  Dai-me essa carta .
+      [ 1431 ]  ( Toma-a , aperta-a nervosamente .
+      [ 1431 ]  Silêncio ) .
+      [ 1432 ]  Como vai El-Rei ?
+      [ character:  Castro . —]
+      [ 1433 ]  Bom , Senhor .
+      [ character:  Regente . —]
+      [ 1434 ]  Ainda fragueiro e caçador ?
+      [ character:  Castro . —]
+      [ 1435 ]  Como sempre .
+      [ 1436 ]  É o seu maior prazer , o caçar .
+      [ character:  Regente . —]
+      [ 1437 ]  É para cavaleiro boa escola o montear .
+      [ 1437 ]  ( Pausa ) .
+      [ 1438 ]  Que Deus proteja El-Rei .
+      [ 1438 ]  ( Levanta-se ) .
+      [ 1439 ]  Podeis retirar-vos Dom Alvaro .
+      [ 1440 ]  Deveis ter mister de comer e de repouso .
+      [ 1440 ]  ( A um pagem ) .
+      [ 1441 ]  Acompanhai-o e servi-o .
+      [ character:  Castro . —]
+      [ 1442 ]  Voltarei pela resposta , Senhor ?
+      [ character:  Regente . —]
+      [ 1443 ]  Sim .
+      [ 1444 ]  Podeis ouvi-la ; é esta : pedir perdão é confessar uma culpa ; nenhuma tenho na consciência , não o farei nunca !
+      [ 1445 ]  Irei pedir justiça !
+      [ 1446 ]  É com El-Rei o ouvir-me .
+      [ 1446 ]  ( Dom Alvaro de Castro sai .
+      [ 1446 ]  Abatido ) .
+      [ 1447 ]  A morte começa a bater-me à porta da vida .
+      [ 1447 ]  ( Aos fidal- gos ) .
+      [ 1448 ]  Necessito de vós , dos vossos conselhos , amigos !
+      [ 1448 ]  ( Senta-se e cai em choro ) .
+      [ 1449 ]  Preso aos cinquenta e sete anos !
+      [ 1450 ]  Hei-de suportar ferros da justiça em minhas carnes !
+      [ 1451 ]  Desterrado um filho de Dom João I !
+      [ 1452 ]  Velho e pedinte em terra estranha onde passei honrado ...
+      [ 1452 ]  ( Levanta os olhos ao céu ) .
+      [ 1453 ]  A minha tenção é morrer !
+      [ 1454 ]  Amigos , aconselhai-me .
+      [ 1455 ]  Pedir perdão a El-Rei , publicamente , é confessar-me criminoso !
+      [ 1456 ]  Eles o aproveitariam ?
+      [ 1457 ]  E para quê ?
+      [ 1458 ]  De que servirá ?
+      [ 1459 ]  O ódio de El-Rei vive no ódio dos conselheiros !
+      [ 1460 ]  Antes tenham remorsos da minha morte , do que eu vergonha de viver !
+      [ 1461 ]  Devo morrer ?
+      [ 1462 ]  Que dizeis ?
+      [ 1463 ]  Falai vós , vós que ficais ao pé de mim depois dos éditos que vos tornam rebeldes !
+      [ 1464 ]  Amigos , falai , quero o vosso conselho .
+      [ character:  Affonso . —]
+      [ 1465 ]  A mim me parece , Senhor , que não deve ir procurar-se a morte ; basta esperá-la .
+      [ 1466 ]  Fortifiquemo-nos em vossos castelos ; aqui em Coimbra , em Penela e Montemor .
+      [ 1467 ]  El-Rei não tem forças para vos cercar e vencer .
+      [ 1468 ]  Levará tempo a luta .
+      [ 1469 ]  Poderá reconsiderar .
+      [ 1470 ]  El-Rei é moço , o tempo é um bom mestre .
+      [ character:  Vozes . —]
+      [ 1471 ]  É sensato .
+      [ character:  Regente . —]
+      [ 1472 ]  É demorado o remédio e grave a doença .
+      [ character:  Azevedo . —]
+      [ 1473 ]  Meu Senhor , para um cavaleiro da Jarreteira é desumano esperar o cerco .
+      [ 1474 ]  Fortifiquem-se embora os castelos , mas retiremos sobre o Douro onde encontraremos reforço .
+      [ 1475 ]  Desçamos à Beira e de lá à Riba-Guadiana , às terras de Dom Pedro vosso filho , o condestável .
+      [ character:  Vozes . —]
+      [ 1476 ]  Dizeis acertado .
+      [ 1477 ]  Somos por vós .
+      [ character:  Regente . —]
+      [ 1478 ]  A estas horas meu filho não terá seu castelo .
+      [ 1479 ]  Não terá querido juntar a sua rebeldia à minha .
+      [ 1480 ]  E vós Dom Alvaro ?
+      [ character:  Azevedo . —]
+      [ 1481 ]  Senhor , a minha opinião vós a sabeis e sentis como eu .
+      [ 1482 ]  Antes morrer grande e honrado do que pequeno e miserável !
+      [ 1483 ]  O que há a fazer é armarmo-nos e irmos a Santarém intimar El-Rei a que vos ouça e acabar falsidades e enganos !
+      [ 1484 ]  E se El-Rei não quiser ouvir-vos , morramos todos no campo como bons e leais cavaleiros !
+      [ character:  Regente . —]
+      [ 1485 ]  Conde , esse é o meu voto .
+      [ 1485 ]  ( Aos fidalgos ) .
+      [ 1486 ]  Sois livres em o aceitar ou rejeitar .
+      [ 1487 ]  Ao romper da alva partirei .
+      [ 1488 ]  Quem for por mim que me siga .
+      [ character:  Fidalgos . —]
+      [ 1489 ]  Senhor , todos .
+      [ character:  Regente . —]
+      [ 1490 ]  Pois ide preparar-vos .
+      [ 1491 ]  Recebei os meus emboras , cavaleiros !
+      [ 1492 ]  Ao romper da alva .
+      [ 1492 ]  ( Os fidalgos saem )
+      [ 1493 ]  Conde , sabeis que sinto já minha alma aborrecida de viver neste corpo e desejosa de deixar suas paixões e tristezas !
+      [ 1494 ]  Pois que as coisas me não obedecem , determino morrer , acabar de uma vez e não aos pedaços !
+      [ 1495 ]  Pela criação que vos fiz , pela irmandade que merecestes ter na santa e honrada ordem da Jarreteira em que somos confrades , e principalmente pela vossa bondade e esforço quero saber se no dia em que deste mundo partir quereis , também , ser meu companheiro !
+      [ character:  Avranches . —]
+      [ 1496 ]  Serei contente em ter-vos companhia , na morte , como vo-la tive na vida !
+      [ 1497 ]  Se Deus mandar que vos-sa alma do mundo se parta , sede certo que a minha a seguirá logo !
+      [ 1498 ]  E se as almas , no outro mundo , podem receber serviços umas das outras , a minha , desde esse dia , irá acompanhar e servir , para sempre , a vossa !
+      [ character:  Regente . —]
+      [ 1499 ]  Isto vos proponho que assentemos , por juramento , junto ao altar , sobre a hóstia sacrossanta !
+      [ character:  Avranches . —]
+      [ 1500 ]  Príncipe , a minha vontade como a minha vida são escravas da vossa !
+      [ character:  Regente . —]
+      [ 1501 ]  Na igreja de São Thiago , à hora de prima .
+      [ character:  Avranches . —]
+      [ 1502 ]  Ali serei .
+      [ character:  Regente . —]
+      [ 1503 ]  Ficai com Deus !
+      [ 1504 ]  Até lá !
+      [ 1504 ]  ( Sai ) .
+      [ character:  Avranches . —]
+      [ 1505 ]  Senhor .
+      [ title:  QUADRO XI ]
+      [ title:  Capela-mor , na igreja de São Tiago , em Coimbra .]
+      [ 1506 ]  ( Dom Alvaro Almada junto ao altar-mor , iluminado , encostado à espada longa .
+      [ 1507 ]  Dom Pedro aos pés do Prior ) .
+      [ character:  O Prior . —]
+      [ 1508 ]  Príncipe , deixai-me repetir , pela última vez , o que hei dito ao nobre conde de Avranches .
+      [ 1509 ]  A Deus não apraz o voto de morrer , como pagão que é .
+      [ 1510 ]  A ele , só , pertence dar ou tirar a vida .
+      [ character:  Regente . —]
+      [ 1511 ]  Padre , sossegai a consciência !
+      [ 1512 ]  Os nossos punhais estão na bainha e não é na sua lâmina feita para inimigos que acharemos a morte !
+      [ 1513 ]  Juraremos morrer pela Justiça , um atributo de Deus ; vamos pedi-la e tendo-a , não morreremos !
+      [ 1514 ]  Com honra , Deus nos dê longos anos de vida , porque a terra é a natural morada do homem enquanto envolto na carne !
+      [ 1515 ]  Nela temos os frutos do nosso amor e do nosso sangue !
+      [ character:  O Prior . —]
+      [ 1516 ]  Deus proteja a vossa causa e ilumine a vossa alma .
+      [ 1517 ]  Eu vos absolvo em nome do Padre do Filho e do Espírito Santo .
+      [ 1517 ]  ( Levantam-se ) .
+      [ 1518 ]  Dignai-vos esperar-me um instante .
+      [ 1518 ]  ( Sai ) .
+      [ character:  Regente . —]
+      [ 1519 ]  Tudo está pronto ; o corpo e a alma .
+      [ character:  Avranches . —]
+      [ 1520 ]  Assim é de jus para a grande viagem , se nos for mister .
+      [ 1521 ]  Bem maior será do que a outra que fizestes e coisa será de ver que menos lustre vos dará do que a primeira .
+      [ character:  Regente . —]
+      [ 1522 ]  Como assim ?
+      [ character:  Avranches . —]
+      [ 1523 ]  Não haverá cronista que a imprima .
+      [ character:  Regente . —]
+      [ 1524 ]  Decerto .
+      [ 1525 ]  « Esta é a viagem donde romeiro algum jamais voltou . »
+      [ 1526 ]  ( O padre entra revestido , com dois acólitos .
+      [ 1527 ]  Abre o sacrário , tira a ânfo- ra .
+      [ 1528 ]  O órgão preludia .
+      [ 1529 ]  Os dois de pé , estendendo as mãos sobre a hóstia ) .
+      [ character:  Regente . —]
+      [ 1530 ]  Em nome do Deus poderoso e justo , sobre a forma consagrada do seu sagrado e adorado corpo , eu Dom Pedro , Infante de Portugal , duque de Coimbra , confrade na nobre e honrada Ordem da Jarreteira com Dom Alvaro Vaz de Almada conde d'Avranches , juro morrer com ele , no mesmo dia e hora , apelando para o julgamento de Deus , se nisto houver ofensa aos seus mandados ; esperando na sua misericórdia o perdão dos meus erros !
+      [ character:  Avranches . —]
+      [ 1531 ]  Eu , Alvaro Vaz de Almada , Conde d'Avranches , na presença de Deus que me julgará , juro seguir , até na morte , no mesmo dia e hora , a Dom Pedro , príncipe de Portugal , meu irmão de armas , como vassalagem da minha alma à grandeza e lealdade da sua !
+      [ 1531 ]  ( Ajoelham ) .
+      [ character:  O Prior . —]
+      [ 1532 ]  Domine non sum dignus ut intres sub tectum meum : sed tantum dic verbo et sanabitur anima mea !
+      [ 1532 ]  ( Dando a comunhão ) .
+      [ 1533 ]  ( O padre repõe a ânfora .
+      [ 1534 ]  Ajoelhados , abençoa-os .
+      [ 1535 ]  Ouvem-se fora as trombetas de guerra .
+      [ 1536 ]  A claridade entra pelas janelas .
+      [ 1537 ]  Amanhece ) .
+      [ character:  Regente . —]
+      [ 1538 ]  Padre , abençoai também as nossas armas e signas para que Deus nos dê a vitória .
+      [ 1539 ]  ( A porta abre-se .
+      [ 1540 ]  Entram os cavaleiros , bandeiras , pagens de lança , peonagem .
+      [ 1541 ]  Na frente Dom Jayme e Dom João filhos ( de 15 e 16 anos ) de Dom Pedro , com as bandeiras e dísticos ) .
+      [ character:  Regente . —]
+      [ 1542 ]  Amigos , alegra-me vosso esforço e constância em defender minha honra .
+      [ 1543 ]  Sabeis os meus agravos .
+      [ 1544 ]  A El-Rei vou pedir justiça sem ódio ou má vontade ; invoco a Deus que lê dentro de mim !
+      [ 1545 ]  A minha alma está cheia de reconhecimento de de alegria por vós , leais cavaleiros que me seguis .
+      [ 1546 ]  Que Deus ilumine o espírito do Rei a fazer-me justiça ou faça cair a vitória em nossas armas .
+      [ character:  Todos . —]
+      [ 1547 ]  Viva o Infante !
+      [ character:  Prior . —]
+      [ 1548 ]  Recebei a bênção de Deus .
+      [ 1548 ]  ( Todos ajoelham .
+      [ 1548 ]  O prior abençoa ) .
+      [ character:  Avranches . —]
+      [ 1549 ]  Cavaleiros esperai .
+      [ 1549 ]  ( Ao duque ) .
+      [ 1550 ]  Senhor , vamos partir ; hoje , amanhã , combateremos .
+      [ 1551 ]  Permiti que em memória do dia de Ceuta eu cinja a vossos filhos a espada de cavaleiros .
+      [ 1552 ]  Honrá-la-ão que são filhos do vosso sangue ; e se eu tenho de morrer , deixai-me levar para a cova a alegria de poder pagar-vos uma dívida tão velha !
+      [ character:  Regente . —]
+      [ 1553 ]  Alegra-me , conde , a vossa ideia ; mas melhor fora que depois da batalha se armassem cavaleiros , se os seus feitos o merecessem !
+      [ character:  Avranches . —]
+      [ 1554 ]  Quem sabe se nos veremos depois dela !
+      [ character:  Regente . —]
+      [ 1554 ]  ( Aos filhos ) .
+      [ 1555 ]  Vinde .
+      [ 1555 ]  ( Os dois filhos entregam as bandeiras .
+      [ 1555 ]  Ajoelham diante de Dom Alvaro ) .
+      [ character:  Avranches . —]
+      [ 1556 ]  Na guerra como na guerra .
+      [ 1557 ]  Ouvi o juramento .
+      [ 1557 ]  ( Apresenta-lhes a cruz da espada ) .
+      [ 1558 ]  Jurai sobre a cruz da minha espada que , entrando na nobre ordem da cavalaria , honrareis a Deus , a Religião e a cavalaria .
+      [ character:  Os dois . —]
+      [ 1559 ]  Juramos !
+      [ 1559 ]  ( Cinge-lhes as espadas , eles ajoelham de novo ) .
+      [ character:  Avranches . —]
+      [ 1559 ]  ( Batendo-lhes três vezes com a espada nos ombros e dando em cada um uma bofetada ) .
+      [ 1560 ]  Em nome de Deus , de São Jorge e de São Miguel eu vos faço cavaleiros !
+      [ 1561 ]  Sede valentes , corajosos e leais !
+      [ character:  Regente . —]
+      [ 1562 ]  Jayme , João .
+      [ 1563 ]  A vida começa hoje , para vós .
+      [ 1564 ]  Saístes da família , sois da vossa terra cavaleiros , sede corteses ; ponde de parte o orgulho ; não aduleis nunca ; não reveleis um segredo ; sede leais em vossas ações e palavras ; socorrei os pobres e os órfãos e Deus vos acompanhará sempre .
+      [ 1565 ]  Que ele vos abençõe .
+      [ 1565 ]  ( Eles vão ) .
+      [ 1566 ]  A manhã rompe , amigos , a cavalo e avante !
+      [ 1566 ]  ( Tocam fora as cornetas , o cortejo desfila ) .
+      [ character:  Regente . —]
+      [ 1566 ]  ( Ao Avranches ) .
+      [ 1567 ]  Deste à minha alma um momento de alegria .
+      [ 1568 ]  Bater-se-ão como nossos afilhados .
+      [ character:  Avranches . —]
+      [ 1569 ]  Só ?
+      [ 1570 ]  Esqueceis que os filhos das águias , quando nascem trazem garras ?
+      [ character:  Regente . —]
+      [ 1571 ]  Adulador !
+      [ character:  Regente . —]
+      [ 1572 ]  Baboso !
+      [ 1572 ]  ( Fora ouvem-se vivas .
+      [ 1572 ]  Saem ) .
+      [ title:  QUADRO XII ]
+      [ title:  Arraial do Infante , em Alfarrobeira .]
+      [ 1573 ]  ( Em cena guerreiros .
+      [ 1574 ]  Entra o conde de Avranches ) .
+      [ character:  Azevedo . —]
+      [ 1575 ]  Então , senhor conde , o inimigo ?
+      [ 1576 ]  Vistes bem o seu arraial ?
+      [ character:  Avranches . —]
+      [ 1577 ]  Todo , em volta .
+      [ 1578 ]  As obras de guerra são imperfeitas .
+      [ 1579 ]  O aspecto das gentes , tímido .
+      [ 1580 ]  Não poderemos atacá-los ; passam de vinte mil e nós somos a terça parte ; mas não nos desalojarão daqui .
+      [ character:  Affonso . —]
+      [ 1581 ]  Estamos quase cercados .
+      [ 1582 ]  A valagem quase que toca as nossas trincheiras .
+      [ 1583 ]  Os besteiros meteram-se entre os salgueiros do rio e varejam-nos , de lá .
+      [ character:  Avranches . —]
+      [ 1584 ]  Dentro da água ?
+      [ 1585 ]  Por cautela , põem as barbas de molho .
+      [ 1586 ]  Mas ide desalojá-los .
+      [ 1586 ]  ( À parte , vendo para o outro lado do arraial ) .
+      [ 1587 ]  Que esperarão esses valentes ?
+      [ 1588 ]  Há três dias frente a frente , dez vezes mais do que nós e as suas trombetas não soam o ataque !
+      [ 1589 ]  A consciência é um freio , ainda nos mais vis !
+      [ 1589 ]  ( Alto ) .
+      [ 1590 ]  Que se rolde o acampamento .
+      [ 1591 ]  Um descuido perder-nos-á .
+      [ 1592 ]  Sede prestes a evitar uma cilada !
+      [ 1592 ]  ( À parte ) .
+      [ 1593 ]  A velha raposa saboreia a vitória !
+      [ 1594 ]  Permita Deus que a sua cervilheira chegue ao alcance da minha espada .
+      [ 1594 ]  ( Sai Dom Pedro da barraca ) .
+      [ character:  Regente . —]
+      [ 1595 ]  Nenhuma nova ou recado da Rainha ?
+      [ character:  Azevedo . —]
+      [ 1596 ]  Nenhum , senhor .
+      [ character:  Regente . —]
+      [ 1597 ]  Nem de El-Rei ?
+      [ character:  Affonso . —]
+      [ 1598 ]  Tampouco .
+      [ character:  Avranches . —]
+      [ 1599 ]  Há novas de Lisboa .
+      [ character:  Regente . —]
+      [ 1600 ]  Que tais ?
+      [ character:  Avranches . —]
+      [ 1601 ]  A crença da vossa chegada levantou motins , que têm causado mortes .
+      [ 1602 ]  Dois criados vossos foram despedaçados e pendurados , em postes , na cidade !
+      [ character:  Regente . —]
+      [ 1603 ]  Olhai , se os deixo levantar-me a estátua !
+      [ 1604 ]  Poupei-lhes o trabalho de a derrubarem , agora .
+      [ 1605 ]  E , de que me acusa o povo de Lisboa ?
+      [ character:  Azevedo . —]
+      [ 1606 ]  Perdoai ... Senhor ... mas ...
+      [ character:  Regente . —]
+      [ 1607 ]  Dizei .
+      [ character:  Azevedo . —]
+      [ 1608 ]  De falso , de traidor , de tirano !
+      [ character:  Regente . —]
+      [ 1609 ]  Por São Miguel , meu patrono , vede bem se eu não mereço a morte !
+      [ 1609 ]  ( Ouvem-se trombetas ao longe ) .
+      [ 1610 ]  Que toque é este ?
+      [ character:  Affonso . —]
+      [ 1611 ]  São arautos de El-Rei que se dirigem para nós .
+      [ character:  Regente . —]
+      [ 1612 ]  Qual será o seu pregão ?
+      [ character:  Avranches . —]
+      [ 1613 ]  Se é pregão , é de morte .
+      [ 1613 ]  ( À parte ) .
+      [ 1614 ]  O lobo das brenhas fareja os cadáveres e lança o grunhido do ataque .
+      [ character:  Vozes . —]
+      [ 1615 ]  Ouvi , ouvide .
+      [ 1616 ]  ( As trombetas calam-se a pouca distância .
+      [ 1617 ]  Rufa o tambor ) .
+      [ character:  Voz do Arauto . —]
+      [ 1618 ]  « Pregão que manda fazer o muito alto e poderoso Senhor Dom Affonso V , rei de Portugal .
+      [ 1619 ]  A todos os fidalgos , cavaleiros , e homens de armas que estejam no acampamento do infante Dom Pedro se manda que venham sem demora para El-Rei , seu Senhor , a quem só devem preito e vassalagem , sob pena de serem considerados traidores como o dito infante !
+      [ 1620 ]  E não vindo , incorrerão nas penas do direito e condenados nelas serão banidos para que em todo o tempo os possa matar quem os encontre .
+      [ 1621 ]  Em nome de El-Rei de Portugal , campo de Alfarrobeira , no vigésimo de maio 1449 anos de Nosso Senhor Jesus Cristo ! »
+      [ character:  Regente . —]
+      [ 1622 ]  Não ofenderei a vossa lealdade falando-vos do pregão .
+      [ 1623 ]  É preciso vencer !
+      [ 1624 ]  Vencidos só teremos , na terra , a morte ou a desonra !
+      [ 1624 ]  ( Afastando-se com Avranches ) .
+      [ 1625 ]  O que concluístes do vosso exame ?
+      [ character:  Avranches . —]
+      [ 1626 ]  Estamos , completamente perdidos !
+      [ 1627 ]  Dez vezes maior do que o nosso , o arraial está magnificamente ordenado , para o primeiro sinal !
+      [ 1628 ]  Os balsões dos maiores fidalgos ondeiam nas tendas .
+      [ 1629 ]  Estamos já presos ; os valados e trincheiras cercam-nos de todos os lados .
+      [ 1630 ]  Quiséssemos fugir , agora , nem um escaparia com vida !
+      [ character:  Regente . —]
+      [ 1631 ]  Não é a uma batalha é a um laço que eu arrasto esses leais homens que me seguem !
+      [ character:  Avranches . —]
+      [ 1632 ]  Mas eles querem morrer , se for preciso !
+      [ 1633 ]  Vede , se um único vos abandonou , ao ouvir o pregão .
+      [ character:  Regente . —]
+      [ 1634 ]  Dizei-lho , vós , conde .
+      [ 1635 ]  Que eu perdoo aos que quiserem deixar-me .
+      [ 1636 ]  Todo o dever tem , na terra , um limite .
+      [ 1637 ]  Não posso e não quero exigir o sacrifício da vida a ninguém , nesta hora , em que será inutil !
+      [ 1638 ]  É um crime de egoísmo , arrastar , sacrificar vidas , ao meu desprezo altivo !
+      [ character:  Avranches . —]
+      [ 1639 ]  Dizei-lho vós , que eu não me atreveria nunca .
+      [ 1640 ]  A morte é para um cavaleiro um episódio da vida como qualquer outro .
+      [ 1641 ]  Na cavalaria ninguém jura viver ; jura bater-se .
+      [ 1642 ]  Como ?
+      [ 1643 ]  Pela justiça .
+      [ 1644 ]  Quando ?
+      [ 1645 ]  Sempre .
+      [ character:  Regente . —]
+      [ 1645 ]  ( Pensativo ) .
+      [ 1646 ]  É uma loucura ...
+      [ 1646 ]  ( Ouve-se um tiro ao longe ) .
+      [ character:  Avranches . —]
+      [ 1647 ]  Serei louco ..
+      [ 1648 ]  estou velho para mudar !
+      [ character:  Affonso . —]
+      [ 1648 ]  ( Entrando ) .
+      [ 1649 ]  Senhor , Philippe de Anellos , João Vogado e Gonçalo Fernandes , vêm do campo de El-Rei e pedem para vos prestarem homenagem !
+      [ character:  Regente . —]
+      [ 1650 ]  Hein ?
+      [ character:  Avranches . —]
+      [ 1651 ]  Senhor , aí os tendes , mais loucos do que eu !
+      [ 1651 ]  ( Entram os três fidalgos ) .
+      [ character:  Regente . —]
+      [ 1652 ]  Vinde , amigos .
+      [ character:  João Vogado . —]
+      [ 1653 ]  Senhor Duque : esperava que entre vós e El-Rei se acalmariam tantas sem-razões e injustiças .
+      [ 1654 ]  Que El-Rei vos ouvisse e vos fizesse justiça , como bom rei a seu mais leal vassalo e parente .
+      [ 1655 ]  Três dias se passaram .
+      [ 1656 ]  A vossa dignidade vos proibiu , nobremente , uma submissão indigna dum cavaleiro e dum príncipe tal como vós .
+      [ 1657 ]  Os maus conselheiros de El-Rei lhe proibiram mandar-vos mensageiro , e lhe afeiam no ânimo cavalheiroso a demora de acometer .
+      [ 1658 ]  O pregão é o sinal da batalha .
+      [ 1659 ]  Um quarto de hora de es-pera e sereis atacado .
+      [ 1660 ]  Estais cercado de leais cavaleiros , de valentes , que nem um só vos abandonou !
+      [ 1661 ]  Viva Deus ! , que assim é a honra da cavalaria portuguesa !
+      [ 1662 ]  Ides morrer ?
+      [ 1663 ]  Pedimos para que nos ponhais entre vós !
+      [ character:  Regente . —]
+      [ 1664 ]  É um laço !
+      [ 1665 ]  É a morte !
+      [ character:  Vogado . —]
+      [ 1666 ]  Na minha idade , ama-se mais a razão do que a vida !
+      [ 1667 ]  Fiz convosco a viagem à Terra Santa : deixai-me acompanhar-vos , na última , que é ... onde Deus sabe !
+      [ character:  Regente . —]
+      [ 1668 ]  Sois um velho e nobre cavaleiro .
+      [ 1668 ]  ( Abraça-o comovido ) .
+      [ 1669 ]  Conhecia bem o valor da vossa espada ; mas não sabia que era o espelho do vosso coração !
+      [ 1669 ]  ( Ouve-se uma trombeta , ao longe ) .
+      [ 1670 ]  E vós , Rodrigo d'Anellos por que me quereis tanto que venhais para mim quando perdido sou ?
+      [ character:  Rodrigo d'Anellos . —]
+      [ 1671 ]  Senhor , esqueceis as vossas nobres ações .
+      [ 1672 ]  Quando Regente livrastes meu pai da calúnia ; restituiste-lhe seus foros e a sua leal espada de cavaleiro .
+      [ 1673 ]  É esta , senhor ; ( mostra-a ) ; era a dele , é a minha , mas é primeiro a vossa .
+      [ 1674 ]  Eu vo-la devo na honra de meu pai ; venho , pela vossa honra , vencer , ou morrer , com ela .
+      [ character:  Regente . —]
+      [ 1675 ]  Que seja bendita a espada de tão honrado cavaleiro !
+      [ 1675 ]  ( Aperta-lhe a mão ) .
+      [ 1676 ]  E vós , Gonçalo Fernandes , também vós me deveis desconhecidos e grandes benefícios que venhais morrer comigo ?
+      [ character:  Fernandes . —]
+      [ 1677 ]  Hoje sois o oprimido e o fraco !
+      [ 1678 ]  O lugar de um cavaleiro é ao vosso lado !
+      [ character:  Regente . —]
+      [ 1679 ]  Bendito seja Deus , que nas horas de maior agonia , na vida , pode ainda mandar ao nosso peito um mundo de alegria !
+      [ 1680 ]  Da minha alma vos agradeço ; sede bem-vindos e que Deus vos recompense se eu não puder fazê-lo !
+      [ 1680 ]  ( Ouve-se ruído ao longe , toques de trombetas )
+      [ character:  Dom Jayme . —]
+      [ 1680 ]  ( Entra ) .
+      [ 1681 ]  O arraial vai ser atacado , por todos os lados .
+      [ 1682 ]  Todos os capitães correm , no campo , às suas hostes .
+      [ 1682 ]  ( Alguns fidalgos saem ) .
+      [ character:  Avranches . —]
+      [ 1683 ]  Aos seus lugares , senhores , a cavalo !
+      [ 1683 ]  ( A Dom Jayme ) .
+      [ 1684 ]  Ordenai os besteiros contra as trincheiras e os bombardeiros no alto !
+      [ 1684 ]  ( Sai Jayme .
+      [ 1684 ]  Pagens trazem as espadas longas .
+      [ 1684 ]  O ruído aumenta .
+      [ 1684 ]  Enquanto calçam as luvas , cingem as espadas , ajudados pelos pagens .
+      [ 1684 ]  Põem as cervilheiras ) .
+      [ 1684 ]  Regente . —
+      [ 1685 ]  Romperam já os valados .
+      [ character:  Avranches . —]
+      [ 1686 ]  Era de esperar !
+      [ 1687 ]  Eu os ensino !
+      [ 1688 ]  Senhor , que Deus vos tenha em sua santa guarda !
+      [ 1688 ]  ( Abraçados ) .
+      [ character:  Regente . —]
+      [ 1689 ]  Que São Miguel meu patrono e a Virgem vos proteja !
+      [ character:  Avranches . —]
+      [ 1690 ]  Foram rechaçados !
+      [ 1691 ]  Voltam !
+      [ 1692 ]  Aí valentes !
+      [ 1693 ]  Coragem rapazes !
+      [ 1693 ]  ( Toma a espada ) .
+      [ 1694 ]  Por São Jorge !
+      [ 1694 ]  ( Sai .
+      [ 1694 ]  A peleja redobra de violência ) .
+      [ character:  Regente . —]
+      [ 1694 ]  ( Olhando ao largo ) .
+      [ 1695 ]  Perdidos ! perdidos !
+      [ 1696 ]  Oh ! miserável condição humana !
+      [ 1697 ]  Morre pela justiça , oh meu corpo , réu de tantas dores .
+      [ 1697 ]  ( Ajoelha ) .
+      [ 1698 ]  Senhor , dá-me a vitória ou recebe a minha alma .
+      [ 1699 ]  O meu cavalo ?
+      [ 1699 ]  ( Tomando a espada ) .
+      [ character:  Vozes . —]
+      [ 1700 ]  Está aqui senhor !
+      [ character:  Regente . —]
+      [ 1701 ]  Vamos ... morrer !
+      [ 1701 ]  ( Sai .
+      [ 1701 ]  Na cena fica apenas um escudeiro , de guarda à barraca .
+      [ 1701 ]  Vendo a batalha , que se ouve perto ) .
+      [ character:  Escudeiro . —]
+      [ 1702 ]  Oh ! o valente príncipe ... como ele mata !
+      [ 1703 ]  Dois de uma vez ... dum golpe !
+      [ 1704 ]  Ides ver , ides ver !
+      [ 1705 ]  Ides sentir-lhe a mão , raça de perros !
+      [ 1706 ]  Defrontai-lo ?
+      [ 1707 ]  Tomai ! forte ! forte !
+      [ 1708 ]  Quê !
+      [ 1709 ]  Que é ?
+      [ 1710 ]  Cambaleia !
+      [ 1711 ]  Desequilibra-se !
+      [ 1712 ]  Ah ! caiu !
+      [ 1712 ]  ( O soldado explica nos gestos a vinda do cadáver , que chega trazido em andas por dois soldados e é colocado em cena ) .
+      [ character:  João Vogado . —]
+      [ 1713 ]  Colocai-o aí , de vagar , homens de armas .
+      [ 1714 ]  Não magoeis esse nobre corpo ferido de tantas dores .
+      [ character:  Escudeiro . —]
+      [ 1715 ]  Sua alma repousa no seio de Deus , meu Senhor , nada sentirá .
+      [ character:  João Vogado . —]
+      [ 1716 ]  É morto ?
+      [ character:  Escudeiro . —]
+      [ 1717 ]  Bem morto !
+      [ character:  Azevedo . —]
+      [ 1718 ]  Foi bem visado ; de perto !
+      [ character:  João Vogado . —]
+      [ 1719 ]  O pelouro atravessou-lhe o peito de lado a lado .
+      [ character:  Azevedo . —]
+      [ 1720 ]  A sua morte foi , como a sua vida , uma gloriosa morte .
+      [ 1720 ]  ( Entra Alvaro Vaz , sem capacete , rasgado , cheio de sangue , seguem-no , o pagem e guerreiros ) .
+      [ character:  Avranches . —]
+      [ 1721 ]  Está morto ?
+      [ 1721 ]  ( Ante o cadáver ) .
+      [ 1722 ]  Oh meu Senhor , oh mais alto príncipe da terra ! que viva eu , para que os meus olhos vos vejam assim , mísera matéria , forma mais nobre , corpo de maior alma que teve Portugal !
+      [ 1722 ]  ( Ajoelha e beija-o ) .
+      [ 1723 ]  Vede-o homens de armas , espelho da lealdade , honra da cavalaria , morto , pela intriga , pela cobardia , pela ambição vil !
+      [ 1724 ]  Que a terra inteira agonize nesta morte !
+      [ 1725 ]  Se envergonhe o céu !
+      [ 1726 ]  E que este dia maldito , fique enegrecido de eterna vergonha a memória do rei !
+      [ 1727 ]  Devemos-lhe o sangue , senhores , ide vingar-lhe a morte !
+      [ 1727 ]  ( Saem de tropel .
+      [ 1727 ]  Ao pagem ) .
+      [ 1728 ]  Dá-me pão e vinho .
+      [ 1728 ]  ( Ao largo ) .
+      [ 1729 ]  Eh ! Eh ! esperai , esperai !
+      [ 1729 ]  ( O pagem traz pão e vinho , que ele come e bebe às guinadas , olhando a peleja , cujo ruído se aproxima : alguns soldados vêm fugindo .
+      [ 1729 ]  Setas passam no ar ) .
+      [ 1730 ]  Eh ! cães ! quem é que foge aqui ?
+      [ 1731 ]  Para a frente !
+      [ 1731 ]  ( Os soldados voltam ) .
+      [ 1732 ]  Ali , ali é que se morre !
+      [ 1733 ]  O pendão do rei !
+      [ 1734 ]  Ah !
+      [ 1734 ]  ( Pega na espada e vai a sair ) .
+      [ character:  Dom Jayme . —]
+      [ 1734 ]  ( Entrando ) .
+      [ 1735 ]  Senhor conde , vão chegar aqui , o que farão de meu pai ?
+      [ character:  Avranches . —]
+      [ 1736 ]  Fica , defende-o .
+      [ 1736 ]  ( Sai .
+      [ 1736 ]  Dom Jayme tira a espada e coloca-se aos pés do cadáver .
+      [ 1736 ]  O ruído está no auge .
+      [ 1736 ]  Ouvem-se gritos de São Jorge , choque de armas , vozes de comando .
+      [ 1736 ]  Alvaro Vaz entra seguido de perto pelos inimigos , cambaleante , arrastando a espada .
+      [ 1736 ]  Dom Jayme sustém a turba ) .
+      [ character:  Avranches . —]
+      [ 1737 ]  Não posso mais : velho corpo pedes descanso e tu minha alma já tardas !
+      [ 1737 ]  ( Cai de joelhos e cai-lhe a espada .
+      [ 1737 ]  A multidão atira-se a ele ) .
+      [ 1738 ]  É vingar , rapazes !
+      [ 1739 ]  É fartar vilanagem !
+      [ 1740 ]  ( Matam-no .
+      [ 1741 ]  Entra o Rei , o Duque , o Arcebispo , o Conde , Berrêdo , fidalgos ) .
+      [ character:  Rei . —]
+      [ 1742 ]  Poupai-os .
+      [ 1743 ]  Quero os traidores !
+      [ 1743 ]  ( Vendo Dom Jayme ) .
+      [ 1744 ]  Prendei-o , aquele .
+      [ 1744 ]  ( Prendem-no ) .
+      [ character:  Ourem . —]
+      [ 1745 ]  Estão mortos .
+      [ character:  Rei . —]
+      [ 1746 ]  A justiça de Deus arrancou-os das minhas mãos !
+      [ character:  Duque . —]
+      [ 1747 ]  Mas fazei , agora , que sois , enfim , rei , a justiça da terra .
+      [ 1748 ]  Que os seus cadáveres fiquem insepultos , como é de lei para os traidores , pasto dos corvos e dos lobos !
+      [ character:  Rei . —]
+      [ 1749 ]  Assim se faça .
+      [ 1750 ]  Toquem ao saque .
+      [ 1750 ]  ( As trombetas tocam ao saque .
+      [ 1750 ]  A comitiva sai ) .
+      [ character:  Avranches . —]
+      [ 1750 ]  ( Levantando meio corpo , moribundo ) .
+      [ 1751 ]  A justiça de Deus !
+      [ 1752 ]  Ó Duque ! que ele faça cair o nosso sangue sobre a tua cabeça e a de teus filhos !
+      [ 1752 ]  ( Cai , junto a Dom Pedro .
+      [ 1752 ]  O pano desce lentamente ) .
+      [ 1753 ]  Esta peça foi representada , pela primeira vez , no Teatro de Dona Maria II , no 1.° de Maio de 1897 .
+      [ 1754 ]  Foram seus intérpretes :
+      [ 1755 ]  Brazão ........ ( Dom Pedro , o Regente )
+      [ 1756 ]  Augusto Rosa ........ ( Conde d'Avranches )
+      [ 1757 ]  João Rosa ........ ( Conde de Barcelos , depois Duque de Bragança )
+      [ 1758 ]  Alves ........ ( Dom Affonso V. )
+      [ 1759 ]  Ferreira da Silva ... ( Vasco Berredo )
+      [ 1760 ]  A. Antunes ........ ( Arcebispo de Lisboa )
+      [ 1761 ]  A. Santos ........ ( Conde de Ourem )
+      [ 1762 ]  Oliveira ........ ( Vasco Martins da Silveira )
+      [ 1763 ]  Pinto ........ ( Alvaro de Castro )
+      [ 1764 ]  Bayard ........ ( Bispo de Évora )
+      [ 1765 ]  Chaby ........ Frei Vasco da Alagôa )
+      [ 1766 ]  Lopes ........ ( Luiz Gomes da Gran )
+      [ 1767 ]  Oliveira ........ ( Mestre Lopo )
+      [ 1768 ]  Pinto ........ ( Mestre Diogo )
+      [ 1769 ]  Cabral ........ ( Luiz d'Azevedo )
+      [ 1770 ]  Bayard ........ ( João Vogado )
+      [ 1771 ]  Silva ........ ( o Alcaide de Lisboa )
+      [ 1772 ]  Lucas ........ ( Alvaro Affonso )
+      [ 1773 ]  A Rainha Dona Leonor d'Aragão ........ ( C. Falco )
+      [ 1774 ]  Dona Izabel , mulher d'Affonso V ....... ( Laura )
+      [ 1775 ]  Tia Brites ........ ( o'Sullivand )
+ date1550-1599

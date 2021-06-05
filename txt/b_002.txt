@@ -1,0 +1,1524 @@
+
+|:| [START HEADER]|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|
+|:| PLEASE SET CHARACTER ENCODING SYSTEM TO UTF-8
+|:| Tycho Brahe Parsed Corpus of Historical Portuguese 
+|:| Document ID: b_002
+|:| Encoding: UTF-8
+|:| Last Saved: 28.05.2016
+|:| Title: Gramática, João de Barros
+|:| Author: Barros, João de
+|:| Version: Simple Text, for Automatic Tools
+|:| 
+|:| [END HEADER]|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|
+
+   
+      [ title: 
+      [ 1 ]  GRAMÁTICA DA LÍNGUA PORTUGUESA . ]
+      [ title: 
+      [ 2 ]  Definição da Gramática e as partes dela .]
+      [ 3 ]  Gramática , é vocábulo grego : quer dizer , ciência de letras .
+      [ 4 ]  E segundo a definição que lhe os Gramáticos deram : é um modo certo e justo de falar e escrever , colheito do uso , e autoridade dos barões doutos .
+      [ 5 ]  Nós podemos lhe chamar artifício de palavras , postas em seus naturais lugares : pera que mediante elas , assi na fala como na escritura , venhamos em conhecimento das tenções alheias .
+      [ 6 ]  Por que bem assi entram as letras pela vista , como as palavras pelos ouvidos : instrumento com que o nosso entendimento recebe as mais das cousas .
+      [ 7 ]  E como pera o jogo de xadrez se requerem dois reies , um de ũa cor e outro de outra , e que cada um deles tenha suas peças postas em casas próprias e ordenadas , com leies do que cada ũa deve fazer ( segundo o ofício que lhe foi dado : ) assi toda las linguagens tem dous reis , diferentes em gênero , e concordes em ofício : a um chamam Nome , e ao outro , Verbo .
+      [ 8 ]  Cada um destes reies tem sua dama , a do nome chamam Pronome , e a do verbo , Avérbio .
+      [ 9 ]  Particípio , Artigo , Conjunção , Interjeição , são peças e capitães principais que de baixo de sua jurdição tem muita peonagem de dicções , com que comumente servem a estes dous poderosos reies , Nome , e Verbo .
+      [ 10 ]  Assi que podemos daqui entender , ser a nossa linguagem composta destas nove partes : Artigo , que é próprio dos gregos e hebreus , Nome , Pronome , Verbo , Advérbio , Particípio , Conjunção , Preposição , Interjeição , que tem os latinos .
+      [ 11 ]  Os quais partem a sua Gramática em quarto partes , em Ortografia , que trata de letera , em Prosódia , que trata de sílaba , em Etimologia , que trata da dicção e em Sintaxe , a que responde à construção , à imitação dos quais , ( por termos as suas partes , ) dividimos a nossa Gramática .
+      [ 12 ]  E porque a mais pequena destas partes é a letera , donde se toda las dicções compõem : vejamos primeiro dela , e de si das outras três .
+      [ 13 ]  Não segundo convém a ordem da Gramática especulativa , mas como requere a preceitiva : usando dos termos da Gramática latina cujos filhos nós somos , por não degenerar dela .
+      [ 14 ]  E também , por que as ciências requerem seus próprios termos per onde se hão de aprender , como as obras mecânicas instrumentos com que se fazem , sem os quais , nenhũa destas cousas se pode entender nem acabar .
+      [ title: 
+      [ 15 ]  DA LETERA]
+      [ title: 
+      [ 16 ]  Definção das leteras e o número delas .]
+      [ 17 ]  Letera ( segundo os gramáticos ) é a mais pequena parte de qualquer dicção que se pode escrever : a que os latinos chamaram nota , e os gregos caráter , per cuja valia e poder formamos as palavras .
+      [ 18 ]  E a esta formação chamam eles primeiros elementos da linguagem : ca bem como do ajuntamento dos quarto elementos se compõem toda las cousas : assi do ajuntamento das leteras ũas com as outras per ordem natural , se entende cada um em sua linguagem , pola valia que pôs no seu , A , b , c .
+      [ 19 ]  Donde as leteras vieram ter estas três cousas , Nome , figura , poder .
+      [ 20 ]  Nome , por que à primeira chamam , A , à segunda , Be , à terceira , Ce , figura , por que se escrevem desta maneira .
+      [ 20 ]  A , b , c .
+      [ 21 ]  Poder , pola valia que cada ũa tem , por que quando achamos esta letera A , já sabemos que tem a sua valia : e per semelhante modo podemos julgar das outras , que em número são vinte e três , como as dos latinos de quem as nós recebemos .
+      [ 22 ]  E dizem a maior parte dos historiadores , que Nicóstrata madre de Evandro rei dos latinos foi inventor destas dezassete .
+      [ 22 ]  A , b , c , d , e , f , g , i , l , m , n , o , p , r , s , t , u .
+      [ 23 ]  Depois pelo tempo se acrescentaram estas seis : h , k , q , x , y , z . das quais . h , tem os latinos ser expiração e não letra , e k , que serve somente em alguãs dicções gregas como Kyrie eleison .
+      [ 24 ]  Serve-se também a nossa linguagem d' algũas leteras à maneira dos gregos , as quais nós até ora temos em voz , mas não em figura : e são estas à é , ó , de que trataremos no capítulo da Ortografia .
+      [ 25 ]  E assi temos algumas leteras dobradas à maneira dos hebreus : ũas pera o princípio de qualquar dicção , outras pera o meu , e outras pera o fim .
+      [ 26 ]  E as nossas são estas : I , i , y , R , r , S , s , V , u .
+      [ 27 ]  Temos mais estas três prolações : ch , lh , nh , as quais são próprias da nossa língua : e usamos delas em suprimento de três leteras de que não temos figura .
+      [ 28 ]  E assi temos esta letera ç que parece ser inventada pera pronunciação hebraica ou mourisca :
+      [ 29 ]  E esta figura — que é como aresta a que chamamos til : a qual os latinos tem , e serve-nos por estas leteras m , ue , quando se põem sobre esta letera q , ou sobre letera vogal .
+      [ 30 ]  Assi que podemos dizer , termos vinta três leteras em poder , e trinta e quatro em figura .
+      [ 31 ]  E onde hão de servir , e quantos acidentes tem particularmente trataremos ao diante , no título da Ortografia :
+      [ 32 ]  Isto baste agora em geral .
+      [ title: 
+      [ 33 ]  Da sílaba e seus acidentes]
+      [ 34 ]  Sílaba , é ũa das quatro partes da nossa Gramática que corresponde à Prosódia , que quer dizer acento e canto : a qual sílaba é ajuntamento de ũa vogal , com ũa e duas e às vezes três consoantes que juntamente fazem ũa só voz .
+      [ 35 ]  Digo ũa consoante , quando se ajuntam desta maneira , li , e com duas , vro , e com três , vros , que juntamente fazem este nome livros .
+      [ 36 ]  E porque às vezes ũa só letera vogal serve de sílaba , propriamente a esta tal não chamaremos sílaba : mas aquela que for composta de vogal e consoante .
+      [ 37 ]  Os latinos fazem às vezes ũa só sílaba com cinco consoantes : como nestas dicções , scrobs , stirps .
+      [ 38 ]  A nossa sílaba não passa de três , como vimos nesta dicção atrás , livros , as quais ou servem no princípio , como . príncipe , ou no fim , como , rainhas .
+      [ 39 ]  Toda sílaba tem três acidentes , número de leteras , espaço de tempo , acento alto ou baixo .
+      [ 40 ]  O número de leteras , já o vimos pelos exemplos atrás .
+      [ 41 ]  Espaço de tempo , porque ũas são curtas e outras longas , como nesta dicção . Bárbora , que a primeira é longa , e as duas são breves .
+      [ 42 ]  Por que tanto tempo se gasta na primeira , como nas duas seguintes , à semelhança dos músicos , os quais tanto se detêm no ponto desta primeira figura bár , como nas duas derradeiras , bo , ra .
+      [ 43 ]  E os latinos e gregos , sentem melhor o tempo das sílabas , por causa do verso , do que o nós sentimos nas trovas : porque quase mais espera a nossa orelha o consoante , que a quantidade , dado que a tem .
+      [ 44 ]  O terceiro acidente da sílaba , é canto alto ou baixo , por que como os músicos alevantam e abaixam a voz cantando , assi nós temos a mesma ordem , como nesta dicção , lemos , que na primeira sílaba alevantamos , e na segunda abaixamos .
+      [ 45 ]  E dado que em algũa maneira nós pudéramos estender com regras pera a quantidade e acento das nossas sílabas : leixamos de o fazer , por que pera se bem exemplificar as suas regras houvera de ser em trovas , que tem medida de pés , e quantidade de sílabas .
+      [ 46 ]  E por que o tempo em que se as trovas faziam e os homens não perdiam sua autoridade por isso , é degradado destes nossos reinos : ficará esta matéria pera quando o uso o requerer .
+      [ title: 
+      [ 47 ]  DA DICÇÃO]
+      [ 48 ]  Nesta terceira parte da nossa Gramática que é da dicção , a que os latinos chamam , Etimologia , que quer dizer nascimento da dicção : se quisessemos buscar o fundamento e raiz donde vieram os nossos vocábulos , seria ir buscar as fontes do Nilo .
+      [ 49 ]  E pois Isidoro nas suas Etimologias , a não pode achar a muitas cousas : menos a daremos aos nossos vocábulos .
+      [ 50 ]  Basta saber que temos latinos , arávigos e outros de diversas nações que conquistamos e com quem tivemos comércio : assi como eles têm outros de nós .
+      [ 51 ]  Ao presente leixadas toda las curiosidades e questões sem fruto : digamos do nome e das suas espécias , sem tratarmos da Etimologia dos vocábulos .
+      [ title: 
+      [ 52 ]  Do nome e das suas espécias]
+      [ 53 ]  Nome ( segundo a a definição dos gramáticos ) : é aquele que se declina per casos sem tempo sinificando sempre algũa cousa que tenha corpo , ou sem corpo .
+      [ 54 ]  Que tenha corpo : como , homem , pau , pedra .
+      [ 55 ]  Sem corpo , Gramática , ciência , doutrina .
+      [ 56 ]  E cada um dos nomes tem estes acidentes , qualidade , espécia , figura , gênero , número , declinação per casos , dos quais acidentes vejamos particularmente .
+      [ title: 
+      [ 57 ]  Do nome próprio e comum]
+      [ 58 ]  Todo los nomes hão de ter ũa de duas qualidades : própria , ou , comum , qualidade em o nome é ũa diferença pela qual conhecemos : um do outro .
+      [ 59 ]  Nome próprio , é aquele que se não pode atribuir a mais que a ũa só cousa : como este nome . Lisboa , por ser próprio desta cidade , e não convém a Roma : nem o de César , a Cipião , pero se dissermos cidade , que é geral nome a todas , então será comum .
+      [ 60 ]  E por este nome , homem , assi entendo César e Cipião como todos los outros homens .
+      [ 61 ]  Assi que com razão diremos nome próprio ser aquele per que entendemos ũa só cousa , e comum pelo qual entendemos muitas daquele gênero .
+      [ 62 ]  E por não ficar confusão em este nome próprio , pois aí à muitos homens que tem um mesmo nome , direi a maneira que as gentes tiveram entre si por se não confundirem seus nomes , tomando apelidos e alcunhas por esta maneira .
+      [ 63 ]  Os nobres buscaram um termo que fosse sinal de nobreza , que os apartasse dos plebeus , como acerca de nós , Dom , que vem deste nome : Dominus , que quer dizer senhor .
+      [ 64 ]  Os franceses tomaram Monseor , os italianos , Misser , os aragoeses , Mossem .
+      [ 65 ]  E assim outras muitas nações tomaram um termo que denotasse honra : a que os latinos chamam : Prenome , que quer dizer ante do nome , o qual termo eles denotavam às vezes per ũa só letera grande , posta antre dous pontos , desta maneira : P , por , Publius , e se punham outra diante desta , entendiam per ela o próprio nome , e per a terceira denotava a linhagem ou família donde vinha , e per a quarta denotavam o ofício ou alcunha que lhe era posta acaso : como podemos ver nestas quarto denotações : Pub , Scip , Corne , Afric , pelas quais entendemos , Públio , Cipião , Cornélio , Africano .
+      [ 66 ]  Per semelhante modo quando digo , Dom , entendo o Prenome , e por Vasco , o nome , e por , Gama , o conhome a que nós chamamos apelido , e por , Almirante anhome , per que entendemos alcunha .
+      [ 67 ]  A qual muitas vezes se põem por razão do ofício , ou por algum grande feito : como , Africano , que , por razão de conquistar África foi posto a Cipião .
+      [ title: 
+      [ 68 ]  Do nome Substantivo e Adjetivo]
+      [ 69 ]  Será também qualidade em o nome : a distinção per que apartamos o substantivo do adjetivo .
+      [ 70 ]  Nome substantivo chamamos aquele que per si pode estar : e não recebe esta palavra , cousa .
+      [ 71 ]  Nome adjetivo ao que não tem ser per si : mas está encostado ao substantivo , e pode receber em si esta palavra , cousa , como quando digo , ó que fermoso cavalo , que bravo touro .
+      [ 72 ]  Este nome , fermoso , e bravo , são adjetivos : por que não podemos dizer fermoso e bravo sem lhe darmos nome substantivo a que se encostem .
+      [ 73 ]  E diremos , cousa fermósa , cousa brava : e não cavalo cousa , touro cousa , por serem substantivos que não recebem em si outros .
+      [ title: 
+      [ 74 ]  Do nome Relativo e Antecedente]
+      [ 75 ]  Pode ser também qualidade em o nome , aquilo per que o relativo se aparta do antecedente .
+      [ 76 ]  E chamamos relativo aquela parte que faz lembrança de algum nome que fica atrás : e este tal se chama antecedente , per semelhante exemplo , os homens que amam a verdade , folgam de a tratar em seus negócios .
+      [ 77 ]  Os homens estão aqui por antecedente deste , que , o qual é relativo dos homens por fazer deles lembrança e relação .
+      [ 78 ]  E assi a verdade também é antecedente deste relativo , a , que faz dela relação : por que , em dizer de a tratar , digo de tratar a dita verdade .
+      [ 79 ]  E chamamos antecedente por causa do relativo , e o relativo por causa do antecedente : como se chama pai por causa do filho , e filho por causa do pai .
+      [ 80 ]  Pero havemos de consirar que a uns relativos chamamos de sustância , por fazerem lembrança de nome substantivo : e a outros relativos de acidente por relatarem nome adjetivo .
+      [ 81 ]  Os de sustância são , que , o qual , como quando digo : eu li o livro , que me tu mandaste , o qual entendi mui bem .
+      [ 82 ]  Aqui neste exemplo , vemos estes dous relativos , que , e o qual , ambos fazerem menção do livro , que é antecedente substantivo .
+      [ 83 ]  Os relativos de acidente são , tal , qual , tanto , quanto , tamanho , quamanho : os quais fazem relação de nome adjetivo .
+      [ 84 ]  E destes , a uns chamam relativos de qualidade , a outros de quantidade apartada , e a outros de quantidade contínua .
+      [ 85 ]  Os de qualidade , são , tal , qual .
+      [ 86 ]  Os de quantidade contínua são , tamanho , quamanho ; e por que se melhor entendam poremos o seguinte exemplo .
+      [ 86 ]  Eu te mando o livro tal , qual mo tu mandaste .
+      [ 87 ]  Que dou a entender neste relativo , qual , que assim torno enviar o livro limpo e são , da maneira que me foi enviado : por que correspondeu , qual , ao , tal , que é relativo do livro : e não responde ao ser e substância dele .
+      [ 88 ]  Ca se fizera relação da substância , pusera-lhe este Que , ou , o Qual , relativos da substância como vimos .
+      [ 89 ]  E quando disseres , Eu te mando tanto dinheiro , quanto me tu mandaste , será este quanto , relativo de quantidade apartada : por que a moeda , e outras cousas que se contam e numeram , pode-se apartar e ajuntar .
+      [ 90 ]  E se dissera , Eu te mando o livro tamanho , quamanho mo tu mandaste : este quamanho é relativo de quantidade contínua , que trata da grandeza , e não do número da cousa .
+      [ 91 ]  E adiante poremos as declinações destes relativos com as dos pronomes .
+      [ title: 
+      [ 92 ]  Da espécie do nome]
+      [ 93 ]  Tem o nome outro acidente a que os gramáticos chamam espécie : a qual é ũa divisão per que apartamos o nome derivado do primitivo ou primeiro gerado .
+      [ 94 ]  Primitivo nome chamamos , aquele que foi primeiro , sem haver hi outro donde nascesse ou se derivasse : assi como , cidade , corte , casa .
+      [ 95 ]  Nome derivado se chama , cidadão , cortesão , caseiro , os quais se derivam dos três acima .
+      [ 96 ]  E destes nomes derivados temos oito diferenças : patronímicos , possessivos , diminutivos , aumentativos , comparativos , denominativos , verbais , adverbiais .
+      [ title: 
+      [ 97 ]  Do nome Patronímico]
+      [ 98 ]  Patronímico nome é aquele que significa filho , neto , ou descendente daquele que tem o nome donde o nós formamos e derivamos : como João Fernandez , filho de Fernando , António Gonçalvez , filho de Gonçalo : Diogo Nunez filho de Nuno .
+      [ 99 ]  Outros muitos tem a nossa linguagem , a que nós chamamos sobrenome : os quais se podem conhecer pelo exemplo destes .
+      [ title: 
+      [ 100 ]  Do nome Possessivo]
+      [ 101 ]  Chamamos nome possessivo , aquele que se nomeia do possedor da causa : como doutrina cristã , de Cristo :
+      [ 101 ]  Opinião luterana , de Lutero :
+      [ 102 ]  E destes nomes é nossa linguagem provém .
+      [ 103 ]  E porém temos outros semelhantes a estes a que os gramáticos chamam , gentílicos , por serem da gente da província ou lugar de que se nomeiam : dos quais nomes temos grão cópia , como . algaravio , ao homem do Algarve , beirão , da Beira .
+      [ 103 ]  Coimbrão , de Coimbra : sevilhano de Sevilha , etc .
+      [ title: 
+      [ 104 ]  Do nome Diminutivo]
+      [ 105 ]  Nome diminutivo , é aquele que tem algũa diminuição do nome principal donde se derivou : como de homem , homenzinho , de mulher , mulherzinha , de moço , mocinho : de criança , criancinha .
+      [ 106 ]  E outros muitos que se formam e acabam em diferentes terminações : mais per vontade do povo que por regra de boa Gramática .
+      [ title: 
+      [ 107 ]  Do nome Aumentativo]
+      [ 108 ]  Esta maneira de nomes aumentativos , é contrária a de cima : por que ũa diminui a cousa , e outra acrescenta .
+      [ 109 ]  Destes nomes , gregos , e latinos não tratam em suas Gramáticas por os não terem , e quase todos se terminam em , ão , e az , como , mulherão , cavalão , velhacaz , ladravraz e outros que sempre são ditos em desprezo e abatimento da pessoa ou cousa a que os atribuímos .
+      [ title: 
+      [ 110 ]  Do nome Comparativo]
+      [ 111 ]  Comparativo nome , é aquele que significa tanto como o seu positivo , com este advérbio , mais , e per o positivo , entendemos o outro nome donde ele nasce .
+      [ 112 ]  E antre nós e os latinos à esta diferença , eles fazem comparativos de todos los seus nomes adjetivos , que podem receber maior ou menor significação : e nós não temos mais comparativos que estes . maior , que quer dizer mais grande , menor por mais pequeno , melhor , por mais bom , e pior , por mais mau .
+      [ 113 ]  Pero todos los outros comparativos que eles formam , suprimos nós com este advérbio , mais : que acrescenta a cousa a que o ajuntamos , per semelhante exemplo .
+      [ 113 ]  Heitor foi esforçado cavaleiro .
+      [ 114 ]  Este nome esforçado , é adjetivo que se ajuntou ao nome substantivo Heitor : o qual adjetivo lhe dá algũa mais qualidade da que tinha , cá per ele entendemos o esforço de Heitor .
+      [ 115 ]  E a este nome adjetivo , chamam os latinos ( como já disse ) positivo : em respeito do comparativo .
+      [ 116 ]  Quando vem ao segundo grau comparativo , dizemos , Heitor foi melhor cavaleiro que Aquiles : ou diremos , foi mais esforçado que Aquiles : por que melhor e mais , nesta ordem de comparação é ũa mesma cousa .
+      [ 117 ]  E pera falarmos pelo modo superlativo , que é o mais alto grau de preeminência e vantagem que se pode dar a algũa cousa : ajuntamos esta parte , mui , ou , muito , ao comparativo , e dizemos , Heitor foi muito melhor cavaleiro que Aquiles .
+      [ 118 ]  E assi fica Heitor louvado de cavaleiro em grau superlativo .
+      [ 119 ]  Verdade é , que alguns nomes que recebemos do latim , vai a significação superlativa já formada , assi como , doutíssimo , sapientíssimo , e outros que o uso nos fez próprios .
+      [ title: 
+      [ 120 ]  Dos nomes Verbais]
+      [ 121 ]  Chamamos nomes Verbais todos los que se derivam de algum verbo : como , de amar , amor , de suspirar , suspiro , e de chorar , choro .
+      [ 122 ]  Podemos também dizer serem nomes verbais todos los infinitivos do presente tempo : pondo-lhe seu artigo com que fica nome .
+      [ 123 ]  E per este modo , suprimos muitos nomes , que desfalecem em nossa linguagem e a latina tem : o qual modo também os latinos usaram , como quando disse Pérsio .
+      [ 124 ]  Depois que olhei o nosso triste viver , como se dissera , a nossa triste vida .
+      [ title: 
+      [ 125 ]  Dos nomes Participiais]
+      [ 126 ]  Participial nome se chama , aquele que vem de algum particípio : como de amado amador , de douto , doutor , e outros que o uso nos ensina ; estes bastem pera exemplo deles .
+      [ title: 
+      [ 127 ]  Dos nomes Adverbiais]
+      [ 128 ]  Os nomes adverbiais se derivam dos advérbios , dos quais a nossa linguagem tem mui poucos , e somente ponho estes por exemplo .
+      [ 129 ]  Soberano , de sobre , avantagem , de avante , forasteiro , de fora , traseiro , de atrás .
+      [ title: 
+      [ 130 ]  Das Figuras do nome]
+      [ 131 ]  Duas figuras tem o nome , a ũa chamam simples e a outra composta .
+      [ 132 ]  Nome simples é aquele , as partes do qual estremadas ũa da outra não significam cousa algũa : como este nome , justo o qual partido em estas duas partes , jus - to , em nossa língua não entendemos per elas cousa algũa .
+      [ 133 ]  Nome composto tem o contrário deste , por que partido em duas partes , sempre per ũa delas entendemos cousa algũa , como : guarda-porta , que é composto deste verbo , guardar , e deste nome porta .
+      [ 134 ]  Em esta maneira de compor ũa parte com outra , tem os gregos gram facilidade : e é a eles tão comum e fácil , que as vezes compõem ũa dicção de quatro significados , com que fazem a sua língua mui elegante .
+      [ 135 ]  Os latinos também fazem suas composições : mas não passa de três partes .
+      [ 136 ]  Nós fazemos a nossa composição de duas : e compondo um nome com outro dizemos , rede-fole , de rede e fole , arquibanco , de arca e banco .
+      [ 137 ]  Compondo verbo e nome dizemos : torcicolo , de torcer e colo .
+      [ 138 ]  Compondo um verbo com outro dizemos : mordefuge , de morder e fugir .
+      [ 139 ]  Compondo verbo com advérbio dizemos : puxavante , de puxar e avante .
+      [ 140 ]  Compondo nome com preposição , dizemos : traspé , de trás e pé .
+      [ 141 ]  E per esta maneira fazemos nossas composições .
+      [ 142 ]  Estas bastem por exemplo .
+      [ title: 
+      [ 143 ]  Do gênero do nome .]
+      [ 144 ]  Gênero , em o nome , é ũa distinção per que conhecemos o macho da fêmea e o neutro de ambos .
+      [ 145 ]  Os latinos conhecem o gênero dos seus nomes , uns pela significação , outros pela terminação : dos quais fazem estes sete gêneros : masculino , feminino , neutro , comum a dous , comum a três , duvidoso , e confuso .
+      [ 146 ]  Os gregos dado que tenham estas diferenças de gênero , conhecem-no per artigos .
+      [ 147 ]  Os hebreus per artigos e terminação .
+      [ 148 ]  Nós não somente conhecemos o nosso gênero per significação como os latinos , mas per artigos , como os gregos , as regras do qual são as seguintes .
+      [ 149 ]  Todo nome que per sexo é conhecido , per ele será macho ou fêmea : como , homem e mulher .
+      [ 150 ]  Todo nome que convém a homem e a mulher será comum a dous : como inventor , taful .
+      [ 151 ]  Estes adjetivos , forte , triste , alegre , e outros semelhantes serão comuns a três , por que dizemos , o homem forte , a mulher alegre , o pecar triste .
+      [ 152 ]  Todo nome de algũa letera do nosso A , b , c , será neutro : e os nomes verbais que se fazem do infinitivo do presente tempo : como , o querer , o amar , o ler , e este nome , ao , que é relativo .
+      [ 153 ]  Todo nome que se não conhece per significação e não entra em algũa destas regras : per este artigo , o , será masculino , e per este , a , será feminino , assi como :
+      [ 153 ]  o céu é habitação dos anjos , e a terra morada dos homens .
+      [ title: 
+      [ 154 ]  Do número que tem o nome]
+      [ 155 ]  Número em o nome , é aquela distinção per que apartamos um de muitos , e ao número de um chamam os gramáticos . singular , e ao de muitos , plural , e falando pelo primeiro diremos , o homem verdadeiro tem pouco de seu .
+      [ 156 ]  E se disser , os homens burlões têm pouca vergonha , falo pelo número plurar , por que são muitos .
+      [ title: 
+      [ 157 ]  Dos nomes irregulares]
+      [ 158 ]  Desta regra acima em que disse os nomes terem dous números : singular e plurar , se tiram os nomes irregulares : por que há hi uns que tem somente singular , e não plural , e outros ao contrário , dos quais pomos estas regras .
+      [ 159 ]  Todo nome próprio tem singular e não plurar : assi como , Cipião , Lisboa . etc .
+      [ 160 ]  Tiram-se desta regra alguns nomes próprios que se declinam pelo plurar e não tem singular : como , torres vedras , torres novas .
+      [ 161 ]  As pias , alhos vedros , alfarelos , e outros desta qualidade .
+      [ 162 ]  Não tem plurar os quatro elementos .
+      [ 163 ]  Verdade é que bem posso dizer : eu andei muitas terras , e nunca vi tão boa fruta , como a do termo de Lisboa .
+      [ 164 ]  Aqui neste modo e em outros não tomamos as terras per o elemento da terra , mas per a diversidade das províncias dela .
+      [ 165 ]  Dizemos também per esta maneira : as águas de Antre Douro e Minho são mui delgadas , e os ares de lá são mui sadios ; e é terra tão povoada que dizem haver nela mais de setenta mil fogos .
+      [ 166 ]  E neste exemplo tomamos as águas e ares como partes do todo : e os fogos per os moradores .
+      [ 167 ]  Os ventos principais com todos los rumos e partidas em que os marinheiros os partem : quando falamos per cada um deles , tem singular e não plurar .
+      [ 168 ]  As cousas que tem medida e peso não tem plurar : como , azeite , vinho , vinagre , arrobe , mosto , mel , leite , ouro , prata , estanho , chumbo : cobre , ferro , aço , sal , salitre enxofre etc .
+      [ 169 ]  E as sementes , trigo , cevada , centeio etc. não têm plurar .
+      [ 170 ]  A maior parte da especiaria : como pimenta , cravo canela , etc. não têm plurar .
+      [ 171 ]  Destas outras espécies e cheiros : como , açafrão , coentro , hortelã , incenso , beijoim etc. não tem plurar .
+      [ 172 ]  Sol , lua , glória , fama , memória , não tem plurar .
+      [ 173 ]  E quem algum nome destes levar ao plurar que a orelha possa sofrer , não encorrerá em pecado mortal : dado que em rigor de boa linguagem são mais próprios do singular que do plurar .
+      [ 174 ]  Os que tem plurar e não singular são estes e outros semelhantes , favas , grãos , lentilhas , tremoços , ervilhas , cominhos , migas , papas , sêmeas , farelos .
+      [ 175 ]  E das que usamos pera serviço da pessoa e casa , andes , andilhas , calças , ceroulas , mantéis , alforges , grelhas , tenazas , tesouras , etc .
+      [ 176 ]  Das partes do corpo humano estas não tem singular , bofes , páreas de mulher .
+      [ 177 ]  E assi todos los números que contamos sobre um : como , dous três , quatro , etc .
+      [ 178 ]  Outros muitos nomes temos irregulares os quais leixo , estes bastem pera exemplo .
+      [ title: 
+      [ 179 ]  Dos casos do nome]
+      [ 180 ]  Casos , são os termos per onde os nomes pronomes e particípios podem andar , os quais termos dado que não mudem a substância do nome : governam a ordem da oração mediante o verbo .
+      [ 181 ]  E por que ( como já disse ) por sermos filhos da língua latina , temos tanta conformidade com ela , que convém usarmos dos seus termos : principalmente em cousas que tem seus próprios nomes , dos quais não devemos fugir .
+      [ 182 ]  Chamam os latinos ao primeiro caso , nominativo , por ser o primeiro que nomeia a cousa : e nele está a cousa que é ou a pessoa que faz per semelhante exemplo , a cobiça é raiz de todos los males .
+      [ 183 ]  Esta cobiça , ser raiz fica em o caso nominativo quem faz , a liberalidade faz os príncipes amados .
+      [ 184 ]  E por esta liberalidade ser autor desta obra , está em o caso nominativo pela segunda parte da regra .
+      [ 185 ]  Ao segundo caso chamam , genitivo , e dizem alguns latinos que lhe convém este nome por gerar os outros casos .
+      [ 186 ]  E outros lhe chamam caso possessivo e interrogativo , por nele estar o senhor da cousa , como se perguntassem :
+      [ 186 ]  De quem é esta arte de gramática ?
+      [ 187 ]  Pode-se responder , do príncipe , nosso senhor .
+      [ 188 ]  Em o terceiro caso a que chamam , dativo , pomos a pessoa em cujo proveito ou dano é dada ou feita a cousa , per este exemplo :
+      [ 188 ]  Em aprender , fazes a ti boa obra : e ao mestre dás contentamento .
+      [ 189 ]  Em o quarto caso , a que chamam acusativo , se põe a cousa feita ou amada : exemplo , os homens bons amam a virtude .
+      [ 190 ]  Esta virtude em que obram os homens , fica em acusativo .
+      [ 191 ]  Em o quinto caso per nome , vocativo , está a pessoa que chamamos : o qual se rege destas interjeições , ó , ou , oulá , a vós e outras que se verão em seu lugar .
+      [ 192 ]  E por este modo dizemos , ó piedoso Deus , lembra-te de mim .
+      [ 193 ]  Do sexto caso a que chamam , ablativo , se usa , tirando ou apartando a cousa de algum lugar per este exemplo , eu tiro muita doutrina dos livros .
+      [ 194 ]  E se disser : eu tiro muita doutrina dos livros com meu trabalho , fica este nome , trabalho , em outro caso sétimo , a que os latinos chamam efetivo .
+      [ 195 ]  Este caso se rege desta proposição , com , e nele está o instrumento com que obramos algũa cousa per o exemplo de cima .
+      [ title: 
+      [ 196 ]  Dos Artigos]
+      [ 197 ]  Artigo é ũa das partes da oração , a qual como já dissemos não tem os latinos : e vem este nome , artigo , de articulus , dicção latina : derivada de arthon grega , que quer dizer juntura de nervos , a que nós propriamente chamamos artelho .
+      [ 198 ]  E bem como da liança e ligadura dos nervos se sustém o corpo , assi do ajuntamento do artigo aos casos do nome , se compõem a oração , per semelhante exemplo : dos homens é obrar virtude , e das aves avoar .
+      [ 199 ]  Pero tirando aos homens este artigo , dos , e às aves , das , diremos . homens é obrar virtude , e aves avoar , que não pode ser mais confusa linguagem .
+      [ 200 ]  Per onde claramente vemos , que pera o entendimento ficar satisfeito é necessário artigo masculino ao nome masculino , e artigo feminino ao feminino : por que não diremos , das homens é obrar virtude , e dos aves avoar .
+      [ 201 ]  E pois já sabemos que cousa é artigo , vejamos as suas declinações , que são duas : ũa dos masculinos e neutros , e outra dos femininos .
+      [ 201 ]  Declinações dos artigos , os quais também servem de relativos .
+      [ 201 ]  Masculino
+      [ 201 ]  Singular .
+      [ 201 ]  Plural
+      [ 201 ]  Nominativo —
+      [ 201 ]  o — os
+      [ 201 ]  Genitivo —
+      [ 201 ]  do — dos
+      [ 201 ]  Dativo —
+      [ 201 ]  ao — aos
+      [ 201 ]  Acusativo —
+      [ 201 ]  o — os
+      [ 201 ]  Vocativo —
+      [ 201 ]  ó — ó
+      [ 201 ]  Ablativo —
+      [ 201 ]  do — dos
+      [ 201 ]  Feminino
+      [ 201 ]  Singular .
+      [ 201 ]  Plural
+      [ 201 ]  Nominativo —
+      [ 201 ]  a — as
+      [ 201 ]  Genitivo —
+      [ 201 ]  da — das
+      [ 201 ]  Dativo —
+      [ 201 ]  à — às
+      [ 201 ]  Acusativo —
+      [ 201 ]  a — as
+      [ 201 ]  Vocativo —
+      [ 201 ]  ó — ó
+      [ 201 ]  Ablativo —
+      [ 201 ]  da — das
+      [ title: 
+      [ 202 ]  Das declinações do nome .]
+      [ 203 ]  Como em o nome e verbo está a força de toda a linguagem , per o real poderio que ambos nela tem ( como já dissemos , ) assi em declinar um , e conjugar o outro , está o mais substancial e dificultoso de toda a gramática .
+      [ 204 ]  Esta dificuldade mais é entre os latinos e gregos pola variação dos casos , que acerca de nós e dos hebreus : por que toda a sua e nossa variação é de singular a plurar .
+      [ 205 ]  Os latinos têm cinco declinações , os gregos têm outras cinco simples , que na quinta formam outras a que chamam contratas , os hebreus têm duas , ũa dos nomes masculinos , e outra dos femininos .
+      [ 206 ]  A nossa linguagem declina-se em outras duas , a hũa podemos chamar , vogal por ser dos nomes que acabam nas vogais : e a outra consoante , por acabarem os nomes que per ela declinamos nestas cinco consoantes , l , m , r , s , z :
+      [ 207 ]  Não falo em nomes estrangeiros que se terminam em outras leteras como Isac , Jacob .
+      [ 208 ]  Declinação acerca da nossa linguagem quer dizer variação , por que quando variamos o nome de um caso ao outro em o seu artigo , então o declinamos , como se pode ver nestas duas declinações .
+      [ 208 ]  Primeira declinação .
+      [ 208 ]  a , e , i , o , u .
+      [ 208 ]  Número Singular .
+      [ 208 ]  Número Plural .
+      [ 208 ]  Nominativo — a rainha .
+      [ 208 ]  Nominativo — as rainhas .
+      [ 208 ]  Genitivo — da rainha .
+      [ 208 ]  Genitivo — das rainhas .
+      [ 208 ]  Dativo — à rainha .
+      [ 208 ]  Dativo — às rainhas .
+      [ 208 ]  Acusativo — a rainha .
+      [ 208 ]  Acusativo — as rainhas .
+      [ 208 ]  Vocativo — ó rainha .
+      [ 208 ]  Vocativo — ó rainhas .
+      [ 208 ]  Ablativo — da rainha .
+      [ 208 ]  Ablativo — das rainhas .
+      [ 208 ]  Segunda declinação .
+      [ 208 ]  l , m , r , s , z .
+      [ 208 ]  Número Singular .
+      [ 208 ]  Número Plural .
+      [ 208 ]  Nominativo — o cardeal .
+      [ 208 ]  Nominativo — os cardeais .
+      [ 208 ]  Genitivo — do cardeal .
+      [ 208 ]  Genitivo — dos cardeais .
+      [ 208 ]  Dativo — ao cardeal .
+      [ 208 ]  Dativo — aos cardeais .
+      [ 208 ]  Acusativo — o cardeal .
+      [ 208 ]  Acusativo — os cardeais .
+      [ 208 ]  Vocativo — ó cardeal .
+      [ 208 ]  Vocativo — ó cardeais .
+      [ 208 ]  Ablativo — do cardeal .
+      [ 208 ]  Ablativo — dos cardeais .
+      [ 209 ]  Muitas vezes em o primeiro caso , não pomos artigo , porque a ordem da construção o declara , quando a pessoa é autor da cousa , do qual modo também usam os hebreus .
+      [ 210 ]  Temos mais estas regras pera os artigos .
+      [ 211 ]  Todo nome próprio se rege sem artigo : é o caso genitivo muitas vezes se rege desta preposição : de , per semelhante exemplo :
+      [ 211 ]  João de Barros foi o primeiro que pôs a nossa linguagem em arte : e a memória de António seu filho que a levou ao príncipe nosso Senhor , não será esquecida .
+      [ 212 ]  Aqui está o nome de João de Barros sem artigo : e o de António regido da preposição , de .
+      [ title: 
+      [ 213 ]  Da formação dos nomes em o plurar .]
+      [ 214 ]  A formação dos nomes no plurar da primeira declinação , é cousa mui fácil : cá não tem mais que acrescentar-lhe esta letera , s , como ora vimos em o nome rainha que declinamos .
+      [ 215 ]  E per semelhante modo , se pode fazer em os outros nomes desta primeira declinação .
+      [ 216 ]  Tiram-se desta regra , os nomes que acabam em ai , como pai , contrai , os quais levados ao plurar dizemos pais , contrais , acrescentando-lhe esta sílaba , es .
+      [ 217 ]  Os nomes da segunda declinação são mais dificultosos de formar que os da primeira , por que leixam letras e tomam letras per esta maneira .
+      [ 218 ]  Os que se acabam em al , el , ol , ul , formam-se perdendo a letra , l , e tomando esta sílaba , es , e dizemos cardeal , cardeais , papel , papéis , farol , foróes , taful , tafuis .
+      [ 219 ]  Em esta regra não entram os nomes de ũa só sílaba : como , sal , mel , sol , sul , por que são irregulares e não têm plurar .
+      [ 220 ]  Mal , e cal de moinho , parece que os ouvimos de Castela : por que os formamos acrescentando-lhe , es , e dizemos males : cales .
+      [ 221 ]  Os nomes que se acabam em , il , em lugar do , l , que lhe tiramos se acrescenta , is : e dizemos ceitil , ceitis , funil , funis .
+      [ 222 ]  Os mais dos nomes que se deviam acabar em , am , se escrevem a este modo : razão , razões .
+      [ 223 ]  E se o uso não fosse em contrário que tem gram força acerca das cousas , não me pareceria mal desterrarmos de nós esta prolação e ortografia galega .
+      [ 224 ]  Por que a meu ver quando quiserem guardar a verdadeira ortografia destas dicções , se deve dizer , razão , e no plurar , razões .
+      [ 225 ]  Cá este , m , final nosso tem ali o ofício do mem cerrado dos hebreus , que é ũa das letras que eles chamam dos beiços , a qual lhos faz fechar quando acabam nela , de maneira que se vai fazendo aquela variação ocando-se a voz .
+      [ 226 ]  E este é um modo de afrautar como se frautam os instrumentos da música .
+      [ 227 ]  E então os que pouco sentem querem remediar o seu desfalecimento escrevendo agalegadamente , pondo sempre , o , final em toda las dicções que acabam em , am .
+      [ 228 ]  E se a regra deles fosse verdadeira , em todos los verbos que na terceira pessoa do número plurar acabam nesta sílaba , -am , o deviam usar : e assi em outras muitas dicções como , pam , cam .
+      [ 229 ]  Isto não guardam eles pois vemos que na formação do plurar dizem cães pães : por que aqui vem eles muito ao olho seu erro : que não podem dizer paões , caões .
+      [ 230 ]  Assim que a verdadeira formação destes nomes terminados em , -am , quando vier ao plurar diremos , formações : convertendo o -am final em , -õ , escrito a este modo , e acrescentando-lhe , -es , e quando escrevemos estes nomes , maçã , a , aldeã , a , e os levarmos ao plurar , diremos maçãs aldeãs : acrescentando-lhe esta sílaba , -as , porque estas terminações , -ã , -ẽ , -ĩ , -õ , -ũ , a que podemos dizer reflexas em si , têm diferença destas -am , -em , -im , -om , -um , cá tem diferentes ofícios : um , servem por si em semelhantes dicções , como pus exemplo , e outro servem por estas outras -am , -em , -im , -om , -um .
+      [ 231 ]  Os nomes que se acabam nestas terminações , -am , -em , -im , -om , -um , se formam acrescentando-lhe , -es , -is , -os , -us , e o m , final pomos em cima da vogal precedente e fica reflexa : e dizemos bem , bens , pentem , pentens beleguim , beleguins , cetim , cetins , bom , bons , tom , tons , atum , atuns , ipretum ipretuns .
+      [ 232 ]  E por que em toda las gramáticas não pode haver regras tão gerais , que não haja ai algumas exceções : quando se acharem algũas destas regras das formações , a novidade da obra o pode desculpar , e no título da ortografia diremos algũa cousa do que a elas toca .
+      [ 233 ]  Os nomes que se acabam em , r , s , z , se formam acrescentando-lhe esta dicção , -es , como pomar , pomares , deus , deuses , paz , pazes , etc .
+      [ title: 
+      [ 234 ]  Do pronome e seus acidentes]
+      [ 235 ]  Pronome , é ũa parte da oração que se põem em lugar do próprio nome : e por isso dissemos que era conjunta a ele per matrimônio , e daqui tomou o nome .
+      [ 236 ]  Exemplo , eu escrevo esta Gramática pera ti .
+      [ 237 ]  Esta parte , eu , se chama , pronome : a qual basta pera se entender o que disse , sem acrescentar o meu próprio nome João de Barros , em cujo lugar serve .
+      [ 238 ]  Esta , também é pronome da Gramática : ti , está em lugar de António , como se dissesse :
+      [ 238 ]  Eu João de Barros escrevo esta Gramática pera ti António .
+      [ 239 ]  E tirando cada nome destes o seu pronome : dizendo João de Barros escrevo Gramática pera António , fica esta linguagem imperfeita .
+      [ 240 ]  Assi que podemos dizer , ser inventada esta parte da oração pera boa ordem e perfeito entendimento da linguagem , a qual tem estes seis acidentes : espécie , gênero , número , figura , pessoa e declinação per casos .
+      [ title: 
+      [ 241 ]  Da Espécie]
+      [ 242 ]  Como em o nome vimos que tinha duas espécies , primitiva , e derivada , assi temos pronomes primitivos e derivados .
+      [ 243 ]  Os primitivos ou primeiros são estes seis eu , tu , si , este , esse , ele .
+      [ 244 ]  Os derivados são cinco : meu , teu , seu , nosso , vosso .
+      [ 245 ]  Chamam-se derivados porque se derivam dos primeiros em o caso genitivo : onde diz de mim , se deriva , meu , e de ti , teu , e de si , seu .
+      [ 246 ]  E no plurar nosso vosso .
+      [ 247 ]  Eu , nós , tu , vós , este , estes , são demonstrativos : porque quase demonstram a cousa , per semelhante exemplo .
+      [ 247 ]  Este livro é do príncipe nosso senhor .
+      [ 248 ]  Ele , esse com seus plurales chamam relativos : por fazerem relação e lembrança da cousa dita , posto que o seu principal ofício seja demonstrativo .
+      [ title: 
+      [ 249 ]  Da figura]
+      [ 250 ]  Duas figuras tem o pronome , simples , e composta .
+      [ 251 ]  Figura simples é , eu , tu , este , esse .
+      [ 252 ]  Composta chamamos , eu mesmo , tu mesmo , aqueste , aquesse , etc .
+      [ 253 ]  Esta composição destas duas partes , eu mesmo , não faz mais , que acrescentar ũa eficácia e veemência ao pronome , a que os gregos chamam , ênfase : por que maior eficácia tem dizer , eu mesmo escrevi esta arte , que eu escrevi esta arte .
+      [ 254 ]  E per esta mesma figura , dizemos , nós outros , e outras composições a este modo .
+      [ title: 
+      [ 255 ]  Do gênero , pessoa e número]
+      [ 256 ]  Quatro gêneros tem o pronome .ʃ. este , que é masculino , esta , feminino , isto , que é neutro .
+      [ 257 ]  Eu , tu , de si , comum de dous .
+      [ 258 ]  As pessoas são três : eu , primeira , que fala de si mesmo , tu , a segunda , a qual fala a primeira , ele , a terceira , da qual a primeira fala , como se dissesse , Eu trabalho pera aproveitar os moços , e tu folgas com isto , e os pecos zombaram .
+      [ 259 ]  Dois números têm o pronome , singular e plural .
+      [ 260 ]  Singular , como quando digo , Eu confesso a Cristo , e per plurar , e nós que o confessamos guardamos mal sua doutrina por nossas culpas .
+      [ 260 ]  Dos casos da primeira declinação .
+      [ 260 ]  Primeira pessoa .
+      [ 260 ]  Segunda pessoa .
+      [ 260 ]  Terceira pessoa .
+      [ 260 ]  Singular .
+      [ 260 ]  Plural .
+      [ 260 ]  Singular .
+      [ 260 ]  Plural .
+      [ 260 ]  Singular .
+      [ 260 ]  Plural .
+      [ 260 ]  Nominativo — eu — nós .
+      [ 261 ]  Nominativo — tu — vós .
+      [ 261 ]  Nominativo — carece .
+      [ 261 ]  Genitivo — de mim — de nós .
+      [ 262 ]  Genitivo — de ti — de vós .
+      [ 262 ]  Genitivo — de si .
+      [ 262 ]  Dativo — a mim — a nós .
+      [ 263 ]  Dativo — a ti — a vós .
+      [ 264 ]  Dativo — a si .
+      [ 264 ]  Acusativo — me — nos .
+      [ 265 ]  Acusativo — te — vos .
+      [ 266 ]  Acusativo — se .
+      [ 266 ]  Vocativo — ó eu — ó nós .
+      [ 267 ]  Vocativo — ó tu — ó vós .
+      [ 268 ]  Vocativo — carece .
+      [ 268 ]  Ablativo — de mim — de nós .
+      [ 269 ]  Ablativo — de ti — de vós .
+      [ 270 ]  Ablativo — de si .
+      [ 271 ]  Os casos destas declinações , variam sua significação pelas preposições , de , e à , as quais servem em lugar de artigo .
+      [ title: 
+      [ 272 ]  Declinação dos pronomes possessivos .]
+      [ 273 ]  Da primeira declinação dos pronomes , se deriva esta a baixo a que os latinos chamam possessiva : cá per ela se declinam os pronomes possessivos , os quais são adjetivos , e formam-se dos seus genitivos como vimos atrás .
+      [ 274 ]  E a primeira terminação , é para os masculinos e neutros , e a segunda pera os femininos .
+      [ 274 ]  Primeira pessoa .
+      [ 274 ]  Singular .
+      [ 274 ]  Plural .
+      [ 274 ]  Nominativo — meu — minha .
+      [ 274 ]  Nominativo — nosso — nossa .
+      [ 274 ]  Genitivo — de meu — de minha .
+      [ 274 ]  Genitivo — de nosso — de nossa .
+      [ 274 ]  Dativo — ao meu — à minha .
+      [ 274 ]  Dativo — ao nosso — à nossa .
+      [ 274 ]  Acusativo — meu — minha .
+      [ 274 ]  Acusativo — nosso — nossa .
+      [ 274 ]  Vocativo — ó meu — ó minha .
+      [ 274 ]  Vocativo — ó nosso — ó nossa .
+      [ 274 ]  Ablativo — de meu — de minha .
+      [ 274 ]  Ablativo — de nosso — de nossa .
+      [ 274 ]  Segunda pessoa .
+      [ 274 ]  Singular .
+      [ 274 ]  Plural .
+      [ 274 ]  Nominativo — teu — tua .
+      [ 275 ]  Nominativo — vosso — vossa .
+      [ 275 ]  Genitivo — de teu — de tua .
+      [ 276 ]  Genitivo — de vosso — de vossa .
+      [ 276 ]  Dativo — ao teu — à tua .
+      [ 277 ]  Dativo — ao vosso — à vossa .
+      [ 277 ]  Acusativo — teu — tua .
+      [ 278 ]  Acusativo — vosso — vossa .
+      [ 278 ]  Vocativo — ó teu — ó tua .
+      [ 279 ]  Vocativo — ó vosso — ó vossa .
+      [ 279 ]  Ablativo — de teu — de tua .
+      [ 280 ]  Ablativo — de vosso — de vossa .
+      [ 280 ]  Terceira pessoa .
+      [ 280 ]  Singular .
+      [ 280 ]  Plural .
+      [ 280 ]  Nominativo — seu — sua .
+      [ 280 ]  Nominativo — seus — suas .
+      [ 280 ]  Genitivo — de seu — de sua .
+      [ 280 ]  Genitivo — de seus — de suas .
+      [ 280 ]  Dativo — à seu — à sua .
+      [ 280 ]  Dativo — à seus — às suas .
+      [ 280 ]  Acusativo — seu — sua .
+      [ 280 ]  Acusativo — seus — suas .
+      [ 280 ]  Vocativo — carece .
+      [ 280 ]  Vocativo — carece .
+      [ 280 ]  Ablativo — de seu — de sua .
+      [ 280 ]  Ablativo — de seus — de suas .
+      [ 281 ]  E por que na parte que trata de construção , havemos de dizer da maneira que servem estes pronomes , e como podemos usar deles , acabaremos esta parte dos pronomes , com as duas declinações dos nomes relativos que se seguem .
+      [ title: 
+      [ 282 ]  Declinação dos nomes Relativos]
+      [ 282 ]  Interrogativos
+      [ 282 ]  Singular .
+      [ 282 ]  Plural .
+      [ 282 ]  Nominativo — quem , qual .
+      [ 282 ]  Nominativo — quais .
+      [ 282 ]  Genitivo — de quem , de qual .
+      [ 282 ]  Genitivo — de quais .
+      [ 282 ]  Dativo — a quem , a qual .
+      [ 282 ]  Dativo — a quais .
+      [ 282 ]  Acusativo — quem , qual .
+      [ 282 ]  Acusativo — quais .
+      [ 282 ]  Ablativo — de quem , de qual .
+      [ 282 ]  Ablativo — de quais .
+      [ 282 ]  Relativos .
+      [ 282 ]  Singular .
+      [ 282 ]  Plural .
+      [ 282 ]  Nominativo — que , o qual , a qual , que
+      [ 282 ]  — os quais , as quais .
+      [ 282 ]  Genitivo — de que , de qual , da qual , de que
+      [ 282 ]  — dos quais , das quais .
+      [ 282 ]  Dativo — a que , ao qual , à qual , a que
+      [ 282 ]  — aos quais , as quais .
+      [ 282 ]  Acusativo — que , o qual , a qual , que
+      [ 282 ]  — os quais , as quais .
+      [ 282 ]  Ablativo — de que , do qual , da qual , de que
+      [ 282 ]  — dos quais , das quais .
+      [ title: 
+      [ 283 ]  DO VERBO .]
+      [ 284 ]  Como o Rei per razão de alteza de seu ofício , se pode chamar quase divino , em comparação de seu povo ( posto que todos sejam da massa dos quatro elementos : ) , assi estes nossos dous reies , nome e verbo , dado que sejam compostos de letra e sílaba , primeiros elementos da linguagem : per razão da excelência e alto ofício que tem governam e regem toda las linguagens da terra , em tanta paz e amor antre si , que não se viu república assi governada per um , como estes sendo dous governam a sua .
+      [ 285 ]  Té qui tratamos do nome e pronome conjunto a ele por matrimônio , e vimos todos los acidentes de sua natureza : fica agora tratarmos do poder deste nosso rei , verbo .
+      [ 286 ]  Não segundo convém à sua majestade : mas como o querem os gramáticos , a quem não é dado tratar mais que de sua humanidade .
+      [ title: 
+      [ 287 ]  Definição e divisão do verbo .]
+      [ 288 ]  Verbo ( segundo definição de todos los gramáticos ) é ũa voz ou palavra que demonstra obrar algũa cousa : o qual não se declina como o nome e pronome per casos , mas conjuga-se per modos e tempos , como veremos per suas conjugações .
+      [ 289 ]  Os latinos partem os seus verbos , em substantivos e adjetivos .
+      [ 290 ]  Dos primeiros temos este só verbo , sou , ao qual chamamos substantivo por que demonstra o ser pessoal da cousa , como quando digo , Eu sou criatura racional .
+      [ 291 ]  Verbo adjetivo podemos chamar todos los outros .
+      [ 292 ]  Repartem mais os latinos os seus verbos , em pessoais e impessoais .
+      [ 293 ]  Verbo pessoal é aquele que tem números e pessoas .
+      [ 294 ]  E todos eles trazem consigo estes oito acidentes .
+      [ 295 ]  Gênero , espécie , figura , tempo , modo , pessoa , número , conjugação .
+      [ title: 
+      [ 296 ]  Do gênero do verbo pessoal .]
+      [ 297 ]  Gênero em o verbo , é ũa natureza especial que tem uns e não tem outros : pela qual conhecemos serem uns ativos , outros passivos , e outros neutros , no quais gêneros repartem os latinos os seus : e em outros dous , a que chamam comuns e depoentes .
+      [ 298 ]  Nós destes cinco gêneros temos somente dous , ativos e neutros .
+      [ title: 
+      [ 299 ]  Dos verbos ativos .]
+      [ 300 ]  Verbo ativo , é aquele que se pode converter ao modo passivo , e pelo qual denotamos fazer algũa obra que passe em outra cousa , a qual pomos em o caso acusativo per semelhante exemplo .
+      [ 300 ]  Eu amo a verdade .
+      [ 301 ]  Esta parte , Eu , que é pronome denota a minha pessoa , e o verbo amo , que é ativo denota esta obra de amar a verdade : a qual está em o caso acusativo , segundo mostra este artigo , a , que é do número singular é do gênero feminino .
+      [ 302 ]  E por que não temos verbos da voz passiva suprimos este defeito per rodeio ( como os latinos fazem nos tempos que lhes falece a voz passiva ) com este verbo sou e um particípio do tempo passado , dizendo .
+      [ 302 ]  Eu sou amado dos homens e Deus é glorificado de mi .
+      [ 303 ]  Este modo passivo não é mais , que um converter o ato do verbo às vessas do que faz o modo ativo : porque tanto é em significado , eu amo a verdade , como , a verdade é amada de mi .
+      [ 304 ]  Somente ao primeiro modo chamaram ativo e o segundo passivo , por que um faz em obrar , e o outro padece em receber .
+      [ title: 
+      [ 305 ]  Dos verbos neutros .]
+      [ 306 ]  Verbo neutro ( em nossa linguagem ) será aquele que se não pode converter ao modo passivo , e cuja ação não passa em outra cousa , assi como , estou , ando , venho , vou , fico : e outros que podemos conhecer per este exemplo , Os homens que vão a Paris , e estão no estudo pouco tempo , e folgam de levar boa vida , não ficam com muita doutrina .
+      [ title: 
+      [ 307 ]  Dos verbos impessoais .]
+      [ 308 ]  Chamam os latinos verbo impessoal , todo aquele que se conjuga pelas terceiras pessoas do número do singular , e não tem primeira nem segunda pessoa .
+      [ 309 ]  Estes verbos impessoais , são em duas maneiras , a uns chamam da voz ativa , e outros da voz passiva .
+      [ 310 ]  Os da voz ativa acerca de nós são , releva , compre , convém , acontece , e outros semelhantes que querem antes de si o caso dativo e depois de si um verbo do modo infinitivo , per semelhante exemplo :
+      [ 310 ]  A ti releva aprender ciência , e a mi convém dar doutrina .
+      [ 311 ]  Estes verbos conjugam-se per todos los tempos e modos com este caso dativo por suposto , dizendo :
+      [ 311 ]  A mi , a ti , a ele , a nós , a vós , e a todos los homens releva , compre , convém , falar verdade .
+      [ 312 ]  Os verbos impessoais da voz passiva , acerca dos latinos sempre denotam ação com generalidade de obrar : e propriamente vem de todos los verbos neutros . absolutos .
+      [ 313 ]  Nós não temos estes verbos , mas quando falamos per este modo , tomamos o verbo em a terceira pessoa do número singular , e este pronome da terceira pessoa , se , e reciprocando , dizemos , No paço se pragueja fortemente .
+      [ 314 ]  Temos mais este verbo , hei , hás , que é de gênero diverso polo ofício que tem : o qual , ora se ajunta com nome , ora com verbo .
+      [ 315 ]  Quando se ajunta com nome suprimos muitos verbos da língua latina que a nossa não tem como : hei vergonha , hei medo , hei sede , hei fome , hei frio : e outros muitos significados que tem quando o ajuntamos a nomes substantivos desta qualidade .
+      [ 316 ]  E quando serve desta maneira , podemos lhe chamar verbo neutro .
+      [ 317 ]  E quando se ajunta a verbo sempre é do modo infinito , e denota algum ato por fazer : e per ele suprimos o particípio futuro na voz ativa que os latinos tem de que carecemos , como : Eu hei de ler os livros , de que espero alcançar doutrina .
+      [ title: 
+      [ 318 ]  Da espécie do Verbo .]
+      [ 319 ]  Duas espȩcias tem o verbo , como vimos que tinha o nome , primitiva e derivativa .
+      [ 320 ]  Primitiva é amo , derivativa , desamo .
+      [ 321 ]  E destes verbos derivados , temos quatro diferenças .ʃ. aumentativos , diminutivos , denominativos , adverbiais .
+      [ 322 ]  Aumentativos são aqueles que significam aumento e contínuo acrescentamento daquilo que os seus primitivos significam : como , de branquejar , embranquecer , de negrejar , enegrecer , de verdejar , enverdecer , de doer adoecer , e de tremer , estremecer .
+      [ 323 ]  Diminutivos serão aqueles que significam algũa mais diminuição que os seus primitivos : como , de chorar , choramingar , de bater , batucar .
+      [ 324 ]  Denominativos são aqueles que se derivam de nome : como , de armas , armar , de sela , selar , de pente , pentear , e de ladrilho , ladrilhar .
+      [ 325 ]  Os adverbiais são aqueles que se compõem de advérbios : como de remate , arrematar , de avante , avantajar .
+      [ title: 
+      [ 326 ]  Das figuras do verbo .]
+      [ 327 ]  Duas figuras tem o verbo .ʃ. simples e composta .
+      [ 328 ]  Simples será o que não for composto de algũa parte significativa : e composto , o que se compõe de duas .
+      [ 329 ]  Exemplo , conheço , é simples , desconheço , composto : que se compôs desta dicção , des- , e conheço .
+      [ 330 ]  E per esta maneira se fazem muitas outras composições .
+      [ title: 
+      [ 331 ]  Dos tempos do verbo]
+      [ 332 ]  Temos em nossa linguagem cinco tempos como os latinos : presente , passado por acabar , passado acabado , passado mais que acabado , e vindouro , ou futuro .
+      [ 333 ]  Presente chamamos aquele em o qual fazemos algũa obra presente .
+      [ 334 ]  Exemplo , Eu amo , per onde demonstro que neste tempo presente faço esta obra de amar .
+      [ 335 ]  Passado por acabar é aquele per que mostro em outro tempo fazer algũa cousa : como quando digo .
+      [ 335 ]  Eu amava .
+      [ 336 ]  Passado acabado : como quando disser :
+      [ 336 ]  Eu amei .
+      [ 337 ]  Passado mais que acabado : como , Eu amara ou , suprindo per rodeio , dizendo : Eu tinha amado , per o qual tempo demonstramos ter dado fim à obra .
+      [ 338 ]  Tempo vindoiro é aquele em o qual se há de fazer algũa obra : como se disser .
+      [ 338 ]  Eu amarei .
+      [ title: 
+      [ 339 ]  Dos modos de Verbo .]
+      [ 340 ]  Modo em o verbo , não é mais que ũa denotação da vontade em falando .
+      [ 341 ]  São os modos acerca de nós cinco , como tem os latinos , portanto seguiremos a sua ordem e termos .
+      [ 342 ]  Ao primeiro chamam indicativo , quer dizer demonstrador , por que por ele demonstramos a obra que fazemos : como quando digo :
+      [ 342 ]  Eu leio .
+      [ 343 ]  Ao segundo chamam imperativo , que quer dizer mandador , cá per ele mandamos , exemplo , António lê .
+      [ 344 ]  Ao terceiro Outativo , quer dizer desejador : como quando dizemos , prouvesse a Deus que lesses .
+      [ 345 ]  Ao quarto chamam subjuntivo , que quer dizer ajuntador : porque per ele ajuntamos ũa dicção com outra , pera dar perfeito entendimento no ânimo do ouvinte , per semelhante exemplo :
+      [ 345 ]  Eu leria bem , se o continuasse .
+      [ 346 ]  Esta parte , se o continuasse , fez inteira esta oração , Eu leria bem : e ũa sem outra não satisfaz o entendimento .
+      [ 347 ]  Ao derradeiro e quinto modo chamam infinitivo , que quer dizer não acabado , porque além de carecer de números e pessoas , não determina nem per si acaba cousa algũa , como se verá neste exemplo , Conceder-vos isto , que pedis : se mais não disser fica esta oração imperfeita , que lhe falece ?
+      [ 348 ]  Um verbo do modo finito .
+      [ 349 ]  E ajuntando ũa parte com outra , diremos :
+      [ 349 ]  Não posso , conceder-vos isto que pedis .
+      [ title: 
+      [ 350 ]  Das pessoas e números do verbo .]
+      [ 351 ]  Se o verbo não tivesse esta distinção de pessoas , seria a nossa linguagem confusa : podemos logo dizer que esta distinção é como a divisão do pronome que tem três pessoas : a primeira , eu leio , a segunda , tu ouves , a terceira , aquele ama .
+      [ 352 ]  E este verbo tem número singular , como ora vimos nestes exemplos : e plurar , quando falamos por este número de muitos , nós lemos , vós ouvis , aqueles amam .
+      [ title: 
+      [ 353 ]  Da conjugação do verbo .]
+      [ 354 ]  O derradeiro acidente do verbo nesta nossa ordem , é a conjugação : a qual se pode chamar , discurso , ou jornada que o verbo faz per toda las pessoas , números , tempos e modos : assi como vimos que o nome discorria per todos los casos e números .
+      [ 355 ]  Pero vai o verbo mudando as terminações e as letras finais , assi pelas pessoas como pelos modos quando o conjugamos , o que não faz o nome acerca de nós : por que somente a sua variação é de singular a plurar , como vimos .
+      [ 356 ]  Os latinos tem quatro conjugações , nós , três : as quais conhecemos no modo infinitivo onde eles conhecem as suas .
+      [ 357 ]  A primeira nossa é dos verbos que no infinitivo acabam em , -ar , como : amar , namorar , adorar , rogar , etc .
+      [ 358 ]  A segunda , é dos verbos que acabam em , -er , como , ler , escrever , comer , beber , etc .
+      [ 359 ]  Os que acabam em , -ir , são da terceira : como , ouvir , ir , dormir .
+      [ 360 ]  Os latinos conjugam os seus verbos per cinco discursos .ʃ. presente do indicativo , pretérito , infinitivo , gerúndios , supinos , e particípios , assi da voz ativa como da passiva dizendo , amo , amas , amaui , amare , amandi , amando , amandum , amatum , amatu , amans , amaturus , amor , amaris , amatus , amandus .
+      [ 361 ]  Nós conjugamos os nossos verbos per estes discursos , pelo primeiro , presente , pretérito , infinitivo , gerúndio . do ablativo , e pelo particípio do pretérito . tudo na voz ativa , por não termos voz passiva , tirando o particípio que é formado na passiva : e dizemos : amo , amas , amei , amar , amando , amado .
+      [ 362 ]  Todas las outras mais partes que os latinos tem , suprimos , ou pelo infinitivo à imitação dos gregos , ou per cincunlóquio , a que podemos chamar rodeio : como veremos no fim das conjugações .
+      [ title: 
+      [ 363 ]  As Conjugações .]
+      [ 363 ]  Modo pera demonstrar .
+      [ 363 ]  Tempo presente .
+      [ 363 ]  Singular .
+      [ 364 ]  Plural .
+      [ 364 ]  Amo — amas — ama .
+      [ 364 ]  Amamos — amais — amam .
+      [ 364 ]  Leio — lês — lê .
+      [ 364 ]  Lemos — ledes — lêem .
+      [ 364 ]  Ouço — ouves — ouve .
+      [ 364 ]  Ouvimos — ouvis — ouvem .
+      [ 364 ]  Sou — és — é .
+      [ 364 ]  Somos — sois — são .
+      [ 364 ]  Tempo Passado não acabado .
+      [ 364 ]  Singular .
+      [ 364 ]  Amava — amavas — amava .
+      [ 364 ]  Lia — lias — lia .
+      [ 364 ]  Ouvia — ouvias — ouvia .
+      [ 364 ]  Era — eras — era .
+      [ 364 ]  Plural .
+      [ 364 ]  Amávamos — amáveis — amavam .
+      [ 364 ]  Líamos — líeis — liam .
+      [ 364 ]  Ouvíamos — ouvíeis — ouviam .
+      [ 364 ]  Éramos — éreis — eram .
+      [ 364 ]  Tempo passado acabado .
+      [ 364 ]  Singular .
+      [ 364 ]  Amei — amaste — amou .
+      [ 364 ]  Li — leste — leu .
+      [ 364 ]  Ouvi — ouviste — ouviu .
+      [ 364 ]  Fui — foste — foi .
+      [ 364 ]  Plural .
+      [ 364 ]  Amamos — amastes — amaram .
+      [ 364 ]  Lemos — lestes — leram .
+      [ 364 ]  Ouvimos — ouvistes — ouviram .
+      [ 364 ]  Fomos — fostes — foram .
+      [ title: 
+      [ 364 ]  Tempo Passado mais que acabado .
+      [ 364 ]  Singular .
+      [ 364 ]  Amara — amaras — amara .
+      [ 364 ]  Lera — leras — lera .
+      [ 364 ]  Ouvira — ouviras — ouvira .
+      [ 364 ]  Fora — foras — fora .
+      [ 364 ]  Plural .
+      [ 364 ]  Amáramos — amáreis — amaram .
+      [ 364 ]  Lêramos — lêreis — leram .
+      [ 364 ]  Ouvíramos — ouvíreis — ouviram .
+      [ 364 ]  Fôramos — fôreis — foram .]
+      [ title: 
+      [ 364 ]  Tempo Vindouro .
+      [ 364 ]  Singular .
+      [ 364 ]  Amarei — amarás — amará .
+      [ 364 ]  Lerei — lerás — lerá .
+      [ 364 ]  Ouvirei — ouvirás — ouvirá .
+      [ 364 ]  Serei — serás — será .
+      [ 364 ]  Plural .
+      [ 364 ]  Amaremos — amareies — amarão .
+      [ 364 ]  Leremos — lereis — lerão .
+      [ 364 ]  Ouviremos — ouvireis — ouvirão .
+      [ 364 ]  Seremos — sereis — serão .]
+      [ title: 
+      [ 364 ]  Modo pera mandar .
+      [ 364 ]  Tempo Presente .
+      [ 364 ]  Singular .
+      [ 364 ]  Plural .
+      [ 364 ]  Ama — ame .
+      [ 364 ]  Amemos — amai — amem .
+      [ 364 ]  Lê — leia .
+      [ 364 ]  Leiamos — lede — leiam .
+      [ 364 ]  Ouve — ouça .
+      [ 364 ]  Ouçamos — ouvi — ouçam .
+      [ 364 ]  Sê — seja .
+      [ 364 ]  Sejamos — sede — sejam .]
+      [ 364 ]  Modo pera desejar .
+      [ 364 ]  Tempo Presente .
+      [ 364 ]  Singular .
+      [ 364 ]  Amasse — amasses — amasse .
+      [ 364 ]  Lesse — lesses — lesse .
+      [ 364 ]  Ouvisse — ouvisses — ouvisse .
+      [ 364 ]  Fosse — fosses — fosse .
+      [ 364 ]  Plural .
+      [ 364 ]  Amássemos — amásseis — amassem .
+      [ 364 ]  Lêssemos — lêsseis — lessem .
+      [ 364 ]  Ouvíssemos — ouvísseis — ouvissem .
+      [ 365 ]  Fôssemos — fôsseis — fossem .
+      [ 365 ]  Tempo passado não acabado .
+      [ 365 ]  Singular .
+      [ 365 ]  Amara — amaras — amara .
+      [ 365 ]  Lera — leras — lera .
+      [ 365 ]  Ouvira — ouviras — ouvira .
+      [ 365 ]  Fora — foras — fora .
+      [ 365 ]  Plural .
+      [ 365 ]  Amáramos — amáreis — amaram .
+      [ 365 ]  Lêramos — lêreis — leram .
+      [ 365 ]  Ouvíramos — ouvíreis — ouviram .
+      [ 365 ]  Fôramos — fôreis — foram .
+      [ 365 ]  Tempo passado mais que acabado suprimos per rodeio dizendo .
+      [ 365 ]  Singular .
+      [ 365 ]  Tivera amado — tiveras amado — tivera amado .
+      [ 365 ]  Tivera lido — tiveras lido — tivera lido .
+      [ 365 ]  Tivera ouvido — tiveras ouvido — tivera ouvido .
+      [ 365 ]  Tivera sido — tiveras sido — tivera sido .
+      [ 365 ]  Plural .
+      [ 365 ]  Tivéramos — tivéreis — tiveram .
+      [ 365 ]  Tivéramos — tivéreis — tiveram .
+      [ 365 ]  Tivéramos — tivéreis — tiveram .
+      [ 365 ]  Tivéramos — tivéreis — tiveram .
+      [ 365 ]  Tempo Vindouro .
+      [ 365 ]  Singular .
+      [ 365 ]  Plural .
+      [ 365 ]  Ame — ames — ame .
+      [ 365 ]  Amemos — ameis — amem .
+      [ 365 ]  Leia — leias — leia .
+      [ 365 ]  Leiamos — leiais — leiam .
+      [ 365 ]  Ouça — ouças — ouça .
+      [ 365 ]  Ouçamos — ouçais — ouçam .
+      [ 365 ]  Seja — sejas — seja .
+      [ 365 ]  Sejamos — sejais — sejam .
+      [ 365 ]  Modo d' ajuntar .
+      [ 365 ]  Tempo Presente .
+      [ 365 ]  Singular .
+      [ 365 ]  Ame — ames — ame .
+      [ 365 ]  Leia — leias — leia .
+      [ 365 ]  Ouça — ouças — ouça .
+      [ 365 ]  Seja — sejas — sejam .
+      [ 365 ]  Plural .
+      [ 365 ]  Amemos — ameis — amem .
+      [ 365 ]  Leiamos — leiais — leiam .
+      [ 365 ]  Ouçamos — ouçais — ouçam .
+      [ 365 ]  Sejamos — sejais — sejam .
+      [ 365 ]  Tempo Passado não acabado .
+      [ 365 ]  Singular .
+      [ 365 ]  Amaria — amarias — amaria .
+      [ 365 ]  Leria — lerias — leria .
+      [ 365 ]  Ouviria — ouvirias — ouviria .
+      [ 365 ]  Seria — serias — seria .
+      [ 365 ]  Plural .
+      [ 365 ]  Amaríamos — amaríeis — amariam .
+      [ 365 ]  Leríamos — leríeis — leriam .
+      [ 365 ]  Ouviríamos — ouviríeis — ouviriam .
+      [ 365 ]  Seríamos — seríeis — seriam .
+      [ 365 ]  Tempo Passado acabado .
+      [ 365 ]  Singular .
+      [ 365 ]  Amara — amaras — amara .
+      [ 365 ]  Lera — leras — lera .
+      [ 365 ]  Ouvira — ouviras — ouvira .
+      [ 365 ]  Fora — foras — fora .
+      [ 365 ]  Plural .
+      [ 365 ]  Amáramos — amáreis — amaram .
+      [ 365 ]  Lêramos — lêreis — leram .
+      [ 365 ]  Ouvíramos — ouvíreis — ouviram .
+      [ 365 ]  Fôramos — fôreis — foram .
+      [ 365 ]  Tempo Vindouro .
+      [ 365 ]  Singular .
+      [ 365 ]  Amar — amares — amar .
+      [ 365 ]  Ler — leres — ler .
+      [ 365 ]  Ouvir — ouvires — ouvir .
+      [ 365 ]  For — fores — for .
+      [ 365 ]  Plurar .
+      [ 365 ]  Amarmos — amardes — amarem .
+      [ 365 ]  Lermos — lerdes — lerem .
+      [ 365 ]  Ouvirmos — ouvirdes — ouvirem .
+      [ 365 ]  Formos — fordes — forem .
+      [ 365 ]  Modo infinito .
+      [ 365 ]  Tempo Presente .
+      [ 365 ]  Amar — Ler — Ouvir — Ser .
+      [ 365 ]  Tempo passado per rodeio .
+      [ 365 ]  Ter amado — ter lido — ter ouvido — ter sido .
+      [ 365 ]  Tempo Vindouro per rodeio .
+      [ 365 ]  Haver de amar — haver de ler , haver d' ouvir — haver de ser .
+      [ 365 ]  Gerúndio .
+      [ 365 ]  Amando — lendo — ouvindo — sendo .
+      [ 365 ]  Particípio do tempo passado .
+      [ 365 ]  Amado — lido — ouvido — sido .
+      [ title: 
+      [ 366 ]  De alguns suprimentos que temos dos tempos per maneira de rodeio .]
+      [ 367 ]  Temos ainda em as nossas conjugações alguns tempos que dizemos per rodeio : assi por uso de nossa linguagem : como pera significar alguns que os latinos têm , de que nós carecemos , os quais poderão bem sentir os seus gramáticos : principalmente no modo optativo e subjuntivo .
+      [ 368 ]  Chamamos tempo per rodeio , quando simplesmente não podemos usar d' algum , então pera o significar tomamos este verbo , tenho , naquele tempo que é mais conforme ao verbo que queremos conjugar , e com o seu particípio passado dizemos , tivera amado : como se pode ver no tempo passado e mais que acabado no modo pera desejar , o qual suprimos per este rodeio , por não termos simples com que o significar .
+      [ 369 ]  E no modo infinitivo não acabado por não termos tempo passado e vindoiro ambos simples , significamos per rodeio : o passado , dizendo , ter amado , lido , ouvido , sido , e o vindoiro , haver d' amar , ler , ouvir , ser .
+      [ 370 ]  Temos mais alguns tempos simples , os quais por cópia da nossa linguagem mais que por defeito dela , os podemos dizer também per rodeio : como o tempo passado mais que acabado do modo pera demonstrar , o qual simples dizemos amara , e per rodeio na mesma significação , tinha amado .
+      [ 371 ]  Ainda que parece no sentido , que estes tempos simples com o particípio dão à obra algũa mais perfeição em tempo .
+      [ 372 ]  O modo pera desejar no tempo passado não acabado , dizemos também per rodeio , ó se tivera amado , lido , ouvido , sido .
+      [ 373 ]  Ainda que este particípio : sido , mais comum é aos castelhanos que a nós .
+      [ 374 ]  O tempo passado não acabado do modo pera ajuntar também o suprimos per rodeio , dizendo : como teria eu amado , lido , ouvido , sido .
+      [ 375 ]  Suprimos também o tempo vindoiro deste modo , quando dizemos , amará , lerá , ouvirá , será : com o acento no , a , final , a diferença de amara , lera , ouvira que são do tempo passado não acabado do modo pera desejar , que somente o acento faz a variação dos tempos e modos .
+      [ 376 ]  Alguns outros modos temos de variar e suprir os tempos de nossas conjugações : os quais por acontecerem poucas vezes leixo , e também por dar matéria aos curiosos que nisso quiserem entender .
+      [ 377 ]  Estes me parecem assaz pera esta nossa introdução : e que no uso da nossa linguagem são mais comuns .
+      [ title: 
+      [ 378 ]  Da formação dos verbos per seus tempos e modos .]
+      [ title: 
+      [ 379 ]  Atrás , na formação dos nomes , vimos , que todo o trabalho estava de singular a plurar .
+      [ 380 ]  Aqui nesta formação dos verbos não somente está em os números , mas em as pessoas , tempos , e modos : por que acrescentamos , diminuimos , e trastrocamos letras , segundo o que cada ũa destas cousas quer .
+      [ 381 ]  E dado que nas regras da formação nos pudéssemos estender , como fazem os gramáticos gregos e latinos ( por ser o mais dificultoso de toda a gramática ) leixaremos toda curiosidade , tomando o necessário donde se podem tomar regras pera o mais que cada um quiser acrescentar a estes nossos princípios .]
+      [ title: 
+      [ 382 ]  Dos pretéritos e particípios .]
+      [ 383 ]  Os verbos da primeira conjugação , fazem no pretérito perfeito do modo demonstrador em , -ei , e no particípio em , -ado , como , amo , amei amado .
+      [ 384 ]  Todo verbo da segunda conjugação , faz no pretérito em , -i , e no particípio em , -ido : como leio , li , lido .
+      [ 385 ]  Tiram-se desta regra , apraz , trago , jazo , cubro : que fazem no pretérito em -e , e dizemos : aprouve , trouxe , louve , coube .
+      [ 386 ]  E apraz , jazo , carecem de particípio em boa linguagem : porque os rústicos o formam muitas vezes .
+      [ 387 ]  Todo verbo da terceira conjugação , também faz no pretérito em , -i , e no particípio em , -ido .
+      [ 388 ]  Tiram-se desta regra alguns que fazem no particípio em , -erto , como abro , cubro , com seus compostos , cá dizemos aberto coberto , descoberto , e encoberto .
+      [ 389 ]  Outros verbos temos os quais totalmente não seguem estas regras a que podemos chamar irregulares : como alguns que os latinos tem .
+      [ 390 ]  Estes somente sejam por exemplo , venho , e ponho , com seus compostos , cá uns fazem no pretérito em , -im , e -us .
+      [ 391 ]  E no particípio em , -indo : e -osto : como , venho vim vindo , ponho , pus , posto .
+      [ 392 ]  Isto baste pera conhecimento dos pretéritos e particípios em geral : venhamos às suas formações e dos outros tempos e modos .
+      [ title: 
+      [ 393 ]  Das formações .]
+      [ 394 ]  Assi como o infinitivo é um modo que nos faz : conhecer de que conjugação é qualquer verbo : assi dele mais que de outro algum modo , podemos tomar regra pera a formação dos outros .
+      [ 395 ]  E também lhe devemos esta preeminência , como a termo dos verbos mais usado e conhecido : por que os meninos quando começam formar nossas palavras , primeiro conhecem a ele , que algum ; outro modo , e por ele os ensinam suas madres .
+      [ 396 ]  Os bárbaros que vêm a nosso serviço dele começam , como em primeiro elemento da formação verbal : e por ele suprimos alguns defeitos da nossa linguagem , em que a latina é mais copiosa .
+      [ 397 ]  Assi que justa cousa será tomarmos a ele por primeira posição do verbo : pera dele formarmos os outros modos .
+      [ 398 ]  E a segunda posição , pode ser o primeiro presente do número singular do modo demonstrador , se dela quisermos formar algũas pessoas .
+      [ 399 ]  Os verbos da primeira conjugação que fazem no infinitivo em , -ar , formam o primeiro presente do modo demonstrador perdendo esta sílaba final , -ar , e em seu lugar pomos , o , e fica , de amar , formado amo , de cantar , canto , de louvar , louvo .
+      [ 400 ]  Tiram-se desta regra , dar , estar , a que pomos , -ou , e dizemos , dou , estou , ditongado .
+      [ 401 ]  E também se tira este verbo , hei , hás , que é de todo irregular , assi na conjugação como na formação : porque sendo da primeira conjugação , acaba no infinitivo em , -er , que parece da segunda .
+      [ 402 ]  E quando vem à primeira posição da primeira pessoa do modo demonstrador , dizemos , Hei , que não tem conveniência com haver , seu infinitivo .
+      [ 403 ]  Os verbos da segunda conjugação fazem no infinitivo em , -er , e formam o primeiro presente acrescentando-lhe também , o , em lugar de , -er : como , cometer , cometo , combater , combato , adoecer , adoeço , acolher , acolho , etc .
+      [ 404 ]  Tiram-se desta regra muitos que seguem diferentes formações , como : por , com seus compostos , cá dizemos , ponho , componho , anteponho , posponho .
+      [ 405 ]  E dizer , com seus compostos , e arder , atrair , caber , ter , com seus compostos .
+      [ 406 ]  E jazer , reger , ver , fazer , com seus compostos , cá dizemos , digo , bendigo , maldigo , arco , atraio , caibo , tenho , retenho , mantenho , jazo , rejo , vejo , faço , desfaço , contrafaço , e refaço , os quais quase cada um per si faz sua formação .
+      [ 407 ]  Os verbos da terceira conjugação , terminam o infinitivo em , -ir , e formam o seu presente pela maneira das outras conjugações pondo em lugar de , -ir , esta letra , o , e fica formado , firo , de , ferir , durmo de dormir , sinto , de sentir , cubro , de cobrir .
+      [ 408 ]  Tiram-se desta regra , ouvir , afligir , vir , ir , cair , concluir , seguir , medir , com os seus compostos que alguns destes têm , cá dizemos , ouço , aflijo , avenho , vou , caio , concluo , sigo , meço .
+      [ 409 ]  E o verbo substantivo sou , também carece da regra geral dos verbos , por que faz no infinitivo em , -er , e quando o trazemos ao primeiro presente dizemos , sou .
+      [ 410 ]  E por ser mui irregular em suas formações não falaremos mais dele : nem menos daremos regras dos outros tempos e modos , por que basta pera os saber formar as conjugações que a olho nos mostram as letras finais , em que os verbos que podem ter regra geral se terminam .
+      [ 411 ]  Por que dos irregulares há hi tanto número , que seria ( como diz o provérbio ) maior o capelo que a capa : e por não cairmos nele , ante sejamos breve que prolixo .
+      [ title: 
+      [ 412 ]  Do advérbio e suas partes]
+      [ 413 ]  Advérbio é ũa das nove partes da oração que sempre anda conjunta e coseita com o verbo , e daqui tomou o nome : porque , ad , quer dizer cerca , e composto com , verbo fica advérbio que quer dizer , acerca do verbo .
+      [ 414 ]  Foi esta parte mui necessária , cá per ela se denota a eficácia ou remissão do verbo , porque quando digo , eu amo a verdade , demonstro que simplemente faço esta obra de amar , mas dizendo : eu amo muito a verdade , por este advérbio , muito , denoto a quantidade do amor que tenho à cousa .
+      [ 415 ]  E se disser amo pouco a verdade , com este pouco se diminui o muito de cima , e não amo a verdade , desfaço toda a obra de amar .
+      [ 416 ]  Assi que tem o advérbio este poder , acrescenta , diminui , e totalmente destrói a obra do verbo a que se ajunta , e ele é o que dá aos verbos quantidade , ou qualidade acidental , como o adjetivo ao substantivo .
+      [ 417 ]  E a cada um dos advérbios acontece estes acidentes espécie , figura , significação .
+      [ title: 
+      [ 418 ]  Da espécie e figura .]
+      [ 419 ]  As espécies do advérbio são duas , primitiva , como , muito e pouco , derivada como , de bom se deriva , bem , e de mau , mal .
+      [ 420 ]  Figuras têm duas , simples , como ontem , composta anteontem : que quer dizer antes de ontem .
+      [ title: 
+      [ 421 ]  Da significação .]
+      [ 422 ]  Como os advérbios são muitos , assi têm diversas significações : as quais não podemos comprender todas pera as reduzir a regras gerais , somente porei algũas conformando-me com a ordem dos latinos .
+      [ 422 ]  De lugar :
+      [ 422 ]  Aqui , aí , ali , cá , lá , acolá , algures .
+      [ 422 ]  De tempo :
+      [ 422 ]  Anteontem , ontem , hoje , agora , depois , cedo , tarde , nunca .
+      [ 422 ]  De quantidade :
+      [ 422 ]  Muito , pouco , maior , menor .
+      [ 422 ]  De qualidade :
+      [ 422 ]  Bem , mal .
+      [ 422 ]  De afirmar :
+      [ 422 ]  Certo , si .
+      [ 422 ]  De negar :
+      [ 422 ]  Não , nem .
+      [ 422 ]  De duvidar :
+      [ 422 ]  Quiçá , porventura .
+      [ 422 ]  De demonstrar :
+      [ 422 ]  eis , ei-lo , ei-la .
+      [ 422 ]  De chamar :
+      [ 422 ]  Ou , oulá .
+      [ 422 ]  De desejar :
+      [ 422 ]  oxe , oxalá .
+      [ 422 ]  De ordenar :
+      [ 422 ]  Item , depois .
+      [ 422 ]  De perguntar :
+      [ 422 ]  Como , por que .
+      [ 423 ]  De ajuntar :
+      [ 423 ]  juntamente , em soma .
+      [ 423 ]  De apartar :
+      [ 423 ]  Aparte , afora .
+      [ 423 ]  De jurar :
+      [ 423 ]  Certo , em verdade .
+      [ 423 ]  De despertar :
+      [ 423 ]  Eia , sus , asinha .
+      [ 423 ]  De comparar :
+      [ 423 ]  Assi , assi como , bem como .
+      [ 423 ]  De acabar :
+      [ 423 ]  Em conclusão , finalmente .
+      [ 424 ]  Per outra maneira suprimos gram diversidade de advérbios , ajuntando a um nome adjetivo feminino esta palavra , mente : e dizemos : boamente , mamente , escassamente , grandemente , etc. que quer dizer boa , má , escassa , grande , vontade .
+      [ title: 
+      [ 425 ]  DA PREPOSIÇÃO .]
+      [ 426 ]  Preposição , é ũa parte das nove que tem a nossa gramática : a qual se põem antre as outras partes per ajuntamento ou per composição .
+      [ 427 ]  Quando é per ajuntamento , ordena-se per este modo : eu vou à escola .
+      [ 428 ]  Esta letra , a , posta ante da escola , se chama preposição : a qual rege o caso acusativo , e neste está o nome escola .
+      [ 429 ]  E se disser , eu aprovo tua doutrina , é per composição , cá se compõem esta letra , a , comprovo e dizemos , aprovo .
+      [ title: 
+      [ 430 ]  Da figura]
+      [ 431 ]  A preposição não tem espécie como o advérbio , mas tem figura Singela e dobrada : Singela , como quando dizemos , cerca , e composta , acrescentando-lhe , esta preposição , a , diz acerca , que já tem mais eficácia .
+      [ 432 ]  E muitas vezes , quando as ajuntamos per composição ao verbo mudam a significação dele ; e as que se ajuntam são estas , a , com , des- , re- : como acordar , do qual não temos o simples , concordar , desacordar , recordar , aprazer , comprazer , desprazer , e outros muitos a que se estas preposições ajuntam .
+      [ 433 ]  E também se compõem umas com outras , como , cerca , acerca .
+      [ 434 ]  E com os advérbios , fora , de fora ; dentro de dentro .
+      [ 435 ]  Estas preposições ũas regem genitivo , outras dativo , outras acusativo , e outras ablativo .
+      [ 436 ]  As do genitivo , são , de , do .
+      [ 437 ]  As do dativo . a , ao , pera .
+      [ 438 ]  As do acusativo a , ante , diante , antre , contra , per , por .
+      [ 439 ]  As do ablativo , com , em , no , na , sem .
+      [ title: 
+      [ 440 ]  DA INTERJEIÇÃO .]
+      [ 441 ]  Os gregos contaram esta parte da interjeição com o advérbio .
+      [ 442 ]  Os latinos ( a quem nós seguimos ) distintamente falaram dela : e segundo eles , não é mais que ũa denotação do que a alma padece .
+      [ 443 ]  E antre muitas que temos estas são as mais comuns .
+      [ 444 ]  Ai , ui , ex : são de quem sente dor .
+      [ 445 ]  Ha , ha , he : de quem ri .
+      [ 446 ]  Jesus : de quem se espanta .
+      [ 447 ]  Ai ai , de quem sente prazer achando .
+      [ 448 ]  Adeus : de quem exclama .
+      [ 449 ]  Arrá , de quem compreende alguém em malefício .
+      [ 450 ]  Ui : de quem zomba .
+      [ 451 ]  Chis , st , pera fazer silêncio .
+      [ 452 ]  Outras muitas interjeições temos , que mais se demonstram nos autos e meneios de quem os faz , do que a letra os pode exprimir : que quase são tantas . em espécie , como temos de paixões naturais .
+      [ title: 
+      [ 453 ]  Da construção das partes .]
+      [ 454 ]  Té qui , tratamos das primeiras três partes da gramática : letra , sílaba , dicção : fica agora vermos a quarta que é da construção .
+      [ 455 ]  Esta ( segundo definição dos gramáticos ) é ũa conveniência antre partes , postas em seus naturais lugares : pelas quais vimos em conhecimento dos nossos conceitos .
+      [ 456 ]  E bem como , ao homem é natural a fala , assi lhe é natural a conveniência destas partes : nome substantivo com adjetivo , nominativo com verbo , relativo com antecedente .
+      [ 457 ]  Quanto ao regimento das outras partes , cada nação tem sua ordem : e por não serem universais a todos , lhe podemos chamar acidentais .
+      [ 458 ]  Nós tomaremos da nossa construção o mais necessário , imitando sempre a ordem dos latinos , como temos de costume .
+      [ title: 
+      [ 459 ]  Divisão da construção .
+      [ 460 ]  Duas cousas aquecem à construção : concordância , e regimento .
+      [ 461 ]  Concordância é ũa conveniência de duas dicções correspondentes ũa à outra , em número , em gênero : em caso , pessoa , ou em algũa destas cousas .
+      [ 462 ]  Em número , gênero , e caso : como o adjetivo com seu substantivo .
+      [ 463 ]  Em gênero , número e pessoa : como , o relativo e antecedente .
+      [ 464 ]  Em número e pessoa : como , o nominativo e verbo .
+      [ 465 ]  Da concordância daremos regras e exemplos .]
+      [ 466 ]  Regimento é quando ũa dicção se constrói com outra diversa a ela , per gênero ou per número caso ou pessoa : somente per ũa especial natureza , com que obriga e sujeita a seguinte a ser posta em algum dos casos que temos , como se verá ao diante .
+      [ title: 
+      [ 467 ]  Da concordância do nome substantivo com o adjetivo .]
+      [ 468 ]  As dicções que convém em número gênero e caso são os nomes substantivos com os seus adjetivos , per semelhante exemplo :
+      [ 468 ]  Os homens bons .
+      [ 469 ]  Aqui estão os homens por nome substantivo em número plurar : e são do gênero masculino , e estão no caso nominativo , como se pode ver per suas regras .
+      [ 470 ]  A todas estas cousas corresponde o nome adjetivo , bons , com que perfeitamente recebemos aquela notícia , os homens bons .
+      [ 471 ]  E não diremos , homem boa , cá desfalece a natural ordem da construção per que nos havemos de entender e parecerá mais fala de negros que de bom português
+      [ 472 ]  Per semelhante modo os pronomes e particípios que temos se ajuntam com os nomes substantivos : ainda que na ordem de precederem acerca de nós tem diferença , cá o nome adjetivo ora se antepõe , como , os bons homens , ora se pospõe , como , os homens bons .
+      [ 473 ]  E não temos nisto mais regra que o consentimento da orelha : pero o pronome sempre se põe de trás do nome : cá dizemos , eu Joane , tu António , esse Jerónimo , e não ao contrário , verdade é que na segunda pessoa no modo imperativo , podemos dizer , Antonio tu irás ler a lição .
+      [ 474 ]  Tem mais o nome ũa concordância , quando está em o caso nominativo : que há de convir com o verbo em número e pessoa , como quando digo , eu amo .
+      [ 475 ]  Quando o nome é relativo , há de convir com o seu antecedente , em gênero , número , e pessoa : como eu amo os moços os quais folgam de aprender .
+      [ 476 ]  Este nome , moços , é do gênero masculino , e do número plurar , e da terceira pessoa .
+      [ 477 ]  A todas estas cousas corresponde o seu relativo , os quais , por serem masculinos mediante o seu artigo , os , e do número plurar .
+      [ 478 ]  E não responde em caso : por que os moços estão em acusativo onde o verbo faz operação : e os quais , estão no caso nominativo , por serem autores daquela obra aprender .
+      [ 479 ]  Estas são as regras gerais da nossa construção , agora vejamos das particulares e acidentais .
+      [ title: 
+      [ 480 ]  Do regimento dos verbos .]
+      [ 481 ]  Como vimos atrás , os verbos ou são pessoais ou impessoais .
+      [ 482 ]  Pessoais são os que tem números e pessoas : como amo , amas , ama , amamos , amais , amam , onde claramente vemos dous números , singular e plurar , e cada um deles tem três pessoas : amo , a primeira , amas , a segunda , ama , a terceira , etc .
+      [ 483 ]  Estes verbos pessoais , ou passa a sua ação em outra cousa , ou não .
+      [ 484 ]  Os que passam chamam-lhe os latinos transitivos .
+      [ 485 ]  Que quer dizer pasadores : como , eu amo a ciência , a ação do qual verbo , amo , passa na ciência .
+      [ 486 ]  Estes transitivos têm diverso regimento , porque uns regem genitivo , outros dativo , outros acusativo , outros dativo e acusativo .
+      [ 487 ]  Os que regem genitivo , são estes e outros semelhantes , maravilho-me da grandeza de Deus , lembro-me dos seus benefícios , esquece-se dos meus pecados , por que eu uso das virtudes , e careço dos vícios .
+      [ 488 ]  Todo verbo que significa comprazer , obedecer , ou cujo ato dá proveito ou dano a algũa cousa , quer depois de si dativo : como , sirvo a Deus , obedeço a El-rei , aproveito a meus amigos , impeço a seus contrários .
+      [ 489 ]  Os verbos que regem acusativo , propriamente são os transitivos : como , amo a virtude , aborreço o vício , leio os livros , aprendo ciência , ouço gramática , e ganho honra .
+      [ 490 ]  Os que regem genitivo ou ablativo depois do acusativo , são todos los que significam encher ou vazar algũa cousa : como , eu enchi a casa de trigo , e vazei a bolsa de dinheiro .
+      [ 491 ]  E assi outros verbos ao exemplo destes :
+      [ 491 ]  Hei piedade de ti , tenho vergonha da mentira , e tristeza do pecado , etc .
+      [ 492 ]  Outros depois do acusativo querem dativo : como , eu dou graças a Deus , faço bem aos probes , empresto dinheiro a meus amigos , e não dou logro aos onzeneiros , etc .
+      [ 493 ]  Os verbos pessoais cuja ação não passa em outra cousa , são os que propriamente se podem chamar neutros , e que depois de si não querem caso senão mediante preposição : como , estou na igreja , vou à escola , vigio de dia , durmo de noite , acordo a boas horas , navego no verão , folgo no inverno por amor do estudo , etc .
+      [ title: 
+      [ 494 ]  Dos verbos impessoais .]
+      [ 495 ]  Os verbos impessoais , são os que não têm números e pessoas , e se conjugam pelas terceiras : como vimos na definição deles .
+      [ 496 ]  Estes acerca de nós têm natureza que ante de si querem dativo , e depois de si um verbo do modo infinito : o qual rege o caso do seu verbo per semelhante exemplo .
+      [ 496 ]  A mi convém dar doutrina , a ti releva aprender ciência , aos homens apraz ter dinheiro , às mulheres cumpre honestidade , e a todos obedecer aos preceitos da Igreja , etc .
+      [ title: 
+      [ 497 ]  Do regimento dos nomes .]
+      [ 498 ]  Como os verbos têm natureza pera depois de si regerem alguns casos , muitos nomes têm preeminência de regerem outros , quando se ajuntam a eles : dos quais uns regem genitivo , outros dativo , e outros genitivo e dativo .
+      [ 499 ]  Todo nome substantivo apelativo em qualquer caso que estiver , pode reger genitivo cujo súdito fica : como , quando dizemos : a lei de Deus , na ordenação d' El-rei , ao filho do conde , amo a verdade dos homens , ó vergonha de moço , no paço d' El-rei : dizemos mais : cavalo de cem cruzados , e trigo de quarenta reais .
+      [ 500 ]  Temos também alguns nomes adjetivos que têm força de reger nomes substantivos , que é ao contrário destes atrás .
+      [ 501 ]  Uns regem genitivo : como , cobiçoso de honra , pródigo de dinheiro , avaro de privança , limpo de malícia , zeloso de justiça .
+      [ 502 ]  Outros regem dativo : como , manso aos humildes , cruel aos soberbos , brando aos seus , doce aos amigos , franco aos estrangeiros , semelhante a seu pai .
+      [ 503 ]  Outros regem genitivo e dativo : como , chegado do conde ou ao conde .
+      [ title: 
+      [ 504 ]  Do regimento do Avérbio .]
+      [ 505 ]  O advérbio ( ainda que não tem tanta força como o verbo e nome em seu regimento , muitas dicções se regem dele : e alguns têm estes três acidentes .
+      [ 506 ]  Muitas vezes se ajuntam dous em algũa conjunção : como , muito bem se fez isto .
+      [ 507 ]  E com conjunção se ajuntam dous e três : como , bem prudente e sagazmente se houveram os romanos contra os cartaginenses .
+      [ 508 ]  O segundo acidente é que deseja de se ajuntar ao verbo a que dá mais ou menos significação : como , mui mal cumpriste comigo .
+      [ 509 ]  Terceiro acidente é que alguns tem força de regerem casos : como , assaz de dinheiro , muito disto , pouco de proveito .
+      [ title: 
+      [ 510 ]  Da preposição .]
+      [ 511 ]  Atrás vimos quando falamos das preposições , que ũas eram do caso genitivo , outras do acusativo , outras do ablativo : por que cada ũa rege o caso , de que tomou o nome .
+      [ 512 ]  As que regem genitivo são : debaixo do céu , fora do reino , dentro de casa , defronte de mi , acerca de nós , etc .
+      [ 513 ]  As que regem acusativo são estas e outras semelhantes , sobre perfia , ante El-rei , à praça , contra Lutero , antre os bons , per bom caminho , etc .
+      [ 514 ]  As que regem ablativo são as dos seguintes exemplos : com Deus , no céu , sem pecado etc .
+      [ title: 
+      [ 515 ]  Da conjunção .]
+      [ 516 ]  Se houvéssmos de tratar de quantas espécies i há de conjunção , seria curiosidade enojosa aos ouvintes : basta saber que temos duas conjuções mais comuns .
+      [ 517 ]  A ũa chamam copulativa , que quer dizer ajuntador , por que ajunta as partes antre si , e a outra , disjuntiva , a qual mais propriamente se deve chamar disjunção que conjunção , por que divide as partes .
+      [ 518 ]  A copulativa ajunta as partes per semelhante exemplo :
+      [ 518 ]  Alexandre e César e Aníbal e Pompeu e Pirro , foram grandes capitães .
+      [ 519 ]  E por causa de elegância , e não repetirmos tantas vezes a conjunção , e , com ũa só posta ante a derradeira parte , ajuntamos toda las outras precedentes , antre as quais ela fica entendida : como , Alexandre , César , Aníbal , Pompeu , e Pirro foram grandes capitães .
+      [ 520 ]  A outra que chamamos disjuntiva serve nos exemplos semelhantes : dos filósofos Sócrates ou Platão , ou Aristóteles , não sei qual , diz que a verdade acerca dos homens tem dous rostos , com um os alegra , e com outro os entristece .
+      [ title: 
+      [ 521 ]  Da interjeição .]
+      [ 522 ]  Interjeição ( como vimos atrás ) tem tantos significados , como são os efeitos da alma .
+      [ 523 ]  E de todas estas interjeições , acerca de nós , há i algũas que regem casos , ũas vocativo , que são pera chamar , ou espantar de algũa cousa doendo-se dela : como , ó Deus , a vós , ó homem perdido , ó mal aventurado de pecador .
+      [ 524 ]  Outras regem genitivo , que são aquelas que denotam tristeza : como , ai de aqueles que tem pouca fazenda , e guai dos que a ganham com mau título .
+      [ title: 
+      [ 525 ]  DAS FIGURAS .]
+      [ 526 ]  Não somente temos em a construção das partes na nossa gramática , as regras que atrás vimos : mas ainda algũas figuras e vícios , que assi na fala como na escritura cometemos .
+      [ 527 ]  Figura ( segundo definição de Quintiliano ) é ũa forma de dizer per algũa arte nova .
+      [ 528 ]  Estas figuras se dividem em dous gêneros , de que dependem muitas espécies .
+      [ 529 ]  Ao primeiro viço chamamos barbarismo , e ao segundo solecismo .
+      [ 530 ]  Barbarismo , é vício que se comete na escritura de cada ũa das partes , ou na pronunciação .
+      [ 531 ]  E em nenhuã parte da terra se comete mais esta figura da pronunciação , que nestes reinos : por causa das muitas nações que trouxemos ao jugo de nosso serviço .
+      [ 532 ]  Porque bem como os gregos e Roma haviam por bárbaras toda las outras nações estranhas a eles , por não poderem formar sua linguagem : assi nós podemos dizer que as nações de África , Guiné , Ásia Brasil , barbarizam quando querem imitar a nossa .
+      [ 533 ]  E leixando as figuras e vícios poéticos , trataremos somente daqueles per que mais comumente falamos em oração soluta : por que como já disse quando tratei do acento , as cousas que competem aos poetas , ficaram pera quando for restituído a este reino o uso das trovas .
+      [ 534 ]  Ao presente vejamos as espécies do nosso barbarismo : os vocábulos das quais ainda que sejam gregos , tomaremos como tomaram os latinos , e levando a sua ordem .
+      [ 535 ]  Prótese , que é a primeira espécie , quer dizer , acrescentamento : comete-se este vício quando se acrescenta algũa letra ou sílaba ao princípio de qualquer dicção : como , quando dizemos , até qui por , 'té qui , acrescentando a letra , a .
+      [ 536 ]  Aférese , quer dizer , cortamento , porque do princípio d' algũa dicção cortamos e tiramos algũa letra ou sílaba : que é o contrário do de cima : como desta dicção , determinar , tiramos , de- , e dizemos , terminar , que é o simples .
+      [ 537 ]  Epêntese , quer dizer , interposição , por que quando a cometemos se interpõe letra ou sílaba na dicção : como a esta palavra , todos los , que em lugar de , s , que lhe tiramos , lhe põe , l , que arrebata a sílaba final , os .
+      [ 538 ]  E dizemos , todos los , com um só , l , e não com dous , como fazem os que não sentem que esta parte , todos los , é composta destas duas , todos , os ,
+      [ 539 ]  Síncope , quer dizer , cortamento , cá se corta do meio da dicção letra ou sílaba que é o contrário da de cima : como quando dizemos , consirar , por considerar , viço , por vício , letra por letera .
+      [ 540 ]  Paragoge , quer dizer , acrescentamento : comete-se : este vício quando em fim d' algũa palavra se acrescenta letra ou sílaba : como se faz nos romances antigos , que por fazerem consoante diziam , os que me soem guardare , por guardar .
+      [ 541 ]  Apócope , quer dizer , cortamento do fim : que é o contrário de est' outra que acrescenta : como quando dizemos fidalgo , por filho de algo , a mó de falar , por a modo de falar .
+      [ 542 ]  Diérese , quer dizer , apartamento : cá per ela apartamos ũa sílaba em duas partes , como quando dizemos , poemos , por , pomos .
+      [ 543 ]  Sinérese , quer dizer , ajuntamento que é contrário dest' outra , pois per ela ajuntamos duas letras vogais em ũa : como , s' houver d' olhar às cousas desse homem , por , se houver de olhar às causas de esse homem .
+      [ 544 ]  Sinalefa , quer dizer , apartamento : que quase é como a de cima , o qual vício cometemos quando algũa dicção acaba em letra vogal , e se começa outra em outra vogal : por que então lançamos ũa das vogais fora neste modo :
+      [ 545 ]  Tempo é d' andar daqui por de andar daqui .
+      [ 546 ]  Ectlisis , quer dizer , escoamento , e faz-se quando algũa dicção acaba em letra consoante e começa outra que pronunciando ambas fazem fealdade , e pela evitar lançamos ũa fora : per semelhante exemplo sol luzente , sutil ladrão .
+      [ 547 ]  Antítese , quer dizer postura de letra ũa por outra : como quando dizemos , dixe , por , disse .
+      [ 548 ]  A qual figura é acerca de nós mui usada : principalmente nesta letra , x , que tomamos da pronunciação mourisca , ainda que alguns digam que devemos dizer , dixe , por que no pretérito latino este verbo , dico , faz , dixi .
+      [ 549 ]  Metátese é a derradeira espécie das que acerca de nós se cometem em letra ou sílaba , quer dizer , transposição , por que per ela trastrocamos as letras : como nestas dicções tarstorcar , por , trastrocar : apretar , por , apertar .
+      [ 550 ]  É como os que falam vasconço , que trocam ũas letras por outras .
+      [ 551 ]  Solecismo , é o segundo gênero dos vícios que podemos cometer , este se comete na construção e ordem das partes , quando delas usamos per algum modo apartado do comum uso de falar .
+      [ 552 ]  Vem este vocábulo , solecismo , de ũa cidade de Celícia que se chamava , Solos : a qual dizem que povoou Solon .
+      [ 553 ]  E por que a esta povoação concorreram povos de diversas nações , que corromperam a verdadeira e pura língua dos gregos , chamaram eles a esta corrupção solecismo , donde os romanos tomaram este vocábulo que nós ora usamos .
+      [ 554 ]  E por que eles têm muitas espécies destes vícios , tomaremos somente aquelas que nos convém , e as outras fiquem com seu dono .
+      [ 555 ]  Prolepse , quer dizer , antecipação .
+      [ 556 ]  Comete-se quando partimos em diversas partes algũa generalidade , como :
+      [ 556 ]  Dos homens , um é letrado , outro cavaleiro , outro sacerdote , e outro ocioso : e todos cuidam que acertam .
+      [ 557 ]  Zeugma , que é o contrário desta de cima , quer dizer , conjunção : por que per esta figura damos muitas partes a um verbo , como :
+      [ 557 ]  O mercador no trato , o lavrador no campo , e o bom frade na religião se deleita .
+      [ 558 ]  Hipozêuxis , quer dizer ajuntamento debaixo .
+      [ 559 ]  E sendo espécie de zeugma , é contrária a ela , cá correspondem muitos verbos a um suposto , per semelhante exemplo :
+      [ 559 ]  El-rei dom João o primeiro , venceu a batalha real , e passou em África e tomou Ceuta , aos mouros , e tornou-se a este reino vitorioso , onde faleceu já de muita idade .
+      [ 560 ]  Silepse , quer dizer , concebimento , por que debaixo de nomes substantivos e adjetivos de diversos números , e pronomes de diversas pessoas , colhemos com um verbo ũa cláusula , como esta , tu e Antônio e os bons homens com as mulheres devotas folgais de ouvir as vidas dos santos .
+      [ 561 ]  Apósito , quer dizer , apostura , a qual se faz quando ajuntamos dous nomes substantivos sem conjunção , que um expõe e decrara o outro : como , o Tejo , rio principal de Europa : entra no mar em Lisboa , cidade das mais nobres do mundo .
+      [ 562 ]  Antiptose , quer dizer , caso por caso , cá per esta figura a cousa que há de estar em um caso , pomos em outro per semelhante exemplo , do homem de que falávamos vem agora , por dizer o homem de que falávamos : vem agora .
+      [ 563 ]  Sinédoque , quer dizer , entendimento , por que pela parte , entendemos o todo : como , se me perguntassem quantas velas traz el-rei nosso senhor na Índia , pelas naus : e eu respondesse , trezentas .
+      [ 564 ]  Cacófato , quer dizer , mau som , e é vício que a orelha recebe mal : e comete-se quando do fim de ũa palavra e do princípio d' outra se faz algũa fealdade , ou significa algũa torpeza : como , colhões tão manhos tem aquela lebre : por , que olhões tamanhos tem aquela lebre .
+      [ 565 ]  Pleonasmo , quer dizer , sobejidão de palavras , por que então o cometemos quando se dizem algũas que se podiam escusar , como , Olhou-me com os seus olhos , e falou-me com a sua boca : por que ninguém pode olhar e falar senão por olhos e boca própria .
+      [ 566 ]  Perissologia , quer dizer , sobejidão de razões : a qual cometemos quando per palavras dobradas que não tem mais força dizemos o que se pode dizer per poucas : como , arder e ser ardido , por que tanto quer dizer , arder , como , ser ardido .
+      [ 567 ]  Macrologia , quer dizer , longo rodeio de palavras , e dicções , e então se comete quando contamos algũa cousa , rodeando muitas razões , pera concluir ũa sentença : como se alguém dissesse :
+      [ 567 ]  El-rei dom João nosso senhor , o terceiro deste nome , que ora reina nestes reinos de Portugal , per mãos de muitos e bons oficiais de pedraria , que mandou buscar per todo o seu reino , mandou fázer mui fortes arcos de pedraria com que veio água da fonte da prata à cidade de Évora .
+      [ 568 ]  O qual rodeio de palavras se conclui nesta sentença .
+      [ 568 ]  El-rei dom João o terceiro mandou trazer a Évora água da fonte da prata .
+      [ 569 ]  Tautologia , quer dizer repetição de ũa palavra muitas vezes :
+      [ 570 ]  A qual figura cometemos per semelhante exemplo : Eu mesmo me ando folgando , por , Ando folgando .
+      [ 571 ]  Eclipse , quer dizer , desfalecimento :
+      [ 572 ]  Esta é ũa figura mui comum a nós , e de que nos muito servimos , principalmente nos sobrescritos das cartas : como quando dizemos , A El-rei nosso senhor , ao muito magnífico senhor João , falece aqui seja dada .
+      [ 573 ]  Cacossínteto , quer dizer , má composição : a qual cometemos , quando per maneira de elegância , alguém ordena a linguagem segundo o latim jaz : como ũa oração a qual eu vi tirada em linguagem per um letrado que se prezava de eloquente e disse :
+      [ 574 ]  Dá-nos senhor aquela , a qual o mundo não pode dar paz .
+      [ 575 ]  Havendo de dizer , Dá-nos senhor aquela paz que o mundo não pode dar .
+      [ 576 ]  E outro que escrevia , dizendo no fim da carta , desta de Lisboa cadeia onde há meses sete que sou habitante .
+      [ 577 ]  Anfibologia , quer dizer , dúvida de palavras pelas quais vimos a duvidar a sentença delas : das quais muitas vezes se seguem grandes demandas .
+      [ 578 ]  Como se conta de um homem que tinha ũa filha bastarda , quando veio a hora da morte fez um testamento e disse , Leixo a João por meu herdeiro , e mando que dê a minha filha pera seu casamento tudo aquilo que ele quiser de minha fazenda .
+      [ 579 ]  Crescida a moça , dava-lhe o herdeiro cem mil reais pera casamento , que era mui pouco : e sobre isso vieram a juízo .
+      [ 580 ]  Perguntando o juiz ao herdeiro quanto valia a fazenda e quanto dava a moça , respondeu que valia um conto , e que lhe dava cem mil reais .
+      [ 581 ]  Disse o juiz logo vós quereis desta fazenda novecentos mil reais ?
+      [ 582 ]  Responde o herdeiro : Si .
+      [ 583 ]  Pois segundo a verba do testamento ( disse o juiz ) vós havereis cem mil reais , e a moça novecentos : por que ela há de haver aquilo que vós quereis da fazenda do testador , e esta foi a sua vontade , mas leixou a verba anfibológica , por olhardes melhor pola fazenda de sua filha , té ela ser em idade pera casar .
+      [ 584 ]  E destes exemplos há i muitos , de que os oráculos dos gentios usavam pera enganar os seus devotos .
+      [ 585 ]  Epizêuxis , quer dizer , conjunção : a qual cometemos quando se repete ũa cousa duas e três vezes sem entreposição de parte : como , Vem vem , pois te chamo , não me negues teu favor .
+      [ 586 ]  Esquesionomato , quer dizer , confusão de nomes : como quando por encher a oração ajuntamos muitos substantivos e adjetivos , per semelhante exemplo , Glorioso cavaleiro , honesto religioso , mulher mudável , morte incerta .
+      [ 587 ]  Paromeon , quer dizer , semelhante princípio .
+      [ 588 ]  Esta figura se comete quando muitas dicções se começam em ũa mesma letra : como , começando com cousas contrárias à consciência .
+      [ 589 ]  Poliptóton , quer dizer , multidão de casos como quando os ajuntamos e são distintos , per semelhante exemplo , Senhor dos senhores , homem de homens , amigo dos amigos , parente de parentes .
+      [ 590 ]  Irmos , quer dizer , estendimento : a qual figura se comete quando levamos ũa sentença suspensa com grande arrazoamento de palavras , e no fim delas arrematamos per tal exemplo .
+      [ 590 ]  A ti Senhor que este mundo de nenhuma cousa criaste : e o conservas governando em seu ser , com providência eternal peço que te lembres de mi .
+      [ 591 ]  Polissíndeto , quer dizer , composição de muitos , comete-se esta figura quando muitas palavras e cláusulas se ajuntam per conjunção a este modo :
+      [ 591 ]  César e Pompeu e Aníbal foram os principais capitães do mundo , e deles , o primeiro morreu às punhaladas , e o segundo degolado , e o terceiro com peçonha .
+      [ 592 ]  Dialeto , quer dizer , dissolução ou desatamento , o qual se faz quando muitas partes e cláusulas se ajuntam sem conjunção : como , Teu coração justo faz tuas palavras seguras dos enganos , que tem aquelas que os maus falam .
+      [ 593 ]  Metáfora quer dizer transformação .
+      [ 594 ]  Desta usamos quando per algũa conveniência ou especialidade que ũa cousa tem atribuímos a outra : como per um homem sabedor dizemos , é um Salomão ; e por um liberal , é um Alexandre : e por um esforçado , é um Heitor .
+      [ 595 ]  Metonímia , quer dizer , transnominação : e comete-se quando pomos o instrumento pola cousa que com ele se faz , ou a matéria pelo que se faz dela : como : diz bem per pena : por escreve bem : César morreu a ferro , por punhal ou espada com que o mataram .
+      [ 596 ]  Antonomásia , quer dizer , postura de nome por nome : quando pomos algum nome comum por outro próprio , e isto por algũa excelência que o próprio tem : como se entende per filósofo , Aristóteles , per poeta acerca dos latinos Virgílio e acerca dos gregos Homero .
+      [ 597 ]  Epíteto , quer dizer , postura debaixo de nome .
+      [ 598 ]  E cometemos esta figura quando com um nome adjetivo queremos louvar ou abater algũa pessoa ou cousa : como , O liberal Alexandre , o grave Catão , o traidor Judas , o amor suspeitoso , o ganho doce , o mar perigoso , a vida incerta .
+      [ 599 ]  Onomatopeia , quer dizer , fingimento de nome .
+      [ 600 ]  Desta figura usaram os antigos quando pera denotar a bombarda lhe chamaram , trom , do que faz quando tira .
+      [ 601 ]  E nós dizemos , retinir das cousas que tinem .
+      [ 602 ]  Como Virgílio , que pera exprimir o som da trombeta , Taratantara dixit .
+      [ 603 ]  Parênteses , quer dizer , entreposição .
+      [ 604 ]  Desta figura usamos quando em meio de algũa sentença se entrepõem outras palavras fora do seu propósito , como , a lei de Cristo ( segundo nossa fé ) é a que há de salvar a todos .
+      [ 605 ]  Hipérbole , quer dizer transcendimento .
+      [ 606 ]  Esta figura se comete , quando por louvar ou abater algũa cousa , dizemos outra que trespassa a verdade : como , Dá brados que o ouviram em todo mundo , e é tão grande que chega té o céu .
+      [ 607 ]  Alegoria , quer dizer , significação alheia , a qual tem aqui seis espécies de que esta é a primeira , quando per ũa cousa entendemos outra : como , pelo cordeiro pascoal dos judeus entendemos Cristo nosso redentor imolado por nossa redenção .
+      [ 608 ]  Ironia , quer dizer , dissimulação .
+      [ 609 ]  Desta usamos quando pelo contrário se diz o que queremos , ajudando a tenção com os meneios do corpo e ar da fala , como quando se diz ao moço que fez algum erro , tende-lo Senhor mui bem feito , tenho-vo-lo em mercê .
+      [ 610 ]  Antífrase , quer dizer , fala contrária : quando per um nome entendemos outro contrário a ele : como ao negro , chamamos João Branco .
+      [ 611 ]  Enigma , quer dizer , escura pergunta : da qual usamos quando se diz algũa cousa per escuras palavras e semelhança : como as adivinhações que jogam os meninos .
+      [ 611 ]  Ainda o pai não é nado , já o filho anda pelo telhado que se entende pelo fumo primeiro que se o fogo acenda .
+      [ 612 ]  Carientismos , quer dizer graciosidade .
+      [ 613 ]  Desta figura , posto que seja derradeira nesta ordem , em nossos atos : deve ser a primeira , por que é responder com graça e benevolência quando nos perguntam , como vos vai ? e nós respondemos , a vosso serviço , em lugar de , Bem .
+      [ 614 ]  Muitas outras figuras têm os latinos as quais não exemplificamos em nossa linguagem , dado que as vezes usamos delas por evitar prolixidade : estas que pusemos podem ser exemplo a quem quiser entender as outras .
+      [ title: 
+      [ 615 ]  DA ORTOGRAFIA .]
+      [ 616 ]  Esta palavra , ortografia , é grega : quer dizer ciência de escrever direitamente .
+      [ 617 ]  E dado que no princípio onde se trata da letra houvéramos de proseguir na ortografia , quisemos levar a ordem dos artistas , e não dos gramáticos especulativos : por que nossa tenção é fazer algum proveito aos meninos que por esta arte aprenderem , levando-os de leve a grave , e de pouco a mais .
+      [ 618 ]  Aqui por causa deles trabalharei ser o mais breve e claro que puder : cá se houvesse de tratar da ortografia da nossa linguagem , como fez Tortélio da latina : mais era fazer vocabulário que arte .
+      [ 619 ]  Nem menos farei a cada letra do A , b , c um livro , como fez Messála : nem tantos exames se temos mais ou menos letras e quais são ociosas e quais nos falecem , como fez Quintiliano .
+      [ 620 ]  Nem alegarei o que disse dela Gélio , Viturino , Sérvio , ou Prisciano : cá seria mais mostrar-me que aproveitar .
+      [ 621 ]  Quem curiosidades quiser , nestes achará tantas que pode gastar um par de vidas .
+      [ 622 ]  Assi que leixadas muitas particularidades da gramática latina , e outras muitas da nossa , tratarei somente do necessário aos principiantes .
+      [ title: 
+      [ 623 ]  Das letras que temos e da sua divisão .]
+      [ 624 ]  Como vimos no princípio , serve-se a nossa linguagem destas letras em a sua ortografia , há a b c ç d é e f g h j i y l m n ó o p q R r s t v u x z — ch , lh , nh : que são em figura trinta e três , e em poder vinte e seis .
+      [ 625 ]  E onde cada ũa serve diremos ao diante .
+      [ 626 ]  Estas vinte e seis letras se partem em vogais e consoantes : as vogais são á a é e i ó o u .
+      [ 627 ]  Chamam-se estas letras vogais , por que cada ũa per si sem ajuntamento de outra faz perfeita voz , e trocadamente ũas com as outras fazem estes sete ditongos : ai , au , ei , eu , ou , oi , ui .
+      [ 628 ]  Chamam-se ditongos destas duas dicções gregas , dis , que quer dizer dous , e phtongos , som , quase dobrado som , por que ambas as letras retêm o seu som , e fazem ũa sílaba .
+      [ 629 ]  Das letras consoantes .
+      [ 630 ]  Toda las outras letras que não são vogais chamamos consoantes : por que com elas , são soantes .
+      [ 631 ]  Cá esta letra , b , per si só não soa , e com esta letra vogal , e , dizemos , be .
+      [ 632 ]  E , c , com , e , ce , e assi de toda las outras .
+      [ 633 ]  E repartem os latinos estas consoantes em três partes : em mudas , e meias vogais , e líquidas .
+      [ 634 ]  As mudas são : b , c , d , f , g , p , q , t .
+      [ 635 ]  Chamam-se mudas , por que tirando as letras vogais com que as nomeamos ficam sem nome : cá se tirarmos ao , b , esta letra , e , com que se nomeia e soa , be , fica muda .
+      [ 636 ]  L , m , n , r , s , x , z , chamam-se meias vogais por terem ante e depois de si vogal que as nomeia .
+      [ 637 ]  E a esta letra , l , o seu verdadeiro nome é , ele .
+      [ 638 ]  E que , x , z , não mostrem em suas prolações , ambas as vogais que digo , sempre serão meias vogais , por razão do ofício que tem doutras duas letras em cujo lugar elas servem : cá esta letra , x , é breviatura destas , c s , e , z , de , s d .
+      [ 639 ]  E estas meias vogais , l , m , r , se chamam líquidas .
+      [ 640 ]  E houveram este nome acerca dos latinos , por que toda las cousas que se desfazem e correm , chamam eles líquidas , quase diluídas e derretidas .
+      [ 641 ]  Por que em pronunciando algũa dicção onde elas servem , nós as diluímos na prolação de maneira que quase se não sentem , como nestas dicções , clamor , cravo .
+      [ 642 ]  E , m , podemos dizer que acerca de nós liquesse , quando em lugar dele se pode por til , como nesta dicção pães .
+      [ title: 
+      [ 643 ]  Das letras dobradas que usamos .]
+      [ 644 ]  Serve-se também a nossa escritura d' algũas letras dobradas que têm diferentes figuras , ao modo dos hebreus : os quais têm vinte e duas letras em poder e vinte sete em figura .
+      [ 645 ]  Por que as cinco são dobradas , e usam delas em diferentes lugares : ũas lhe servem em o princípio de algũa dicção , outras em meio e outras no fim .
+      [ 646 ]  Assi nós temos trinta e três letras em figuras , e seis em poder : das quais nos servimos ao modo dos hebreus e são estas , I , i , y , R , r , s , v , u .
+      [ 647 ]  E os exemplos onde cada ũa serve traremos , quando falarmos particularmente delas .
+      [ title: 
+      [ 648 ]  Das letras numerais .]
+      [ 649 ]  Os hebreus e gregos servem-se das letras do seu a , b , c , pera números de conta a este modo .
+      [ 650 ]  Por , um , põem a primeira letra , a , e por dous , b , e por três , c , assi prosseguindo quando chegam a onze tomam a dezena e a primeira .
+      [ 651 ]  Nós e os latinos dado que pera numerar , tomemos algũas letras do A , b , c , não guardamos a ordem como ũas precedem as outras em lugar : somente está em costume que por esta letra , i , longo denotamos um , e pera dous ajuntamos o pequeno ao grande per esta maneira : ii .
+      [ 652 ]  Três , quatro assi o escrevemos : iii , iiii .
+      [ 653 ]  Quando vem a cinco pomos esta letra , b , que é segunda na ordem do nosso A , b , c , e isto em a letra tirada , que na redonda pomos , v , que é a quinta das vogais .
+      [ 654 ]  Seis , sete , oito , escrevemos a este modo : vi , vii , viii .
+      [ 655 ]  O número nove , detrás da letra , x , que denota dez pomos um ponto a esta maneira , ix , que faz diminuição em o número dez .
+      [ 656 ]  E quando a ele queremos acrescentar outros números té chegar a dezenove pomos todos diante a este modo : xi , xii , xiii , xiiii , xv , xvi , xvii , xviii , xix .
+      [ 657 ]  Quando queremos escrever , quarenta em letra redonda per estes quatro , xxxx , o significamos e na tirada um , R , e por cinquenta , L , e por cento , C , e por mil M .
+      [ 658 ]  A maneira de numerar per cifras , dado que também sejam algũas delas do nosso A , b , c , mais pertence a arisméticos que a gramáticos , o que disse baste pera exemplificar os nossos números .
+      [ title: 
+      [ 659 ]  Regras da ortografia .]
+      [ 660 ]  A primeira e principal regra na nossa ortografia , é escrever toda las dicções com tantas letras com quantas a pronunciamos , sem por consoantes ociosas : como vemos na escritura italiana e francesa .
+      [ 661 ]  E dado que a dicção seja latina , como a derivamos a nós , e perder sua pureza , logo a devemos escrever ao nosso modo , per semelhante exemplo , Orthographia é vocábulo grego , e os latinos o escrevem desta maneira atrás , e nós o devemos escrever com estas letras , ortografia , porque com elas o pronunciamos .
+      [ 662 ]  Segunda regra nenhũa dicção ou sílaba podemos escrever acabada em muda , ainda que sejam hebreias ou bárbaras : como Jacob , Joseph , por que todas as nossas dicções e sílabas se terminam nestas semi-vogais , l , m , n , r , s , z , e assi se podem terminar em toda las vogais : e com elas formamos toda las peregrinas dicções em a nossa linguagem .
+      [ 663 ]  Terceira regra , nenhũa dicção podemos escrever com letra dobrada : senão com estas semi-vogais , l , m , n , r , s , porque nos havemos de conformar com as sílabas que temos : como se pode ver na introdução , per onde os meninos podem aprender a ler .
+      [ 664 ]  E estas tais letras dobradas serviram em meio da dicção e não em o princípio ou fim dela : como agora fazem muitos que querem fazer letra a seu ver formosa , sem curar da ortografia , como quem a não sente .
+      [ 665 ]  Quarta regra , toda dicção que se escrever com letra dobrada , a primeira das letras será da precedente sílaba , e a segunda da seguinte , como nesta dicção , nosso que a primeira sílaba é , nos- , e a segunda , -so .
+      [ 666 ]  E assi , amasse , ele , guerra .
+      [ 667 ]  Quinta regra , todo nome que no singular acaba em algũa sílaba destas : -am , -em , -im , -om , -um , no plurar ( como vimos nas formações deles ) em lugar de , m , se porá til , o qual liquesse na prolação do nome : como nestas dicções :
+      [ 667 ]  Pães , homens , cetins , bons , atuns .
+      [ title: 
+      [ 668 ]  Regras particulares de cada letra .]
+      [ 669 ]  Prepostas estas regras gerais , trataremos em particular de cada ũa das letras , e dos acidentes que têm , e primeiramente das vogais por serem princesas das outras .
+      [ 670 ]  Os latinos de quem as nós recebemos , têm somente estas cinco : a , e , i , o , u .
+      [ 671 ]  Nós ( como já vimos ) temos oito .ʃ a grande , a , pequeno , e grande , e , pequeno , i , comum , ó , grande , o , pequeno , u , comum .
+      [ 672 ]  E a este modo , os gregos e os caldeus têm letras vogais grandes e pequenas : de que usam em sua escritura .
+      [ 673 ]  Nós té ora em a nossa não usamos desta diferença de figuras , que chamamos grandes .
+      [ 674 ]  E dado que a sintamos na prolação da voz , com as latinas dobradas a este modo , aa , ee , oo , suprimos o lugar onde elas servem : como nestas dicções :
+      [ 675 ]  Maas , pees , poos , as quais devemos escrever a este modo :
+      [ 675 ]  Más , pés , pós .
+      [ 676 ]  E esta maneira de dobrar duas letras fazem as vezes os latinos como nestas dicções : Virgilii , inchoo , cooperio , suus , Anee , mas cada vogal faz ũa sílaba acerca deles , e nós queremos que ambas as vogais façam ũa só sílaba o que não pode ser pois não são ditongos .
+      [ 677 ]  E bem sei que por ser novidade e o uso estar em contrário , será cousa trabalhosa serem logo estas novas figuras recebidas em nossa ortografia : mas o tempo as fará tão próprias como são as outras de que usamos .
+      [ 678 ]  E parece cousa : mui justa tratarmos delas , pois a perfeição da nossa gramática consiste em conhecermos e usarmos das letras que temos : as quais são grandes e pequenas , pois de todas usamos senão em figura , ao menos em prolação , como podemos ver nos exemplos que particularmente daremos a cada ũa .
+      [ title: 
+      [ 679 ]  A]
+      [ 680 ]  A , que é a nossa primeira letra do , a , b , c , tem duas figuras , ũa deste , a , que chamamos grande , e outra do pequeno .
+      [ 681 ]  Ambos servem em composição de dicções , e cada um tem seu ofício em que o outro não entende : por que não escrevendo as dicções onde cada um serve , ficariam anfibológicas e duvidosas , dado que o modo da construção as mais vezes nos ensine tirar esta anfibologia , como nestas e outras dicções , más , e mas .
+      [ 682 ]  O primeiro tem quatro ofícios , serve por si só de preposição , per semelhante exemplo , quando vou à escola , vou de boa vontade .
+      [ 683 ]  E serve de verbo na terceira pessoa do número singular deste verbo hei , hás , como quando dizemos , há tanto tempo que vos não vi , que já vos estranhava .
+      [ 684 ]  E serve de interjeição per este exemplo , ah má cousa , por que fazes isso ?
+      [ 685 ]  E quando serve no quarto ofício em composição com as outras letras , é per os exemplos acima ditos , e quer a sua prolação com hiato da boca .
+      [ 686 ]  A , pequeno tem três ofícios , serve per si só de artigo feminino : e de relativo do mesmo gênero , e em composição das outras letras .
+      [ 687 ]  De artigo como , a matéria bem feita apraz ao mestre .
+      [ 688 ]  Serve de relativo per semelhante exemplo , essa tua palmatória se a eu tomar far-te-ei lembrar esta regra , e então tem necessidade daquele espírito que lhe vês em cima pera diferença dos outros ofícios .
+      [ 689 ]  Em composição o temor de Deus faz boa consciência .
+      [ title: 
+      [ 690 ]  É]
+      [ 691 ]  É , grande tem dous ofícios , serve per si de verbo na terceira pessoa do número singular do verbo , Sou , és ; é ; e dizemos :
+      [ 691 ]  Esta arte é imprimida em Lisboa .
+      [ 692 ]  E serve em composição de dicções , a nossa fé nos há de salvar .
+      [ title: 
+      [ 693 ]  E]
+      [ 694 ]  E , pequeno tem outros dous ofícios : serve per si só de conjunção em voz , per semelhante exemplo , tu e eu e os amigos da pátria louvamos a nossa linguagem .
+      [ 695 ]  E quando serve em composição das dicções dizemos Antônio lê .
+      [ 696 ]  Segundo vimos , temos três Is destas figuras , j , longo , i , comum , i , grego : e todos têm ũa voz , dado que cada um tenha seu lugar na escritura .
+      [ title: 
+      [ 697 ]  J]
+      [ 698 ]  J , longo servirá em toda las dicções que começarem nele : ao qual se segue vogal , como , jazo , jantar , jejuar , Joane justiça , etc .
+      [ 699 ]  E a vogal onde ele fere se pode chamar ferida : e então serve de consoante .
+      [ 700 ]  I , pequeno serve em toda las dicções amparado de ũa parte e doutra com letra consoante : tirando algũas sílabas que se querem remissas , não feridas , onde serve , i , grego , como veremos em seus exemplos .
+      [ 701 ]  Tem mais este , i , outro ofício , serve de verbo no modo imperativo , como quando dizemos , ih , vós lá , ih , vós diante , o que também os latinos usaram .
+      [ title: 
+      [ 702 ]  Y]
+      [ 703 ]  Y grego tem dous ofícios : serve no meo das dicções , as vezes , como : maior , veyo .
+      [ 704 ]  E serve no fim das dicções , sempre , como : páy , áy , tomáy , etc .
+      [ title: 
+      [ 705 ]  O]
+      [ 706 ]  Este , o , grande tem dous ofícios : serve per si de interjeição pera chamar : como ó piedoso Deus lembrai-vos de nós .
+      [ 707 ]  E serve em composição das outras letras : como , em estes nomes .
+      [ 707 ]  Mó enxó , sola , mostra , etc .
+      [ 708 ]  E em pronomes : nós , vós , nosso , vosso .
+      [ 709 ]  E verbos folgo , posso , e isto em alguns tempos : cá dizemos pode que é presente e pôde que é pretérito .
+      [ title: 
+      [ 710 ]  O]
+      [ 711 ]  O , pequeno ainda que perdeu a posse de dous ofícios que serve o , ó , grande , ficaram-lhe três .
+      [ 712 ]  Serve per si só de artigo masculino , como : o artigo é denotação da força do nome .
+      [ 713 ]  E serve de relativo masculino per semelhante exemplo : este livro sempre andará limpo se o guardarem bem .
+      [ 714 ]  E serve em composição das dicções .
+      [ 715 ]  E pera sabermos qual é o artigo , e qual o relativo , dado que a ordem da construção o demonstre , sempre acharemos o artigo detrás do nome que ele rege , e o relativo antre toda las partes por que não tem certo lugar , e também o podemos denotar , com este espírito em cima a este modo , o , que não tem o artigo .
+      [ title: 
+      [ 716 ]  V]
+      [ 717 ]  Como vimos , temos dous , Us , um desta figura , v , e outro assi , u .
+      [ 718 ]  Pero o primeiro não serve de vogal mas de consoante , em toda las dicções que começam nele , por ser ũa das letras dobradas que temos que servem no princípio : como nestas dicções , vantagem , veio , vimos , vontade , vulto .
+      [ 719 ]  E assi serve per dentro das dicções , ao modo do , i , pequeno : mas por causa da boa composição das letras o , u , pequeno lhe toma às vezes o ofício de ferir nas outras vogais .
+      [ title: 
+      [ 720 ]  U]
+      [ 721 ]  O segundo , u , serve na composição das dicções , e antigamente servia per si de advérbio local , como quando se dizia , u vás ?
+      [ 722 ]  U moras ?
+      [ 723 ]  Do qual já não usamos .
+      [ title: 
+      [ 724 ]  Das letras consoantes .]
+      [ 725 ]  Pois vimos das principais letras do nosso A , b , c que são as vogais vejamos das consoantes .
+      [ title: 
+      [ 726 ]  B]
+      [ 727 ]  Esta segunda letra , B , acerca de nós e dos latinos não tem mais acidente que querer antes de si , m , como nestas dicções , ambos , embolas , embigo , tombo .
+      [ title: 
+      [ 728 ]  C]
+      [ 729 ]  Tem duas figuras , a primeira de cima : e esta seguinte , ç .
+      [ 730 ]  Quintiliano por que os latinos não têm este em figura tratou do primeiro dizendo que com ele podíamos suprir o ofício de , k , e q .
+      [ 731 ]  Nós por fugir de novidades conformemo-nos com o uso : e no mais me remeto a ele onde fala das letras .
+      [ 732 ]  Quanto ao uso que temos deles em a nossa ortografia , este primeiro , C , ajunta-se somente a estas três vogais , ca , co , cu .
+      [ 733 ]  E o segundo a todas a este modo , ça , çe , çi , ço , çu : com que as sílabas ficam ceceadas da maneira dos ciganos .
+      [ 734 ]  Nós parece que houvemos estas letras dos mouriscos que vencemos .
+      [ title: 
+      [ 735 ]  D , F , P , T , X , Z .]
+      [ 736 ]  Estas seis letras , não tem tantos trabalhos nem mudanças em servir seus ofícios , como vemos que tem as outras .
+      [ 737 ]  Servem-nos comumente em toda las dicções , como povo nos trabalhos da república : ao qual as podemos comparar : e por isso as atamos em molho , sem guardar a ordem que tem , nem fazermos delas muita menção .
+      [ title: 
+      [ 738 ]  G]
+      [ 739 ]  G , tem diferenças em seu serviço quando se ajunta às vogais : por que não pronunciamos ga , go , gu como ge , gi : cá estes têm a prolação de je , ji .
+      [ 740 ]  E pera ajuntarmos à letra , g , estas duas vogais , e , i , com que faça a prolação de ga , go , gu , é necessária esta letra , u , a este modo , guerra , Guilhelme .
+      [ 741 ]  Por que como os latinos não podem dizer che , chi , senão mediante esta letra , h , assi nós não podemos dizer , que , qui , senão mediante , u .
+      [ 742 ]  E por que muitos confundem a ortografia nestas duas sílabas ge , gi , escrevendo je , ji , e tomam ũas por outras : devemo-nos conformar pera boa ortografia com as dicções latinas : por que quase todos los nomes próprios se escrevem com , J , e as outras partes com , g , Jerusalém , Jerimias , Jerônimo , Jeroboam .
+      [ 743 ]  E com , g , gente , geada , genro , ginete , etc .
+      [ title: 
+      [ 744 ]  H]
+      [ 745 ]  Esta figura , h , os latinos não lhe chamam letra , mas aspiração : por servir em toda las sílabas aspiradas , o qual ofício tem acerca de nós : como nestas dicções , ah , que é interjeição de rir .
+      [ 746 ]  E a-há , que é de compreender em algum erro , e de conceder que está ũa cousa bem feita .
+      [ 747 ]  E assi nestes e em outros nomes , herdade , homem , humanidade .
+      [ 748 ]  Tem mais outro ofício acerca de nós : que com cada ũa das três letras vogais faz três sílabas , que são próprias da nossa linguagem , a este modo cha , lha , nha .
+      [ title: 
+      [ 749 ]  L]
+      [ 750 ]  L , tem ũa só diferença , que as vezes se quer dobrado quando está posto antre duas vogais : como nesta parte , ele , e outras dicções que tomamos dos latinos .
+      [ 751 ]  Esta dicção , todos los , muitos presentes a escrevem com , ll , dobrado : como quem não sente a composição das partes de que se compõe : cá é composta destas duas , todos , os .
+      [ 752 ]  E por tirar aquele concurso de sílabas , per ũa figura que os latinos chamam epêntese tiramos o , s , de todos , e em seu lugar pomos , l , singelo : com o qual arrebatamos aquele artigo , os , e dizemos todos los .
+      [ 753 ]  E esta regra devemos ter em toda las partes onde o , l , arrebata algum artigo : a qual figura é mui usada de nós nas dicções , que se acabam em algũa destas duas letras , r , s , por que fazemos a linguagem mais corrente .
+      [ title: 
+      [ 754 ]  M]
+      [ 755 ]  M , tem menos trabalho que as outras letras , por que toda las sílabas cuja letra ele é final , serve em seu lugar til , a que podemos chamar suprimento dele e do , n , como nestas dicções , mandar , razão .
+      [ 756 ]  E da maneira que fica líquido quando levamos ao plurar as dicções que acabam nele , nas formações do nome o vimos .
+      [ 757 ]  E em algũas dicções onde ele é final , e que diante de si tem letra vogal , nunca o poremos , senão til , por não fazer a parte anfibológica , como , com estas , e não , com estas , cá parece que diz comestas .
+      [ 758 ]  Em algũas dicções se quer dobrado : como , gramática , imortal : por que tem esta natureza , ante de si não consente , n , como , p , e , b , que é regra dos latinos .
+      [ title: 
+      [ 759 ]  N]
+      [ 760 ]  Esta letra , N , acerca de nós serve no princípio e fim da sílaba , e nunca em fim de dicção , por que não temos parte que se acabe nele : como pelo contrário , os castelhanos em , m , no que somos mais conformes aos latinos .
+      [ 761 ]  E muitas vezes o til o escusa do seu trabalho , quando é final de sílaba : como faz ao , m .
+      [ 762 ]  Tem mais , que às vezes se quer dobrado em algũas dicções que recebemos dos latinos , como ano .
+      [ title: 
+      [ 763 ]  Q]
+      [ 764 ]  Esta letra , Q , pelo nome que tem , e assi pela pouca necessidade que há dela ( como vimos atrás na letra c . ) a nós convinha mais que a outra nação desterrá-la da nossa ortografia , e em seu lugar empossar esta letra , c .
+      [ 765 ]  Mas já disse quão receoso sou de novidades : dado que as proveitosas tenham muita força pera serem recebidas .
+      [ 766 ]  Como creio que se faria a esta letra , c , se fizesse profissão d' ano e dia : pois esta , Q , tem tão perversa natureza além do mau nome , que se não ajunta às letras vogais senão mediante esta , u , que lhe é semelhável .
+      [ 767 ]  Ou são elas tão limpas que se não querem ajuntar a ele , cá não dissemos qa , qe , qi , e dizemos qua , que , qui .
+      [ 768 ]  E assi fica aquela letra , u , sempre líquida sem força , principalmente acerca de nós , nestas dicções que , qui : cá assi as sentimos como os latinos : e dizemos , qual , quão , quanto , e não cal , cão , canto , por terem outros significados .
+      [ 769 ]  Est' outras sílabas , quo , quu , não as há em nossa linguagem : cá dizemos , como , cume , e não , quomo , qume .
+      [ 770 ]  Estas duas sílabas , que , qui são acerca de nós mui celebradas .
+      [ 771 ]  Porque nesta parte desfaleceu o uso do , c .
+      [ 772 ]  Assi que podemos daqui tirar esta regra :
+      [ 773 ]  Qua , usaremos às vezes : que , qui , sempre : quo , quu , nunca .
+      [ title: 
+      [ 774 ]  R]
+      [ 775 ]  Segundo vimos na divisão das letras , R , é ũa das que tem duas figuras na letra redonda .ʃ. um singelo que tem a voz leve e branda a que chamamos , ére , e outro dobrado que rompe a voz com ímpeto que se chama érre .
+      [ 776 ]  O primeiro serve no meio da dicções , às vezes , em figura e em voz : e no fim sempre .
+      [ 777 ]  No princípio serve em figura , mas não em voz , por ser brando , como nestas dicções , razão , recado , etc .
+      [ 778 ]  O segundo serve sempre no meio quando a sílaba é ríspida e forte : como carreta que é diferente de careta .
+      [ 779 ]  E no princípio serve sempre sua voz : por que toda las primeiras sílabas das dicções cuja primeira letra é , r , esta tal será forte e não branda .
+      [ title: 
+      [ 780 ]  S]
+      [ 781 ]  S , tem duas figuras , esta , s , que serve sempre no princípio , e no meio muitas vezes : e est' outro , s , sempre no fim , e assi outros pequenos que não têm haste comprida .
+      [ 782 ]  O primeiro , em algũas dicções o dobramos ao modo dos latinos , principalmente em o presente de todos los verbos do modo pera desejar , como amasse , lesse , ouvisse , fosse .
+      [ 783 ]  E pola maior parte os que ante si e depois de si tem letra vogal será dobrado : quando for toda ũa dicção , como assi , esse , nossa .
+      [ 784 ]  Té qui tratamos particularmente de cada ũa das nossas letras , fica agora vermos do til , a que podemos chamar suprimento ou abreviatura de quatro letras , m , n , pela maneira que já vimos , quando tratamos d' ambos , e a breviatura de , ue , a este modo , q̃ , que tanto significa como este , que .
+      [ 785 ]  E assi este — til como outras vergas e pontos que tem a nossa escritura , principalmente os da letra tirada , que mais se podem chamar , atalhos dos escrivães por não gastarem tempo e papel , que outra algũa necessidade .
+      [ 786 ]  E por que não guardam lei nem regras não trataremos delas , e isto baste quanto à ortografia particular de cada ũa das letras .
+      [ 787 ]  E em geral vejamos d' algũas regras que devemos ter nas cláusulas e períodos da oração , e do apontar dela .
+      [ title: 
+      [ 788 ]  Dos pontos e distinções da oração .]
+      [ 789 ]  Ua das cousas principais da ortografia , pela qual entendemos a escritura : é o apontar das partes e cláusulas , e em que os latinos mostraram muita diligência .
+      [ 790 ]  Esta não temos nós , principalmente na letra tirada , sendo cousa que importa muito : por que às vezes fica a oração anfibológica sem eles , donde nascem dúvidas .
+      [ 791 ]  E por a nossa gramática , nesta parte não ficar escassa : diremos dos pontos que podemos usar , se quisermos doutamente escrever .
+      [ 792 ]  Os latinos , têm estes pontos e sinais , com que distinguem as partes e cláusulas da oração : coma , colo , verga , parênteses , interrogação .
+      [ 793 ]  Coma , é vocábulo grego , a que podemos chamar cortadura : por que ali se corta a cláusula em duas partes .
+      [ 794 ]  Estas duas partes , se cortam em vírgulas : que são ũas distinções das partes da cláusula .
+      [ 795 ]  Colo , é o termo ou marco em que se acaba a cláusula .
+      [ 796 ]  As figuras de cada ponto destes : são as seguintes — dous a este modo : se chamam coma .
+      [ 797 ]  Este só se chama colo .
+      [ 798 ]  As vergas são estas zeburas , ao modo dos gregos .
+      [ 799 ]  Na coma parece que descansa a voz , mas não fica o entendimento satisfeito : por que deseja a outra parte , com que a oração fica perfeita e rematada com este ponto colo .
+      [ 800 ]  Estão antre as cortaduras que são estes dous pontos : ũas zeburas assi , a que chamamos distinções das partes da cláusula .
+      [ 801 ]  Este só ponto ( como já disse ) se chama colo .
+      [ 802 ]  As palavras que jazem antre dous colos , se chamam , cláusula , ao nosso modo : e segundo os gregos , período a que os latinos chamam termo .
+      [ 803 ]  Os dous arcos que fazem estas palavras ( como já disse ) : usam os latinos quando cometem ũa figura a que chamam entreposição , e os gregos , parênteses , da qual tratamos na construção .
+      [ 804 ]  Quando perguntamos algũa cousa dizendo .
+      [ 804 ]  Quem foi o primeiro que achou o uso das letras ?
+      [ 805 ]  Estes dous pontos assi escritos onde a pergunta acaba , podemos chamar interrogativos : por serem sinal que interrogamos e perguntamos algũa cousa .
+      [ 806 ]  E dado que o entendimento pela maior parte quando imos lendo qualquer escritura , ele vai fazendo os pontos que se requerem sem os ter : muitas vezes os mesmos pontos lhe fazem sentir a verdade dela , como se pode ver nesta dicção anfibológica .
+      [ 806 ]  Ler as obras de Lutero : nunca obedecer ao Papa é o mais seguro pera a salvação .
+      [ 807 ]  Como julgaremos estas palavras não serem heréticas ?
+      [ 808 ]  Com os pontos : por que a parte , nunca , tem força neste entendimento , e onde se acosta , ali cai .
+      [ 809 ]  Aqui destrói a precedente , e não a sequente : cá dizemos .
+      [ 809 ]  Ler as obras de Lutero nunca : obedecer ao Papa , é o mais seguro pera a salvação .
+      [ 810 ]  Estas orações anfibológicas usavam muito os oráculos dos gentios : cá per elas os enganavam .
+      [ 811 ]  Como se conta da resposta que houve Pirro do oráculo de Apolo , que os gramáticos trazem mui comum , Aio te Aeacida Romanos uincere posse .
+      [ 812 ]  Da qual resposta Pirro ficou enganado : por que entendeu que havia de vencer os romanos , e ele ficou vencido deles , por a resposta ser anfibológica .
+      [ title: 
+      [ 813 ]  DIÁLOGO EM LOUVOR DA NOSSA LINGUAGEM .]
+      [ 814 ]  Senhor , sabe já esta nova ?
+      [ character:  ( Pai )]
+      [ 815 ]  Qual ?
+      [ character:  ( Filho )]
+      [ 816 ]  Que o príncipe nosso senhor começou ontem d' aprender a ler .
+      [ character:  ( Pai )]
+      [ 817 ]  E quem o ensina ?
+      [ character:  ( Filho )]
+      [ 818 ]  O pregador d' el-rei frei Joam Soares .
+      [ 819 ]  E logo perguntei per que o principiava : por causa do trabalho que levou em a composição da gramática da nossa linguagem que lhe tem dirigida .
+      [ character:  ( Pai )]
+      [ 820 ]  Que importa o meu trabalho ao príncipe nosso senhor começar d' aprender , pois tem preceitor de vida e letras que lhe ordenará os princípios , conformes a sua idade e majestade do seu sangue .
+      [ 821 ]  Nem por eu ter dirigido a su' alteza o trabalho que dizes , devo esperar , mais que por me fazer mercê o mandar examinar : e sendo tais que possam aproveitar aos meninos , mandará que se leiam em as escolas .
+      [ 822 ]  E a estes preceitos gramaticais e diálogo da viciosa vergonha , que tu e eu o outro dia compusemos : quiserá ajuntar outros dous , um da viciosa verdade , e outro destas duas palavras , si , nam , por serem matérias convenientes a três idades do homem .
+      [ 823 ]  Pero pois a ordem da vida que tenho me não deu mais tempo que pera o primeiro : enquanto os outros não vem , sejam recompensados com louvarmos a nossa linguagem que temos posta em arte , com que leve mais ornato que as regras gramaticais .
+      [ 824 ]  E por que acerca de qual foi a primeira linguagem do mundo em as escolas anda grande questão : Horatius in arte poetica et adhuc sub iudice lis est , primeiro que tratemos da nossa , quero repetir esta questão do fundamento pois nela está todo nosso edifício .
+      [ 825 ]  Entre os filósofos houve grandes e diversas opiniões acerca da criação do homem : por que uns quiseram que não tivesse princípio e fosse ab eterno como o mundo , e outros que assi o mundo como ele tivera princípio .
+      [ 826 ]  Pero em o modo de provar esta criação confundiram e destruíram a verdade : donde deram matéria aos poetas pera fabularem quantas composturas e ficções vemos como conta Ovídio , que Prometeu formou o homem da Terra .
+      [ character:  Filho .]
+      [ 827 ]  O outro dia , nos leu nosso mestre essa fábula do Methamorphoses .
+      [ 828 ]  E mais adiante está outra transformação quando depois do dilúvio Deucalião e Pirra repararam a perda do gênero humano : Deucalião , lançando as pedras por detrás das costas , de que se geravam os homens , e das que Pirra lançava se geravam mulheres : mas não diz ali Ovídio a linguagem que então os homens falavam .
+      [ character:  ( Pai . )]
+      [ 829 ]  Se ela fora a latina como tu presumias , bem se gloriara Ovídio disso , e fizera transformação de linguagens de ũas em outras , como fez dos corpos em diversas formas .
+      [ 830 ]  Assi conta Justino , que os egípcios tiveram gram contenda com os Citas sobre a antiguidade de seu nascimento : dando cada nação destas razões por parte da terra que habitavam , ser mui conforme pera a criação e multiplicação dos homens .
+      [ 831 ]  E vem a concluir que os Citas foram tidos por mais antigos no mundo : mas não diz que linguagem foi a que primeiro tiveram .
+      [ 832 ]  Vitrúvio na sua arquitetura quer dar princípio donde os homens tomaram o uso da fala .
+      [ 833 ]  Dizendo que do consórcio que tinham uns com outros , quando se aquentavam ao fogo que novamente se achara ( segundo ele conta : ) vieram ter necessidade da fala , pera se entenderem antre si , e que esta necessidade os moveu a isso , e porém não diz que linguagem foi esta .
+      [ 834 ]  Heródoto quis afirmar qual fora esta linguagem , contando aquela experiência que Psamiético rei de Egito fez em dous meninos que mandou criar às tetas de duas cabras : encomendando ao pastor a que deu este cuidado , que em nenhũa maneira falasse ante eles , pera ver a que linguagem os inclinava a natureza .
+      [ 835 ]  Os quais , passados dous anos de sua idade disseram contra o pastor com as mãos levantadas à maneira de quem roga , esta palavra , Becus , que em língua frígia quer dizer pão : donde tiveram opinião que a língua frígia fora a primeira do mundo .
+      [ 836 ]  Tu leixadas todas estas opiniões da gentilidade , chega-te à verdade da nossa fé que estes não tiveram : donde se causou esta , e outras contendas de maiores errores : dos quais nos Deus livre , e leixe seguir o verdadeiro caminho em que estamos .
+      [ character:  Filho .]
+      [ 837 ]  Eu esse queria tomar se o souber .
+      [ character:  Pai .]
+      [ 838 ]  Hajas tu a bênção de Deus e a minha , e quanto em mim for trabalharei nisso : e ao presente té porei neste que nos demonstrou a escritura .
+      [ 839 ]  Os hebreus por serem os primeiros a quem Deus quis comunicar a criação do mundo , afirmam que a língua do nosso primeiro padre Adão foi a hebreia : aquela em que Moisés escreveu os livros da lei .
+      [ 840 ]  Os gregos , querem que seja a caldeia , por que nesta linguagem confessou Abraão a Deus : e dizem que a língua hebreia , não é mais que caldeu corrompido .
+      [ 841 ]  Qual destas seja a verdade : em contenda de tão graves barões , a nós não é lícito afirmar .
+      [ character:  Filho .]
+      [ 842 ]  Qual será logo o verdadeiro caminho que devo seguir ?
+      [ 843 ]  Pai .
+      [ 844 ]  Eu té qui recitei o que os escritores antigos sentiram , agora direi o que nos mostra o espírito : por que não havemos de negar ao entendimento a especulação da verdade , pois nisto consiste toda a deleitação dele , principalmente nas cousas que mais estão em opinião , que em fé .
+      [ 845 ]  E disto tomarás o que mais quadrar em teu entendimento : levando por guia as autoridades da sagrada escritura .
+      [ 846 ]  ( Segundo nos ela demonstra ) depois que Deus criou Adão , que foi o primeiro homem , e o pôs naquele lugar deleitoso : apresentou-lhe toda las cousas que pera ele criara , as quais Adão conheceu e as chamou per seu nome que então novamente pôs .
+      [ character:  Filho .]
+      [ 847 ]  E as que nós agora temos , e Adão não viu , como lhe podia ele por nome ?
+      [ character:  Pai .]
+      [ 848 ]  Eu não digo que pôs o nome àquelas , que os homens inventaram pera suas necessidades e deleitações : mas as que foram criadas no princípio do mundo , e ficaram entregues à natureza , pera que as multiplicasse em suas espécies , pera o uso e serviço dos homens .
+      [ 849 ]  E se Adão viu ess' outras que dizes , seria quando mereceu ver em espírito a encarnação do filho de Deus , em cuja fé e esperança se ele salvou .
+      [ 850 ]  Estas tais cousas , posto que as Adão visse em revelação ( como digo ) : não lhe pôs ele o nome que agora tem .
+      [ character:  Filho .]
+      [ 851 ]  Pois quem senhor ?
+      [ character:  Pai .]
+      [ 852 ]  Aqueles que as primeiro inventaram : por que mal poria Adão nome à nau , pois nunca navegara , nem à bombarda , se não havia de quem se defender , nem ao libelo , se não tinha quem demandar .
+      [ 853 ]  E todas estas e outras muitas cousas , podes crer que a necessidade , cobiça , e malícia dos homens trouxeram consigo .
+      [ 854 ]  Porém de crer é , que ao tempo da edificação de Babilônia , em que a linguagem era toda ũa : haveria muitas cousas inventadas pera o uso daquele edifício , e d' outras necessidades , às quais puseram eles nome , e às naturais pôs Adão .
+      [ character:  ( Filho )]
+      [ 855 ]  Das setenta e duas linguagens em que dizem toda aquela gente se repartir polo pecado daquele edifício : a que povo ficou a que Adão falava ?
+      [ character:  ( Pai )]
+      [ 856 ]  Alguns autores católicos tem que ficou a éber : donde dizem que os hebreus tomaram o nome .
+      [ 857 ]  E per autoridade destes , fica claro , que a língua hebreia , foi a que Adão teve : mas o que o espírito nos ensina , parece que ficou a todos aqueles setenta e dous povos .
+      [ 858 ]  Por que cousa razoada e de crer é , que como todos eram filhos de Adão segundo a carne , que assi herdassem a linguagem : mas foi desta maneira , herdaram as vozes , e o seu pecado lhe trocou os significados .
+      [ 859 ]  Quero dizer , que quando Deus naquela soberba obra confundiu a linguagem , não foi inventaram-se em um instante setenta e um vocábulos diferentes em voz , que todos significassem esta cousa , pedra : mas confundiu o entendimento a todos pera por este nome , homem , uns entenderem pedra , outros as diferentes cousas que se naquela edificação , tratavam .
+      [ 860 ]  E este termo , confusão , nenhũa outra cousa quer dizer , senão tomar ũa cousa por outra .
+      [ 861 ]  E assi ficaram todos com toda a linguagem em vocábulos , e com parte dos significados próprios .
+      [ 862 ]  E a este modo trastrocou Deus o entendimento de tantas nações como foram presentes ao sermão de Pedro no dia de Pentencoste : que em um vocábulo hebreu , que era sua natural linguagem , os ouvintes de diversas nações , entendessem um significado , e estas eram as desvairadas línguas de que se eles espantavam .
+      [ 863 ]  Donde podes entender , que a linguagem primeira de Adão hoje está no mundo , em esta nação dez vocábulos , nest' outra vinte , e assi está repartida , que todos a tem em voz mas não em um só significado .
+      [ 864 ]  E ainda se pode crer , que estas vozes com antiguidade já devem ser corrompidas : como vemos em muitos vocábulos gregos , hebraicos , e latinos , que foram as três linguagens , a que podemos chamar princesas do mundo , por que esta autoridade lhe deu o título da cruz onde foram postas .
+      [ 865 ]  Estas por que perderam já a vez do uso , e tem somente a parte da escritura , leixá-las-emos por outras três que fazem ao propósito da nossa : as quais ao presente toda las outras precedem , por tomarem destas primeiras parte de seus vocábulos , principalmente da latina , que foi a derradeira que teve a monarquia , cujos filhos nós somos .
+      [ 866 ]  Ua destas é a italiana , outra a francesa , e outra a espanhol .
+      [ character:  ( Filho )]
+      [ 867 ]  Qual destas há por melhor , e mais elegante .
+      [ character:  ( Pai )]
+      [ 868 ]  A que se mais conforma com a latina , assi em vocábulos , como na ortografia .
+      [ 869 ]  E nesta parte muita vantagem tem a italiana e espanhol , à francesa : e destas duas a que se escreve como se fala , e que menos consoantes leva perdidas .
+      [ 870 ]  E nesta ortografia a espanhol vence a italiana : e mais tem antre si os genoeses que não é terra da tramontana nem transalpina ( como eles dizem ) mas ũa parte da frol de Itália , os quais de bárbara não podem escrever sua linguagem , e o que escrevem é em toscano , ou em latim corrupto .
+      [ character:  ( Filho )]
+      [ 871 ]  Pois muitos dizem que a língua espanhol é desfalecida de vocábulos : e que quanta vantagem tem a italiana à castelhana , tanto excede esta à portuguesa , e que em seu respeito se pode chamar elegante .
+      [ character:  ( Pai )]
+      [ 872 ]  Certo é que a língua castelhana muito melhor é que o vasconço de Biscaia , e o cecear cigano de Sevilha : as quais não se podem escrever .
+      [ 873 ]  Mas quem houver de julgar estas linguagens : há de saber d' ambas tanto , que entenda os defeitos e perfeições de cada ũa .
+      [ 874 ]  Que se pode desejar na língua portuguesa que ela tenha ?
+      [ 875 ]  Conformidade com a latina ?
+      [ 876 ]  Nestes versos feitos em louvor da nossa pátria , se pode ver quanta tem , por que assi são portugueses que os entende o português , e tão latinos que os não estranhará quem souber a língua latina .
+      [ 876 ]  O quão divinos adquiris terra triunfos :
+      [ 876 ]  Tão fortes ânimos alta de sorte criando .
+      [ 876 ]  De número santo gentes tu firma reservas .
+      [ 876 ]  Per longos anos , vivas tu terra beata .
+      [ 876 ]  Contra não santos té armas furiosa pagamos .
+      [ 876 ]  Vivas perpétuo , gentes matando ferozes :
+      [ 876 ]  Que aetiopas , turcos , fortes indus das salvos :
+      [ 876 ]  De Jesu Cristo santos mostrando profetas .
+      [ character:  ( Filho )]
+      [ 877 ]  Parece que vai essa linguagem um pouco retorcida , e fora do comum uso que falamos ?
+      [ character:  ( Pai )]
+      [ 878 ]  O autor que fez estes versos , por guardar a quantidade das sílabas e a ordem dos pés , não falou como em oração soluta : e já deves ser avisado per doutrina de teu mestre , que de ũa maneira falam os poetas , e d' outra os oradores .
+      [ character:  ( Filho )]
+      [ 879 ]  Um dos primeiros latins que me ele mandou fazer , foi este , Ó formosa Maria nova ara com tua vaca nova .
+      [ 880 ]  E eu cuidava que em isto ser linguagem não podia ser latim : té que palmatoriadas mo fizeram entender .
+      [ character:  ( Pai )]
+      [ 881 ]  Aí começarás tu de sentir o louvor da nossa linguagem : que sendo nossa a entenderá o latino por que é sua .
+      [ 882 ]  Esta prerrogativa tem sobre toda las linguagens presentes : majestade pera cousas graves , e ũa eficácia baroil que representa grandes feitos .
+      [ 883 ]  E o sinal onde se isto mais claro vê , é , na música , que naturalmente acerca de cada nação , segue o modo da fala : linguagem grave , música grave e sentida .
+      [ character:  Filho .]
+      [ 884 ]  Daí viria logo o provérbio que dizem , espanhóis choram , italianos uivam , franceses cantam .
+      [ character:  Pai .]
+      [ 885 ]  Bem adequaste o provérbio : e ainda que não seja pera a linguagem , verdadeiramente assi o podes ter na música .
+      [ 886 ]  Por que a prolação e ar que temos da linguagem diferente das outras nações , temos no modo do cantar , cá mui estranha compostura é a francesa e italiana a espanhol , e as guinadas e diminuição que fazem ao cantar fazem na prolação e acento da fala .
+      [ 887 ]  E pera um francês formar um seu próprio ditongo , faz nos beiços esgares que pode amedrontar meninos : cousa de que um natural orador foge , e por não cair neste perigo , rodeia setenta vocábulos .
+      [ 888 ]  Certo assi a francesa , como a italiana , mais parecem fala pera mulheres , que grave pera homens : entanto que se Catão fora vivo , me parece se pejara de a pronunciar .
+      [ 889 ]  Nesta gravidade ( como já disse ) a portuguesa leva a todas , e tem em si ũa pureza e sequidão pera cousas baixas , que se lhe pode por a tacha que Perseu punha aos versos de Virgílio : os quais dizia serem tão de sôvero e cobertos de casca , que se não podiam abrandar .
+      [ 890 ]  Pero com aquela majestade e alteza , falou no quarto de sua A Eneida tão alta e mimosamente do amor , que lhe não chegaram as garridices de Ovídio , e as doçuras de Petrarca , que nestes brincos muito se esmeraram .
+      [ 891 ]  Foi o Virgílio naquele seu livro , como nestes nossos tempos o queguém em a compustura da música : toda las excelentes consonâncias achou , despois Jusquim e outros compoedores que vieram , sobre elas fizeram sua diminuição e contraponto .
+      [ 892 ]  A linguagem portuguesa , que tenha esta gravidade , não perde a força pera declarar , mover , deleitar , e exortar a parte a que se inclina : seja em qualquer gênero de escritura .
+      [ 893 ]  Verdade é ser em si tão honesta e casta : que parece não consentir em si ũa tal obra como celestina .
+      [ 894 ]  E Gil Vicente cômico que a mais tratou em compostura que algũa pessoa destes reinos , nunca se atreveu a introduzir um centúrio português : por que como o não consente a nação , assi o não sofre a linguagem .
+      [ 895 ]  Certo , a quem não falecer matéria e engenho pera demonstrar sua tenção , em nossa linguagem não lhe falecerão vocábulos .
+      [ 896 ]  Por que de crer é que se Aristóteles fora nosso natural , não fora buscar linguagem emprestada pera escrever na filosofia , e em todas as outras matérias de que tratou .
+      [ 897 ]  E se lhe falecera algum termo sucinto , fizera o que vemos em muitas partes aos presentes .
+      [ 898 ]  Os quais quando carecem de termos teologais , os teólogos pera entendimento real da cousa os compuseram , e assi os filósofos , matemáticos , juristas , médicos : todos antre si trazem termos que não são latinos nem gregos , mas quase um vasconço de artes em que os homens gastam tantos anos .
+      [ character:  ( Filho )]
+      [ 899 ]  A língua portuguesa , onde desfalecer com verbo ou nome que compreenda em breve algũa cousa , poderá formar algum verbo aprazível à orelha , sem falar per rodeio como ess' outros fazem ?
+      [ character:  ( Pai )]
+      [ 900 ]  Sim , por que a licença que Horácio em a sua Arte Poética dá aos latinos , pera comporem vocábulos novos , contanto que saiam da fonte grega : essa poderemos tomar , se os derivarmos da latina .
+      [ character:  ( Filho )]
+      [ 901 ]  Logo per essa maneira nos faremos copiosos de vocábulos e , recebidos em uso , ficar-nos-ão tão próprios como são os latinos que ora temos , que se tomaram per esse modo .
+      [ character:  ( Pai )]
+      [ 902 ]  Eu não falo em latinos de que Espanha tem tomado posse antigamente : mas agora em nossos tempos , com ajuda da impressão , deu-se tanto a gente castelhana e italiana e francesa às traladações latinas usurpando vocábulos , que os fez mais elegantes do que foram ora há cinquenta anos .
+      [ 903 ]  Este exercício se o nós usáramos , já tivéramos conquistada a língua latina como temos África e Ásia : a conquista das quais nos mais demos que as traladações latinas .
+      [ 904 ]  E o sinal desta verdade , é que não somente temos vitória destas partes , mas ainda tomamos muitos vocábulos : como podemos ver em todos los que começam em , ál , e em , xá , e os que acabam em , z , os quais são mouriscos .
+      [ 905 ]  E agora da conquista de Ásia , tomamos , chatinar , por mercadejar , veniaga , por mercadoria , lascarim , por homem de guerra , zumbaia , por mesura e cortesia : e outros vocábulos que são já tão naturais na boca dos homens , que naquelas partes andaram , como o seu próprio português .
+      [ 906 ]  Assi que podemos usar d' algũs termos latinos que a orelha bem receba , por que ela julga a linguagem e música e é censor d' ambas : e como os consentir um dia ficarão perpetuamente .
+      [ character:  Filho]
+      [ 907 ]  Poderão todos os que sabem latim tomar esta licença , pera derivar vocábulos dele a nós ?
+      [ character:  Pai .]
+      [ 908 ]  Não são todos para isso licenciados : e os que o forem , será em alguns vocábulos , que a natureza da nossa linguagem aceite .
+      [ 909 ]  Por que ( a meu juízo ) tão mal parece um vocábulo latino mal derivado a nós : como algũas palavras que achamos per escrituras antigas , as quais o tempo leixou esquecer .
+      [ 910 ]  A mim muito me contentam os termos que se conformam com o latim , dado que sejam antigos : cá destes nos devemos muito prezar , quando não acharmos serem tão corretos , que este labéu lhe faça perder sua autoridade .
+      [ 911 ]  Não somente os que achamos per escrituras antigas , mas muitos que se usam Antre Douro e Minho , conservador da semente portuguesa : os quais alguns indoutos desprezam , por não saberem a raiz donde nascem .
+      [ character:  Filho .]
+      [ 912 ]  O outro dia em ũa lição que nos leu nosso mestre , trouxe esta autoridade de Túlio .
+      [ 913 ]  Nas palavras não há cousa tão áspera que o uso não faça brando e suave .
+      [ character:  ( Pai )]
+      [ 914 ]  Quase a este propósito o traz Túlio .
+      [ 915 ]  E verdadeiramente à primeira vista , não há cousa mais grave antre os bons juízos , que a variação de tantos trajes como os que ora usamos : os quais se perguntares donde vieram , ou cujos foram , não lhe acharás mais certa natureza que a opinião .
+      [ 916 ]  Pois as cantigas compostas do povo , sem cabeça , sem pés , sem nome ou verbo que se entenda , quem cuidas que as traz e leva da terra ?
+      [ 917 ]  Quem as faz serem tratadas e recebidas do comum consentimento ?
+      [ 918 ]  O tempo .
+      [ 919 ]  Pois este faz as cousas tão naturais como a própria natureza .
+      [ 920 ]  Este nos deu a elegância latina : este nos trouxe a barbaria do godos , este nos deu , xa , e cha , dos mouriscos , e este nos pode fazer ricos e pobres de vocábulos , segundo o uso e prática que tivermos das cousas .
+      [ 921 ]  E não te pareça trabalho sobejo entender tanto na própria linguagem , por que se fores bem doutrinado nela , levemente o serás em as alheias .
+      [ 922 ]  Este é o modo que tiveram todos los gregos e latinos , tomaram por fundamento saber primeiro o seu que o alheio .
+      [ 923 ]  Quero dizer , que Túlio , César , Lívio , e todos los outros a que chamamos fonte da eloquência , nunca aprenderam língua latina como a grega : por que era sua natural linguagem , tão comum ao povo romano , como vemos que a nossa é ao povo de Lisboa , mas souberam a gramática dela .
+      [ 924 ]  Esta lhe ensinou que cousa era nome , e quantas qualidades e figuras tinha , os tempos e modos do verbo , e toda las partes que regem e são regidas : com os mais acidentes e regras que a língua latina tem .
+      [ 925 ]  Destas cousas foram os latinos tão curiosos , por apurar a sua língua , e a iguarem à grega ( donde eles tomaram parte da sua eloquência ) : que se escreve compoer César um tratado da analogia da língua latina , e Messala a cada letra do A , b , c , fez um livro que trata dela , e Varrão outro da Etimologia , de que ao presente temos algũa parte .
+      [ 926 ]  E Carlos Magno à imitação destes , também compôs a língua alemã em arte e lhe deu nome novo aos meses e aos ventos .
+      [ 927 ]  Estes e outros tão graves e doutos barões , em cuja mão e arbítrio estava o Estado e regimento do mundo , assi houveram este exercício por glorioso , que na força de suas conquistas e armas ali o exercitavam .
+      [ 928 ]  E acerca deles mais se estimava a vitória que a sua língua tinha , em ser recebida de toda las bárbaras nações , que de as submeter ao jugo do seu império .
+      [ 929 ]  E neste cuidado foram tão solícitos , que andando antre os partos e outros tão bárbaros povos : não consentiam que falassem , senão a sua língua latina , por demonstrar o império que tinham sobre toda las outras nações .
+      [ 930 ]  E o mais certo sinal que o romano pode dar ser Espanha súdita ao seu império , não serão suas crônicas e escrituras , cá estas , muitas vezes são favoráveis ao senhor de quem falam : mas a sua linguagem que nos ficou em testemunho de sua vitória .
+      [ 931 ]  E quanto antre as cousas materiais , é de maior excelência aquela que mais dura : tanto acerca das cousas da honra são de maior glória as que a memória mais retém .
+      [ 932 ]  Exemplo temos em toda las monarquias , cá se perderam com a variedade do tempo , e fortuna das cousas humanas : pero leixou a língua latina este sinal de seu império , que durará eternamente .
+      [ 933 ]  As armas e padrões portugueses postos em África , e em Ásia , e em tantas mil ilhas fora da repartição das três partes da terra , materiais são , e pode as o tempo gastar : pero não gastará doutrina , costumes , linguagem , que os portugueses nestas terras leixarem .
+      [ character:  ( Filho )]
+      [ 934 ]  Não sei logo qual será o português de tão errado juízo , pois é certo que mais pode durar um bom costume e vocábulo , que um padrão : por que se não preza mais leixar na Índia este nome , mercadoria , que trazer de lá , veniaga , cá é sinal de ser vencedor e não vencido .
+      [ character:  ( Pai )]
+      [ 935 ]  Certo é que não há i glória que se possa comparar , a quando os meninos etíopas , persianos , indus , d' aquém e d' além do Ganges , em suas próprias terras , na força de seus templos e pagodes , onde nunca se ouviu o nome romano : per esta nossa arte aprenderem a nossa linguagem , com que possam ser doutrinados em os preceitos da nossa fé , que nela vão escritos .
+      [ character:  ( Filho )]
+      [ 936 ]  Pois quanto ao proveito dos próprios portugueses , eu e o que for espermentado o pode julgar : cá senão soubera da gramática portuguesa , o que me vossa mercê ensinou , parece-me que em quatro anos soubera da latina pouco , e dela muito menos : mas com saber a portuguesa fiquei alumiado em ambas , o que não fará quem souber a latina .
+      [ character:  ( Pai )]
+      [ 937 ]  Eu quero confirmar essa tua verdade : com testemunho do que já vi em algũas escolas da gramática latina .
+      [ 938 ]  Por os mestres não saberem as regras da nossa lhe era tão dificultoso achar as matérias da latina , que tinham cartipácios de latins em linguagem , por onde os davam aos moços : como fracos pregadores , sermonários pera todo o ano .
+      [ character:  ( Filho )]
+      [ 939 ]  Não se poderia ensinar esta gramática portuguesa aos meninos na escola de ler e escrever , pois é tão leve de tomar , e daí iriam já gramáticos pera a latina .
+      [ character:  ( Pai )]
+      [ 940 ]  Nem todos los que ensinam ler e escrever , não são pera o ofício que tem quanto mais entendê-la , por crara que seja .
+      [ 941 ]  E ainda que isto não seja pera ti , di-lo-ei pera quem me ouvir , como homem zeloso do bem comum . Ua das cousas menos olhada que há nestes reinos , é consentir em toda las nobres vilas e cidades , qualquer idiota e não aprovado em costumes de bom viver , por escola de ensinar meninos .
+      [ 942 ]  E um sapateiro que é o mais baixo ofício dos mecânicos : não põe tenda sem ser examinado .
+      [ 943 ]  E este , todo o mal que faz , é danar a sua pele e não o cabedal alheio , e maus mestres leixam os discípulos danados : pera toda sua vida .
+      [ 944 ]  Não somente com vícios d' alma , de que poderemos dar exemplos : mas ainda no modo de os ensinar .
+      [ 945 ]  Por que havendo de ser per ũa cartinha que aí há de letra redonda , perque os meninos levemente saberão ler , e assi os preceitos da nossa fé que nela estão escritos : convertem-os a estas doutrinas morais de bons costumes : saibam quantos esta carta de venda .
+      [ 946 ]  E despois disto aos tantos dias de tal mês .
+      [ 947 ]  E perguntado pelo costume disse , nichil .
+      [ 948 ]  De maneira que quando um moço sai da escola , não fica com nichil , mas pode fazer melhor ũa demanda , que um solicitador delas , por que mamam estas doutrinas católicas no leite da primeira idade .
+      [ 949 ]  E o que pior é , que per letra tirada andam um ano aprendendo por um feito : porque a cada folha , começa novamente conhecer a diferença da letra que causou o aparo da pena com que o escrivão fez outro termo judicial .
+      [ character:  ( Filho )]
+      [ 950 ]  Pois os mestres de ler e escrever dizem que a letra tirada ensina a redonda , e a redonda não a tirada : e que os moços se fazem mais desenvoltos per ela .
+      [ 951 ]  ( Pai )
+      [ 952 ]  Quem houver de julgar o que lhe é mais proveitoso veja primeiro que ensina Quintiliano e São Jerônimo em ũa epístola a Leta sobre a instituição de sua filha , e o papa Pio em um tratado que fez a Ladislau , rei de Boêmia , e assi outros tão graves barões que tiveram ciência e experiência .
+      [ 953 ]  Por que achará que os preceitos que deram à religião escolástica , não são tão ásperos como os da regra dos frades menores : os quais em o primeiro ano do noviciado tratam os noviços com toda a aspereza , pera os experimentar de paciência .
+      [ 954 ]  As plantas novas pera prenderem com viva raiz , não querem logo o ferro ao pé : depois que são duras e bem enramadas , então lhe convém o podam , pera as desafogar .
+      [ 955 ]  Não se amansam e trazem ao jugo , os novilhos como os touros : nem assi recebe o freio o potro como o cavalo , uns querem mimo e outros estímulo , mais pode o artifício que a força , a continuação branda e mimosa que o ímpeto áspero .
+      [ 956 ]  E quando pera as cousas irracionais isto se requere : que tal deve ser o artifício , pera plantar doutrina áspera em naturezas tenras , como é entendimento dos meninos .
+      [ character:  ( Antônio )]
+      [ 957 ]  Parece que não pode ser melhor artifício do que se usa em as escolas com eles : cá os principiam per , a , b , c , que é conhecimento das letras , e daí os metem em as ajuntar ũas com as outras de que se compõem as sílabas ba be , etc. depois os levam aos nomes que se compõem delas , e per derradeiro à variação de toda las outras partes , por que assi de grão em grão , de pouco a mais , aprendem a ler .
+      [ character:  ( Pai )]
+      [ 958 ]  Como em o modo de proceder de letra a sílaba e de sílaba a nome , tem essa ordem : assi queria que a tivessem em o gênero da escritura e caracteres dela .
+      [ 959 ]  Por que como o entendimento se deleita em as partes conformes que guardam proporção semimetria e figura , e nesta tal terra a memória prende com mais viva raiz : nesta doçura deleite que tem a letra redonda os queria primeiro mamentar , e daí fossem levados à côdea da tirada que requere força de dente e paciência de negócios , estes são os seus preceptores .
+      [ 960 ]  As audiências e não as escolas fizeram todos los juristas destros em o ler dos feitos : e os oficiais públicos ( cuja profissão é papel e tinta ) por que a não tiveram de letra redonda , não sabem rezar ũa oração per ela , e pela tirada são mais correntes que um cego na oração da emparedada .
+      [ 961 ]  Assi que desta experiência podes inferir , ler , a escola o ensina , desenvoltura os negócios a dão , letra redonda se aprende , e a tirada sem mestre se alcança .
+      [ 962 ]  Quem quiser filhos , que lhe não saiam das escolas desesperados de poder ir avante , per os barrancos que tem o caminho da letra tirada , per a redonda os mande primeiro caminhar , cá esta com pouco trabalho , e muito proveito , e em menos tempo se alcança , e ficam per ela hábiles pera maiores doutrinas .
+      [ character:  ( Filho )]
+      [ 963 ]  Não haveria remédio pera os mestres seguirem com os discípulos esse caminho ?
+      [ character:  ( Pai )]
+      [ 964 ]  Não está em mais remédio que vir a notícia d' el-rei nosso senhor : por que como é zelador dos bons costumes , e favorece as letras tão liberal e magnificamente , mandará prover nisso como o tem feito em os estudos de Coimbra .
+      [ 965 ]  A qual obra será posta no catálogo das mercês que estes reinos dele tem recebidas : mui celebrada dos presentes e louvada dos que vierem depois de nós .
+      [ closing: 
+      [ 966 ]  Fim .]
+ date1550-1599

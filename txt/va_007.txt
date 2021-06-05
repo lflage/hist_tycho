@@ -1,0 +1,254 @@
+
+|:| [START HEADER]|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|
+|:| PLEASE SET CHARACTER ENCODING SYSTEM TO UTF-8
+|:| Tycho Brahe Parsed Corpus of Historical Portuguese 
+|:| Document ID: va_007
+|:| Encoding: UTF-8
+|:| Last Saved: 11.07.2013
+|:| Title: Cartas para vários destinatários (1809-1904)
+|:| Author: Various
+|:| Version: Simple Text, for Automatic Tools
+|:| Edition Type: Complete Modernization of Orthography
+|:| [END HEADER]|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|
+
+   
+      [ 1 ]  Carta 107
+      [ 2 ]  Arquivo Público do Estado da Bahia ( APEBA ) .
+      [ 3 ]  Seção do Judiciário .
+      [ 4 ]  01 / 96 / 139 / 02 – 1870 .
+      [ 5 ]  Documento contendo quatro fólios .
+      [ 6 ]  Papel almaço pardo conservado por uma camada de papel manteiga .
+      [ 7 ]  Manchado por umidade .
+      [ 8 ]  Estampilha verde de 200 réis na margem superior do primeiro fólio com anotações e rubrica .
+      [ 9 ]  Inserção dos números “ 146 ” e “ 147 ” que fazem parte da numeração do inventário onde a carta se encontra anexada .
+      [ 10 ]  E anotações de terceiros do sinal “ + ” .
+      [ 10 ]  Cajahiba 9 de Maio 1866
+      [ 10 ]  Meu muito amado e disvelado 12 Pae do Coraçam
+      [ 11 ]  Recebi hontem pelas 2 horas da tarde vossas estimadas lettras vindas por Francisco o- qual entregou-me tudo quanto vossa paternal bondade nos mandou , de tudo muito vos agradecemos , e altamente nos regosijamos por vosso bem estar cuja continuação almejamos de todo coração . Mademoiselle e Josephina estão boas e ambas vos envião suas respeitosas lembranças . Chegou Paulino hontem a tardinha e para ahi marcha com o que trouxe da Bahia .
+      [ 12 ]  Coriolano deve vir hoje no vapor pois como vos participei , foi este só 1 v .
+      [ 14 ]  levar a Sr. Emydio , nossas cartas para Europa .
+      [ 15 ]  Envio-vos por Sabião e Francisco o seguinte , roupa limpa : 4 pares de meia , 1 atadura , 1 fronha grande , 2 fronhas pequenas , 2 camisas de dormir , 3 ciroulas , 1 calsa , 3 camisas de algodão , 12 lenços de linho , 2 lençoes e 4 lenços de mão .
+      [ 16 ]  4 padas de pão , 12 saputis , 1 molheiro _ com manteiga , 4 sebolas , meio molho _ de alhos , ½ < quarto > de farinha , 2 Kilos de sabão , 3 Kilos _ de arroz .
+      [ 17 ]  1 embrulho de ferragens vindo da Bahia .
+      [ 18 ]  1 serra , 1 garrafa de agoa raz , _ 100 pregos franceses , 160 de ripas
+      [ 19 ]  Espero que tudo estará conforme ao vosso pedido meo bom Pae , pois o meo maior praser é agradar-vos .
+      [ 20 ]  Ja dei vossas ordens ao Lopes que _ 2 r .
+      [ 21 ]  tem-se distinguido pela infame bebedeira , traste miserável !
+      [ 22 ]  mete-se os dias inteiros em casa , e de tarde quando está bem veixado parte para o cannavial onde espanca os escravos sem piedade por cara peitos etc é revoltante meo Pae , estou certa que se aqui estivesseis já o terieis posto a muito na rua !
+      [ 23 ]  a Senhora Isaura não saihe da sua casa , a nos diser que depois da vossa partida não fora uma so vez ao serviço , mais dormindo _ e se regalando , outros morrendo esperando debaixo de fadigas .
+      [ 24 ]  Ha muito que contar-vos meo Pae fica para a vista pois nem tudo se pode escrêver .
+      [ 24 ]  Adeos meo muito amado Pae abençoai _ e contai sempre sobre a perseverança e amôr de vossa dedicada filha e amada [ ... ] 13 desde o berso .
+      [ 24 ]  Maria Augusta F. Argolo 2 v .
+      [ 26 ]  Recebi os 22$500 para pagamento dos alqueires de farinha .
+      [ 27 ]  Illustrissimo e Excelentissimo Senhor
+      [ 28 ]  Maréchal Barão de Cajahiba
+      [ 29 ]  em seu engenho .
+      [ 30 ]  Itatingui 14
+      [ 32 ]  Carta 108
+      [ 33 ]  APEBA .
+      [ 34 ]  Seção do Judiciário .
+      [ 35 ]  01 / 96 / 139 / 02 – 1870 .
+      [ 36 ]  Documento contendo quatro fólios .
+      [ 37 ]  Papel almaço pardo conservado por uma camada de papel manteiga .
+      [ 38 ]  Estampilha de 200 réis , na cor verde , na margem superior do primeiro fólio com anotações e rubrica .
+      [ 39 ]  Inserção dos números “ 148 ” e “ 149 ” que fazem parte da numeração do inventário onde a carta se encontra anexada .
+      [ 39 ]  Cajahiba 23 de Maio 1866 .
+      [ 39 ]  Meu Presadissimo Pai e amigo do Cam .
+      [ 40 ]  Com vivo prazêr recebi hontem por Silverio vossas boas noticias e charas lettras , este aqui chegou as 5 horas da tarde .
+      [ 41 ]  Mademoielle e Josephina agradecem e retribuem vossas lembranças e ambas estão sem novidade O barco voltou hontem mesmo á noite de Marapé , trazendo as Pindobas , elle fica no porto a espera de vosso aviso para partir . Tomou-se 50 alqueires < a 1760 _ 88$000 > de farinha , porque o dono não quiz diminuir de preço . Não paguei porque não tinha mais dinheiro como vereis pela lista que incluso vos remeto , só me restam alguns cobres 1 v .
+      [ 42 ]  na lista não mencionei o dinheiro dispendido em miudesas para gasto de casa , como _ peixe camarões ovos etc .
+      [ 43 ]  Mandei diser ao dono da farinha que voltasse d' a 6 . dias para receber o dinheiro , como me dissesteis . Volta a carta do Caxeiro que me mandastes para vêr .
+      [ 44 ]  Martinho aqui chegou as 8 horas da _ manhã , dispachei-o immediatamente com o sellote e arreios velhos que pedis .
+      [ 45 ]  Sabendo de Thomé quanto mel tinha vasado do tonnel em Marapé , me disse este que erão 3 tonneis que vasavão , porem que 2 vasavão pouco e o 3 ° muito que já tinha vasado pelo menos meia pipa e que [ to ] do este mel escorria pelo chão tendo já passado para fora da cascaria , que os 3 tonneis erão todos de Marapé e não dos que [ vie ] rão d'aqui elle já concertou todos . 2 r .
+      [ 46 ]  Diz Thomé que só tomou em Marapé 2 peças de petas [ ? ] 15 ( como diz elle ) eu não sei se é assim mesmo que se escreve , pois ignoro o que se chama assim .
+      [ 47 ]  Não vai Margarida por estar já a muitos dias na enfermaria com um joelho muito inxado , se quiserdes Victoria me mandareis dizer , Ursulina ] e Claudianna estão igualmente na enfermaria tomando salsa .
+      [ 48 ]  Vão 3 ferros feitos por Silvano , disse-lhe que fisesse 1 como me dissesteis na carta , porém elle me disse que lhe tinhas ordennado de faser 3 , por isso remeto-vos por elle mesmo todos , bem como 4 padas de pão 1 frigideira de carangueijos e 12 mangas por lembrança tudo quanto meu fiel amor poude achar para vos mandar
+      [ 48 ]  Adeos meo adorado Pae abençoai-me eternamente vossa filha e amiga fiel
+      [ 48 ]  Maria Augusta
+      [ 51 ]  2 v .
+      [ 52 ]  Illustrissimo e Excelentissimo Senhor
+      [ 53 ]  Maréchal Barão de Cajahiba
+      [ 54 ]  em seo engenho
+      [ 54 ]  Itatinguim 16
+      [ 56 ]  Carta 109
+      [ 57 ]  APEBA .
+      [ 58 ]  Seção do Judiciário .
+      [ 59 ]  01 / 96 / 139 / 02 – 1870 .
+      [ 60 ]  Documento contendo quatro fólios .
+      [ 61 ]  Papel almaço pardo conservado por uma camada de papel manteiga .
+      [ 62 ]  Fólios manchados por umidade .
+      [ 63 ]  Estampilha verde de 200 réis na margem superior do primeiro fólio com anotações e rubrica .
+      [ 64 ]  Inserção dos números “ 152 ” e “ 153 ” que fazem parte da numeração do inventário onde a carta se encontra anexada .
+      [ 65 ]  As informações relativas ao destinatário , no último fólio , estão escritas na vertical .
+      [ 65 ]  cajahiba 30 de Maio 1866 .
+      [ 65 ]  Meu muito presado e bom Pae do coraçam
+      [ 66 ]  Recebi hontem as 8 horas da noite vossas charas e novas lettras vindas por Pompilio e hoje as 5 horas da manhã vosso escripto que me entregou Paulino , fiz o que me disestes , e mandei a lista do que faltava em casa do modo que me indicasteis , mande á tarde no barco o farneo de assucar de Mademoiselle o barco vae largar agora mesmo são 9 horas da manhã .
+      [ 67 ]  Mademoiselle e Josephina estão boas , vos envião suas respeitosas lembranças .
+      [ 68 ]  muito vos agradecemos pela lembrança dos maracujás e cajás .
+      [ 69 ]  Heliodorio e M 17 muito gostarão das queijadas , o vosso con 18 1 v .
+      [ 71 ]  São 10 horas quando despacho Pompilio .
+      [ 72 ]  Meu bom Pae remeto-vos 1 carta do Sr. Vilena 19 vinda hontem pelo vapôr .
+      [ 73 ]  muito estimo a melhora do tempo , que assim continuando me permite de esperar vossa prompta volta para aqui onde impaciente vos chama me [ u ] coração
+      [ 74 ]  Meu charo Pae pesso-vos de mandar procurar por ahi cenouras , sementes [ … ] d'essas que ahi ha e que por raridade que se possa encontrar de tudo muito vos agradecerei Não forão as sementes do Jonathas por não me teres dito nada __ Paulino foi as 6 ½ horas pelo vapôr .
+      [ 75 ]  __
+      [ 76 ]  O caxeiro foi no barco para a Cidade acompanhar a mulher que estava muito doente , e deve voltar n'elle disto vos participo__ 2 v .
+      [ 80 ]  tem batido seguro nos maracujás 21 . Não vão os preguinhos que pedio por não _ ter vindo nem a nota nem a medida que me diseis ter mandado talvez ahi ficasse por esquecimento , não recebi tambem os _ ovos de annum 22 ; vai a caixinha das [ ... ] 23 gas ( como a intitulais ) com _ tudo o que n' estava , não se achou os botões de camisas .
+      [ 81 ]  Pompilio procurou , por todas as costureiras [ ? ] , vão os 5 feixos_ grandes e 3 pequenino , a escova e ferro no outro barco .
+      [ 82 ]  Mando-vos 1 frigideira , 1 prato com sururus , 12 mangas e 4 padas de pão _ acceitae tudo , como pequena prova do subido amôr filial que vos consagra Vossa filha e amiga fiel até o tumulo 24 .
+      [ 82 ]  Maria A. F. Argolo 25
+      [ 88 ]  3 r .
+      [ 89 ]  Illustrissimo e Excelentissimo Senhor
+      [ 90 ]  Marechal Barão de Cajahiba
+      [ 91 ]  em seo engenho
+      [ 91 ]  Itatinguy 26
+      [ 93 ]  Carta 110
+      [ 94 ]  APEBA .
+      [ 95 ]  Seção do Judiciário .
+      [ 96 ]  01 / 96 / 139 / 02 – 1870 .
+      [ 97 ]  Documento contendo quatro fólios .
+      [ 98 ]  Papel almaço pardo conservado por uma camada de papel manteiga .
+      [ 99 ]  Duas estampilhas verdes de 200 réis na margem inferior do terceiro fólio com anotações e rubrica .
+      [ 100 ]  Inserção dos números “ 150 ” e “ 151 ” que fazem parte da numeração do inventário onde a carta se encontra anexada .
+      [ 100 ]  Cajahiba 31 de Maio 1866 .
+      [ 100 ]  Meo muito amado e bom Pae do Coraçam
+      [ 101 ]  São 10 horas da manhã , agora mesmo acabo _ de reseber vossas charas lettras vindas por Francisco que muleque do diabo ?
+      [ 102 ]  sendo dispachado d'hi hontem só aqui chegou hoje e tão tarde ! !
+      [ 103 ]  Estou contrariadissima meu Pae , por _ não poder exactamente cumprir vossas _ ordens nas horas prescriptas ; com tudo vou _ mandar a canôa neste mesmo instante , com Olegario e Thomé que levão tudo _ quanto ordennaes , vai o sofá e 6 cadeiras de v [ ? ] , vão 2 remessas na canôa grande que deve voltar na maré da noi [ … ] 27 te 1 v .
+      [ 105 ]  vão os ferros de marcar gado ; o caxeiro _ nao estando aqui como já vos participei , mandei ordens ao Lopes para dar a Thomé a nota dos ditos ferros , vou dar vossas ordens _ ao mesmo Lopes , sobre lenha etc .
+      [ 106 ]  Mademoiselle e Josephina continuão boas e vos _ mandão suas lembranças agradecendo comigo as vossas .
+      [ 107 ]  ___
+      [ 108 ]  Muito nos regosijamos pelas boas noticias do Sul , queira Deos que sejão exactas _ e que o estandarte brasileiro esteja a esta hora coberto dos louros da victoria . __ Vou mandar saber do Sr. Paulino se são exactas estas noticias , se assim forem illuminarei a casa , assim que chegarem os jornaes da Bahia , vos remeterei Mando-vos 4 padas de pão , 6 vellas , um caboré com sal , 2 cebolas e 12 man < gas > 2 r .
+      [ 109 ]  por lembrança do meo constante amôr para vós meo Pae , que tanto o mereceis ! ... Tremo de alegria pensando que em breve tempo vos poderei abraçar depois de tão _ longa ausencia .
+      [ 110 ]  Por Pompilio escrevi-vos hontem , e mandei _ tudo quanto pedisteis .
+      [ 111 ]  Não forão as sementes de Jonathas , como já vos disse na minha de hontem , por não me teres dito se 28 por Paulino , e ignorando se tinhas escripto ao mesmo Jonathas não mandei as ditas sementes que estão promptas _ a muito ___ Paulino e o barco partirão , _ ambos hontem , segundo vossas ordens . Contei a Mademoiselle o acontecido com o soldado Ranjeo ; ella me disse que sem duvida era – elle um maó sugeito ( uso bonito )
+      [ 112 ]  Adeos meo adorado Pae até breve acceitae meo coracão cheio de saudades _ vossa filha e amiga que vos pede a bencão
+      [ 112 ]  Maria Augusta . 2 v .
+      [ 114 ]  Illustrissimo e Excelentissimo Senhor
+      [ 115 ]  Maréchal Barão de Cajahiba
+      [ 116 ]  em seo engenho
+      [ 116 ]  Itatinguim 29 .
+      [ 118 ]  Carta 111
+      [ 119 ]  APEBA .
+      [ 120 ]  Seção do Judiciário .
+      [ 121 ]  01 / 96 / 139 / 02 – 1870 .
+      [ 122 ]  Documento contendo quatro fólios .
+      [ 123 ]  Papel almaço pardo conservado por uma camada de papel manteiga .
+      [ 124 ]  Manchado por umidade .
+      [ 125 ]  Duas estampilhas verde de 200 réis na margem inferior do quarto fólio com anotações e rubrica .
+      [ 126 ]  Inserção dos números “ 144 ” e “ 145 ” que fazem parte da numeração do inventário onde a carta se encontra anexada .
+      [ 126 ]  Cajahiba 4 de Junho 1866 .
+      [ 126 ]  Meu muito querido e bom Pae do Coraçam
+      [ 127 ]  Recebi vossas charas lettras vindas por Silverio Francisco e Paulino , sinto vosso encommodo do qual espero já vos achareis livre , na verdade o excesso foi grande , meu Pae , assim vos - molestaes muito !
+      [ 128 ]  e isto por amôr por vossos filhos !
+      [ 129 ]  Oh !
+      [ 130 ]  Meu Pae , Deos vos conceda a mais prolongada existencia para nossa felicidade !
+      [ 131 ]  __
+      [ 132 ]  Mademoiselle e Josephina estão boas , e se juntão a mim para almejarem vossas melhoras , vos enviando os mais respeitosos agradecimentos por vossas lembranças .
+      [ 133 ]  Meu bom Pae , estou agoniadissima 1 v .
+      [ 134 ]  pois tenho hoje que dar-vos a triste noticia da morte do pobre escravo Regulo , o qual hontem até 3 horas da tarde esteve perfeitamente bem dando as rações aos mais pretos etc as 3 horas e tanto cahio elle na tulha mesmo agonisando e dizendo que estava com muitas dôres de barriga , levarão-o para a enfermaria lá entrou a lançar muito , eu mandei-lhe um pouco de cognac que é muito bom para semelhantes dôres , pois já tem-se aqui feito experiencias , elle tomou o cognac e achou-se um pouco alliviado assim passou até as 6 horas da tarde quando veio Anna Joaquina dizer-me que elle se achava um pouco fraco , por _ não ter comido o dia inteiro e que ella vinha ver alguma comida para elle , a única cousa que dei , foi um 2 r .
+      [ 135 ]  pouco de arroz e assucar , para dar-lhe aga a agoa . Perguntando a Anna Joaquina o que elle lansava , me disse que tudo quanto tomava , como chá etc , e que elle lhe dissera , que de manhã ( hontem ) tomou em jejum uma garapa de mel e coméo um g .
+      [ 136 ]  carangueijo cosido depois , ora mel azedo e carangueijo [ em cima ] , bastavão para fermentar o estomago , eis o que passou-se meu bom Pae , até as 6 horas da manhã ( hoje ) fallou o pobre com Victor que perto de si se achava , ninguem julgou que elle morresse , pois alguns minutos antes de sua morte , pedio elle comida dizendo estar com muita fome , nada de comida se lhe deo e vinhão me pedir alguma cousinha para elle quando expirou 2 v .
+      [ 137 ]  Paulino a quem tudo disse vos explicará melhor que eu por escripto .
+      [ 138 ]  Adeos meu bom Pae , envio-vos por lembrança 1 frigideira e 4 padas de pão , vae 1 latinha com 2 kl de café a corda de arame com 1 garrafinha de vinagre e outra de la Roy entreguei a Zafiro que sahio d"aqui primeiro com as rações .
+      [ 139 ]  Vão 4 camisas vossas de algodão .
+      [ 140 ]  Paulino é portador desta e Francisco carpina do mais .
+      [ 141 ]  _
+      [ 142 ]  Adeos ainda meo Pae , abençoai _ e crêde-me sempre
+      [ 142 ]  Vossa filha e amiga sincera
+      [ 143 ]  Maria Augusta F. d'Argollo 30
+      [ 145 ]  Carta 112
+      [ 146 ]  APEBA .
+      [ 147 ]  Seção do Judiciário .
+      [ 148 ]  01 / 96 / 139 / 02 – 1870 .
+      [ 149 ]  Documento contendo quatro fólios .
+      [ 150 ]  Papel almaço pardo conservado por uma camada de papel manteiga .
+      [ 151 ]  Inserção dos números “ 142 ” e “ 143 ” que fazem parte da numeração do inventário onde a carta se encontra anexada .
+      [ 152 ]  Duas estampilhas verdes de 200 réis do Império do Brasil na margem inferior esquerda do quarto fólio com anotações e rubricas .
+      [ 152 ]  Cajahiba 20 de Junho 1866 .
+      [ 153 ]  Meo muito amado e bom Pae do Coraçam
+      [ 154 ]  Estimei muito saber que continuas á passar bem , entertido com vossos mil afazeres , _ Mademoiselle e Josephina continuão boas e commigo vos envião as mais respeitosas e amigas lembranças Marcolino só aqui chegou ás 9 horas 1 / 2 da noite com vossa carta para o Emydio , o barão alem de estar a espera d'ella não poude sahir hontem mesmo por causa de 3 paós que ainda não estavão promptos , são 9 horas do dia ainda está o barco no porto a esp [ era ] 31 dos mesmos paós , bem conheceis Neca [ ... ] 32 e Compadre Luiz está a espera dos paós para largar ; já passei revista nos 1 v .
+      [ 157 ]  que vão para a Bahia estão todos lavados e de roupa limpa com seus bornaes a tiracolo ; ( C ’ est une troupe de mauvais sujets )
+      [ 158 ]  Já entreguei á Luiz esta tropa armada , e tambem o bule de chá para concertar e a carta do Sr. Emydio .
+      [ 159 ]  Entreguei ao Caxeiro_ os 12 k que lhe mandasteis e a carta da mulher , elle me participou hoje que hia para a Bahia no barco para buscar a mulher .
+      [ 160 ]  Mando-vos por Marcolino , 4 padas de pão , 24 saputis , 8 figos e 1 prato coberto _ com sururús acceitai esta lembrança do meo constante amôr .
+      [ 161 ]  Voltão 5 vasos sendo 3 do Bittencourt que vierão com farinha , e 2 d'ahi que vierão com milho _
+      [ 161 ]  Adeos meo muito amado Pae , abencoai-me [ … ] 33 de-me eternamente ,
+      [ 162 ]  Vossa filha e amiga fiel
+      [ 162 ]  Maria Augusta 2 r .
+      [ 164 ]  Mandae somente 20 ks de assucar para o Tio Felisberto por não haver mais que 2 ks que deixei para casa , pesso-vos de me mandardes algum se ahi ha para não ficar sem nada em casa .
+      [ 165 ]  Remeto-vos incluso uma carta vinda do engenho de Baixo 3 r . Ao Illustrissimo e Excelentissimo Senhor Maréchal Barão da Cajahiba Em seu engenho Itatinguim . 34
+      [ 167 ]  Carta 117
+      [ 168 ]  AIGHBA .
+      [ 169 ]  Ant .
+      [ 170 ]  pasta 37 .
+      [ 171 ]  Documento contendo três fólios .
+      [ 172 ]  Papel almaço pardo com pautas .
+      [ 173 ]  Anotação do arquivo na margem superior esquerda , abaixo da saudação inicial , “ 37 / 11 / 4 / 5.346 ” .
+      [ 173 ]  Amigo coronel
+      [ 174 ]  Senti bastante não ter podido avistar-me comsigo , para conversarmos entre varios assumptos .
+      [ 175 ]  Aproveito o ensejo para noticiar-lhe um crime dado no lugar - Caldeirão do Arrôz , ahi pertencente , afim de Vosmice dar as mais energicas providencias , - officiando ao Subdelegado para proceder a corpo de delicto e abrindo o respectivo inquerito .
+      [ 176 ]  Eis o crime : no dia 9 40 do corrente , Olympio Altino de tal , munido 1 v .
+      [ 178 ]  d' um facão , matara á cutiladas o infeliz João Paulino de Aguiar , na occasião em que este s' achava vaqueijando .
+      [ 179 ]  O assassinado , segundo tenho ouvido dizer , era de bom procedimento , pacato e trabalhador , de sorte que só um individuo assás perverso seria capaz de um tal commettimento .
+      [ 180 ]  Dando-lhe noticia d'esse facto , creio prestar um serviço á Justiça , que de sua actividade e apêlo pelos negocios tocantes a seo cargo 2 r .
+      [ 181 ]  muito confia e espera-
+      [ 182 ]  Lembraças _ Innocencio , Florindo , Chico , Quincas e ao Olegario .
+      [ 183 ]  Desejando-lhe saude vigorosa e á Excelentissima Familia apresso visita
+      [ 183 ]  abraça-lhe o amigo criado
+      [ 183 ]  Arlindo Gomes 41
+      [ 183 ]  15_8_89
+      [ 185 ]  Carta 119
+      [ 186 ]  AIGHBA .
+      [ 187 ]  Ant .
+      [ 188 ]  pasta 37 .
+      [ 189 ]  Documento contendo quatro fólios .
+      [ 190 ]  Papel almaço pardo com pautas .
+      [ 191 ]  Anotações do arquivo na margem esquerda , “ 37 / 11 / 31 / 5372 ” .
+      [ 192 ]  Carimbo do arquivo IGHB com anotação , em vermelho , na margem superior do quarto fólio , “ 37 / 11 / ab ) ” .
+      [ 193 ]  Outras anotações na margem inferior do quinto fólio , “ 37 / 12 / e ) ” .
+      [ 194 ]  O quarto fólio é uma declaração anexa na qual consta uma anotação a lápis , “ 37 / 12 / 5 / 5.393 ” .
+      [ 194 ]  Meu padrinho e Amigo
+      [ 194 ]  Salto 25 de dezembro 45 de 1887
+      [ 195 ]  O meu maior prazer é que Vosmice minha Madrinha e todos de nossa Familia tenhão sempre gosado perfeita saude e filicidades aceitando com todas minhas vistas de Xiquinha e as nossas que até apresenta Vosmice ao Dr. vamos passando sem maiores novidades .
+      [ 196 ]  O nosso distinto amigo Senhor Tenente Coronel Carlos da Cunha Peixoto pediu-me para dirigir esta carta a Vosmice , para por seu intermedio remetter lhe os Titulos da Fazenda Peyauhý , que elle comprou en mão do nosso finado Pai ou do Finado Jesuino e os Irmãos este amigo tem grande percizão para saber das demarcações da referida Fazenda , por tanto pesso a Vosmice mandar os titulos se estivér em seu puder ou então procurár 1 v .
+      [ 198 ]  em mão dos filhos do finado Jesuino e remetter me pelo proprio que ca vai a este porem , incluso essa escritura tambem uma procuração para Vosmice requerér por mim ao Senhor Dr. Juiz de Direito da Comarca , os meus direitos de Eleitór como tal ahi fui qualificado e fazêr o que mais for nessessario o tal respeito devendo vêr com todas as formalidades para com os documentos em requerér aqui ao Dr. Juiz de Direito minha inclusão no Eleitorado Mineiro ; hontem tive cartas de Olegario felizmente destestou a quando tendo empreendido outro < negocio > de grandes vantagens terás Pinçadas para cujo negocio já mandou vêr em minha 2 r .
+      [ 199 ]  mão 10 Bestas as quaes estou acabando de amollar para remetter , se elle for feliz que ofereço attual sustento dos animais até junho pode solvér com lucro os prejuizos do salubro dias a prometter que assim aconteça eu estou aqui empregado pelo governo como já lhe escrevi , o qual vai me dando pressa viver com economia , esperando em vão o dinheiro que posso ganhár um cobre com mais fassilidade e aqui confirme sempre os % como seu
+      [ 200 ]  Affetuoso Irmão Compadre e
+      [ 201 ]  PS. A procuração Amigo firme
+      [ 202 ]  Vosmice mande Bello reconhecer a firma Dechy Pinheiro Canguçú que foi sem reconhecimento 46
+      [ 203 ]  Dechý Pinheiro Canguçu Major Secretario do Comando Supperior da Guarda Nacional da Comarca de Caetité na Provincia da Bahia pôr Sua Magestade Imperial 47
+      [ 204 ]  Pela presente procuração pôr mim feita e assignada constituo pôr meu bastante procurador na Villa de Bom Jesus dos Meiras Comarca do Brejo Grande Provincia da Bahia ao Coronel Exuperio Pinheiro Canguçú para em meu nome requerer tudo quanto pôr nessesario affim de obtêr minha passagem de Eleitor d'quela Comarca para esta de Amassuahý , Provincia de Minas Gerais para cujo fim concedo llhe plenos e imlimitados poderes , assim como a de substabelecêr está em quem lhe comviér , dando pôr firme e valioso tudo quanto fizer meu dito procurador ;
+      [ 204 ]  Salto Grande 23 de Dezembro de 1887
+      [ 204 ]  Dechý Pinheiro Canguçú 48
+      [ 209 ]  Carta 120
+      [ 210 ]  AIGHBA .
+      [ 211 ]  Ant .
+      [ 212 ]  pasta 37 .
+      [ 213 ]  Documento contendo um fólio .
+      [ 214 ]  Papel almaço pardo sem pautas .
+      [ 215 ]  Marca d ’ água ilegível na margem superior esquerda .
+      [ 216 ]  Anotações do arquivo na margem inferior , “ 37 / 11 / 19 / 5.360 ” .
+      [ 217 ]  < Reservada >
+      [ 217 ]  Amigo e Senhor Exuperio
+      [ 218 ]  Primeiro que tudo desejo que Vossa Senhoria e sua excelentissima familia gozem perfeita saude .
+      [ 219 ]  Aqui estou a dias onde vim com vistas de acabar certas dissidencias , que mau grado dos Caetitenses si vão aqui perpetuando , e não com vagar antes rapidamente vão demarcando este paiz até reduzi llo a hum circulo completamente viciozo .
+      [ 220 ]  Nas proximas eleiçoes que aqui fracamente as pleiteia meo Pai contra o Dr. Monteiro Unicamente não si pode , e nem si deve appelar para o espirito pulitico 49 deste Municipio , nada há que não sejão considerações pessoaes , e como eu desejo ter direitos a obzequios seos por amizade e parentesco não posso me eximir de deregir lhe a prezente pedindo = lhe para nos prestar como fracos o seu valiozo apoio , mas em todo cazo tomo esta liberdade , salvando o juizo que o meo amigo de huma tal cauza possa fazer , pois como seo amigo , e como homem não exijo a quebra de suas ideias politicas , e muito menos o sacrificio de sua honra , e dignidade . Certamente deverão sobre nos apparecer insinuaçoes perfidas , mas eu as disprezo por que Vossa Senhoria deverá com conhecimento de nossa conducta avaliar o nosso actual proceder . Aqui e em qualquer parte sempre me terá a suas ordens por ser
+      [ 220 ]  De Vossa Senhoria
+      [ 220 ]  Caitite 5 de Outubro de 1855 Primo amigo e obrigadissimo
+      [ 220 ]  Deraldo 50
+      [ 223 ]  Carta 121
+      [ 224 ]  AIGHBA .
+      [ 225 ]  Ant .
+      [ 226 ]  pasta 37 .
+      [ 227 ]  Documento contendo dois fólios .
+      [ 228 ]  Papel almaço pardo sem pautas .
+      [ 229 ]  Monograma , em vermelho , na margem superior esquerda com as letras “ T e H ” entrelaçadas .
+      [ 230 ]  Anotação do arquivo na margem esquerda , “ 37 / 11 / 15 / 5.356 ” .
+      [ 230 ]  São Felix , 27 de Junho 1888
+      [ 230 ]  Illustrissimo Amigo Senhor Coronel Exuperio Cangucu
+      [ 231 ]  Estimarei que tenha gozado vigoroza saude e a Excelentissima família Nosso amigo Conselheiro Pereira Franco consultou ao Dr. Manoel José Gonçalvez Fraga a ver se quer aprezentar-se candidato , visto como aprezentão-se pelo lado liberal o conselheiro Ruy e Dr. Aristides Spinola ; peço-lhe de me dizer sem demora sua opinião . Quer me- paricer que o Dr. Fraga não acceita , e neste cazo se o candidato for pessôa desconhecida no- districto haverá probabelidade de entrar no 2. escrutinio , e neste cazo com qual dos 2 liberaes , qu- qual será o procedimento ao elemento de nosso amigo Dr. M. Moura no cazo do 2 . º escrutinio correr entre o conservador e o Dr. Spinola : rogo-lhe de me dizer sem demora o que pensa – com bastante franqueza .
+      [ 231 ]  Sou com subida estima e muito apreço
+      [ 232 ]  De Vossa Senhoria
+      [ 233 ]  Amigo affetuso e obrigado
+      [ 233 ]  Henrique Teixeira 51
+ date1550-1599

@@ -1,0 +1,2676 @@
+
+|:| [START HEADER]|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|
+|:| PLEASE SET CHARACTER ENCODING SYSTEM TO UTF-8
+|:| Tycho Brahe Parsed Corpus of Historical Portuguese 
+|:| Document ID: b_009
+|:| Encoding: UTF-8
+|:| Last Saved: 01.03.2013
+|:| Title: Teatro, André Brun
+|:| Author: Brun, André
+|:| Version: Simple Text, for Automatic Tools
+|:| Edition Type: Complete Modernization of Orthography
+|:| [END HEADER]|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|
+
+   
+[ prologue ] 
+      [ title:  Código penal , art*** ]
+      [ title:  Drama em um ato]
+      [ comment: 
+      [ 1 ]  Representado pela primeira vez no Teatro Nacional , de Lisboa , em Abril de 1913 .][ end prologue ] 
+      
+      [ title:  Primeira distribuição ]
+      [ 2 ]  Maria do Ó .............................................................................................. Palmira Torres
+      [ 3 ]  Luís ........................................................................................................... Luís Pinto
+      [ 4 ]  Antonio ..................................................................................................... Carlos Santos
+      [ 5 ]  Maturino ................................................................................................... Inácio Peixôto
+      [ play ]
+      [ title:  Código Penal , Artigo*** ]
+      [ title:  DRAMA EM UM ATO]
+      [ 6 ]  A cena representa o gabinete do subdelegado de uma das varas de Lisboa .
+      [ 7 ]  Porta ao fundo , de sarja verde com olhais .
+      [ 8 ]  À direita do espectador , uma mesa carregada de papéis , onde está sentado Maturino .
+      [ 9 ]  À esquerda , uma secretária também carregada de papéis .
+      [ 10 ]  Nas paredes estantes cheias de processos .
+      [ 11 ]  Junto à secretária uma cadeira de braços .
+      [ 12 ]  Mais duas cadeiras de palhinha .
+      [ 13 ]  Um escadote junto a uma estante .
+      [ 14 ]  Sobre a secretária , num copo banal , desfolham-se duas rosas-chá .
+      [ 15 ]  CENA I
+      [ 15 ]  Maturino e Antonio
+      [ 16 ]  Maturino está escrevendo .
+      [ 17 ]  A porta abre-se para dentro e entra Antonio .
+      [ 18 ]  Tipo novo , trinta anos , rosto severo .
+      [ 19 ]  Maturino é um homem de sessenta anos , farpela coçada , meia calva , parecer cansado .
+      [ character:  ANTONIO]
+      [ 20 ]  O senhor doutor está ?
+      [ character:  MATURINO]
+      [ 20 ]  ( Levantando-se ) ―
+      [ 21 ]  Não pode tardar .
+      [ 22 ]  A audiência está para as dez .
+      [ character:  ANTONIO]
+      [ 22 ]  ( Puxando o relógio ) ―
+      [ 23 ]  Bem .
+      [ 24 ]  Nesse caso espero .
+      [ character:  MATURINO]
+      [ 24 ]  ( Indicando-lhe uma cadeira ) ―
+      [ 25 ]  Faz favor de se sentar .
+      [ 25 ]  ( Antonio senta-se , toma o jornal que está sobre a secretária .
+      [ 25 ]  Maturino volta a escrever .
+      [ 25 ]  Um silêncio . )
+      [ character:  ANTONIO]
+      [ 25 ]  ( Pondo o jornal de parte ) ―
+      [ 26 ]  Muito trabalho ... hein ?
+      [ character:  MATURINO]
+      [ 27 ]  Algum .
+      [ 28 ]  Aqui há sempre .
+      [ 29 ]  A maldade nunca se acaba .
+      [ character:  ANTONIO]
+      [ 30 ]  A audiência é de júri ?
+      [ character:  MATURINO]
+      [ 31 ]  Hoje e amanhã .
+      [ 32 ]  Hoje é uma mulher , que deitou o filho fora num vão de escada .
+      [ 33 ]  Amanhã é um rapazola , que matou a amante que o enganava ...
+      [ 34 ]  Mulheres ! ...
+      [ 35 ]  Sempre as mulheres ! ...
+      [ 36 ]  Não há nada pior cá neste mundo ...
+      [ character:  ANTONIO]
+      [ 36 ]  ( Sorrindo ) ―
+      [ 37 ]  Pobres delas ! ...
+      [ 38 ]  Quase sempre .
+      [ character:  MATURINO]
+      [ 39 ]  Isso diz Vossa Senhoria , que é um rapaz novo .
+      [ 40 ]  É próprio da sua idade .
+      [ 41 ]  A gente nova não vê certas coisas e as saias são o diabo ...
+      [ 42 ]  Mas eu ? ...
+      [ 43 ]  Sessenta ....
+      [ 44 ]  E trinta e quatro passados aqui a copiar processos .
+      [ 45 ]  Fique Vossa Senhoria sabendo ... ― isto diz-lhe um homem que viu mundo pelos seus olhos noutro tempo e ainda hoje o vê através destas papeladas ― todo o mal que vem ao mundo , vem por causa das mulheres .
+      [ character:  ANTONIO]
+      [ 46 ]  Algum bem há-de vir à mistura ...
+      [ character:  MATURINO]
+      [ 47 ]  Engano .
+      [ 48 ]  Uma hora de alegria que nos deem é para nos meter a alma no inferno anos sem conto .
+      [ character:  ANTONIO]
+      [ 48 ]  ( Levantando-se ) ―
+      [ 49 ]  O meu amigo é , no tocante a mulheres , bastante pessimista .
+      [ character:  MATURINO]
+      [ 50 ]  Sou escrevente e tanta miséria me tem passado pela pena que já nada me comove ...
+      [ 51 ]  Abro um processo ... ―
+      [ 52 ]  Ora ! ...
+      [ 53 ]  Mais certo que haver pardais nos telhados ― é logo uma mulher que se desgraçou ou a desgraçar alguém .
+      [ 54 ]  Uns matam , outros roubam , outros ferem ; mas sempre , no fundo , lá está o bicho fêmea .
+      [ 55 ]  Raça vil ...
+      [ character:  ANTONIO]
+      [ 55 ]  ( Abeirando-se da mesa ) ―
+      [ 56 ]  Alguma lhe pregaram ao senhor ...
+      [ character:  MATURINO]
+      [ 57 ]  A mim ? ...
+      [ 58 ]  Uma ...
+      [ character:  ANTONIO]
+      [ 59 ]  Por isso as detesta a todas .
+      [ character:  MATURINO]
+      [ 59 ]  ( Levantando-se ) ―
+      [ 60 ]  Quando aquela me enganou , que eu supunha a melhor , que hei-de eu julgar das outras ?
+      [ 60 ]  ( Volta a sentar-se .
+      [ 60 ]  Mudando de tom ) .
+      [ 61 ]  O senhor doutor não tarda ...
+      [ 61 ]  ( Um silêncio .
+      [ 61 ]  Antonio passeia ) .
+      [ character:  ANTONIO]
+      [ 61 ]  ( Interessado ) ―
+      [ 62 ]  Com que então enganaram-no ?
+      [ character:  MATURINO]
+      [ 63 ]  Coisas cá da minha vida ...
+      [ 64 ]  Casos que sucedem .
+      [ character:  ANTONIO]
+      [ 65 ]  Uma mulher ?
+      [ character:  MATURINO]
+      [ 66 ]  A minha ...
+      [ 67 ]  Mulher recebida , sim senhor .
+      [ 68 ]  Já lá vão vinte e ... vinte e dois anos .
+      [ 69 ]  Quer Vossa Senhoria saber ? ...
+      [ 70 ]  Apareceu-me um dia a tentar-me uma cara de perdição .
+      [ 71 ]  Era linda a maldita e vai eu casei com ela .
+      [ 72 ]  Não via outra coisa .
+      [ 73 ]  Cegueiras que dão na gente .
+      [ 74 ]  Nasceu-me uma filha e começaram a dizer-me que a pequena não era minha , que a minha mulher me falseava ...
+      [ 75 ]  Vê o senhor !
+      [ 76 ]  A mim , que não tinha uma hora de alegria longe dela , que suspirava por ela , que , à noite , quando saía daqui , levava horas a ver-me nos olhos dela , olhos falsos e que me pareciam falar verdade .
+      [ 77 ]  Quando me disseram que me enganava , eu ri-me .
+      [ 78 ]  Podia lá ser .
+      [ 79 ]  E contei-lhe a ela .
+      [ 80 ]  Riu-se a malvada .
+      [ 81 ]  E era verdade ; sabe o senhor ?
+      [ 82 ]  Um dia vou para casa ...
+      [ 83 ]  Tinha abalado ...
+      [ 84 ]  Tinha fugido com o outro , o tal ... que eu a bem dizer nunca indaguei quem era .
+      [ 85 ]  Fiquei tolhido ...
+      [ character:  ANTONIO]
+      [ 86 ]  Nunca mais a viu ?
+      [ character:  MATURINO]
+      [ 87 ]  Nunca mais ...
+      [ character:  ANTONIO]
+      [ 88 ]  E a pequena ?
+      [ character:  MATURINO]
+      [ 89 ]  Levou-a .
+      [ 90 ]  Tirou-ma .
+      [ 91 ]  Deve estar uma mulher .
+      [ 92 ]  Aquilo saiu à mãe com certeza .
+      [ 93 ]  São todas o mesmo : sem coração , sem alma , se é que a gente tem alma .
+      [ 94 ]  Olhe a de hoje ... a que vão julgar .
+      [ 95 ]  Tinha um filho ...
+      [ 96 ]  Pois botou-o ao desamparo , à noite , numa escada .
+      [ 97 ]  Ah !
+      [ 98 ]  Costa de África para onde elas fossem todas ... todas ...
+      [ 98 ]  ( Entra Luiz .
+      [ 98 ]  Maturino levanta-se e em tom de grande respeito ) .
+      [ 99 ]  Senhor doutor .
+      [ 100 ]  Criado de Vossa Excelência .
+      [ 101 ]  Vossa Excelência , bem ?
+      [ 102 ]  Tudo quanto pertence ?
+      [ 103 ]  CENA II
+      [ 103 ]  Os mesmos e Luiz
+      [ character:  LUIZ]
+      [ 103 ]  ( Abrindo os braços a Antonio ) ―
+      [ 104 ]  Ó Antonio !
+      [ 105 ]  Tu por aqui ?
+      [ 106 ]  Quando chegaste ?
+      [ character:  ANTONIO]
+      [ 107 ]  Ontem .
+      [ 108 ]  À noite soube por acaso que estavas subdelegado em Lisboa .
+      [ 109 ]  Indaguei e disseram-me que tinhas hoje audiência ...
+      [ character:  LUIZ]
+      [ 109 ]  ( Um pouco fátuo ) ―
+      [ 110 ]  É a primeira ...
+      [ 111 ]  Pela primeira vez vou falar depois de minha formatura .
+      [ 112 ]  Senta-te
+      [ 112 ]  ( Indica uma cadeira . )
+      [ character:  ANTONIO]
+      [ 112 ]  ( Sentando-se ) ―
+      [ 113 ]  Belo !
+      [ 114 ]  Uma estreia ...
+      [ character:  LUIZ]
+      [ 114 ]  ( Sentando-se à secretária ) ―
+      [ 115 ]  Aqui para nós não me sinto muito à vontade .
+      [ 116 ]  Isto já não é a aula , a lição engrolada ...
+      [ 117 ]  É a vida séria , o trabalho .
+      [ character:  ANTONIO]
+      [ 118 ]  Uma maçada enfim ...
+      [ character:  LUIZ]
+      [ 118 ]  ( Oferecendo cigarros ) ―
+      [ 119 ]  Falemos de coisas interessantes .
+      [ 120 ]  Tu que tens feito , desde que abalaste de Coimbra sem dar cavaco , atirando às ortigas a capa de estudante e a carta de doutor ?
+      [ character:  ANTONIO]
+      [ 121 ]  Viajado .
+      [ 122 ]  Cheguei ontem , como te disse .
+      [ 123 ]  Dois anos andei lá para fora .
+      [ character:  LUIZ]
+      [ 124 ]  Calculo ...
+      [ 125 ]  Paris e as suas mulheres , a Itália e os seus museus , a Suíça e as suas neves , mil coisas belas , enfim .
+      [ character:  ANTONIO]
+      [ 126 ]  A par de tudo isso quanta miséria !
+      [ 127 ]  O mundo é igual em toda a parte .
+      [ 128 ]  À saída de um restaurante de Paris , à porta de um museu de Itália , junto ao elevador de uma montanha suíça , há sempre ou uma mão estendida a pedir esmola ou criaturas que sofrem , enquanto os outros ― eu por exemplo ― se divertem ou buscam divertir-se .
+      [ character:  LUIZ]
+      [ 129 ]  Não perdeste ainda esses velhos vezos de pessimismo e o desastroso hábito ― desastroso para ti ― de te interessar pelos males do mundo ?
+      [ character:  ANTONIO]
+      [ 129 ]  ( Encolhendo os ombros ) ―
+      [ 130 ]  Que queres ?
+      [ 131 ]  Tendência minha .
+      [ 132 ]  Percorri cidades e capitais e em toda a parte vi criaturas , vergadas sobre labores pesados , levantarem para os desocupados como eu olhares onde havia inveja sempre e ódio muitas vezes .
+      [ character:  LUIZ]
+      [ 132 ]  ( Rindo ) ―
+      [ 133 ]  Aposto que chegaste a pedir desculpa aos mendigos do Vesúvio de teres uns centos de mil réis de rendimento ao mês .
+      [ 134 ]  Ah ! meu velho ...
+      [ 135 ]  Hás-de ser sempre o eterno utopista , que tinha em Coimbra a alcunha de Jesus Cristo e levava o tempo a consolar os aflitos e amparar os necessitados .
+      [ 136 ]  Crê meu caro Antonio ...
+      [ 137 ]  Existiram sempre opressores e oprimidos .
+      [ 138 ]  O mundo foi sempre assim . Não é a tua bela alma cheia de bondade e o teu grande coração que o hão de melhorar .
+      [ 138 ]  ( Mudando de tom ) .
+      [ 139 ]  Sabes uma coisa ?
+      [ 140 ]  Sou feliz .
+      [ character:  ANTONIO]
+      [ 140 ]  ( Sorrindo ) ―
+      [ 141 ]  Tens a certeza disso ?
+      [ character:  LUIZ]
+      [ 142 ]  E por que não ?
+      [ character:  ANTONIO]
+      [ 143 ]  Parabéns .
+      [ 144 ]  Poucas criaturas há no mundo que se possam declarar felizes .
+      [ 145 ]  És um fenômeno e aconselho-te a que mandes cobrar um pataco de entrada a cada mortal que te contemple .
+      [ character:  LUIZ]
+      [ 146 ]  Podes rir-te à vontade , que isso não me impedirá de repetir que sou feliz .
+      [ 147 ]  Eu não tenho as tuas largas aspirações de bem universal .
+      [ 148 ]  Não sou , como tu , um altruísta .
+      [ 149 ]  Contento-me em ser um egoísta .
+      [ character:  ANTONIO]
+      [ 150 ]  Felizes os que ainda se podem estimar a si próprios !
+      [ character:  LUIZ]
+      [ 151 ]  Reconheço-me pequeno para o trabalho de modificar o mundo e cuido de mim e de organizar a minha ventura .
+      [ 152 ]  Casei .
+      [ character:  ANTONIO]
+      [ 153 ]  Quando ?
+      [ character:  LUIZ]
+      [ 154 ]  Há cinco meses , quando me formei .
+      [ 155 ]  Sabes que tinha desde criança uma afeição completada por laços de família ...
+      [ character:  ANTONIO]
+      [ 156 ]  Uma prima tua , se bem me lembro .
+      [ character:  LUIZ]
+      [ 157 ]  Minha prima Margarida .
+      [ 158 ]  Era um namorico de crianças em que quase não pensava .
+      [ 159 ]  Quando voltei de Coimbra , fui encontrá-la mudada , desabrochada como uma bela rosa de abril .
+      [ 160 ]  O nosso amor de crianças transformou-se em paixão recíproca e breve nos casamos .
+      [ 161 ]  Se eu te disser mais que Margarida é a mais graciosa , a mais galante das mulheres , cheia de carinhosa ternura e de profundo amor por mim , admiras-te ainda de que diga que sou feliz ?
+      [ character:  ANTONIO]
+      [ 162 ]  Não .
+      [ 163 ]  O Amor é uma bela e grandiosa coisa .
+      [ 164 ]  Amar todos os seres numa só mulher é talvez mais simples .
+      [ 165 ]  É meter o mundo todo dentro dos nossos braços .
+      [ character:  LUIZ]
+      [ 166 ]  O amor de Margarida tem-me enchido de surpresas .
+      [ 167 ]  Abriu-me o coração a uma luz estranha que eu não conhecia .
+      [ 168 ]  Fez-me diverso e mostrou-me diversos os aspectos deste mundo .
+      [ 169 ]  Tu sempre me julgaste um frívolo , não é assim ?
+      [ character:  ANTONIO]
+      [ 170 ]  Tão capaz dum belo ato como duma má ação ...
+      [ character:  LUIZ]
+      [ 171 ]  Em Coimbra tratavas-me como uma criança .
+      [ 172 ]  Davas-me conselhos por vezes bem duros .
+      [ 173 ]  Pois bem .
+      [ 174 ]  Hoje sinto-me um homem e muito outro do que fui .
+      [ character:  ANTONIO]
+      [ 175 ]  É verdade ? !
+      [ 176 ]  A respeito de Coimbra ...
+      [ 177 ]  Como se passou isso da tua formatura ?
+      [ character:  LUIZ]
+      [ 178 ]  Bem .
+      [ 179 ]  Sem dificuldades .
+      [ 180 ]  Fiz um ato grande muito feliz .
+      [ character:  ANTONIO]
+      [ 181 ]  Como vão os rapazes do nosso tempo ?
+      [ 182 ]  A nossa república ?
+      [ character:  LUIZ]
+      [ 183 ]  Ora !
+      [ 184 ]  Dispersa .
+      [ 185 ]  Cada qual para seu lado , à vida .
+      [ character:  ANTONIO]
+      [ 186 ]  A tia Gracinda ?
+      [ character:  LUIZ]
+      [ 187 ]  Ainda deve ser hospedeira de estudantes .
+      [ character:  ANTONIO]
+      [ 187 ]  ( Após um pequeno silêncio ) ―
+      [ 188 ]  E a Ó-ó ?
+      [ character:  LUIZ]
+      [ 188 ]  ( Hesitando , num tom mais baixo ) ―
+      [ 189 ]  A Ó-ó ?
+      [ character:  ANTONIO]
+      [ 190 ]  Sim .
+      [ 191 ]  A Mariazinha do Ó , a sobrinha da tia Gracinda , nossa patroa .
+      [ character:  LUIZ]
+      [ 191 ]  ( Como quem se lembra finalmente ) ―
+      [ 192 ]  Ah ! sim !
+      [ 192 ]  ( Um silêncio ) .
+      [ 193 ]  Não sei ...
+      [ character:  ANTONIO]
+      [ 194 ]  Casou ?
+      [ character:  LUIZ]
+      [ 194 ]  ( Com um gesto vago ) ―
+      [ 195 ]  Não ...
+      [ 196 ]  Deu em droga .
+      [ character:  ANTONIO]
+      [ 197 ]  Pobre criança ! ...
+      [ 198 ]  Um estudante ...
+      [ character:  LUIZ]
+      [ 199 ]  Calculo que vários .
+      [ character:  ANTONIO]
+      [ 200 ]  Algum havia de ser o primeiro .
+      [ character:  LUIZ]
+      [ 201 ]  Sabe-se lá nunca quem foi o primeiro .
+      [ character:  ANTONIO]
+      [ 202 ]  Ela , a pobrezita , deve sabê-lo , infelizmente .
+      [ 202 ]  ( Acende um cigarro ) .
+      [ 203 ]  Pobre pequena !
+      [ 204 ]  Ainda a vejo , miudinha , com o seu narizito afilado , os seus olhos cismadores , cosendo ao canto da janela da casa de jantar .
+      [ 205 ]  Ainda a ouço dar-me os bons dias quando eu ia para a aula .
+      [ 206 ]  Queres crer , Luiz ?
+      [ 207 ]  Esqueci-me de muita gente do meu tempo de estudante ; dela não .
+      [ 208 ]  Em hospedarias desse mundo por onde andei sucedia-me às vezes , de manhã cedo , quando os criados me acordavam , parecer-me ouvir a voz dela dizendo-me :
+      [ 209 ]  “ Bons dias , senhor doutor ! "
+      [ 209 ]  ( Um silêncio ) .
+      [ 210 ]  Deu então em droga ? ...
+      [ 211 ]  Coitada !
+      [ character:  LUIZ]
+      [ 212 ]  Entristeceste ?
+      [ character:  ANTONIO]
+      [ 213 ]  Tenho pena dela .
+      [ 214 ]  Tinha-me um certo respeito .
+      [ 215 ]  O meu ar carrancudo metia-lhe medo quase .
+      [ 216 ]  Eu via a estudantada em volta daquela criança , como sôfregas abelhas em torno duma rosa que vai abrir .
+      [ 217 ]  Era o destino dela .
+      [ character:  LUIZ]
+      [ 217 ]  ( Sacudido ) ―
+      [ 218 ]  Tinha que ser .
+      [ 219 ]  Depois não era assisada .
+      [ 220 ]  Quem se fia em estudantes ? ...
+      [ 221 ]  Elas já sabem o fado que as espera .
+      [ 222 ]  Vão para diante de peito feito , podes crer .
+      [ 223 ]  Não se iludem .
+      [ character:  ANTONIO]
+      [ 223 ]  ( Abanando a cabeça ) ―
+      [ 224 ]  Iludem-nas .
+      [ 224 ]  ( Silêncio ) .
+      [ 225 ]  Com que então casado há cinco meses ? !
+      [ character:  LUIZ]
+      [ 225 ]  ( Muito alegre ) ―
+      [ 226 ]  É verdade .
+      [ 227 ]  E vou dar-te uma grande novidade .
+      [ 228 ]  És tu , o meu melhor amigo , a segunda pessoa a sabê-la .
+      [ 229 ]  Minha mulher , Margarida , vai ser mãe .
+      [ 230 ]  Disse-mo hoje , ao acordar , num longo beijo .
+      [ 231 ]  Não podes imaginar o que essa revelação me transtornou .
+      [ 232 ]  Tornou-me doido de alegria .
+      [ 233 ]  Vou ter um filho .
+      [ 234 ]  Vamos ter um filho , um pedaço de nós mesmos , que se agita no seio do meu amor .
+      [ 235 ]  Ah !
+      [ 236 ]  Antonio !
+      [ 237 ]  Ainda duvidavas de que eu pudesse ser feliz ! ...
+      [ character:  ANTONIO]
+      [ 238 ]  Um filho !
+      [ 239 ]  Sim .
+      [ 240 ]  Deve ser uma grande alegria .
+      [ character:  LUIZ]
+      [ 241 ]  Imensa .
+      [ 242 ]  E quando me lembro que , daqui a pouco , vai ser julgada ...
+      [ character:  ANTONIO]
+      [ 243 ]  Bem sei
+      [ 244 ]  . Uma mãe que abandonou o filho .
+      [ character:  LUIZ]
+      [ 245 ]  ... Arrepiam-se-me as carnes de horror .
+      [ 246 ]  A Margarida , quando saí , deteve-me e fez-me jurar que eu seria inflexível ao requerer as penas da lei para essa mãe bárbara .
+      [ 247 ]  ― “ Meu amor , ― disse-me ela ― pode lá haver no mundo uma mãe que desampare um filho !
+      [ 248 ]  Essa mulher é um monstro .
+      [ 249 ]  Sê cruel , impiedoso para ela , porque é uma infame ... ”
+      [ character:  ANTONIO]
+      [ 250 ]  Ou uma desgraçada .
+      [ character:  LUIZ]
+      [ 251 ]  E eu jurei-lhe que não pouparia essa miserável .
+      [ 252 ]  Vim mais cedo até , porque a quero ver , quero falar-lhe neste gabinete como pai , antes de a acusar na audiência como ministério público .
+      [ 253 ]  Vou mandá-la buscar ao calabouço .
+      [ character:  ANTONIO]
+      [ 253 ]  ( Erguendo-se ) ―
+      [ 254 ]  Bem .
+      [ 255 ]  Até logo .
+      [ character:  LUIZ]
+      [ 256 ]  Podes ficar .
+      [ 256 ]  ( Ao escrevente )
+      [ 257 ]  Ó Maturino ...
+      [ character:  MATURINO]
+      [ 257 ]  ( Levantando-se ) ―
+      [ 258 ]  Diga , senhor doutor .
+      [ character:  LUIZ]
+      [ 258 ]  ( Vestindo a beca ) ―
+      [ 259 ]  A ré já veio do aljube ?
+      [ character:  MATURINO]
+      [ 260 ]  Às nove chegou com ela o oficial de diligências .
+      [ character:  LUIZ]
+      [ 261 ]  Diga lá fora que a tragam cá .
+      [ 262 ]  Preciso lhe falar .
+      [ character:  MATURINO]
+      [ 263 ]  Eu vou , senhor doutor .
+      [ 264 ]  Com sua licença .
+      [ 264 ]  ( Arruma numa caixa de charutos a pena , a raspadeira e o lápis e fecha a gaveta à chave .
+      [ 264 ]  Sai ) .
+      [ 265 ]  CENA III
+      [ 265 ]  Antonio e Luiz
+      [ character:  LUIZ]
+      [ 266 ]  Tu , que tens particular empenho em examinar misérias , vais ver uma miséria mais ; mas esta horripilante e desprezível .
+      [ character:  ANTONIO]
+      [ 267 ]  Quem sabe que enorme desgraça vai entrar naquela porta !
+      [ character:  LUIZ]
+      [ 268 ]  Onde está o processo ?
+      [ 268 ]  ( Procura sobre a secretária e pega num maço de papéis ) .
+      [ 269 ]  Deve ser este .
+      [ 269 ]  ( Examina os papéis ) .
+      [ 270 ]  Não .
+      [ 271 ]  Este é o de amanhã .
+      [ 272 ]  Onde estará o de hoje ?
+      [ 273 ]  Este Maturino endoidece-me .
+      [ character:  ANTONIO]
+      [ 274 ]  O teu escriba é curioso .
+      [ character:  LUIZ]
+      [ 274 ]  ( Rindo ) –
+      [ 275 ]  Um maçador .
+      [ 276 ]  Uma raiva às mulheres que as não pode ver .
+      [ character:  ANTONIO]
+      [ 277 ]  Bem sei .
+      [ 278 ]  Ele explicou-me ...
+      [ character:  LUIZ]
+      [ 279 ]  Ora !
+      [ 280 ]  Leva os dias a contar a vida a todo o bicho careta .
+      [ 281 ]  CENA IV
+      [ 281 ]  Os mesmos , mais Maturino e Maria do Ó
+      [ character:  MATURINO]
+      [ 281 ]  ( À porta ) ―
+      [ 282 ]  Senhor doutor .
+      [ 283 ]  Está lá fora a tipa .
+      [ character:  LUIZ]
+      [ 284 ]  Que entre e vocemecê vá andando para a sala de audiência .
+      [ 285 ]  Previna-me quando chegar o doutor juiz .
+      [ 286 ]  ( Maturino encaminha-se para a porta .
+      [ 287 ]  Afasta-se para deixar entrar Maria do Ó e sai .
+      [ 288 ]  Maria veste miseravelmente .
+      [ 289 ]  Traz a cabeça baixa e caminha vagarosamente até junto da secretária de Luiz .
+      [ 290 ]  Ao chegar perto dela , ergue devagar a cabeça e , ao fitar Luiz , tem um grande grito de amor ) .
+      [ character:  MARIA]
+      [ 291 ]  Luiz , meu Luiz !
+      [ 291 ]  ( Cambaleia e cobre o rosto com as mãos ) .
+      [ 292 ]  CENA V
+      [ 293 ]  Maria , Luiz e Antonio
+      [ character:  LUIZ]
+      [ 293 ]  ( Surpreendido , examina Maria e interroga com o olhar Antonio .
+      [ 293 ]  Após um silêncio ) ―
+      [ 294 ]  Que diz vosmecê ?
+      [ character:  MARIA]
+      [ 294 ]  ( Descobrindo o rosto devagar ) ―
+      [ 295 ]  Já não me reconheces ?
+      [ 296 ]  Tens razão .
+      [ 297 ]  Estou uma velha .
+      [ character:  LUIZ]
+      [ 297 ]  ( Recuando ) ―
+      [ 298 ]  Maria do Ó ? ! ...
+      [ character:  ANTONIO]
+      [ 298 ]  ( Avançando para ela ) ―
+      [ 299 ]  Maria do Ó ...
+      [ character:  MARIA]
+      [ 300 ]  Sim .
+      [ 301 ]  Sou eu ...
+      [ 301 ]  ( Reconhecendo Antonio )
+      [ 302 ]  Olha : o senhor doutor ...
+      [ 303 ]  Bons dias , senhor doutor .
+      [ character:  ANTONIO]
+      [ 303 ]  ( Soturnamente ) ―
+      [ 304 ]  A mesma voz ainda .
+      [ character:  MARIA]
+      [ 304 ]  ( A Luiz ) ―
+      [ 305 ]  Admiras-te de me ver aqui ?
+      [ 306 ]  Também eu me admiro de te encontrar .
+      [ 307 ]  Há tanto tempo que nos não víamos ... desde que deixaste Coimbra e me deixaste a mim .
+      [ character:  ANTONIO]
+      [ 307 ]  ( A Luiz ) ―
+      [ 308 ]  Que houve entre ti e a Maria do Ó ?
+      [ 308 ]  ( Luiz encolhe os ombros e com uma faca de cortar papel acaba de desfolhar as rosas chá ) .
+      [ 309 ]  Compreendo .
+      [ 310 ]  Pobre criança .
+      [ 311 ]  Deu em droga ...
+      [ character:  MARIA]
+      [ 311 ]  ( Acercando-se de Luiz ) ―
+      [ 312 ]  Porque não me olhas ?
+      [ 313 ]  Estou feia .
+      [ 314 ]  Estou uma velha .
+      [ 315 ]  É que tenho sofrido muito .
+      [ 315 ]  ( Mudando de tom )
+      [ 316 ]  Ah !
+      [ 317 ]  Bem sei ...
+      [ 318 ]  Disseram-me que tu é que me ias condenar ...
+      [ 319 ]  E com razão ...
+      [ 320 ]  Deitei fora o nosso filho ...
+      [ character:  LUIZ]
+      [ 320 ]  ( Amparando-se à cadeira ) ―
+      [ 321 ]  O nosso filho ?
+      [ character:  MARIA]
+      [ 322 ]  Sim .
+      [ 323 ]  Um anjinho tão lindo !
+      [ 324 ]  Luiz , como o pai .
+      [ 325 ]  Ninguém o batizou .
+      [ 326 ]  Batizei-o eu .
+      [ 327 ]  Por que me não deram o meu filho na cadeia ?
+      [ 328 ]  Eu agora talvez tivesse leite .
+      [ 329 ]  Já tenho comido .
+      [ character:  LUIZ]
+      [ 329 ]  ( Duramente , erguendo-se ) ―
+      [ 330 ]  A senhora engana-se , quando diz : o nosso filho ...
+      [ character:  MARIA]
+      [ 331 ]  Não .
+      [ 332 ]  Tu bem sabes que não tive outro homem , nem podia ter .
+      [ 333 ]  Também sabes que , quando fui tua , era pura e nem sequer um beijo me tinham dado com mau propósito .
+      [ 334 ]  Bem sabes que só te amei a ti , que sempre te amei ... mesmo depois ...
+      [ character:  LUIZ]
+      [ 334 ]  ( Sentando-se ) ―
+      [ 335 ]  Não a entendo ...
+      [ character:  MARIA]
+      [ 336 ]  Ah !
+      [ 337 ]  Luiz !
+      [ 338 ]  Olha bem para mim e vê se te minto .
+      [ 339 ]  Essa criança é teu filho .
+      [ 340 ]  Abandonei-o e peço-te perdão .
+      [ 341 ]  Tu deste-me aquela ventura e eu deitei-a fora .
+      [ 342 ]  Vais condenar-me e é bem feito .
+      [ 343 ]  Mas , meu Luiz , ele morria-me nos braços ...
+      [ 344 ]  Não tinha que lhe dar de comer .
+      [ 345 ]  Eu própria morria de fome .
+      [ character:  ANTONIO]
+      [ 346 ]  De fome ? ...
+      [ character:  MARIA]
+      [ 347 ]  De fome ...
+      [ 348 ]  Tu sabes lá o que eu passei , Luiz !
+      [ 349 ]  Fui tão feliz por tua causa e sofri depois tanto !
+      [ 350 ]  Como me tenho lembrado de tudo , principalmente agora na cadeia , sem o meu filhinho ...
+      [ 351 ]  Levo as noites todas a cismar muito , a recordar e os dias na mesma .
+      [ 352 ]  As outras de dia cantam e à noite dormem .
+      [ 353 ]  E eu se canto , às vezes , é baixinho e porque me parece que ainda tenho o meu pequenito nos braços e que ele quer adormecer .
+      [ 354 ]  Lembro-me de tudo : daquela fala que me disseste , uma tarde , quando vinhas da aula e me não deixou dormir .
+      [ 355 ]  Depois aquelas cartas que tu me escrevias .
+      [ 355 ]  ( Mete a mão no seio ) .
+      [ 356 ]  Tenho-as aqui .
+      [ 357 ]  Levo o dia a lê-las ...
+      [ 358 ]  Versos tão bonitos ! ...
+      [ 359 ]  Como gostavas de mim nesse tempo !
+      [ 360 ]  Eu passava as tardes a coser , junto da janela , à espera da hora em que voltavas para casa .
+      [ 361 ]  Disfarçava e punha-me no corredor à tua espreita com a resposta das tuas cartas muito escondida na mão para que ninguém visse .
+      [ 362 ]  Uma noite falei-te às escondidas e , daí em diante , todas as noites as levavamos a conversar , muito baixinho , para a tia Gracinda não ouvir , muito chegados um ao outro , tu a dizeres-me coisas que me perdiam : que nunca tinhas amado mulher nenhuma como eu , que serias meu para sempre ...
+      [ 363 ]  Chamavas-me a tua mulherzinha ...
+      [ 364 ]  Eu era bonita então ...
+      [ 365 ]  Pois não era ? Como eu estou agora !
+      [ 366 ]  Hoje na cadeia deram-me um espelho para alisar o cabelo .
+      [ 367 ]  Nem me conheci .
+      [ 367 ]  ( Senta-se .
+      [ 367 ]  Silêncio .
+      [ 367 ]  Alegre )
+      [ 368 ]  Depois fui tua .
+      [ 369 ]  Tinha que ser e eu tinha orgulho nisso .
+      [ 370 ]  Quando me entreguei toda , quando todas as madrugadas saía descalça do teu quarto , como me sentia feliz ! Com que alegria te via entre os outros e dizia a mim própria : ― “ É meu ... é meu ... ”
+      [ 371 ]  Punha-me corada de contente , tinha vontades de cantar , de rir ...
+      [ 372 ]  Eu era bonita então .
+      [ 373 ]  Pois não era ?
+      [ 374 ]  Como estou agora !
+      [ character:  ANTONIO]
+      [ 375 ]  Pobre Ó-ó .
+      [ character:  MARIA]
+      [ 376 ]  Chegaram os atos e tu ias partir ... deixar Coimbra para sempre ... vir para a tua casa ...
+      [ 377 ]  O que eu chorei , meu Deus !
+      [ 378 ]  Minha Santa Nossa Senhora !
+      [ 379 ]  Já tinha então dentro de mim o nosso filho e disse-to .
+      [ 380 ]  Tu juraste que me virias buscar , que seria a tua companheira para sempre .
+      [ 381 ]  Lembras-te ?
+      [ character:  LUIZ]
+      [ 382 ]  Não acreditei que fosse verdade .
+      [ 383 ]  Cuidei que o dizias para me prenderes .
+      [ character:  ANTONIO]
+      [ 384 ]  Já pensavas em deixá-la ?
+      [ 385 ]  Pobre dela .
+      [ character:  MARIA]
+      [ 386 ]  Partiste de Coimbra e começou o meu fadário : eu a escrever-te todos os dias , tu sem me responderes nunca , léguas e léguas a apartarem-nos e o inocentinho sempre a crescer no meu seio .
+      [ 387 ]  Já o não podia esconder .
+      [ 388 ]  O nosso segredo toda a gente o sabia .
+      [ 389 ]  Quando senti que a hora estava para breve , abalei , de noite , sozinha , debaixo de chuva , cheia de febre , sem saber por onde ia , pela estrada real que me tinham dito que vinha dar a Lisboa .
+      [ 390 ]  Tive o meu filho de madrugada , numa venda do caminho , à porta da qual eu tinha ido bater .
+      [ 391 ]  A mulher da casa assistiu-me e , quando senti chorar pela primeira vez o nosso filho , cuidei ouvir a tua voz e pus-me a gritar : ― “ Luiz ! Luiz ! ”
+      [ 392 ]  CENA VI
+      [ 392 ]  Os mesmos e um instante Maturino
+      [ character:  MATURINO]
+      [ 392 ]  ( À porta ) ―
+      [ 393 ]  Senhor doutor !
+      [ 394 ]  O senhor juiz já chegou .
+      [ 395 ]  Não tarda que abra a audiência .
+      [ character:  LUIZ]
+      [ 396 ]  Já lá vamos .
+      [ 396 ]  ( Maturino volta a sair ) .
+      [ character:  MARIA]
+      [ 397 ]  Já me vão julgar ?
+      [ 398 ]  E depois ?
+      [ 399 ]  Dão-me outra vez o meu filho ?
+      [ 399 ]  ( A Antonio ) .
+      [ 400 ]  Ó senhor doutor !
+      [ 401 ]  O senhor , que era tão meu amigo , não fará com que mo deem ? ...
+      [ character:  ANTONIO]
+      [ 401 ]  ( Amparando-a ) .
+      [ 402 ]  Sim .
+      [ 403 ]  Há-de tê-lo breve .
+      [ 403 ]  ( Carinhosamente ) .
+      [ 404 ]  Tem sofrido muito ?
+      [ character:  MARIA]
+      [ 405 ]  Muito , senhor doutor .
+      [ 406 ]  Por causa do anjinho ...
+      [ 407 ]  Eu não tinha forças para trabalhar .
+      [ 408 ]  Vivia do que me davam .
+      [ 409 ]  Toda eu era querer ver o meu Luiz , para lhe mostrar o nosso filho .
+      [ 410 ]  Vim andando a pé e , quando vinha numa estrada e vi umas casas e me disseram que era Lisboa , pus-me a rir e a chorar e perguntei a um homem que encontrei : ― “ Sabe-me dizer onde mora o meu Luiz ? ”
+      [ 411 ]  Cuidei que toda a gente o conhecia .
+      [ 412 ]  Pois se eu não conheço mais ninguém .
+      [ 413 ]  O homem chamou-me doida e sacudiu-me .
+      [ 414 ]  Comecei a dar voltas pela cidade , sempre à espreita de o ver .
+      [ 415 ]  Olhava para as casas muito altas e perguntava a mim mesma : ―
+      [ 416 ]  “ Será ali ... ou ali ? ... ”
+      [ character:  ANTONIO]
+      [ 417 ]  Tinha perdido a morada dele ?
+      [ character:  MARIA]
+      [ 418 ]  Tinha-me esquecido com a febre do parto .
+      [ 419 ]  Um dia lembrou-me .
+      [ 420 ]  Fui lá .
+      [ 421 ]  Disseram-me que já ali não morava , que tinha casado , que estava para fora .
+      [ 422 ]  E o anjinho sempre a chorar nos meus braços e eu sem leite para lhe dar .
+      [ 423 ]  Mirrou-se-me o peito , senhor doutor .
+      [ 424 ]  Dizem que foi do desgosto .
+      [ 425 ]  Uma vez pedi esmola e fui presa .
+      [ 426 ]  Chovia e meteram-me entre grades .
+      [ 427 ]  Estava muito frio ; mas , ao menos , lá dentro não caía água .
+      [ 428 ]  No outro dia puseram-me fora .
+      [ 429 ]  Nem presa me deixavam estar .
+      [ 430 ]  Eu ia pedir trabalho , batia às portas , queria esfregar o chão , acarretar água .
+      [ 431 ]  Olhavam para o inocente e mandavam-me embora .
+      [ character:  LUIZ]
+      [ 432 ]  Meu Deus !
+      [ character:  MARIA]
+      [ 433 ]  Uma noite ― eu não comia havia três dias e ao meu filhinho só tinha para lhe dar a água das bicas que por aí há ... ― vi uma casa , um rés-do-chão , que tinha as janelas abertas ...
+      [ 434 ]  Lá dentro estavam umas poucas de crianças à mesa e um pequenino , como o meu ― tão lindo ! ― no colo de uma ama .
+      [ 435 ]  Passou-me uma coisa pela ideia , pus o meu filho no vão da porta , puxei a campainha e fugi ... fugi ... corri muito e só parei quando caí no chão ... como morta ... morta mesmo ...
+      [ 436 ]  Pois se eu já não tinha a minha vida ! ...
+      [ character:  ANTONIO]
+      [ 437 ]  Sente-se Ó-ósinha .
+      [ 437 ]  ( Um silêncio ) .
+      [ 438 ]  E depois ?
+      [ character:  MARIA]
+      [ 439 ]  Depois deu-me a saudade .
+      [ 440 ]  Queria o meu filho ...
+      [ 441 ]  Mas já não me lembrava onde o tinha deixado .
+      [ 442 ]  Fui perguntar por ele à polícia .
+      [ 443 ]  Prenderam-me .
+      [ 444 ]  Fui para a cadeia .
+      [ 445 ]  Dizem que vou presa por muito tempo .
+      [ 446 ]  Se calhar , por toda a vida .
+      [ 447 ]  Que importa !
+      [ 448 ]  Prisão é a vida de quem não tem alegria !
+      [ 448 ]  ( Rompendo em soluços ) .
+      [ 449 ]  Mas deem-me o meu filho !
+      [ 449 ]  ( Maria caiu sentada sobre uma cadeira .
+      [ 449 ]  Antonio está de pé junto dela .
+      [ 449 ]  Luiz à secretária , esconde o rosto entre as mãos .
+      [ 449 ]  Há um silêncio cortado pelos soluços de Maria do Ó )
+      [ character:  ANTONIO]
+      [ 449 ]  ( Irônica e pausadamente , a Luiz ) . ―
+      [ 450 ]  Que dizes a tudo isto ?
+      [ character:  LUIZ]
+      [ 451 ]  Antonio !
+      [ 452 ]  Que grande desgraça !
+      [ 453 ]  E por minha culpa .
+      [ character:  ANTONIO]
+      [ 454 ]  Que vais fazer agora ?
+      [ 455 ]  Tu que és a justiça inflexível , que és a lei .
+      [ character:  LUIZ]
+      [ 456 ]  Não sei ...
+      [ character:  ANTONIO]
+      [ 457 ]  Não sabes ?
+      [ 458 ]  Quando te perguntarem , a ti , o delegado da sociedade , da ordem , dos bons princípios , da honra , de todas essas banalidades enfim que a tua beca representa , qual o crime desta criatura , não sabes que resposta hás de dar ?
+      [ 459 ]  É simples : o de ter nascido mulher , fraca e indefesa perante o mundo cruel e perante o homem mais cruel ainda .
+      [ 460 ]  Pedirás que a castiguem por ter tido a fraqueza de ceder numa hora em que a mentira a embriagou num beijo e ela amou essa mentira como se a verdade fosse .
+      [ 461 ]  Dirás que a metam a ferros por ter a audácia de ser desgraçada na hora em que tu ... tu és feliz , como disseste há pouco .
+      [ character:  LUIZ]
+      [ 461 ]  ( Erguendo-se ) .
+      [ 462 ]  És cruel , Antonio .
+      [ 463 ]  Não vês o meu tormento ...
+      [ character:  ANTONIO]
+      [ 464 ]  Vai e dize-lhes que a conheceste pura , que a desejaste com a frivolidade do teu espírito , que a possuíste com a brutalidade da tua carne .
+      [ 465 ]  Dize-lhes que a apertaste nos braços como uma noiva que se entrega e dize-lhes enfim que , quando saciado o teu desejo , vieste edificar a tua vida nova , esta mulher , sobre o crime de deitar a um vão de escada o filho que lhe deste como lembrança e que ela não podia sustentar , cometeu mais o de vir lançar na tua alma a nuvem dum remorso que nunca mais se apagará .
+      [ character:  MARIA DO Ó]
+      [ 466 ]  Não o aflija , senhor doutor .
+      [ character:  ANTONIO]
+      [ 467 ]  E dize à sociedade , que a repudiou e pôs à margem , que a castigue por , numa noite de desvario , ter deixado à porta duma casa , onde havia risos de crianças felizes , o pranto amargo dum inocente com fome
+      [ character:  LUIZ]
+      [ 468 ]  Não a acusarei .
+      [ 469 ]  Pedirei que me substituam .
+      [ character:  ANTONIO]
+      [ 470 ]  É essa a solução cobarde que encontraste ?
+      [ 471 ]  Mas um outro falará em teu lugar .
+      [ 472 ]  Folheará num relance o processo dela , sem ler o teu nesta alma , onde aliás a amargura o não soube escrever senão com a tinta carinhosa do perdão e da saudade .
+      [ 473 ]  E tu ficarás tranquilo .
+      [ 474 ]  Ela não falará .
+      [ 475 ]  Eu também não , descansa .
+      [ character:  LUIZ]
+      [ 476 ]  Que queres que eu vá dizer ?
+      [ 477 ]  Que queres que eu faça ?
+      [ character:  ANTONIO]
+      [ 478 ]  Que expies , que digas tudo .
+      [ character:  MARIA]
+      [ 479 ]  Não vale a pena , senhor doutor .
+      [ 480 ]  Deem-me o meu filho que eu presa fico bem .
+      [ character:  LUIZ]
+      [ 481 ]  Mas ...
+      [ character:  ANTONIO]
+      [ 482 ]  Mas o quê ?
+      [ character:  LUIZ]
+      [ 483 ]  Mas ... Margarida , minha mulher ...
+      [ character:  ANTONIO]
+      [ 484 ]  Já esperava esse grito banal do teu egoísmo .
+      [ 485 ]  Falar é a ruína da tua felicidade , bem o sei ; mas vê o que fizeste da felicidade dela .
+      [ 485 ]  ( Aponta Maria do Ó ) .
+      [ 486 ]  Vai .
+      [ 487 ]  Fala .
+      [ 488 ]  Dize a verdade .
+      [ 489 ]  Que logo , quando cruzes o limiar da tua porta e essa que é a tua esposa te perguntar o que fizeste , lhe possa responder a tua consciência : ―
+      [ 490 ]  “ O meu dever ” .
+      [ 491 ]  Uma mulher perdoa sempre uma crueldade feita a outra pelo homem a quem ama .
+      [ 492 ]  Há-de perdoar .
+      [ 493 ]  O amor tudo absolve .
+      [ character:  MARIA]
+      [ 493 ]  ( Como um eco ) ―
+      [ 494 ]  Há-de te perdoar ...
+      [ 495 ]  Pois se eu já te perdoei !
+      [ character:  LUIZ]
+      [ 496 ]  Mas o tribunal ?
+      [ character:  ANTONIO]
+      [ 497 ]  O tribunal há-de escutar-te , porque há uma voz mais imperiosa do que um artigo da lei feita a sangue frio .
+      [ 498 ]  É a voz da justiça que nem sempre cabe na obra estreita do homem , mísero e pequeno perante os seus vícios e os seus instintos .
+      [ 498 ]  ( Ouve-se tocar uma campainha ) .
+      [ 499 ]  CENA FINAL
+      [ 499 ]  Os mesmos e Maturino
+      [ character:  MATURINO]
+      [ 499 ]  ( Entrando ) ―
+      [ 500 ]  Vai abrir a audiência , senhor doutor .
+      [ character:  LUIZ]
+      [ 500 ]  ( Erguendo-se de súbito . ) ―
+      [ 501 ]  Antonio , a tua mão .
+      [ 502 ]  Maria , perdão !
+      [ 503 ]  Eu saberei cumprir o meu dever .
+      [ 503 ]  ( Dirige-se para o fundo ) .
+      [ character:  MATURINO]
+      [ 503 ]  ( Vindo à secretária ) ―
+      [ 504 ]  Olhe que o processo ficava aqui .
+      [ 504 ]  ( Luiz pega-lhe e sai ) .
+      [ character:  ANTONIO]
+      [ 504 ]  ( A Maria do Ó ) ―
+      [ 505 ]  Adeus .
+      [ 506 ]  Até breve .
+      [ 507 ]  Dentro em pouco nos veremos e sossegue .
+      [ 508 ]  Nada lhe faltará , nem ao seu filho .
+      [ character:  MARIA]
+      [ 509 ]  Obrigado por ele , senhor doutor .
+      [ 510 ]  A mim já ninguém me pode dar o que me falta : o meu amor .
+      [ 510 ]  ( Maturino desce para vir buscá-la ) .
+      [ character:  ANTONIO]
+      [ 510 ]  ( Vendo Maturino enxugar uma lágrima ) . ―
+      [ 511 ]  Que é isso , homem ?
+      [ 512 ]  Você chora ?
+      [ character:  MATURINO]
+      [ 513 ]  É que ... senhor doutor ... lembrou-me agora ...
+      [ 514 ]  A minha filha , se for viva , deve andar pela idade desta .
+      [ 514 ]  ( Sai levando Maria do Ó ) .
+      [ closing:  PANO] 
+      
+[ prologue ] 
+      [ title:  Ano novo , vida velha ... ]
+      [ title:  Peça em um ato]
+      [ comment: 
+      [ 515 ]  Escrita expressamente para a revista literária “ Atlântida ”][ end prologue ] 
+      
+      [ title:  Figuras ]
+      [ 516 ]  ELE
+      [ 517 ]  ELA
+      [ 518 ]  UMA CRIADA
+      [ 518 ]  Lisboa – Atualidade
+      [ play ]
+      [ title:  Ano novo , vida velha ... ]
+      [ title:  PEÇA EM UM ATO]
+      [ 519 ]  Uma saleta Luiz XV .
+      [ 520 ]  Uma larga janela ao fundo .
+      [ 521 ]  Uma porta de cada lado .
+      [ 522 ]  A um canto , junto à janela , um cravo .
+      [ 523 ]  Sobre um móvel um relógio de Sévres .
+      [ 524 ]  Ao meio uma pequena mesa sobre a qual está servida uma ceia fria .
+      [ 525 ]  Luz de velas em serpentinas de prata .
+      [ 526 ]  CENA I
+      [ 526 ]  A criada , depois ele e ela
+      [ 527 ]  A criada está acabando de pôr a mesa .
+      [ 528 ]  Ouve-se rodar um trem na rua .
+      [ 529 ]  A criada sobe à janela e afasta uma das cortinas .
+      [ 530 ]  Volta a descer .
+      [ 531 ]  Ouve-se o timbre da porta de entrada .
+      [ 532 ]  A criada sai .
+      [ 533 ]  Entram ele e ela .
+      [ 534 ]  Despojam-se dos abafos .
+      [ 535 ]  Ele fica de casaca , ela com um vestido decotado de teatro .
+      [ character:  ELE]
+      [ 535 ]  ( Vindo à mesa e pondo na botoeira a flor de um solitário ) . ―
+      [ 536 ]  As malas ?
+      [ character:  A CRIADA]
+      [ 537 ]  Estão prontas .
+      [ character:  ELE]
+      [ 538 ]  O cocheiro a ajudará a carregá-las .
+      [ 539 ]  Ficou de vir buscar-me às duas horas .
+      [ character:  ELA]
+      [ 540 ]  Pode retirar-se , Justina .
+      [ 541 ]  Nós próprios nos serviremos .
+      [ 542 ]  Está tudo aqui ?
+      [ character:  A CRIADA]
+      [ 543 ]  Tudo .
+      [ 544 ]  Boas noites , minha senhora .
+      [ 544 ]  ( A ele )
+      [ 545 ]  Boas noites ...
+      [ character:  ELE]
+      [ 546 ]  Boas noites .
+      [ 546 ]  ( Sai a criada ) .
+      [ 547 ]  CENA II
+      [ 547 ]  Ele e ela
+      [ character:  ELA]
+      [ 547 ]  ( Com um sorriso ) ―
+      [ 548 ]  Sabes que tenho fome ?
+      [ character:  ELE]
+      [ 549 ]  Também eu .
+      [ 549 ]  ( Sentam-se ambos .
+      [ 549 ]  Servem-se .
+      [ 549 ]  Ele deita-lhe vinho no copo .
+      [ 549 ]  Há um silêncio ) .
+      [ character:  ELA]
+      [ 550 ]  Muito obrigada , meu querido amigo , por teres satisfeito o meu pedido .
+      [ 551 ]  Esta ceia de despedida ficará como uma nobre recordação do nosso apartamento .
+      [ 552 ]  Seria tão doloroso separar-nos como inimigos ou como indiferentes ...
+      [ 553 ]  Assim , na hora última , as nossas mãos estreitar-se-ão amigas e o nosso amor morrerá serenamente .
+      [ character:  ELE]
+      [ 554 ]  Assim o quero .
+      [ 555 ]  E porque não havia de ser assim ?
+      [ 556 ]  Não nos separa um rancor e apenas o receio do tédio , o perigo de vermos regradas por um hábito as horas que a paixão animou .
+      [ 557 ]  É preferível que uma saudade habite eterna em nosso coração a termos que sentar-nos um em frente do outro , como dois condenados da mesma galé .
+      [ character:  ELA]
+      [ 558 ]  Um pouco mais de frango ?
+      [ character:  ELE]
+      [ 559 ]  Obrigado , sim .
+      [ 560 ]  Está excelente .
+      [ 560 ]  ( Ela serve-o e serve-se .
+      [ 560 ]  Há um silêncio ) .
+      [ character:  ELA]
+      [ 561 ]  Há quatro anos , na noite em que pela primeira vez se uniram famintamente as nossas bocas , fiz-te jurar que , quando sentisses a saciedade desse amor que me atirava para os teus braços , lealmente mo dirias e lealmente apartaríamos .
+      [ 562 ]  Não tinha que ser eterna a paixão que nos uniu .
+      [ 563 ]  Por que havemos de ter a cobardia de o não reconhecer ?
+      [ character:  ELE]
+      [ 563 ]  ( Pousando o talher ) ―
+      [ 564 ]  Decerto .
+      [ 565 ]  Nunca o amor se apouca com a verdade .
+      [ 566 ]  Só a mentira e a traição fazem dele um tormento miserável ou uma infâmia .
+      [ 566 ]  ( Um silêncio ) .
+      [ character:  ELA]
+      [ 567 ]  Lembras-te ?
+      [ 568 ]  Foi há quatro anos , numa noite de ano novo como a de hoje ...
+      [ character:  ELE]
+      [ 569 ]  Neste mesmo lugar , a esta mesma hora , tu aí sentada , eu daqui ansioso e trêmulo ...
+      [ character:  ELA]
+      [ 570 ]  Acedi a vir cear a tua casa .
+      [ 571 ]  Sabia bem para que vinha ...
+      [ character:  ELE]
+      [ 572 ]  E ― estranharás talvez a minha pergunta ― estás arrependida ?
+      [ character:  ELA]
+      [ 573 ]  Não .
+      [ 574 ]  Sinceramente o digo , nesta hora em que vamos , buscar vida nova a propósito deste ano que começa .
+      [ 575 ]  Fizeste-me conhecer o amor e foste o amoroso que eu sonhara .
+      [ 576 ]  A culpa não é tua .
+      [ 577 ]  Nem minha .
+      [ 578 ]  Tu vais partir para essa viagem , eu vou ficar sozinha na casa que me deste , estamos ceando juntos pela última vez ; mas ― com toda a lealdade o repito ― não estou arrependida .
+      [ 579 ]  A culpa é do amor , que só é eterno através do tempo , de pouca dura através de nós .
+      [ character:  ELE]
+      [ 580 ]  Quiseras prolongar a ilusão , contentar-te com as cinzas de um fogo que foi ardente , representar dia a dia para mim e para ti própria , uma comédia de sentimento ?
+      [ character:  ELA]
+      [ 581 ]  Não .
+      [ 582 ]  Mil vezes não .
+      [ 583 ]  Conhecemos juntos as belas horas da vertigem .
+      [ 584 ]  Na ausência que nos impomos , consolar-nos-á a ideia de que fomos bastantes fortes para fugir ao que o amor tem de banal , de egoísta e de humano : o tédio ...
+      [ 585 ]  Um pouco de geleia ...
+      [ 586 ]  Queres ?
+      [ 586 ]  ( Serve-o .
+      [ 586 ]  Um silêncio ) .
+      [ character:  ELE]
+      [ 587 ]  Há quatro anos ...
+      [ character:  ELA]
+      [ 588 ]  Estás comovido , meu bom amigo ?
+      [ 589 ]  Por que não comes ?
+      [ 590 ]  A geleia está esplêndida .
+      [ character:  ELE]
+      [ 591 ]  Podeste , por ventura , esquecer aquela noite ? ...
+      [ character:  ELA]
+      [ 592 ]  Não , decerto .
+      [ 593 ]  Lembro-me ainda com que tremor me encostava ao teu braço na escada sem luz , a comoção que senti ao entrar a tua porta , o pudor que me acometeu quando me tiraste a capa .
+      [ 594 ]  Pareceu-me que ficava nua .
+      [ 594 ]  ( Pausa )
+      [ 595 ]  Estava louca por ti .
+      [ 596 ]  Não eras o meu primeiro amante .
+      [ 597 ]  Foste , sem dúvida alguma , o primeiro homem que amei ...
+      [ character:  ELE]
+      [ 598 ]  Seriamente ?
+      [ character:  ELA]
+      [ 599 ]  Juro-to .
+      [ 600 ]  Desde que no teatro pressentira que o teu capricho ou o teu desejo me procuravam , fora atraída irresistivelmente ; mas tinha medo , medo de ti , da tua inconstância , da vida sempre variável , medo do dia seguinte , medo de hoje ...
+      [ character:  ELE]
+      [ 601 ]  De hoje ?
+      [ character:  ELA]
+      [ 602 ]  Sim ...
+      [ 603 ]  Da hora em que o sonho diminuísse , em que a existência se apoderasse enfim de nós e nos envolvesse de banalidade ...
+      [ 604 ]  Mas , quando me chamaste , vim .
+      [ 605 ]  Sentaste daí , eu daqui .
+      [ 606 ]  Servias-me com um carinho extremo ; eras trêmulo como eu .
+      [ 607 ]  Havia nos teus olhos súplicas e lágrimas de alegria .
+      [ 608 ]  Quando os nossos dedos se tocavam , retirávamo-los ... Olha : assim exatamente como sucedeu agora .
+      [ 609 ]  Depois , tu levantaste-te .
+      [ 609 ]  ( Ele levanta-se e sobe à janela do fundo )
+      [ 610 ]  Por que te levantas ?
+      [ 611 ]  Sentes-te indisposto ? ... Foste erguer a cortina e escreveste com o dedo no vidro embaciado ...
+      [ character:  ELE]
+      [ 612 ]  O teu nome , como estou fazendo agora .
+      [ 612 ]  ( Ela levanta-se e vai junto dele )
+      [ 613 ]  Tu ergueste-te em seguida e vieste apoiar o teu braço sobre o meu ombro ...
+      [ character:  ELA]
+      [ 613 ]  ( Pondo-lhe o braço no ombro ) ―
+      [ 614 ]  Assim ...
+      [ 615 ]  Recordas-te ?
+      [ 616 ]  Pesa-te o meu braço ?
+      [ 617 ]  Não ?
+      [ 618 ]  Li o meu nome e sorri .
+      [ 618 ]  ( Ele passa-lhe o braço pela cintura )
+      [ 619 ]  Senti que me abraçavas como estás fazendo e que os teus lábios roçavam o meu cabelo junto às fontes .
+      [ 620 ]  Eram de fogo os teus lábios ...
+      [ character:  ELE]
+      [ 620 ]  ( Puxando-a a si e pondo-lhe um beijo nervoso na nuca ) ―
+      [ 621 ]  Seriam assim ?
+      [ character:  ELA]
+      [ 621 ]  ( Soltando-se devagar ) ―
+      [ 622 ]  Que tens ?
+      [ 623 ]  Parece que tens febre .
+      [ 624 ]  A tua boca escalda .
+      [ 624 ]  ( Descem ambos )
+      [ 625 ]  Voltamos para a mesa e , com um riso muito alegre , servi o café que já fervia na máquina .
+      [ 625 ]  ( Ele senta-se e ela , de pé , deita o café nas chícaras .
+      [ 625 ]  Pegando no açucareiro )
+      [ 626 ]  Quantas ?
+      [ 627 ]  Uma ? ...
+      [ 628 ]  Duas ? ...
+      [ character:  ELE]
+      [ 629 ]  Três , como naquela noite .
+      [ 630 ]  Eu também nada esqueci .
+      [ 630 ]  ( Tomam o café . )
+      [ character:  ELA]
+      [ 631 ]  Depois , tomado o café , tirei da tua cigarreira um dos teus cigarros
+      [ 631 ]  ( Tira um cigarro da cigarreira que está sobre a mesa e acende-o numa das velas )
+      [ 632 ]  e dei-to aceso , um pouco úmido da minha boca .
+      [ 633 ]  Queres fumar ?
+      [ 633 ]  ( Dá-lhe o cigarro e acende outro para ela . )
+      [ 634 ]  Ao descobrir , naquele canto , o velho cravo pedi-te que me tocasses um pouco de música .
+      [ 635 ]  Era já tarde , muito tarde , e , naquele recato escuro , onde não chegava a luz das velas , frouxamente alumiado pelo clarão de um candeeiro da rua , tu começaste mansamente , mal roçando os dedos pelas teclas , a tocar ...
+      [ character:  ELE]
+      [ 635 ]  ( Que se tem levantado e dirigido ao cravo que abriu e sobre o qual deixa correr os dedos ) ―
+      [ 636 ]  A balada do Rei de Thule , daquele que não queria que ninguém mais pousasse a boca na taça de ouro dos seus melhores prazeres .
+      [ 636 ]  ( A melodia corre suavemente .
+      [ 636 ]  O relógio de Sévres bate as duas ) .
+      [ 637 ]  É tão lindo ...
+      [ 638 ]  Eu vim debruçar-te sobre ti .
+      [ 639 ]  Estava embriagada dos teus olhos e da música doce como um queixume de ave ...
+      [ character:  ELE]
+      [ 640 ]  O teu perfume enlouquecia-me ...
+      [ 641 ]  O arfar do teu peito dizia-me : ―
+      [ 642 ]  “Quero-te .
+      [ character:  ELA]
+      [ 643 ]  Então , como um louco , tomaste-me nos teus braços ...
+      [ 643 ]  ( Ele levanta-se e , cingindo-a nos braços , leva-a para porta ) .
+      [ 644 ]  Que fazes ?
+      [ 645 ]  Isso não ...
+      [ 646 ]  Não ...
+      [ 647 ]  Perdeste a cabeça ?
+      [ 647 ]  ( Ouvem-se umas pancadas leves na porta oposta )
+      [ 648 ]  Quem é ?
+      [ 648 ]  ( Ele afasta-se um pouco . )
+      [ character:  A VOZ DA CRIADA]
+      [ 649 ]  Sou eu , minha senhora .
+      [ character:  ELA]
+      [ 650 ]  Entre .
+      [ 651 ]  CENA FINAL
+      [ 651 ]  Os mesmos e a criada
+      [ character:  A CRIADA]
+      [ 651 ]  ( Entrando ) ―
+      [ 652 ]  São duas horas .
+      [ 653 ]  O cocheiro está lá em baixo ...
+      [ character:  ELE]
+      [ 653 ]  ( Após um silêncio ) ―
+      [ 654 ]  Mande-o embora ...
+      [ character:  A CRIADA]
+      [ 655 ]  Sim , senhor .
+      [ 656 ]  E as malas ?
+      [ character:  ELA]
+      [ 656 ]  ( Com um sorriso ) ―
+      [ 657 ]  Será melhor desmanchá-las .
+      [ 657 ]  ( Saem .
+      [ 657 ]  A criada vai à mesa e apaga as velas . )
+      [ closing:  PANO] 
+      
+[ prologue ] 
+      [ 658 ]  A Jesuina Saraiva , A Chaby Pinheiro .
+      [ title:  Cavalheiro respeitável ]
+      [ title:  Comédia em um ato]
+      [ 658 ]  Representada pela primeira vez no teatro República , de Lisboa , em 25 de março de 1914[ end prologue ] 
+      
+      [ title:  Personagens ]
+      [ 659 ]  O SENHOR SALASAR ―
+      [ 660 ]  Tem cinquenta anos e é gordo .
+      [ 661 ]  Bem tratado , usa anéis e colete branco .
+      [ 662 ]  Vê-se logo que , após anos de bom comércio , lhe chegou a hora de gozar a vida sem sobressaltos .
+      [ 663 ]  CHABY
+      [ 664 ]  DONA ISAURA ―
+      [ 665 ]  Quarenta e cinco anos arrebicados .
+      [ 666 ]  Dona de casa de hóspedes , que , na sua mocidade deve ter sido uma pândega de estalo .
+      [ 667 ]  JESUINA SARAIVA
+      [ 668 ]  ALBERTINA ―
+      [ 669 ]  Vinte e cinco anos , nada mais .
+      [ 670 ]  LUS VELOSO
+      [ 671 ]  ALFREDO ― A mesma idade .
+      [ 672 ]  TOMÁS VIEIRA
+      [ 672 ]  Lisboa ― Atualidade
+      [ play ]
+      [ title:  Cavalheiro respeitável ]
+      [ title:  COMÉDIA EM UM ATO]
+      [ 673 ]  Uma saleta em casa de Dona Isaura .
+      [ 674 ]  Todos os apetrechos de uma casa burguesa : paninhos de crochê , canário na janela , oleografias nas paredes , o Diário de Notícias sobre um móvel , um relógio parado .
+      [ 675 ]  Janelas ao fundo dando para a rua .
+      [ 676 ]  Portas ao lado .
+      [ 677 ]  Um canapé a um dos lados .
+      [ 678 ]  CENA I
+      [ 678 ]  Dona Isaura e Albertina
+      [ 679 ]  Ao subir o pano , Dona Isaura , com um roupão de andar por casa todo enfeitado de laçarotes , está sentada no sofá .
+      [ 680 ]  Albertina de pé junto dela .
+      [ 681 ]  Dona Isaura está baralhando umas cartas e puxou uma cadeira para junto do sofá .
+      [ character:  DONA ISAURA]
+      [ 682 ]  Credo , filha ! ...
+      [ 683 ]  Que farnesim em que tu estás !
+      [ 683 ]  ( Vai baralhando as cartas ) .
+      [ character:  ALBERTINA]
+      [ 684 ]  Se lhe parece , Dona Isaura ! ...
+      [ character:  DONA ISAURA]
+      [ 684 ]  ( Dá as cartas a partir a Albertina .
+      [ 684 ]  Esta vai cortá-las com a mão direita ) ―
+      [ 685 ]  Com a esquerda , filha , com a esquerda !
+      [ 686 ]  Estou farta de te dizer que as cartas se partem com a mão esquerda ...
+      [ character:  ALBERTINA]
+      [ 686 ]  ( Partindo com a mão esquerda ) ―
+      [ 687 ]  Ó Dona Isaura !
+      [ 688 ]  E as cartas falarão verdade ?
+      [ character:  DONA ISAURA]
+      [ 689 ]  Se não tens fé , não tas deito .
+      [ 690 ]  Vamos lá a saber : quem foi que te disse que o Alfredo andava metido com a corista ? ...
+      [ character:  ALBERTINA]
+      [ 691 ]  Foi a engomadeira .
+      [ character:  DONA ISAURA]
+      [ 692 ]  Pois sim ; mas a espadilha afirmou .
+      [ 693 ]  Vê se te lembras : “ uma mulher loura , com poucos dinheiros , à hora de comidas e bebidas ” .
+      [ 694 ]  Foi quando tu foste dar com eles a jantar na casa de pasto .
+      [ 695 ]  Lembras-te ?
+      [ character:  ALBERTINA]
+      [ 696 ]  Se me lembro !
+      [ character:  DONA ISAURA]
+      [ 697 ]  As cartas falam sempre verdade .
+      [ 697 ]  ( Nesta altura benze-se três vezes , tocando a testa e o peito com o baralho )
+      [ 698 ]  Em louvor de São Cipriano , assim ele me ajude nesta sorte ...
+      [ 698 ]  ( A Albertina )
+      [ 699 ]  Benze-te rapariga ...
+      [ 700 ]  Com a esquerda .
+      [ 700 ]  ( Albertina executa .
+      [ 700 ]  Dona Isaura dispõe as cartas em cinco maços sobre a cadeira : um ao meio , os restantes quatro um a cada canto .
+      [ 700 ]  Em seguida , volta os maços com as figuras para cima .
+      [ 700 ]  Vai para ler ; mas suspende , tapando as cartas com as mãos . )
+      [ 701 ]  Espera ; já me esquecia .
+      [ 702 ]  Eu marco-te em ouros , queres ?
+      [ character:  ALBERTINA]
+      [ 703 ]  Pois sim .
+      [ 704 ]  O costume ...
+      [ character:  DONA ISAURA]
+      [ 705 ]  E o sujeito do anúncio em copas .
+      [ 705 ]  ( Destapa o jogo )
+      [ 706 ]  “ Muito breve ” ...
+      [ 707 ]  “ Novidades ” ....
+      [ 708 ]  “ Nesta casa ” ...
+      [ 709 ]  “ Com alegria ” ...
+      [ 710 ]  “ O pensamento do homem de copas ” ...
+      [ 711 ]  Valete de copas , dois de ouros , três de ouros , ás de copas e ás de ouros ...
+      [ 712 ]  Que mais queres ?
+      [ 712 ]  ( Junta os maços e começa dispondo as cartas voltadas para cima em carreiras de cinco )
+      [ 713 ]  Lá estás tu voltada para o valete ...
+      [ character:  ALBERTINA]
+      [ 714 ]  É o Alfredo .
+      [ character:  DONA ISAURA]
+      [ 715 ]  Mas ele volta-te as costas .
+      [ character:  ALBERTINA]
+      [ 716 ]  Isso sei eu .
+      [ character:  DONA ISAURA]
+      [ 717 ]  Há uma mulher que pensa nele .
+      [ character:  ALBERTINA]
+      [ 718 ]  É a corista ...
+      [ character:  DONA ISAURA]
+      [ 719 ]  É uma mulher de má língua .
+      [ character:  ALBERTINA]
+      [ 720 ]  É a engomadeira ...
+      [ character:  DONA ISAURA]
+      [ 721 ]  Com “ más palavras ” ... “ um desvio ” e “ dinheiros pequenos ” ...
+      [ 722 ]  Credo !
+      [ 723 ]  Aquele homem não pode negar que é um pelintra ... :
+      [ 724 ]  Até as cartas o sabem .
+      [ 725 ]  “ Rua fora ” ...
+      [ 726 ]  Anda a dar ao chinelo ! ... a gozar os rendimentos .
+      [ 727 ]  São tantos ...
+      [ character:  ALBERITNA]
+      [ 728 ]  E o outro ?
+      [ character:  DONA ISAURA]
+      [ 729 ]  O rei de copas ?
+      [ 730 ]  Está ali , coitadinho , virado para ti , minha filha .
+      [ 731 ]  “ Com os cinco sentidos ” ... “ uma carta ” ...
+      [ 732 ]  É a carta que ele respondeu para a agência do teu anúncio ...
+      [ 733 ]  “ Boas palavras ” ...
+      [ 734 ]  É pessoa de boa educação .
+      [ 735 ]  E o pensamento dele “ nesta casa ” .
+      [ 736 ]  É porque vem .
+      [ 737 ]  “ Caminhos vagarosos ” ... e devagar .
+      [ character:  ALBERTINA]
+      [ 737 ]  ( Apontando uma carta ) ―
+      [ 738 ]  Por embarcação .
+      [ character:  DONA ISAURA]
+      [ 739 ]  Ou sege .
+      [ 740 ]  Tu não hás de querer que o homem venha de bote para a rua dos Retroseiros .
+      [ 741 ]  Estou que vem de elétrico ...
+      [ 741 ]  ( Junta as cartas todas e baralha-as ) .
+      [ character:  ALBERTINA]
+      [ 742 ]  Ai , Dona Isaura , se soubesse como tenho o coração oprimido .
+      [ character:  DONA ISAURA]
+      [ 743 ]  Pateta !
+      [ 744 ]  Quem sabe lá se é o teu futuro este rei de copas .
+      [ 745 ]  Tu que ganhavas em viver com o Alfredo ?
+      [ 746 ]  Um maluco , sempre sem vintém ...
+      [ character:  ALBERTINA]
+      [ 747 ]  Mas tão bom rapaz ... tão meu amigo ...
+      [ character:  DONA ISAURA]
+      [ 748 ]  Dizes isso agora que ele não te aparece há cinco dias ; mas , quando o apanhaste com a outra , não dizias o mesmo .
+      [ 749 ]  E vê lá o que ele fez ? Desalvorou pela porta fora ... e até hoje .
+      [ character:  ALBERTINA]
+      [ 750 ]  Cada vez que me lembro , não me canso de chorar .
+      [ character:  DONA ISAURA]
+      [ 751 ]  Chorar não adianta nada .
+      [ 752 ]  O que tu precisas é de tratar da tua vida .
+      [ 753 ]  Eu dei-te um conselho .
+      [ 754 ]  Seguiste-o .
+      [ 755 ]  Verás que te dás bem .
+      [ 756 ]  O que tu precisas , rapariga , é de uma pessoa tua amiga , que seja de uma certa idade e com assento , que te garanta um bom futuro ...
+      [ 756 ]  ( Entretanto foi tornando a pôr as cartas em carreiras de cinco ) .
+      [ 757 ]  Lá está ele , ― vês ? ― “ com uma prenda , às horas da comida ” .
+      [ 758 ]  Querem ver que o homem aparece aí à hora do jantar ...
+      [ character:  ALBERTINA]
+      [ 759 ]  E o Alfredo ?
+      [ character:  DONA ISAURA]
+      [ 760 ]  E tu a dares-lhe com o Alfredo !
+      [ 761 ]  O Alfredo está ali .
+      [ 762 ]  Volta as costas à mulher da má língua ...
+      [ character:  ALBERTINA]
+      [ 763 ]  Ele disse-me que havia de partir a cara à engomadeira ...
+      [ character:  DONA ISAURA]
+      [ 764 ]  “ Com poucos dinheiros ” ... É o que eu te digo ou não é ?
+      [ 765 ]  Tu assim nunca tiravas o pé do lodo .
+      [ 766 ]  Foi um bem para ti ele deixar-te .
+      [ character:  ALBERTINA]
+      [ 767 ]  Não diga isso , Dona Isaura .
+      [ character:  DONA ISAURA]
+      [ 768 ]  Eu também fui rapariga e sei o que são essas coisas .
+      [ 769 ]  Também por cá passaram .
+      [ 770 ]  A minha perdição foi um sargento de lanceiros , chamado Vitorino , que até pancada me dava .
+      [ 771 ]  Se não fosse ele , podia hoje estar muito bem a rir-me de quem se ri de mim , em vez de andar a aturar hóspedes ...
+      [ 772 ]  Não digo isso por ti , que és uma rapariga sossegada e minha amiga ; mas os outros ...
+      [ 773 ]  Aparece aí cada exemplar .
+      [ 773 ]  ( Lendo as cartas )
+      [ 774 ]  E o sujeito cá está , todo babado por ti , “ com muito gosto ” ...
+      [ 775 ]  Vês a manilha de paus e a espadilha a afirmar ? ...
+      [ 775 ]  ( Junta novamente as cartas ) .
+      [ character:  ALBERTINA]
+      [ 776 ]  Se soubesse a impressão que me faz esta ideia do anúncio e lembrar-me que vem por aí um sujeito , fazendo sabe Deus que ideia de mim ! ...
+      [ 777 ]  Eu , em ouvindo bater à porta , fujo para o meu quarto .
+      [ character:  DONA ISAURA]
+      [ 777 ]  ( Baralhando ) ―
+      [ 778 ]  Não tem que fazer ideia nenhuma .
+      [ 779 ]  Não é a primeira nem a segunda vez que uma rapariga pede auxílio a um cavalheiro respeitável por intermédio dos jornais .
+      [ 780 ]  Se os jornais não servissem para isso , para que haviam eles de servir ?
+      [ 781 ]  E quase sempre dá excelentes resultados .
+      [ 782 ]  Olha , minha filha ...
+      [ 783 ]  Conheci uma amiga minha , que não tinha onde cair morta e hoje até já tem jazigo ...
+      [ 784 ]  Tem um prédio à Boa Morte e um ror de inscrições , que lhe deixou um sujeito que a conheceu assim , por anúncio .
+      [ 785 ]  Vamos à terceira vez ...
+      [ 785 ]  ( Tem disposto as cartas como anteriormente ) .
+      [ character:  ALBERTINA]
+      [ 785 ]  ( Indicando uma delas ) ―
+      [ 786 ]  Lá está o Alfredo !
+      [ character:  DONA ISAURA]
+      [ 787 ]  Ó criatura de Deus !
+      [ 788 ]  Não penses mais no homem !
+      [ 789 ]  Que aflição !
+      [ 790 ]  Vês o outro ?
+      [ 791 ]  Mesmo ao pé de ti ...
+      [ 792 ]  O três de espadas : “ caminhos breves ” ...
+      [ 793 ]  Não tarda aí ...
+      [ 794 ]  “ Com grandes dinheiros ” ... manilha de ouros ...
+      [ 795 ]  “ Pela porta da rua ” ...
+      [ character:  ALBERTINA]
+      [ 795 ]  ( Rindo ) ―
+      [ 796 ]  Pudera !
+      [ 797 ]  Havia de vir pela chaminé abaixo ...
+      [ character:  DONA ISAURA]
+      [ 798 ]  Vai-te rindo , vai .
+      [ 798 ]  ( Ouve-se bater na porta da rua três campainhadas ) .
+      [ 799 ]  É capaz de ser ele ...
+      [ 800 ]  Eu não te dizia ?
+      [ 801 ]  Tenho quase a certeza .
+      [ 801 ]  ( Vai à janela do fundo ) .
+      [ 802 ]  Deve ser ...
+      [ 803 ]  É um sujeito de idade .
+      [ 804 ]  Está a olhar cá para cima e tem cara de cavalheiro respeitável ...
+      [ 805 ]  E a criada que não puxa a corda !
+      [ 805 ]  ( Indo a uma porta )
+      [ 806 ]  Ó Jacinta !
+      [ 807 ]  Você não ouve bater ?
+      [ 808 ]  Três pancadas é para cá .
+      [ character:  ALBERTINA]
+      [ 809 ]  Ó Dona Isaura !
+      [ 810 ]  Eu vou para o meu quarto .
+      [ character:  DONA ISAURA]
+      [ 811 ]  Tenha juízo , menina .
+      [ 812 ]  Então !
+      [ 813 ]  Deixe-se estar .
+      [ 813 ]  ( Olhando para baixo ) .
+      [ 814 ]  Já entrou .
+      [ 814 ]  ( Desce )
+      [ 815 ]  Deus queira que seja para teu bem ...
+      [ character:  ALBERTINA]
+      [ 816 ]  Ó Dona Isaura !
+      [ 817 ]  Pela sua saúde !
+      [ 818 ]  Diga-lhe que foi engano do jornal , que não é aqui , que eu saí ...
+      [ 819 ]  Eu vou-me embora ...
+      [ character:  DONA ISAURA]
+      [ 820 ]  Tenha juízo , já lhe disse .
+      [ 821 ]  A menina conversa com aquele senhor .
+      [ 822 ]  Ele tem jeito de ser uma pessoa séria e de todo o propósito .
+      [ 822 ]  ( Sobe a uma das portas )
+      [ 823 ]  Já se ouvem os passos cá em baixo .
+      [ 823 ]  ( Um silêncio )
+      [ 824 ]  Vem a virar o patim ...
+      [ 824 ]  ( Nesta altura , Albertina safa-se na ponta dos pés por uma porta do lado oposto .
+      [ 824 ]  Isaura tem saído um pouco a receber a visita )
+      [ 825 ]  Faz obséquio o cavalheiro de entrar .
+      [ 825 ]  ( Voltando à cena e não vendo Albertina )
+      [ 826 ]  Onde se meteu ela ?
+      [ 827 ]  Esta agora !
+      [ 827 ]  ( Para fora )
+      [ 828 ]  Tem a bondade ...
+      [ 829 ]  Por aqui ...
+      [ 830 ]  CENA II
+      [ 830 ]  Dona Isaura e Salasar
+      [ character:  SALASAR]
+      [ 830 ]  ( À porta ) ―
+      [ 831 ]  Com licença .
+      [ 831 ]  ( Vem descendo desconfiado .
+      [ 831 ]  Isaura indica-lhe uma cadeira junto do sofá .
+      [ 831 ]  À parte ) .
+      [ 832 ]  Esta é que será a tal senhora ainda nova ? ...
+      [ 832 ]  ( Senta-se .
+      [ 832 ]  Em silêncio ) ...
+      [ 833 ]  Pois , como ia dizendo , eu venho cá ...
+      [ character:  DONA ISAURA]
+      [ 833 ]  ( Com uma mesura ) ―
+      [ 834 ]  Por causa do anúncio ...
+      [ character:  SALASAR]
+      [ 835 ]  Justamente .
+      [ 836 ]  Li outro dia , por acaso , que uma senhora ainda nova ... hum ! ... pedia auxílio de cavaleiro respeitável e respondi para a agência com as iniciais combinadas : X. P. T. O.
+      [ 837 ]  No dia seguinte , recebi uma carta pelo correio , pedindo-me vir à rua dos Retroseiros , número ... tal e tal ...
+      [ character:  DONA ISAURA]
+      [ 837 ]  ( Outra mesura ) ―
+      [ 838 ]  Terceiro andar ...
+      [ 839 ]  É aqui .
+      [ character:  SALASAR]
+      [ 839 ]  ( Limpando o suor ) ―
+      [ 840 ]  Exatamente .
+      [ 841 ]  Terceiro andar , cinquenta e quatro degraus ...
+      [ character:  DONA ISAURA]
+      [ 841 ]  ( Sorrindo ) ―
+      [ 842 ]  A escada é um bocado escura e às vezes os gatos ...
+      [ character:  SALAZAR]
+      [ 842 ]  ( Sorrindo também ) ―
+      [ 843 ]  Eu trazia fósforos ...
+      [ 844 ]  Como ia dizendo , eu sou ...
+      [ character:  DONA ISAURA]
+      [ 845 ]  O cavalheiro respeitável .
+      [ 846 ]  Muito gosto em conhecer Vossa Excelência .
+      [ character:  SALASAR]
+      [ 847 ]  Muito agradecido a Vosselência .
+      [ 848 ]  Vosselência é que é ... a senhora ainda nova ? ...
+      [ character:  DONA ISAURA]
+      [ 849 ]  Sou e não sou ...
+      [ character:  SALASAR]
+      [ 850 ]  Como ?
+      [ character:  DONA ISAURA]
+      [ 850 ]  ( Com faceirice ) ―
+      [ 851 ]  Sou ainda nova ; mas não fui eu que pus o anúncio ...
+      [ character:  SALASAR]
+      [ 851 ]  ( Sorrindo ) ―
+      [ 852 ]  Ah !
+      [ 852 ]  ( Respira )
+      [ character:  DONA ISAURA]
+      [ 853 ]  A pessoa de que se trata é uma senhora minha amiga , um pouco mais nova do que eu ...
+      [ 854 ]  Tem vinte e cinco anos .
+      [ character:  SALASAR]
+      [ 855 ]  Faz ela muito bem .
+      [ 856 ]  Eu , se pudesse , fazia o mesmo .
+      [ character:  DONA ISAURA]
+      [ 856 ]  ( Amável ) ―
+      [ 857 ]  Vosselência ainda está muito bem conservado .
+      [ 858 ]  É pessoa aí dos seus quarenta ...
+      [ character:  SALASAR]
+      [ 859 ]  Vou fazer quarenta e doze aí pelo São João ...
+      [ character:  DONA ISAURA]
+      [ 860 ]  E eu também faço anos pelo São Martinho .
+      [ character:  SALASAR]
+      [ 861 ]  Que coincidência ! ...
+      [ 862 ]  Dizia então Vosselência que a sua amiga ...
+      [ character:  DONA ISAURA]
+      [ 863 ]  Ah ! sim ...
+      [ 864 ]  A minha amiga ...
+      [ 865 ]  É uma pessoa muito tímida , sem experiência nenhuma da vida , de modo que , quando sentiu Vosselência bater três pancadas lá em baixo , retirou-se para o seu quarto ...
+      [ 866 ]  Mas eu vou chamá-la
+      [ 866 ]  ( Levanta-se ) .
+      [ character:  SALASAR]
+      [ 866 ]  ( Retendo-a ) ―
+      [ 867 ]  Não se incomode , Dona ... Dona ...
+      [ character:  DONA ISAURA]
+      [ 868 ]  Isaura , uma sua criada .
+      [ 869 ]  Isaura Encarnação Formosinho , uma sua criada ...
+      [ character:  SALASAR]
+      [ 870 ]  E eu , Domingos Dias Santos Salasar , criado de Vosselência ...
+      [ 871 ]  Fui muito tempo Salasar Sucessores , ferragens e artigos de louça esmaltada , ao Corpo Santo .
+      [ character:  DONA ISAURA]
+      [ 872 ]  Não tenho ideia ...
+      [ 872 ]  ( Pausa ) .
+      [ character:  SALASAR]
+      [ 873 ]  Como sou também um bocado acanhado ― não tenho prática nenhuma destas coisas ― talvez fosse melhor eu conversar um bocado com a senhora Dona Isaura , que depois falaria à sua amiga .
+      [ character:  DONA ISAURA]
+      [ 874 ]  Como quiser ...
+      [ 875 ]  Vosselência , então , é negociante ?
+      [ character:  SALASAR]
+      [ 876 ]  Fui , fui ...
+      [ 877 ]  Ferragens e louças esmaltadas por grosso ...
+      [ 878 ]  Cedi a casa ao meu genro ...
+      [ character:  DONA ISAURA]
+      [ 879 ]  Ah !
+      [ 880 ]  Vosselência é casado ? ...
+      [ character:  SALASAR]
+      [ 881 ]  Se fosse casado , já minha mulher estava aí a tocar à campainha .
+      [ 882 ]  Aquilo tinha um faro !
+      [ 883 ]  Também não admira : era do Algarve ...
+      [ 884 ]  Não , minha senhora , sou viúvo .
+      [ character:  DONA ISAURA]
+      [ 885 ]  Ah !
+      [ 886 ]  É viúvo ?
+      [ 887 ]  Tem graça ...
+      [ character:  SALASAR]
+      [ 888 ]  Tem bastante , graças a Deus .
+      [ 889 ]  Minha mulher estava sempre a dizer-me : ―
+      [ 890 ]  “ Descansa , homem ...
+      [ 891 ]  Deixa estar que hei de morrer antes de ti ” ...
+      [ 892 ]  Eu cuidava que dizia aquilo para me ser agradável .
+      [ 893 ]  Afinal saiu certo .
+      [ 894 ]  Era muito minha amiga ...
+      [ character:  DONA ISAURA]
+      [ 895 ]  E morreu há muito tempo sua esposa ?
+      [ character:  SALASAR]
+      [ 895 ]  ( Grave ) ―
+      [ 896 ]  Finou-se após um prolongado sofrimento vão fazer treze meses no dia 13 ...
+      [ character:  DONA ISAURA]
+      [ 897 ]  Que azar , senhor Salasar !
+      [ character:  SALASAR]
+      [ 898 ]  Que sorte , minha rica senhora , que sorte !
+      [ 899 ]  Eu , a bem falar , posso dizer que nasci no dia em que morreu minha mulher .
+      [ character:  DONA ISAURA]
+      [ 899 ]  ( Rindo ) ―
+      [ 900 ]  Ah !
+      [ 901 ]  Ainda está uma criança .
+      [ 902 ]  E muito desenvolvido para treze meses ...
+      [ character:  SALASAR]
+      [ 903 ]  Não vê Vosselência , que eu , de dia , tinha a loja e , à noite , tinha minha mulher .
+      [ 904 ]  Era uma vida muito apensionada .
+      [ 905 ]  A loja tinha muita freguesia , a minha mulher tinha muito mau gênio ...
+      [ 906 ]  De maneira que ...
+      [ character:  DONA ISAURA]
+      [ 906 ]  ( Maliciosa ) ―
+      [ 907 ]  Compreendo ...
+      [ 908 ]  Vosselência não tinha tempo ... para ler os anúncios ...
+      [ character:  SALASAR]
+      [ 909 ]  Isso sim ! ...
+      [ 910 ]  Também , quando a Providência se lembrou de me fazer aquele favor de me levar a minha santa mulher , que Deus haja ...
+      [ character:  DONA ISAURA]
+      [ 911 ]  Por muitos anos e bons .
+      [ character:  SALASAR]
+      [ 912 ]  Muito obrigado ...
+      [ 913 ]  A primeira coisa que fiz foi passar a loja .
+      [ 914 ]  Enviuvei da minha mulher e divorciei-me da louça esmaltada .
+      [ 915 ]  Foi um sossego .
+      [ 916 ]  Nos primeiros tempos parecia um rapazinho de quinze anos .
+      [ 917 ]  Até aprendi a fumar , que minha mulher nem o cigarro me consentia ...
+      [ character:  DONA ISAURA]
+      [ 918 ]  Parece impossível !
+      [ character:  SALASAR]
+      [ 919 ]  Agora já fumo , já saio sozinho , já vou tarde para casa .
+      [ 920 ]  Noutro dia estive para jogar à pancada .
+      [ 921 ]  Não joguei com medo de ser preso .
+      [ character:  DONA ISAURA]
+      [ 922 ]  Está um extravagante , em suma ...
+      [ character:  SALASAR]
+      [ 923 ]  Pois estou ...
+      [ 924 ]  No entanto , há um tempo a esta parte , comecei a sentir que me faltava uma coisa .
+      [ character:  DONA ISAURA]
+      [ 925 ]  Uma coisa ...
+      [ character:  SALASAR]
+      [ 926 ]  Sim ...
+      [ 927 ]  Uma mulher .
+      [ 928 ]  É bem certo que as mulheres onde não estão , faltam ; onde estão , sobejam ...
+      [ 929 ]  Quando vivia a minha , não a podia aturar ; agora que a não tenho ...
+      [ character:  DONA ISAURA]
+      [ 930 ]  Gostava de a ter .
+      [ character:  SALASAR]
+      [ 931 ]  Não .
+      [ 932 ]  Gostava de ter outra ...
+      [ character:  DONA ISAURA]
+      [ 933 ]  Ora !
+      [ 934 ]  O que para aí falta são mulheres ...
+      [ character:  SALASAR]
+      [ 935 ]  Bem sei .
+      [ 936 ]  Tenho visto que há bastantes .
+      [ 937 ]  Mas compreende Vosselência que um homem da minha idade já não é para aventuras .
+      [ 938 ]  Sinto a necessidade de uma mulher que me ature , que me trate bem , uma senhora que , enfim ... como o outro que diz ... não desfazendo ... me retenha sem me prender .
+      [ 939 ]  Não sei se me faço compreender ...
+      [ character:  DONA ISAURA]
+      [ 940 ]  Muito bem ...
+      [ character:  SALASAR]
+      [ 941 ]  A pessoa a quem eu me ligasse não lhe havia de faltar nada .
+      [ 941 ]  ( Brincando com a cadeia do relógio )
+      [ 942 ]  Graças a Deus , a louça estanhada dá bem para o sustento de uma mulher .
+      [ character:  DONA ISAURA]
+      [ 943 ]  Acredito .
+      [ character:  SALASAR]
+      [ 944 ]  O tudo está em encontrar uma mulher que se me afeiçoe .
+      [ 945 ]  Já não sou novo .
+      [ character:  DONA ISAURA]
+      [ 945 ]  ( Com um suspiro ) ―
+      [ 946 ]  Hoje em dia é tão difícil encontrar quem seja afeiçoado ...
+      [ 947 ]  No meu tempo ... não há muito tempo ... ainda havia dedicações .
+      [ 948 ]  Eu , por exemplo ...
+      [ 949 ]  O meu marido ...
+      [ character:  SALASAR]
+      [ 949 ]  ( Levantando-se ) ―
+      [ 950 ]  Vosselência é casada ?
+      [ character:  DONA ISAURA]
+      [ 951 ]  Sou viúva ...
+      [ character:  SALASAR]
+      [ 951 ]  ( Sentando-se ) ―
+      [ 952 ]  Ah !
+      [ character:  DONA ISAURA]
+      [ 953 ]  Meu marido era oficial de cavalaria .
+      [ 954 ]  Chamava-se Vitorino .
+      [ character:  SALASAR]
+      [ 955 ]  Não conheci .
+      [ 956 ]  Eu , fora de ferragens , dava-me com pouca gente .
+      [ 957 ]  Então para militares , nunca tive queda ...
+      [ character:  DONA ISAURA]
+      [ 958 ]  Era de lanceiros .
+      [ character:  SALASAR]
+      [ 959 ]  Lanceiros , sim senhora .
+      [ 960 ]  É um bonito emprego .
+      [ character:  DONA ISAURA]
+      [ 961 ]  Fomos sempre muito amigos .
+      [ 962 ]  Eu não sabia o que havia de fazer para o apaparicar .
+      [ 963 ]  Pois , um belo dia , acabou-se .
+      [ 964 ]  Morreu na flor da idade .
+      [ character:  SALASAR]
+      [ 965 ]  Era de pouca duração .
+      [ character:  DONA ISAURA]
+      [ 966 ]  Fiquei para aqui abandonada ...
+      [ 967 ]  A minha família são os hóspedes ...
+      [ character:  SALASAR]
+      [ 968 ]  Ah !
+      [ 969 ]  Vosselência tem casa de hóspedes ? ...
+      [ character:  DONA ISAURA]
+      [ 970 ]  Podia estar muito bem .
+      [ 971 ]  Não me tem faltado quem me arraste a asa ; ... mas o meu ideal era encontrar uma pessoa de certo tino , com conhecimento do mundo a quem eu me ligasse , não digo já pelo casamento ...
+      [ 971 ]  ( Outro tom )
+      [ 972 ]  Meu marido pediu-me muito que não tornasse a casar e não queria dar-lhe esse desgosto ...
+      [ character:  SALASAR]
+      [ 973 ]  Vejo que vosselência é pessoa de sentimentos .
+      [ character:  DONA ISAURA]
+      [ 974 ]  Sempre os tive , senhor Salasar .
+      [ 975 ]  Se os não tivesse , podia andar hoje de trem e com chapéus de quatro mil réis e mais , que não me tem faltado ocasião para isso .
+      [ 975 ]  ( Com segunda intenção )
+      [ 976 ]  E escusava de pôr anúncio .
+      [ character:  SALASAR]
+      [ 977 ]  É verdade !
+      [ 978 ]  Já me esquecia .
+      [ 979 ]  Então a sua amiga não aparece ?
+      [ character:  DONA ISAURA]
+      [ 980 ]  Olhe , meu caro Salasar .
+      [ 981 ]  Assim como assim , prefiro dizer-lhe tudo .
+      [ 982 ]  A minha amiga não lhe serve .
+      [ 983 ]  Se o senhor se ligasse a ela , no fim de três dias estava enganado ...
+      [ character:  SALASAR]
+      [ 984 ]  Safa !
+      [ 985 ]  Que pressa !
+      [ character:  DONA ISAURA]
+      [ 986 ]  Digo-lhe isto porque , assim que o vi entrar aquela porta , logo percebi quem o senhor era : um homem sério , decente , negociante estimado ...
+      [ character:  SALASAR]
+      [ 987 ]  Sempre fui ...
+      [ character:  DONA ISAURA]
+      [ 988 ]  Um homem com assento ...
+      [ character:  SALASAR]
+      [ 989 ]  Graças a Deus , não é o que me falta .
+      [ character:  DONA ISAURA]
+      [ 990 ]  Enfim , o senhor é um cavalheiro respeitável .
+      [ character:  SALASAR]
+      [ 991 ]  Realmente era esquisito que me faltassem ao respeito logo no fim de três dias ...
+      [ 992 ]  Mas o que tem a sua amiga ?
+      [ 993 ]  Aquilo é doença ?
+      [ character:  DONA ISAURA]
+      [ 994 ]  Ama outro .
+      [ character:  SALASAR]
+      [ 995 ]  Parece impossível ! ...
+      [ 996 ]  A verdade é que ela nunca me viu mais magro ...
+      [ character:  DONA ISAURA]
+      [ 997 ]  É como lhe digo .
+      [ 998 ]  Vivia com um rapaz , com o valete de ouros ...
+      [ character:  SALASAR]
+      [ 999 ]  O valete de ouros ?
+      [ character:  DONA ISAURA]
+      [ 999 ]  ( Rindo ) ―
+      [ 1000 ]  Isto é cá uma coisa .
+      [ 1000 ]  ( Continuando )
+      [ 1001 ]  Um rapaz chamado Alfredo , que a enganava e acabou por deixá-la .
+      [ 1002 ]  Desesperada , queria atirar-se da janela abaixo .
+      [ 1003 ]  Foi então que lhe dei de conselho que pusesse um anúncio .
+      [ character:  SALASAR]
+      [ 1004 ]  Muito me conta ...
+      [ character:  DONA ISAURA]
+      [ 1005 ]  Já vê o senhor que nunca podia ser feliz com ela .
+      [ character:  SALASAR]
+      [ 1006 ]  Estou vendo .
+      [ 1006 ]  ( À parte )
+      [ 1007 ]  E para isto subi eu cinquenta
+      [ 1008 ]  e quatro degraus .
+      [ 1008 ]  ( Alto )
+      [ 1009 ]  Ainda não é desta que eu arranjo uma sócia para me ajudar a comer a louça esmaltada ...
+      [ 1009 ]  ( Pausa ) .
+      [ character:  DONA ISAURA]
+      [ 1010 ]  O senhor Salasar a modos que ficou triste com a notícia que lhe dei ...
+      [ character:  SALASAR]
+      [ 1011 ]  Fiquei e não fiquei ...
+      [ 1012 ]  Tinha muita fé nesta coisa de anúncio .
+      [ 1013 ]  Às vezes arranjam-se umas pechinchas em segunda mão muito boas e em conta .
+      [ 1014 ]  Olhe : a semana passada um amigo meu comprou uma caixa de música das grandes por três mil e quinhentos , que até toca a Traviata e tem corda para doze peças .
+      [ 1015 ]  Também foi por anúncio .
+      [ character:  DONA ISAURA]
+      [ 1016 ]  Pois olhe : com esta caixa de música não tocava o senhor a Traviata muito tempo ou então quem dava a corda era o outro ...
+      [ character:  SALASAR]
+      [ 1017 ]  Não foi para isso que eu estive tantos anos ao balcão vender machas-fêmeas e frigideiras .
+      [ character:  DONA ISAURA]
+      [ 1018 ]  Se o senhor o permitisse , eu dava-lhe um conselho ...
+      [ character:  SALASAR]
+      [ 1019 ]  Dê à sua vontade .
+      [ 1020 ]  Não faça cerimônia .
+      [ character:  DONA ISAURA]
+      [ 1021 ]  O senhor do que precisa não é de uma rapariga nova ...
+      [ character:  SALASAR]
+      [ 1022 ]  O que eu preciso sei já ...
+      [ character:  DONA ISAURA]
+      [ 1023 ]  O que lhe convém é uma mulher de ...
+      [ 1024 ]  Que idade imagina o senhor que eu tenho ?
+      [ character:  SALASAR]
+      [ 1025 ]  Não sei bem .
+      [ 1026 ]  Eu nisto de idades não sou muito previsto ...
+      [ character:  DONA ISAURA]
+      [ 1027 ]  Vamos , diga .
+      [ 1028 ]  Trinta anos ?
+      [ 1028 ]  ( Hesitação de Salasar ) .
+      [ 1029 ]  Trinta anos e um ?
+      [ 1030 ]  Trinta e dois ?
+      [ 1031 ]  Trinta e cinco ?
+      [ character:  SALASAR]
+      [ 1031 ]  ( Condescendente ) ―
+      [ 1032 ]  Pois sim .
+      [ 1033 ]  Trinta e cinco ...
+      [ character:  DONA ISAURA]
+      [ 1034 ]  Tem graça que acertou ...
+      [ 1035 ]  O senhor precisava de uma mulher de trinta e cinco anos , que não fosse o que se chama de uma mulher nova , nova ...
+      [ character:  SALASAR]
+      [ 1036 ]  Pois sim ; mas que também não tivesse servido muito ...
+      [ character:  DONA ISAURA]
+      [ 1037 ]  Justamente .
+      [ 1038 ]  Por exemplo : uma viúva de um só marido ...
+      [ character:  SALASAR]
+      [ 1039 ]  Isso ...
+      [ character:  DONA ISAURA]
+      [ 1040 ]  Senhora amorável , pacata , conhecedora da ternura que um homem necessita , saudável , que soubesse dos arranjos de uma casa , capaz de tratar de uma doença ...
+      [ character:  SALASAR]
+      [ 1041 ]  Longe vá o agouro .
+      [ character:  DONA ISAURA]
+      [ 1042 ]  Que lhe tivesse todos os dias a sua poltrona preparada ...
+      [ 1042 ]  ( Indica-lhe uma das poltronas ) .
+      [ 1043 ]  Não se quer sentar ali ?
+      [ 1044 ]  Talvez esteja melhor que nessa cadeira ...
+      [ 1045 ]  Que soubesse ter umas certas atenções , uns certos resguardos ...
+      [ 1046 ]  Não sente frio nas costas , com a janela aberta ? ...
+      [ 1047 ]  Eu fecho .
+      [ 1047 ]  ( Levanta-se ) .
+      [ character:  SALASAR]
+      [ 1048 ]  Não se incomode , Dona Isaura .
+      [ 1049 ]  DONA ISAURA
+      [ 1050 ]  Não me custa nada .
+      [ 1050 ]  ( Vai fechar a janela .
+      [ 1050 ]  Descendo ) .
+      [ 1051 ]  O senhor Salasar é guloso ?
+      [ character:  SALASAR]
+      [ 1052 ]  Não ando a comer rebuçados pela rua .
+      [ 1053 ]  No entanto ...
+      [ character:  DONA ISAURA]
+      [ 1054 ]  E gosta de petisquinhos ?
+      [ 1055 ]  Alimenta-se bem ? ...
+      [ character:  SALASAR]
+      [ 1056 ]  Graças a Deus , a comida serve-me de proveito ...
+      [ character:  DONA ISAURA]
+      [ 1057 ]  O meu falecido marido ...
+      [ character:  SALASAR]
+      [ 1058 ]  Aquele senhor militar que era de lanceiros ...
+      [ character:  DONA ISAURA]
+      [ 1059 ]  Justamente ...
+      [ 1060 ]  Era muito exigente em pratos de meio .
+      [ 1061 ]  Também , para lhe ser agradável , passava as tardes na cozinha ...
+      [ 1062 ]  Não é por me gabar ; mas , mão para temperos : esta .
+      [ 1062 ]  ( Indica a direita ) .
+      [ 1063 ]  E doces ?
+      [ character:  SALASAR]
+      [ 1063 ]  ( Interessado ) ―
+      [ 1064 ]  A Dona Isaura sabe fazer fatias douradas ?
+      [ character:  DONA ISAURA]
+      [ 1065 ]  E bolo podre ...
+      [ 1066 ]  E ovos em fio ...
+      [ 1067 ]  Para tudo tenho jeito ...
+      [ character:  SALASAR]
+      [ 1068 ]  Vejo que é uma senhora muito prendada ...
+      [ character:  DONA ISAURA]
+      [ 1069 ]  Muito agradecida .
+      [ 1069 ]  ( Suspirando ) .
+      [ 1070 ]  Pois é verdade ...
+      [ 1071 ]  De que o senhor precisava era de uma mulher que reunisse todas essas qualidades ...
+      [ character:  SALASAR]
+      [ 1072 ]  Pois sim ...
+      [ 1073 ]  Mas onde está ela ?
+      [ 1074 ]  DONA ISAURA
+      [ 1074 ]  ( D’olhos baixos ) ―
+      [ 1075 ]  Ora !
+      [ 1076 ]  Onde há de ela estar ? ...
+      [ 1077 ]  CENA III
+      [ 1077 ]  Os mesmos , mais Albertina
+      [ character:  ALBERTINA]
+      [ 1078 ]  Ó Dona Isaura !
+      [ 1079 ]  O homenzinho já se foi embora ?
+      [ 1079 ]  ( Ao ver Salasar fica confusa )
+      [ character:  DONA ISAURA]
+      [ 1079 ]  ( À parte ) ―
+      [ 1080 ]  Logo ela havia de entrar quando isto ia tão bem ! ...
+      [ character:  SALASAR]
+      [ 1080 ]  ( A Dona Isaura ) ―
+      [ 1081 ]  Esta senhora é que é ? ...
+      [ character:  DONA ISAURA]
+      [ 1081 ]  ( Furiosa ) ―
+      [ 1082 ]  É , é .
+      [ character:  SALASAR]
+      [ 1083 ]  Ah !
+      [ 1083 ]  ( A Albertina )
+      [ 1084 ]  Minha senhora !
+      [ 1084 ]  ( À parte )
+      [ 1085 ]  Sim , senhor .
+      [ 1086 ]  É uma caçarola , tipo 3 , dezessete marcos a dúzia , de se lhe tirar o chapéu .
+      [ character:  ALBERTINA]
+      [ 1086 ]  ( Cumprimentando ) ―
+      [ 1087 ]  Cavalheiro ...
+      [ character:  SALASAR]
+      [ 1087 ]  ( Aproximando-se ) ―
+      [ 1088 ]  Vossa excelência é que ... ?
+      [ character:  ALBERTINA]
+      [ 1089 ]  Como ?
+      [ character:  SALASAR]
+      [ 1090 ]  Dizia eu se vossa excelência é que ...
+      [ 1090 ]  ( Puxa uma carta do bolso ) .
+      [ character:  DONA ISAURA]
+      [ 1091 ]  Foi essa senhora , foi ...
+      [ 1092 ]  Já tive ocasião de explicar ao cavalheiro ...
+      [ character:  SALASAR]
+      [ 1093 ]  Sim ...
+      [ 1094 ]  Sim ...
+      [ 1094 ]  ( A Albertina )
+      [ 1095 ]  A amiga de Vossa Excelência já me explicou tudo .
+      [ 1096 ]  Vossa Excelência teve um desgosto por causa de um valete de copas ...
+      [ character:  DONA ISAURA]
+      [ 1097 ]  De copas ?
+      [ 1098 ]  De ouros ...
+      [ character:  SALASAR]
+      [ 1099 ]  É isso .
+      [ 1100 ]  De ouros ...
+      [ 1101 ]  Pois creia Vossa Excelência que sinto muito por um lado ...
+      [ 1101 ]  ( Tocam a campainha ) .
+      [ character:  DONA ISAURA]
+      [ 1102 ]  Quem será ?
+      [ 1102 ]  ( Alto )
+      [ 1103 ]  Quem é ?
+      [ character:  VOZ DE ALFREDO]
+      [ 1103 ]  ( Fora ) ―
+      [ 1104 ]  Um seu criado .
+      [ character:  ALBERTINA]
+      [ 1104 ]  ( Subitamente alegre ) ―
+      [ 1105 ]  É o meu Alfredo !
+      [ 1105 ]  ( Sobe à porta )
+      [ 1106 ]  Ó Jacinta , abra .
+      [ character:  SALASAR]
+      [ 1107 ]  Mau !
+      [ 1108 ]  Por este valete é que eu não esperava ...
+      [ 1108 ]  ( A Dona Isaura )
+      [ 1109 ]  Talvez seja melhor retirar-me .
+      [ 1110 ]  Não acha ?
+      [ character:  DONA ISAURA]
+      [ 1111 ]  Se Vossa Excelência quer , passa aqui para a casa de jantar .
+      [ character:  SALASAR]
+      [ 1112 ]  Ou mesmo para a cozinha .
+      [ 1113 ]  Não faça cerimônia .
+      [ 1113 ]  ( Saem os dois por um lado .
+      [ 1113 ]  Ao mesmo tempo Albertina , que tem saído um momento , reaparece seguida de Alfredo ) .
+      [ 1114 ]  CENA IV
+      [ 1114 ]  Albertina e Alfredo
+      [ character:  ALFREDO]
+      [ 1114 ]  ( Para apalpar terreno ) ―
+      [ 1115 ]  Boas tardes , carocho .
+      [ character:  ALBERTINA]
+      [ 1115 ]  ( Empertigada ) ―
+      [ 1116 ]  Como ? ...
+      [ character:  ALFREDO]
+      [ 1116 ]  ( Servil ) ―
+      [ 1117 ]  Boas tardes , carocho .
+      [ character:  ALBERTINA]
+      [ 1117 ]  ( Furiosa ) ―
+      [ 1118 ]  Vá lá chamar carocho a essa atrevida com quem tem andado metido ...
+      [ character:  ALFREDO]
+      [ 1119 ]  Quem ?
+      [ 1120 ]  Eu ?
+      [ character:  ALBERTINA]
+      [ 1121 ]  Sim .
+      [ 1122 ]  Você mesmo .
+      [ character:  AFREDO]
+      [ 1123 ]  É falso , Albertina .
+      [ 1124 ]  Juro-te que é falso .
+      [ 1125 ]  Desde que nos zangamos , tenho andado a ver se conseguia esquecer-te .
+      [ 1126 ]  Não me foi possível .
+      [ 1127 ]  Quando me queria lembrar de te esquecer , esquecia-me de me lembrar e , quanto mais me lembravas , menos te esquecia ...
+      [ character:  ALBERTINA]
+      [ 1128 ]  É mentira .
+      [ 1129 ]  Você tem andado com a outra .
+      [ character:  ALFREDO]
+      [ 1130 ]  Quem te disse ?
+      [ 1131 ]  Foi a engomadeira ?
+      [ character:  ALBERTINA]
+      [ 1132 ]  Foi a espadilha ...
+      [ character:  ALFREDO]
+      [ 1133 ]  Não conheço essa senhora .
+      [ character:  ALBERTINA]
+      [ 1134 ]  Sim senhor .
+      [ 1135 ]  Ainda ontem andavas tu “ rua fora ” “ com os cinco sentidos ” e “ alegria ” , que é o cinco de copas , com uma mulher encarnada e sempre “ com poucos dinheiros ” ...
+      [ character:  ALFREDO]
+      [ 1136 ]  Ó filha !
+      [ 1137 ]  Macacos me mordam , se percebo alguma coisa do que estás para aí a dizer ...
+      [ character:  ALBERTINA]
+      [ 1138 ]  E , de resto , não tenho nada com isso .
+      [ 1139 ]  Não vens cá há cinco dias ?
+      [ 1140 ]  Tens andado por onde muito bem quiseste , com quem muito bem te apeteceu ?
+      [ 1141 ]  Eu tratei da minha vida .
+      [ character:  ALFREDO]
+      [ 1142 ]  O quê ?
+      [ character:  ALBERTINA]
+      [ 1143 ]  É isto mesmo .
+      [ 1144 ]  Tenho outro homem .
+      [ character:  ALFREDO]
+      [ 1145 ]  Que me dizes tu ?
+      [ character:  ALBERTINA]
+      [ 1146 ]  Deixaste-me , não é assim ?
+      [ 1147 ]  Pois pus um anúncio ...
+      [ character:  ALFREDO]
+      [ 1148 ]  Um anúncio ?
+      [ character:  ALBERTINA]
+      [ 1149 ]  Sim .
+      [ 1150 ]  As paixões acabaram-se para mim .
+      [ 1151 ]  O amor é muito bonito , mas não faz bom cabelo .
+      [ 1152 ]  Agora procuro as minhas conveniências .
+      [ character:  ALFREDO]
+      [ 1153 ]  Ó carocho !
+      [ 1154 ]  Pois tu dizes-me uma cousa dessas ? ...
+      [ character:  ALBERTINA]
+      [ 1155 ]  Pois se é verdade .
+      [ 1156 ]  Pus um anúncio pedindo auxílio de cavalheiro respeitável .
+      [ 1157 ]  Oito linhas a pataco , dezesseis vinténs .
+      [ 1158 ]  Por dezesseis vinténs arranjei um homem que me estima .
+      [ 1159 ]  Viva !
+      [ 1160 ]  Passasse muito bem !
+      [ 1161 ]  Agora podes voltar para a corista , que a mim não me faz mossa .
+      [ character:  ALFREDO]
+      [ 1162 ]  Ó Albertina , estás a mangar comigo .
+      [ 1163 ]  Compreendo tudo .
+      [ 1164 ]  Tu o que queres é arreliar-me e inventaste essa história do anúncio .
+      [ 1165 ]  Acredito lá nisso ...
+      [ character:  ALBERTINA]
+      [ 1166 ]  Ah !
+      [ 1167 ]  Não acreditas que arranjei um sujeito respeitável ?
+      [ character:  ALFREDO]
+      [ 1167 ]  ( Rindo ) ―
+      [ 1168 ]  Por dezesseis vinténs ?
+      [ 1169 ]  Não , não acredito .
+      [ character:  ALBERTINA]
+      [ 1170 ]  E se eu to mostrasse ?
+      [ character:  ALFREDO]
+      [ 1170 ]  ( Tranquilo ) ―
+      [ 1171 ]  Pode lá ser .
+      [ character:  ALBERTINA]
+      [ 1172 ]  Quando entraste , estava ele aqui ...
+      [ character:  ALFREDO]
+      [ 1172 ]  ( Já perturbado ) ―
+      [ 1173 ]  Tu não me faças perder a cabeça .
+      [ character:  ALBERTINA]
+      [ 1173 ]  ( Indo à porta por onde saiu Salasar ) ―
+      [ 1174 ]  E olha : ainda cá está .
+      [ 1175 ]  Calha bem .
+      [ character:  ALFREDO]
+      [ 1175 ]  ( Subitamente furioso ) ―
+      [ 1176 ]  Eu dou cabo desse maroto .
+      [ character:  ALBERTINA]
+      [ 1177 ]  Vou-to apresentar .
+      [ 1177 ]  ( Para dentro )
+      [ 1178 ]  Ó cavalheiro !
+      [ 1179 ]  Faz obséquio ?
+      [ 1180 ]  Chega aqui ...
+      [ 1181 ]  CENA V
+      [ 1181 ]  Os mesmos , mais Salasar e Dona Isaura
+      [ character:  SALASAR]
+      [ 1181 ]  ( Entrando com um guardanapo ao pescoço e uma fatia de pão com marmelada na mão ) ―
+      [ 1182 ]  Vosselência é servida ?
+      [ 1182 ]  ( Reparando em Alfredo )
+      [ 1183 ]  Cavalheiro !
+      [ 1183 ]  ( A Dona Isaura )
+      [ 1184 ]  O valete de copas está com cara de rei de paus .
+      [ character:  ALFREDO]
+      [ 1184 ]  ( Adiantando-se ) ―
+      [ 1185 ]  Com que então o meu amigo é que é ...
+      [ character:  SALASAR]
+      [ 1185 ]  ( Desconfiado ) ―
+      [ 1186 ]  Sou o quê ?
+      [ character:  AFREDO]
+      [ 1187 ]  O tal !
+      [ character:  SALASAR]
+      [ 1188 ]  O tal ?
+      [ 1189 ]  Não percebo .
+      [ character:  ALFREDO]
+      [ 1190 ]  O tal cavalheiro respeitável de pataco a linha ...
+      [ character:  SALASAR]
+      [ 1191 ]  De pataco a linha ?
+      [ 1191 ]  ( A Dona Isaura )
+      [ 1192 ]  Este rapaz tem qualquer corrente d’ar nos miolos .
+      [ 1192 ]  ( Retira-se um pouco ) .
+      [ character:  DONA ISAURA]
+      [ 1193 ]  Ó senhor Alfredo !
+      [ 1194 ]  Veja lá como fala !
+      [ 1195 ]  Este senhor é uma pessoa de respeito ...
+      [ character:  ALFREDO]
+      [ 1196 ]  Quem ele é sei eu .
+      [ 1197 ]  Agora compreendo tudo .
+      [ 1198 ]  Isto foi uma intriga preparada por aquela senhora , ( indica Albertina ) com a ajuda da abelha mestra cá do cortiço .
+      [ character:  DONA ISAURA]
+      [ 1199 ]  Abelha mestra do cortiço ? ! Isso é comigo ?
+      [ character:  ALFREDO]
+      [ 1200 ]  Não ... Havia de ser com o papa ...
+      [ 1201 ]  E imaginava então o senhor ( a Salasar ) que eu comia aquela história da engomadeira ?
+      [ character:  SALASAR]
+      [ 1202 ]  Da engomadeira ?
+      [ 1203 ]  Eu sei lá quem é a engomadeira .
+      [ 1203 ]  ( À parte )
+      [ 1204 ]  Quem me mandaria a mim andar a ler os anúncios dos jornais .
+      [ character:  ALFREDO]
+      [ 1205 ]  Sim , sim ...
+      [ 1206 ]  Faça-se de novas .
+      [ 1207 ]  A coisa é muito simples .
+      [ 1208 ]  O cavalheiro andava a desinquietar-me a Albertina ...
+      [ character:  SALASAR]
+      [ 1209 ]  Quem é a Albertina ?
+      [ character:  ALFREDO]
+      [ 1209 ]  ( Ameaçador ) ―
+      [ 1210 ]  O senhor está a chuchar comigo ? ...
+      [ character:  SALASAR]
+      [ 1210 ]  ( Medroso ) ―
+      [ 1211 ]  Longe de mim tal ideia ; mas palavra d’honra que nem conheço a engomadeira , nem sei quem é essa tal Albertina .
+      [ character:  ALBERTINA]
+      [ 1212 ]  Sou eu ...
+      [ 1212 ]  SALASAR
+      [ 1213 ]  Ah !
+      [ 1214 ]  Muito gosto em conhecê-la ...
+      [ 1215 ]  E , se me dão licença , ( tira o guardanapo e mete-o no bolso ) eu retiro-me .
+      [ 1215 ]  ( Vai buscar o chapéu ) .
+      [ character:  ALFREDO]
+      [ 1215 ]  ( Atravessando-se ) ―
+      [ 1216 ]  Alto lá .
+      [ 1217 ]  A coisa não fica assim .
+      [ 1218 ]  Sente-se .
+      [ character:  SALASAR]
+      [ 1219 ]  De acordo ; mas o melhor é o senhor discutir com estas senhoras porque eu sou visita e percebo que estou aqui demais ...
+      [ character:  DONA ISAURA]
+      [ 1220 ]  Ó senhor Salasar , não diga isso ...
+      [ 1220 ]  ( Baixo ) .
+      [ 1221 ]  Deixe-se estar , que , se houver novidade , eu apito ...
+      [ character:  ALFREDO]
+      [ 1222 ]  Como ia dizendo , o senhor andava a desinquietar a pequena de cumplicidade com aquela senhora .
+      [ 1222 ]  ( Indica Isaura )
+      [ 1223 ]  Arranjaram a tal intriga da senhora Rosa ...
+      [ character:  SALASAR]
+      [ 1223 ]  ( Muito delicadamente ) ―
+      [ 1224 ]  Vosselência explica-me quem e a senhora Dona Rosa ...
+      [ character:  ALFREDO]
+      [ 1225 ]  Faça-se de novas !
+      [ 1226 ]  É a engomadeira .
+      [ character:  SALASAR]
+      [ 1227 ]  E ele a dar-lhe com a engomadeira !
+      [ 1228 ]  Mas que mania !
+      [ character:  ALFREDO]
+      [ 1229 ]  ... Para eu me aborrecer e me ausentar uns dias .
+      [ 1230 ]  Agora volto de repente e esta menina lembra-se então da tal brincadeira do anúncio .
+      [ character:  SALASAR]
+      [ 1230 ]  ( A Dona Isaura ) ―
+      [ 1231 ]  Isto agora é mais sério .
+      [ 1232 ]  O homem sabe do anúncio .
+      [ character:  DONA ISAURA]
+      [ 1232 ]  ( A Alfredo ) ―
+      [ 1233 ]  Quem foi que lhe contou do anúncio ?
+      [ character:  ALBERTINA]
+      [ 1233 ]  ( Cabisbaixa ) ―
+      [ 1234 ]  Fui eu .
+      [ character:  ALFREDO]
+      [ 1235 ]  E assim está tudo explicado ...
+      [ character:  SALASAR]
+      [ 1236 ]  Nesse caso , visto estar tudo explicado , retiro-me .
+      [ 1236 ]  ( Vai a levantar-se ) .
+      [ character:  ALFREDO]
+      [ 1236 ]  ( Irônico ) ―
+      [ 1237 ]  Ainda não .
+      [ 1238 ]  Agora falta ajustar as contas .
+      [ 1239 ]  Com o senhor é que eu me entendo .
+      [ 1240 ]  O cavalheiro vem comigo ...
+      [ character:  SALASAR]
+      [ 1241 ]  Aonde ?
+      [ character:  ALFREDO]
+      [ 1242 ]  À rua .
+      [ character:  SALASAR]
+      [ 1243 ]  Sei muito bem ir sozinho .
+      [ 1244 ]  Não sou nenhum cãozinho de estimação .
+      [ 1244 ]  ( À parte )
+      [ 1245 ]  Ora a minha vida !
+      [ 1245 ]  ( Limpa o suor ao guardanapo .
+      [ 1245 ]  Sentindo a cara pegajosa ) .
+      [ 1246 ]  Que é isto ?
+      [ 1247 ]  Ah !
+      [ 1248 ]  É da marmelada .
+      [ character:  ALFREDO]
+      [ 1249 ]  Na rua nos entenderemos .
+      [ 1250 ]  Há de levar duas bofetadas ...
+      [ character:  SALASAR]
+      [ 1251 ]  Agradeço como se aceitasse ; mas há de me dar licença ...
+      [ character:  ALFREDO]
+      [ 1251 ]  ( Dando-lhe a direita ) ―
+      [ 1252 ]  Saia lá adiante de mim ...
+      [ character:  SALASAR]
+      [ 1252 ]  ( Esquivando-se ) ―
+      [ 1253 ]  Por quem é ...
+      [ 1254 ]  Não senhor .
+      [ 1255 ]  Queira ter a bondade de passar .
+      [ character:  ALBERTINA]
+      [ 1256 ]  Valha-me Nossa Senhora !
+      [ character:  DONA ISAURA]
+      [ 1257 ]  Alto !
+      [ 1257 ]  ( A Albertina )
+      [ 1258 ]  Tive uma ideia ...
+      [ 1258 ]  ( A Alfredo )
+      [ 1259 ]  Ó senhor Alfredo !
+      [ 1260 ]  Aqui há um equívoco ...
+      [ character:  SALASAR]
+      [ 1260 ]  ( Descendo ) ―
+      [ 1261 ]  Pois há ...
+      [ 1262 ]  Diz muito bem , Dona Isaura ...
+      [ character:  DONA ISAURA]
+      [ 1263 ]  Eu vou explicar tudo .
+      [ character:  SALASAR]
+      [ 1264 ]  Muito bem .
+      [ 1264 ]  ( A Albertina )
+      [ 1265 ]  Vamos a ver se consigo perceber alguma coisa .
+      [ character:  DONA ISAURA]
+      [ 1266 ]  Efetivelmente há três dias pôs-se desta casa um anúncio de uma senhora ainda nova , que pedia auxílio de cavalheiro respeitável .
+      [ 1267 ]  Está aqui .
+      [ 1267 ]  ( Pega no jornal e indica ) .
+      [ character:  ALFREDO]
+      [ 1267 ]  ( Lendo ) ―
+      [ 1268 ]  Que pouca vergonha !
+      [ 1268 ]  ( Amarrota o jornal ) .
+      [ character:  SALASAR]
+      [ 1268 ]  ( À parte ) ―
+      [ 1269 ]  Pouca vergonha , digo eu .
+      [ character:  DONA ISAURA]
+      [ 1270 ]  Aquele cavalheiro respondeu ao anúncio e marcou-se-lhe uma entrevista .
+      [ character:  ALFREDO]
+      [ 1270 ]  ( Pegando num vaso de begônias , que está livre sobre um console ) ―
+      [ 1271 ]  Por isso lhe vou partir a cara .
+      [ character:  SALASAR]
+      [ 1271 ]  ( Fugindo ) ―
+      [ 1272 ]  É a isto que ela chama explicar tudo .
+      [ character:  DONA ISAURA]
+      [ 1272 ]  ( Atravessando-se ) ―
+      [ 1273 ]  Suspenda , senhor Alfredo ...
+      [ character:  SALASAR]
+      [ 1274 ]  Num homem não se bate nem com uma flor .
+      [ character:  DONA ISAURA]
+      [ 1275 ]  Ora quem pôs o anúncio não foi a Albertina .
+      [ character:  ALFREDO]
+      [ 1276 ]  Então quem foi ?
+      [ character:  SALASAR]
+      [ 1277 ]  Se querem , digam que fui eu ; mas deixem-me sair .
+      [ character:  DONA ISAURA]
+      [ 1278 ]  Fui eu .
+      [ character:  ALBERTINA]
+      [ 1279 ]  É verdade .
+      [ 1280 ]  Foi ela .
+      [ character:  DONA ISAURA]
+      [ 1281 ]  Quem recebeu este senhor fui eu ...
+      [ 1282 ]  Foi entre nós que se combinou tudo .
+      [ 1283 ]  Pela minha parte não tenho dúvida nenhuma em unir o meu destino ao dele e para começar , quando o senhor entrou , estava a dar-lhe de provar da minha marmelada .
+      [ 1283 ]  ( A Salasar )
+      [ 1284 ]  Não é verdade ?
+      [ character:  SALASAR]
+      [ 1285 ]  Exatamente .
+      [ 1285 ]  ( À parte )
+      [ 1286 ]  Se digo que não , o valete de copas dá-me com a begônia nas ventas .
+      [ character:  DONA ISAURA]
+      [ 1287 ]  Já vê o senhor Alfredo que não tinha razão absolutissimamente nenhuma para se exalterar dessa maneira .
+      [ 1288 ]  Não é verdade , ó Salasar ?
+      [ character:  SALASAR]
+      [ 1289 ]  É , sim , filha .
+      [ 1289 ]  ( Baixo )
+      [ 1290 ]  Livrei-me de boa .
+      [ character:  ALFREDO]
+      [ 1290 ]  ( A Albertina ) ―
+      [ 1291 ]  Mas porque foi então que me disseste que este senhor ...
+      [ character:  ALBERTINA]
+      [ 1292 ]  Foi para te castigar , para te fazer ferro , ingratatão .
+      [ character:  ALFREDO]
+      [ 1293 ]  Carocho !
+      [ 1293 ]  ( Abraçam-se e beijam-se .
+      [ 1293 ]  Sobem à janela ) .
+      [ character:  DONA ISAURA]
+      [ 1293 ]  ( A Salasar ) ―
+      [ 1294 ]  Salvei-lhe a vida !
+      [ 1295 ]  Vê ?
+      [ 1296 ]  Quer que eu lhe diga onde está a mulher que lhe convêm ? ...
+      [ character:  SALASAR]
+      [ 1296 ]  ( Enternecido ) ―
+      [ 1297 ]  És tu .
+      [ 1297 ]  ( Abraça-a )
+      [ 1298 ]  Amanhã hei de trazer para cá uns chinelos .
+      [ closing:  PANO] 
+      
+[ prologue ] 
+      [ title:  O primo Isidóro ]
+      [ title:  Sainete em um ato]
+      [ 1298 ]  Representado pela primeira vez no teatro do Ginásio , de Lisboa , em 7 de Abril de 1915[ end prologue ] 
+      
+      [ title:  Personagens ]
+      [ 1299 ]  Isidóro J . Nunes , Sucessores ............................................................ Alegrim Dona Belarmina .................................................................................... Maria Matos A inevitável vizinha .......................................................................... Bérta Albuquerque A criada ............................................................................................ Bemvinda O caixeiro do defunto ........................................................................ Palma O caixeiro viajante ............................................................................ Almada O homem da agência funerária ......................................................... José d’Almeida O papagaio .........................................................................................*** O canário ............................................................................................***
+      [ 1299 ]  Lisboa – Atualidade
+      [ play ]
+      [ title:  O primo Isidóro ]
+      [ title:  SAINETE EM UM ATO]
+      [ 1300 ]  Em casa de Nicolau V. Santos , recém-falecido .
+      [ 1301 ]  Uma casa de jantar .
+      [ 1302 ]  Duas portas ao fundo : uma , a da esquerda , dá para um corredor , a outra para a cozinha .
+      [ 1303 ]  Duas portas à direita .
+      [ 1304 ]  Uma janela de sacada à esquerda .
+      [ 1305 ]  Ao meio uma mesa e cadeiras .
+      [ 1306 ]  Um sofá de palha , um aparador , um guarda louça , etc .
+      [ 1307 ]  Candeeiro de suspensão .
+      [ 1308 ]  Na janela uma gaiola com um canário .
+      [ 1309 ]  Sobre o oleado da mesa , uma gaiola com um papagaio .
+      [ 1310 ]  Quadros na parede .
+      [ 1311 ]  Interior muito burguês .
+      [ 1312 ]  As janelas semi cerradas .
+      [ 1313 ]  CENA I
+      [ 1313 ]  O papagaio , o canário , depois a criada
+      [ character:  O PAPAGAIO]
+      [ 1314 ]  Ó Rosa ! ...
+      [ 1315 ]  Tirana ! ...
+      [ 1316 ]  Que é da tua tirania ?
+      [ 1317 ]  Tró la ró ... la ró ... la ró ...
+      [ character:  O CANÁRIO]
+      [ 1318 ]  Pi pi pi ... ri pi ... ri ... pi pi ...
+      [ character:  A CRIADA]
+      [ 1318 ]  ( Vindo do corredor , toda vestida de negro ) ―
+      [ 1319 ]  Malditos pássaros que não há maneira de se calarem ! ...
+      [ 1319 ]  ( Vai encostar mais a janela e dirigindo-se ao canário )
+      [ 1320 ]  Ora vamos ver se às escuras descansas a goela .
+      [ 1320 ]  ( Ao papagaio )
+      [ 1321 ]  E você ?
+      [ 1322 ]  Não tem vergonha de estar a cantar tendo morrido o patrão ?
+      [ character:  O PAPAGAIO]
+      [ 1323 ]  Tró la ró , la ró , la ró ...
+      [ character:  A CRIADA]
+      [ 1324 ]  Cala a boca , diabo , que o caixão ainda não saiu ...
+      [ character:  O PAPAGAIO]
+      [ 1325 ]  Ó Rosa ! ...
+      [ character:  A CRIADA]
+      [ 1326 ]  Ai sim ? !
+      [ 1327 ]  Pois vais para a varanda da cozinha que é para não te ouvirem .
+      [ 1327 ]  ( Pega no papagaio e sai para a cozinha )
+      [ 1328 ]  CENA II
+      [ 1328 ]  O caixeiro do defunto , o caixeiro viajante e depois a criada
+      [ character:  CAIXEIRO DO DEFUNTO]
+      [ 1328 ]  ( Entrando com o caixeiro viajante , ambos vestidos de luto ) .
+      [ 1329 ]  Entre para aqui , seu Eliseu .
+      [ 1330 ]  Eu já lhe arranjo um copo d’água .
+      [ character:  CAIXEIRO VIAJANTE]
+      [ 1330 ]  ( Avançando às apalpadelas ) ―
+      [ 1331 ]  Está escuro como o diabo .
+      [ 1332 ]  Não sei para que é esta mania de porem as casas às escuras .
+      [ 1333 ]  Se calhar , é para o defunto não ver a cara dos convidados ...
+      [ character:  CAIXEIRO DO DEFUNTO]
+      [ 1334 ]  Eu já abro a janela .
+      [ 1334 ]  ( Vai abri-la e volta à mesa )
+      [ 1335 ]  O jarro da água costuma estar por aqui .
+      [ 1335 ]  ( À criada que volta )
+      [ 1336 ]  Ó menina Joaquina , arranja aí um copinho d’água fresca , aqui para o amigo Eliseu ? ...
+      [ 1337 ]  Não tem cá da de Caneças , da que o patrão bebia ?
+      [ character:  A CRIADA]
+      [ 1338 ]  Não , não tenho .
+      [ 1339 ]  Acabou-se .
+      [ 1340 ]  Tem de ser do contador .
+      [ character:  O PAPAGAIO]
+      [ 1340 ]  ( Fora ) ―
+      [ 1341 ]  Ó Rosa ! ... Tirana ! ...
+      [ character:  A CRIADA]
+      [ 1342 ]  E aquele maldito que não se cala ! ...
+      [ 1343 ]  Desde que o senhor Santos fechou os olhos , não tem descansado ...
+      [ 1343 ]  ( Imita )
+      [ 1344 ]  Ó Rosa ! ...
+      [ 1345 ]  Tirana ! ...
+      [ 1345 ]  ( Sai para a cozinha ) .
+      [ character:  CAIXEIRO VIAJANTE]
+      [ 1346 ]  Pois , amigo Almeida , isto é que vai ser uma chumbadela !
+      [ 1347 ]  É para o alto de São João , não é ?
+      [ character:  CAIXEIRO DO DEFUNTO]
+      [ 1348 ]  É .
+      [ 1349 ]  Vai para jazigo ...
+      [ character:  A CRIADA]
+      [ 1349 ]  ( Voltando com o copo de água ) ―
+      [ 1350 ]  Pronto !
+      [ 1351 ]  Não está lá muito fresquinha ; mas enfim ...
+      [ character:  CAIXEIRO VIAJANTE]
+      [ 1352 ]  Muito obrigado .
+      [ 1352 ]  ( Bebe )
+      [ 1353 ]  Está bem boa .
+      [ character:  A CRIADA]
+      [ 1354 ]  Quem ?
+      [ 1355 ]  Eu ?
+      [ character:  CAIXEIRO VIAJANTE]
+      [ 1356 ]  A água ...
+      [ 1356 ]  ( Amável )
+      [ 1357 ]  E a menina Joaquina também .
+      [ character:  A CRIADA]
+      [ 1358 ]  Muito agradecida .
+      [ 1358 ]  ( Arruma a louça )
+      [ character:  CAIXEIRO VIAJANTE]
+      [ 1359 ]  Ora o seu Santos ! ...
+      [ 1360 ]  Deixou-se morrer assim ! ...
+      [ 1361 ]  E logo num mês que faz tanto transtorno , no mês do balanço ...
+      [ character:  CAIXEIRO DO DEFUNTO]
+      [ 1362 ]  Nem me fale nisso ...
+      [ 1363 ]  Então o amigo como tem passado ? ...
+      [ 1364 ]  Veio porque quis vir ou vem representar o seu casaca ?
+      [ character:  CAIXEIRO VIAJANTE]
+      [ 1365 ]  Venho pelo F. A. Brito & Ct.ª .
+      [ 1366 ]  Não vê o meu amigo que agora as viagens estão paradas .
+      [ 1367 ]  Cheguei de Alentejo há três dias e hoje o patrão disse-me : ―
+      [ 1368 ]  “ O Eliseu !
+      [ 1369 ]  Você , que não tem nada que fazer , porque é que não vai dar um passeio de trem ?
+      [ 1370 ]  Vá-se distrair um bocado .
+      [ 1371 ]  Olhe : vá ao enterro do Nicolau V. Santos ” .
+      [ 1372 ]  Foi assim que soube que o homenzinho tinha morrido .
+      [ 1373 ]  E de que morreu ele ?
+      [ character:  CAIXEIRO DO DEFUNTO]
+      [ 1374 ]  Coisas que tinha lá por dentro .
+      [ 1375 ]  Olhe se quer que lhe diga , não sei bem .
+      [ 1376 ]  Ó menina Joaquina .
+      [ 1377 ]  De que é que morreu o patrão ?
+      [ character:  A CRIADA]
+      [ 1378 ]  Morreu de doença , senhor Almeida ...
+      [ character:  CAIXEIRO VIAJANTE]
+      [ 1379 ]  Isso é mau ...
+      [ 1380 ]  Não há nada pior para a saúde do que uma pessoa estar doente .
+      [ 1381 ]  CENA III
+      [ 1381 ]  Os mesmos e o cangalheiro
+      [ character:  CANGALHEIRO]
+      [ 1381 ]  ( Entrando pelo fundo a enxugar a testa ) ―
+      [ 1382 ]  Meus senhores ...
+      [ character:  AMBOS]
+      [ 1382 ]  ( Cumprimentando friamente ) ―
+      [ 1383 ]  Cavalheiro ...
+      [ character:  CANGALHEIRO]
+      [ 1384 ]  Está hoje um dia muito quente ...
+      [ 1385 ]  Nem parece que estamos no inverno .
+      [ 1386 ]  Isto , quanto a mim , é trovoada .
+      [ character:  CAIXEIRO VIAJANTE]
+      [ 1387 ]  Se calhar .
+      [ 1388 ]  Pode muito bem ser .
+      [ character:  CANGALHEIRO]
+      [ 1389 ]  E , às vezes , pode não ser ...
+      [ 1390 ]  Isto , a maior parte das vezes , é conforme ...
+      [ 1390 ]  ( Um silêncio )
+      [ 1391 ]  Vossências são da família ?
+      [ character:  CAIXEIRO DO DEFUNTO]
+      [ 1392 ]  Não senhor .
+      [ 1393 ]  Eu era caixeiro de balcão do falecido ...
+      [ character:  CAIXEIRO VIAJANTE]
+      [ 1394 ]  E eu sou caixeiro viajante do F. A. Brito & Costa , botões e retroses ...
+      [ character:  CANGALHEIRO]
+      [ 1395 ]  Ah ! ...
+      [ 1396 ]  Uma maçadinha bem boa esta cousa do enterro ! ...
+      [ character:  CAIXEIRO DO DEFUNTO]
+      [ 1397 ]  Eu , com franqueza , se não fosse por ele ser o patrão e com medo que reparasse , não ia ...
+      [ 1398 ]  Embirro com enterros .
+      [ character:  CAIXEIRO VIAJANTE]
+      [ 1399 ]  Pois , olhe , amigo Almeida , comigo já se deu o caso de , numa semana , ter de ir a três ...
+      [ character:  O CANGALHEIRO]
+      [ 1399 ]  ( Encolhendo os ombros ) ―
+      [ 1400 ]  A quatro já eu fui hoje ...
+      [ 1401 ]  Ontem tive dois ... e anteontem um e de carreta ...
+      [ 1402 ]  A butes ...
+      [ 1403 ]  E para mais chovia ...
+      [ character:  CAIXEIRO VIAJANTE]
+      [ 1404 ]  Ah sim ?
+      [ 1405 ]  Pelo que vejo , o cavalheiro está muito relacionado na praça .
+      [ 1406 ]  Também é do comércio ?
+      [ character:  CANGALHEIRO]
+      [ 1407 ]  Também .
+      [ character:  CAIXEIRO DO DEFUNTO]
+      [ 1408 ]  Fazendas ?
+      [ character:  CANGALHEIRO]
+      [ 1409 ]  Exportação ...
+      [ character:  CAIXEIRO VIAJANTE]
+      [ 1410 ]  Para África ?
+      [ character:  CANGALHEIRO]
+      [ 1411 ]  Para o outro mundo .
+      [ 1412 ]  Sou empregado de uma agência de funerais .
+      [ character:  CAIXEIRO DO DEFUNTO]
+      [ 1413 ]  Ah ! Por via disso é que o meu amigo vai a tantos enterros .
+      [ 1414 ]  É boa !
+      [ 1415 ]  É um ramo de negócio que não deve ser lá muito divertido ...
+      [ character:  CANGALHEIRO]
+      [ 1416 ]  Vai tudo duma pessoa se acostumar .
+      [ 1417 ]  Ao princípio custou-me um bocado .
+      [ 1418 ]  Que eu ― não é por me gabar ― tenho bom coração , e quando me chamavam para despachar um defunto , não estava mais na minha mão ...
+      [ 1419 ]  Ao ver a gente da casa aflita e a chorar , punha-me a chorar também .
+      [ 1420 ]  Enganava-me nos preços das tabelas , errava a medida das armações , no cemitério trocava os turnos ...
+      [ 1421 ]  Os meus colegas até me tinham posto a alcunha do Não chores que também hás-de ir ...
+      [ character:  CAIXEIRO DO DEFUNTO]
+      [ 1422 ]  Tem graça .
+      [ 1422 ]  ( Riem os dois )
+      [ character:  CANGALHEIRO]
+      [ 1423 ]  Depois acostumei-me .
+      [ 1424 ]  Olhe : há quinze dias morreu uma tia que eu tinha , uma santa ...
+      [ 1425 ]  Pois não lhes conto nada .
+      [ 1426 ]  Ainda ela não tinha virado o olho para dentro , já eu andava de metro na mão a calcular onde se havia de armar a essa .
+      [ 1427 ]  Tudo nesta vida vai de uma pessoa se acostumar .
+      [ character:  CAIXEIRO DO DEFUNTO]
+      [ 1428 ]  É claro .
+      [ 1429 ]  Eu também não tinha jeito nenhum para caixeiro de balcão e , já agora , quer saber o que me aconteceu ao princípio ?
+      [ 1429 ]  ( Ao caixeiro viajante )
+      [ 1430 ]  É aquela história da senhora , que queria o veludo às riscas ...
+      [ character:  CAIXEIRO VIAJANTE]
+      [ 1431 ]  Conte lá que essa é muito boa ...
+      [ 1432 ]  É de primeira ordem .
+      [ 1432 ]  ( Ao cangalheiro )
+      [ 1433 ]  O amigo já não chora nos enterros ?
+      [ character:  CANGALHEIRO]
+      [ 1434 ]  Não .
+      [ 1435 ]  Agora já não .
+      [ character:  CAIXEIRO VIAJANTE]
+      [ 1436 ]  Pois então ouça lá esta que se vai fartar de rir ...
+      [ 1437 ]  CENA IV
+      [ 1437 ]  Os mesmos , mais Belarmina , a vizinha e a criada
+      [ character:  VIZINHA]
+      [ 1437 ]  ( Entra amparando Belarmina .
+      [ 1437 ]  Vêm ambas vestidas de negro e Belarmina com o lenço nos olhos ) ―
+      [ 1438 ]  Então minha boa amiga !
+      [ 1439 ]  Tenha juízo ...
+      [ 1440 ]  Não se apoquente dessa maneira ...
+      [ 1441 ]  Chorar não adianta nada ...
+      [ 1442 ]  É o caminho que nós todos temos que levar .
+      [ 1442 ]  ( Encaminha-a para o sofá de palha ) .
+      [ character:  CAIXIERO DO DEFUNTO]
+      [ 1442 ]  ( Baixo ao caixeiro viajante )
+      [ 1443 ]  É a viúva .
+      [ 1443 ]  ( Os três , que se levantaram à entrada da viúva , cumprimentam e encaminham-se para o fundo .
+      [ 1443 ]  O caixeiro continuando a conversa , mas em tom baixo ) ...
+      [ 1444 ]  Imagine o meu amigo que , uma vez , vai lá à loja uma senhora ...
+      [ character:  CANGALHEIRO]
+      [ 1445 ]  Em o meu amigo acabando de contar essa , hei de lhe contar uma outra ...
+      [ 1445 ]  ( Somem-se os três no corredor ) .
+      [ 1446 ]  CENA V
+      [ 1446 ]  Belarmina , a vizinha e a criada
+      [ character:  BELARMINA]
+      [ 1446 ]  ( Chorando ) ―
+      [ 1447 ]  Parece impossível !
+      [ 1448 ]  Quem havia de imaginar uma coisa destas !
+      [ 1449 ]  Mas por que foi que me não deixaram vê-lo sair ?
+      [ character:  VIZINHA]
+      [ 1450 ]  Ora ! Ora !
+      [ 1451 ]  Para quê ?
+      [ 1452 ]  Não tem nada que ver ...
+      [ character:  BELARMINA]
+      [ 1453 ]  Ele , que nunca saía sem que eu me fosse despedir à janela ...
+      [ 1454 ]  E voltava-se sempre ali adiante , ao virar da esquina .
+      [ 1455 ]  Nunca mais ... nunca mais ...
+      [ 1455 ]  ( Chora )
+      [ character:  VIZINHA]
+      [ 1456 ]  Então !
+      [ 1457 ]  Não se amofine , Dona Belarmina .
+      [ 1458 ]  Foi como eu , quando me morreu o meu Joli .
+      [ 1459 ]  Tão acostumada estava com o animalzinho !
+      [ 1460 ]  Ai !
+      [ 1461 ]  Chorei muita lágrima .
+      [ 1462 ]  Levei dias e dias a lembrar-me das gracinhas dele .
+      [ character:  BELARMINA]
+      [ 1463 ]  O Nicolau era um santo ...
+      [ character:  VIZINHA]
+      [ 1464 ]  Era um santo , tá visto que era ...
+      [ 1465 ]  Mas que se lhe há de fazer ? ...
+      [ character:  CRIADA]
+      [ 1466 ]  A senhora não quer tomar um caldinho ? ...
+      [ character:  BELARMINA]
+      [ 1467 ]  Não quero , não , Joaquina ...
+      [ character:  VIZINHA]
+      [ 1468 ]  Ora !
+      [ 1469 ]  Ora !
+      [ 1470 ]  Estar assim sem comer é que lhe faz mal .
+      [ character:  BELARMINA]
+      [ 1471 ]  Nunca mais torno a comer , Dona Alzira ...
+      [ 1472 ]  Nunca mais ...
+      [ 1472 ]  ( À criada )
+      [ 1473 ]  Ó Joaquina , você comprou o carapau para o gato ?
+      [ character:  CRIADA]
+      [ 1474 ]  Comprei , sim , minha senhora ...
+      [ 1475 ]  Então não quer o caldinho ?
+      [ 1476 ]  Está tão apuradinho ?
+      [ character:  BELARMINA]
+      [ 1477 ]  Não ... Não ...
+      [ character:  VIZINHA]
+      [ 1477 ]  ( À criada ) ―
+      [ 1478 ]  Quando foi do meu Joli estive assim quatro dias .
+      [ 1478 ]  ( À porta do F. aparece Isidóro e o caixeiro do defunto .
+      [ 1478 ]  Este indica com um gesto Belarmina .
+      [ 1478 ]  Isidóro agradece e o caixeiro retira-se .
+      [ 1478 ]  Isidóro vem todo de preto , chapéu alto e luvas pretas ) .
+      [ 1479 ]  CENA VI
+      [ 1479 ]  Os mesmos , mais Isidóro
+      [ character:  ISIDÓRO]
+      [ 1480 ]  A prima dá licença ?
+      [ character:  BELARMINA]
+      [ 1481 ]  Quem é ?
+      [ 1481 ]  ( Vê Isidóro , levanta-se e cai-lhe nos braços ) .
+      [ 1482 ]  Oh !
+      [ 1483 ]  Primo Isidóro !
+      [ 1483 ]  ( Encosta-se ao ombro direito dele e chora alguns momentos , enquanto Isidóro , levantando com a mão esquerda o chapéu alto para ela não lho arrepiar , lhe bate palmadinhas nas costas com a mão direita ) .
+      [ character:  ISIDÓRO]
+      [ 1484 ]  Então que é isso , prima ? ...
+      [ 1485 ]  Temos disparate ?
+      [ 1486 ]  Tenha juízo ?
+      [ 1487 ]  Então ?
+      [ 1487 ]  ( Encaminha-a para uma cadeira onde ela se senta ) .
+      [ character:  VIZINHA]
+      [ 1488 ]  Com licença .
+      [ 1488 ]  ( Isidóro cumprimenta baixando a cabeça .
+      [ 1488 ]  Sai a vizinha pelo fundo . )
+      [ character:  PAPAGAIO]
+      [ 1488 ]  ( Fora ) ―
+      [ 1489 ]  Ó Rosa ! ...
+      [ 1490 ]  Tirana ! ...
+      [ character:  CRIADA]
+      [ 1491 ]  Ora o maldito do pássaro !
+      [ 1491 ]  ( Sai para a cozinha e fecha a porta ) .
+      [ 1492 ]  CENA VII
+      [ 1492 ]  Isidóro e Belarmina
+      [ character:  ISIDÓRO]
+      [ 1492 ]  ( Após um silêncio durante o qual pousou o chapéu sobre um móvel e descalçou a luva da mão direita ) ―
+      [ 1493 ]  Bem sei que não devia vir a esta casa .
+      [ 1494 ]  Não devia , não ...
+      [ 1495 ]  Tanto que esta manhã estive meia hora com o Diário de Notícias na mão , dizendo de mim para mim
+      [ 1496 ]  “ ― Vais ou não vais ? ” ―
+      [ 1497 ]  Afinal sempre vim ...
+      [ character:  BELARMINA]
+      [ 1498 ]  Obrigada , primo Isidóro , obrigada .
+      [ character:  ISIDÓRO]
+      [ 1499 ]  Uma vez não são vezes e tantas eu tinha dito referindo-me ao ... àquele cavalheiro que está lá fora :
+      [ 1500 ]  ― “ Deixa estar , meu amigo , que ainda me hei de regalar de ir ao teu enterro ” , que afinal saiu certo .
+      [ 1501 ]  Com que então não resta a menor dúvida ?
+      [ 1502 ]  Morreu ?
+      [ character:  BELARMINA]
+      [ 1503 ]  Incontestavelmente .
+      [ character:  ISIDÓRO]
+      [ 1504 ]  Lesão ?
+      [ character:  BELARMINA]
+      [ 1505 ]  Lesão e fígado ...
+      [ character:  ISIDÓRO]
+      [ 1506 ]  Belo , belo ! ...
+      [ 1507 ]  Muito me conta ! ...
+      [ 1507 ]  ( Esfrega as mãos .
+      [ 1507 ]  Após um silêncio ) .
+      [ 1508 ]  Ora aqui está para que serviu tudo aquilo ...
+      [ character:  BELARMINA]
+      [ 1509 ]  Tudo aquilo o quê ?
+      [ character:  ISIDÓRO]
+      [ 1510 ]  Sim .
+      [ 1511 ]  A prima já se não lembra ?
+      [ 1512 ]  Também não admira .
+      [ 1513 ]  Já lá vão tantos anos .
+      [ character:  BELARMINA]
+      [ 1513 ]  ( Recordando-se ) ―
+      [ 1514 ]  Ah ! Sim ...
+      [ 1515 ]  Não falemos nisso , primo .
+      [ 1516 ]  Onde tudo já vai ! ...
+      [ character:  ISIDÓRO]
+      [ 1517 ]  Lembrar-me eu que , por causa daquele sujeitinho , fui preso nas escadinhas do Socorro ! ...
+      [ 1518 ]  Já lá vão vinte e cinco anos , a prima tinha dezoito ; mas lembro-me como se fosse hoje ...
+      [ 1519 ]  Eu gostava tanto de si ...
+      [ character:  BELARMINA]
+      [ 1520 ]  Então , primo ! ...
+      [ 1521 ]  Se meu marido ouvisse ...
+      [ character:  ISIDÓRO]
+      [ 1522 ]  Pena tenho eu que ele não ouça .
+      [ 1523 ]  Deixe-me desabafar , prima .
+      [ 1524 ]  Há vinte e cinco anos que ando para aqui entupido ...
+      [ 1525 ]  Eu gostava tanto de si ! ...
+      [ 1526 ]  Comecei a gostar da prima aos cinco anos ...
+      [ 1527 ]  Aos doze faltava ao colégio para passar à sua porta ...
+      [ 1528 ]  Aos dezessete ...
+      [ 1529 ]  Lembra quando eu ia ao domingo a casa de seu pai , o tio Vilela , com o pretexto de lhe fazer uma capoeira no quintal ? ...
+      [ character:  BELARMINA]
+      [ 1530 ]  Não .
+      [ 1531 ]  Da capoeira não me lembro .
+      [ character:  ISIDÓRO]
+      [ 1532 ]  Ia para a ver e tanto que levei dois anos a fazer a tal capoeira .
+      [ 1533 ]  E lembra-se de quando íamos aos domingos dançar a casa das Pereiras , na Rua dos Lagares ...
+      [ character:  BELARMINA]
+      [ 1534 ]  As Pereiras da Rua dos Lagares ?
+      [ 1535 ]  Sim , sim ...
+      [ 1536 ]  Lembra-me agora ...
+      [ character:  ISIDÓRO]
+      [ 1537 ]  A prima não gostava de valsar comigo e eu tão atrapalhado ficava que pisava toda a gente .
+      [ 1538 ]  Todos embirravam comigo e , tímido , acanhado , não me atrevia a dizer-lhe que gostava de si .
+      [ 1539 ]  Um dia lembrei-me de lhe escrever e escrevi-lhe uma carta de quinze páginas .
+      [ 1540 ]  Contava-lhe a nossa vida desde pequenos e pedia licença para lhe falar debaixo da janela ...
+      [ 1541 ]  E uma tarde ...
+      [ character:  BELARMINA]
+      [ 1542 ]  Não falemos no que lá vai ...
+      [ character:  ISIDÓRO]
+      [ 1543 ]  Falo , sim senhora ...
+      [ 1544 ]  Ora essa ! ...
+      [ 1544 ]  ( Puxa duma cadeira e senta-se )
+      [ 1545 ]  Uma tarde cheguei-me ao seu lado e disse-lhe :
+      [ 1546 ]  ― “ Tenho aqui uma carta para si , ó prima . ”
+      [ 1547 ]  A prima estava nesse dia toda vestida de verde claro , com uma fita amarela na cintura .
+      [ 1548 ]  Olhou para mim , corou e disse ...
+      [ character:  BELARMINA]
+      [ 1549 ]  ... “ Já tenho namoro , primo Isidóro ... ”
+      [ character:  ISIDÓRO]
+      [ 1550 ]  Exatamente .
+      [ 1551 ]  Não sei o que senti cá por dentro .
+      [ 1552 ]  Nunca tornei a ter uma comoção igual senão no dia em que fui à inspeção para soldado e tive que me pôr todo nu diante dos doutores ...
+      [ character:  BELARMINA]
+      [ 1553 ]  Oh !
+      [ character:  ISIDÓRO]
+      [ 1554 ]  É verdade .
+      [ 1555 ]  Calei-me , guardei a carta e saí .
+      [ 1556 ]  Ao chegar a casa , meteu-se uma ideia na cabeça : matar o homem que era amado pela prima ...
+      [ character:  BELARMINA]
+      [ 1557 ]  Valha-me Deus !
+      [ 1558 ]  Ó primo !
+      [ 1559 ]  Quer tomar um refresco ? ...
+      [ 1559 ]  ( Abana-se ) .
+      [ character:  ISIDORO]
+      [ 1560 ]  Agradecido ...
+      [ 1561 ]  Jurei vingar-me .
+      [ 1562 ]  A prima sabe o resto .
+      [ 1563 ]  Lembra-se daquela noite em que me fui postar nas escadinhas do Socorro à espera de ver aparecer alguém debaixo da sua janela ?
+      [ 1564 ]  Vi-a abrir mansamente a vidraça e , pouco depois , um vulto descer as escadas e parar .
+      [ 1565 ]  Da porta de escada onde estava escondido , galguei sobre ele ...
+      [ character:  BELARMINA]
+      [ 1566 ]  Bem sei , bem sei ...
+      [ 1567 ]  Apitos ...
+      [ 1568 ]  O primo foi preso .
+      [ 1569 ]  Tinha caído pelas escadas abaixo e levava as calças rotas .
+      [ 1570 ]  Nunca me esqueceu aquela noite horrível .
+      [ character:  ISIDORO]
+      [ 1571 ]  De nada serviu a minha loucura .
+      [ 1572 ]  Daí a dois anos , a prima casava com o tal , na igreja de São Domingos .
+      [ 1573 ]  Eu , escondido defronte na casa das iscas , enquanto a prima dava o sim ao Nicolau V. Santos , chorava todas as minhas lágrimas num pranto de fígado com elas .
+      [ character:  BELARMINA]
+      [ 1574 ]  Nunca soube nada disso ...
+      [ character:  ISIDORO]
+      [ 1575 ]  Odiei aquele homem e , como ele estava estabelecido , tomei a loja do meu pai e comecei a ser o que hoje sou : Isidoro J. Nunes , Sucessores .
+      [ 1576 ]  Estabeleci-me defronte daquele que a prima preferia e fiz-lhe uma guerra sem tréguas .
+      [ 1577 ]  Em ele anunciando veludos a cruzado , eu punha-os a dezoito vinténs .
+      [ 1578 ]  Carrinhos de linha de pataco , vendi-os sempre a trinta e cinco ...
+      [ 1579 ]  Passado um ano mudou-se .
+      [ 1580 ]  Fui atrás dele e , sucessivamente , durante estes vinte e cinco anos , pusemos sempre loja um defronte do outro em Alcântara , em Campo d’Ourique , na Estefânia , na Graça , em Arroios , até que ambos fomos cair na Rua dos Retroseiros : ele 904 e 906 , eu 903 e 905 ...
+      [ character:  BELARMINA]
+      [ 1581 ]  Ele contava-me isso e dizia-me muita vez : ―
+      [ 1582 ]  “ Se não fosse com medo que ele me fizesse alguma desfeita , partia a cara àquele homem ... ”
+      [ character:  ISIDORO]
+      [ 1583 ]  O meu ódio era feroz , a minha concorrência sem descanso .
+      [ 1584 ]  Um dia , vieram dizer-me que ele tinha uma lesão .
+      [ 1585 ]  Não lhe arruinara o negócio ; mas arruinara-lhe a saúde .
+      [ 1586 ]  Durante estes anos todos aquele marau ( Indica as traseiras da cena ) não teve outra preocupação que não fosse eu .
+      [ 1587 ]  Duma vez que ele quis atraiçoar a prima ― lembra-se ? ― com uma modista de chapéus , todas as cartas anônimas que a prima recebeu fui eu que as escrevi , com delícia , com alegria .
+      [ 1588 ]  Até me babava de contente ...
+      [ character:  BELARMINA]
+      [ 1589 ]  Mas para quê ?
+      [ 1590 ]  Para quê ?
+      [ character:  ISIDORO]
+      [ 1591 ]  Porque nunca deixei de gostar de si .
+      [ 1592 ]  Quando , há dias , me anunciaram que ele estava muito mal , disse cá com os meus botões ―
+      [ 1593 ]  “ Anda aí , cão ! ” e ontem , ao chegar à loja e ao ver o papel com uma cruz preta , ia a ter uma grande alegria , quando me lembrei de si e tive uma grande tristeza ...
+      [ character:  BELARMINA]
+      [ 1594 ]  Ó primo ! ...
+      [ 1595 ]  Primo ! ...
+      [ 1596 ]  Obrigada ...
+      [ 1596 ]  ( Toma-lhe as mãos sobre a mesa e aperta-as comovidamente )
+      [ 1597 ]  Que se lha há-de fazer ?
+      [ 1598 ]  Era o destino ...
+      [ character:  ISIDORO]
+      [ 1599 ]  Se a prima quisesse ... ainda podíamos ser felís ...
+      [ character:  BELARMINA]
+      [ 1600 ]  Como ?
+      [ character:  ISIDORO]
+      [ 1601 ]  Ora essa ?
+      [ 1602 ]  Como há-de ser ?
+      [ 1603 ]  A prima bem me entende ...
+      [ character:  BELARMINA]
+      [ 1603 ]  ( Abanando a cabeça ) ―
+      [ 1604 ]  Ora !
+      [ 1605 ]  Estamos dois velhos ...
+      [ character:  ISIDORO]
+      [ 1606 ]  Qual história !
+      [ 1607 ]  E mesmo por causa da loja .
+      [ 1608 ]  Sim ...
+      [ 1609 ]  A prima tem que passar a loja .
+      [ 1610 ]  Não é verdade ?
+      [ 1611 ]  Ora , caso a gente se entendesse , eu ficava com ambas ou fechava uma , aumentando o giro da outra .
+      [ 1612 ]  Cá me havia de arranjar ...
+      [ character:  BELARMINA]
+      [ 1613 ]  Não falemos nisso por enquanto ...
+      [ character:  ISIDORO]
+      [ 1614 ]  Ó filha !
+      [ 1615 ]  Negócios são negócios .
+      [ 1616 ]  Sei que o Antunes anda com o olho na loja e , aqui para nós , não me convém nada aquele lugar defronte .
+      [ 1617 ]  Enquanto seu marido foi vivo , aquilo era minha distração ; mas agora , com outro vizinho ...
+      [ 1618 ]  Anda , Belarmina ...
+      [ 1619 ]  Decide-te ...
+      [ 1620 ]  Sabes que gosto ainda de ti .
+      [ 1620 ]  ( Têm-se levantado ambos e ele quase a abraça ) .
+      [ character:  BELARMINA]
+      [ 1620 ]  ( D’olhos baixos ) ―
+      [ 1621 ]  Não sei ...
+      [ 1622 ]  Não sei .
+      [ character:  ISIDORO]
+      [ 1622 ]  ( Tomando-lhe as mãos ) ―
+      [ 1623 ]  Sabes , sim ...
+      [ 1624 ]  Não tem nada que saber .
+      [ 1625 ]  Passas o luto e casamos .
+      [ 1626 ]  Queres ?
+      [ 1627 ]  Anda , despacha-te ...
+      [ character:  BELARMINA]
+      [ 1628 ]  Valha-me Deus ...
+      [ 1629 ]  É pecado ...
+      [ 1630 ]  Talvez ...
+      [ 1631 ]  Ele ainda aí está ...
+      [ character:  ISIDORO]
+      [ 1631 ]  ( Furioso ) ―
+      [ 1632 ]  Ele ?
+      [ 1633 ]  Sempre ele ?
+      [ 1634 ]  Raios o partam ! ...
+      [ 1635 ]  CENA FINAL
+      [ 1635 ]  Os mesmos , mais a vizinha e a criada
+      [ character:  A VIZINHA]
+      [ 1635 ]  ( Aparecendo ao fundo , seguida da criada ) ―
+      [ 1636 ]  Ai , minha querida amiga ...
+      [ character:  BELARMINA]
+      [ 1637 ]  Que foi ?
+      [ 1637 ]  ( Compreendendo )
+      [ 1638 ]  Levaram-no ? ...
+      [ character:  A VIZINHA]
+      [ 1639 ]  Agora mesmo ...
+      [ 1640 ]  Ainda vai na escada ...
+      [ 1640 ]  ( Belarmina cai numa cadeira soluçando .
+      [ 1640 ]  A vizinha e a criada acercam-se dela . )
+      [ character:  ISIDORO]
+      [ 1640 ]  ( Tomando o chapéu ) ―
+      [ 1641 ]  Foi o que lhe valeu ...
+      [ 1642 ]  Quando não , partia-lhe a cara .
+      [ 1642 ]  ( Sai calçando a luva ) .
+      [ character:  A VOZ DO PAPAGAIO]
+      [ 1642 ]  ( Fora )
+      [ 1643 ]  Ó Rosa ! ...
+      [ 1644 ]  Tirana ! ...
+      [ closing:  PANO] 
+      
+ date1550-1599

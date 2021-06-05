@@ -1,0 +1,3165 @@
+
+|:| [START HEADER]|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|
+|:| PLEASE SET CHARACTER ENCODING SYSTEM TO UTF-8
+|:| Tycho Brahe Parsed Corpus of Historical Portuguese 
+|:| Document ID: c_005
+|:| Encoding: UTF-8
+|:| Last Saved: 19.09.2010
+|:| Title: Entremezes de Cordel
+|:| Author: Costa, J.D. Rodrigues da
+|:| Version: Simple Text, for Automatic Tools
+|:| Edition Type: Complete Modernization of Orthography
+|:| [END HEADER]|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|
+
+   
+      [ 1 ]  José Daniel Rodrigues da Costa
+      [ title: 
+      [ 2 ]  Seis Entremezes de cordel ]
+      [ 3 ]  Editorial Estampa - Seara Nova
+      [ title: 
+      [ 4 ]  Anatomia cômica ]
+      [ 5 ]  Personagens
+      [ 6 ]  GELÁZIO , empresário PASCALINO , maquinista AMBRÓSIO , cômico AURÉLIA , dama do teatro MATÚSIO , gracioso ALBERTO , primeiro compositor CLITANDRO , segundo compositor MALTEVENHA , terceiro compositor CORNÉLIO , quarto compositor SEMPRÓNIO , quinto compositor
+      [ 7 ]  ( A Cena é no teatro . )
+      [ 8 ]  Cena I
+      [ 9 ]  GELÁZIO e depois PASCALINO , AMBRÓSIO , AURÉLIA , MATÚSIO , cada um a seu tempo .
+      [ 10 ]  GELÁZIO
+      [ 11 ]  Não sei como isto há de ser !
+      [ 12 ]  Vejo-me doido : por uma parte , os compositores com empenhos para lhes aceitar obras ; pela outra , os cômicos desesperados porque não prestam muitas .
+      [ 13 ]  E eu no meio desta tormenta sem poder dar-lhes remédio .
+      [ 14 ]  São horas de ensaio , e já estou receando ouvir queixumes .
+      [ 15 ]  PASCALINO
+      [ 16 ]  Senhor empresário , como Vossa Mercê não quer abandonar estes compositores infernais que contaminam o teatro , eu me ponho ao fresco ; porque o público há de desgostar-se , e eu não quero perder o meu crédito .
+      [ 17 ]  GELÁZIO
+      [ 18 ]  Ui , senhor Pascalino !
+      [ 19 ]  Vossa Mercê logo vai às do cabo !
+      [ 20 ]  Que posso eu fazer ?
+      [ 21 ]  Vejo-me empenhado , por pessoas a que não posso faltar , para tomar algumas obras contra minha vontade .
+      [ 22 ]  AMBRÓSIO
+      [ 23 ]  Eu vou reclamar a minha escritura .
+      [ 24 ]  Procure Vossa Mercê quem venha para o teatro em meu lugar , porque eu , que tenho adquirido estimação e bom nome , abro todos os dias dos peitos para fazer valer uma peça que Vossa Mercê quer pôr no teatro , que melhor fora que a pusesse em uma fogueira .
+      [ 25 ]  E assim ...
+      [ 26 ]  GELÁZIO
+      [ 27 ]  Esperem , senhores .
+      [ 28 ]  Vossas Mercês são uns tiranos que não me desculpam por quanto ...
+      [ 29 ]  AURÉLIA
+      [ 30 ]  Não me faz conta representar no seu teatro , senhor Gelázio .
+      [ 31 ]  Vossa Mercê não atende nem ao público nem ao nosso trabalho .
+      [ 32 ]  Antes quero ganhar menos em outro teatro do que ver-me obrigada representando peças insulsas .
+      [ 33 ]  E desta forma ...
+      [ 34 ]  GELÁZIO
+      [ 35 ]  Vossas Mercês querem matar-me .
+      [ 36 ]  Em todos os teatros há boas e más peças , e não pode tudo ser coturno , e eu ...
+      [ 37 ]  MATÚSIO
+      [ 38 ]  Nem que Vossa Mercê me dobre o partido eu fico no seu teatro .
+      [ 39 ]  Faço-me em pedaços para dar algum sal às frioleiras que Vossa Mercê faz pôr em cena em termo de botar sangue pela boca .
+      [ 40 ]  E por esta razão , oculu ruorum .
+      [ 41 ]  GELÁZIO
+      [ 42 ]  Se qualquer de Vossas Mercês estivesse em meu lugar , faria o mesmo .
+      [ 43 ]  TODOS
+      [ 44 ]  Eu não .
+      [ 45 ]  GELÁZIO
+      [ 46 ]  E como hei de satisfazer aos empenhos das pessoas que têm camarotes fixos ?
+      [ 47 ]  AURÉLIA
+      [ 48 ]  Pois é melhor enganar o público , anunciando-lhe uma peça boa e achando-se com uma ridícula , cheia de puerilidades e inépcias ?
+      [ 49 ]  MATÚSIO
+      [ 50 ]  há de perder-se por força o conceito , e hão de fugir os espectadores .
+      [ 51 ]  Pois quem é que quer dar dinheiro por ouvir tolices sem senso comum , nem unidade , nem interesse ?
+      [ 52 ]  PASCALINO
+      [ 53 ]  Eu por compaixão de Vossa Mercê me tenho conservado , mas se não lhe dá remédio ...
+      [ 54 ]  AURÉLIA
+      [ 55 ]  Se não dá providência ...
+      [ 56 ]  MATÚSIO
+      [ 57 ]  Se não tem dó de nós ...
+      [ 58 ]  TODOS
+      [ 59 ]  Procure ...
+      [ 60 ]  AMBRÓSIO
+      [ 61 ]  Galã .
+      [ 62 ]  PASCALINO
+      [ 63 ]  Maquinista .
+      [ 64 ]  AURÉLIA
+      [ 65 ]  Dama .
+      [ 66 ]  MATÚSIO
+      [ 67 ]  Gracioso .
+      [ 68 ]  GELÁZIO
+      [ 69 ]  Estou pronto para lhe dar remédio .
+      [ 70 ]  Mas diga-me , qual é ?
+      [ 71 ]  PASCALINO
+      [ 72 ]  Quer Vossa Mercê que eu desterre a maior parte destes autores estropiados que depois que se lhes encasquetou o fazerem-se compositores , matam com asneiras os bichos dos ouvidos ?
+      [ 73 ]  GELÁZIO
+      [ 74 ]  Sim , senhor .
+      [ 75 ]  Estou pronto .
+      [ 76 ]  Porque todos os instantes me cercam obras , e com empenhos que me fazem fechar os olhos .
+      [ 77 ]  PASCALINO
+      [ 78 ]  Pois eu lhe armarei de forma que eles dêem ao diabo a cardada , e não tornem cá .
+      [ 79 ]  MATÚSIO
+      [ 80 ]  Denunciados por inimigos da língua .
+      [ 81 ]  AURÉLIA
+      [ 82 ]  Não se lhes paga as obras em não prestando .
+      [ 83 ]  PASCALINO
+      [ 84 ]  Nada , nada .
+      [ 85 ]  Eu tenho melhor remédio .
+      [ 86 ]  Logo que eu volte , esses compositores por alcunha mande-os Vossa Mercê ler as suas obras sentados em uma cadeira no teatro , e deixe o mais por minha conta .
+      [ 87 ]  E enquanto eu não venho , façam o seu ensaio .
+      [ 87 ]  ( Vai-se )
+      [ 88 ]  AURÉLIA
+      [ 89 ]  E então que se tira daí ?
+      [ 90 ]  MATÚSIO
+      [ 91 ]  Ficamos como de antes .
+      [ 92 ]  GELÁZIO
+      [ 93 ]  E os empenhos ...
+      [ 94 ]  PASCALINO
+      [ 95 ]  Caluda , que Vossas Mercês hão de rir , e o compositor não torna mais .
+      [ 96 ]  Eu venho já .
+      [ 97 ]  Se vier algum , mande-o entrar e esperar naquela sala , e um a um é que se há de examinar .
+      [ 97 ]  ( Vai-se . )
+      [ 98 ]  AURÉLIA
+      [ 99 ]  Pascalino é muito vivo , e alguma tem considerado .
+      [ 100 ]  MATÚSIO
+      [ 101 ]  O melhor de tudo é , trazendo obra sem sabor e que não preste , maçar-lhe o corpo .
+      [ 102 ]  AURÉLIA
+      [ 103 ]  Vamos ensaiar aquela ária do segundo ato que quero pôr-me bem segura nela .
+      [ 103 ]  ( Canta qualquer ária . )
+      [ 104 ]  Cena II
+      [ 105 ]  OS QUATRO POETAS um por sua parte e com seu papel na mão .
+      [ 106 ]  ALBERTO
+      [ 107 ]  Senhor empresário ...
+      [ 108 ]  CLITANDRO
+      [ 109 ]  Temos composição magnífica .
+      [ 110 ]  MALTEVENHA
+      [ 111 ]  Uma tragédia em verso sáfico .
+      [ 112 ]  CORNÉLIO
+      [ 113 ]  Um drama que cheira a Goldoni .
+      [ 114 ]  MATÚSIO
+      [ 115 ]  Temo-la travada .
+      [ 116 ]  Senhores , nós estamos muito desgostosos das suas composições da fábrica nova , e temos ordem do Senhor Apolo para lhe fazermos uma exata anatomia , e sem isso nada de novo .
+      [ 117 ]  CLITANDRO
+      [ 118 ]  As minhas obras não têm joio nem ervilhaca .
+      [ 119 ]  MATÚSIO
+      [ 120 ]  Mas têm alfarroba .
+      [ 121 ]  CLITANDRO
+      [ 122 ]  Vossa Mercê não sabe o que são preceitos do teatro , se não de o pisar e representar a sua parte .
+      [ 123 ]  Porém , no gosto da composição jejua .
+      [ 124 ]  MATÚSIO
+      [ 125 ]  Não tenho dúvida , que jejue nas suas ; porque não tem nada de sustância nem para parva quantitas .
+      [ 126 ]  ALBERTO
+      [ 127 ]  Eu sou o primeiro que não temo que se examine a minha .
+      [ 128 ]  Porque sei o que tenho em mim .
+      [ 129 ]  MATÚSIO
+      [ 130 ]  Também eu , pouco mais ou menos .
+      [ 131 ]  GELÁZIO
+      [ 132 ]  Pois , senhores , no preço não haverá dúvida , se for obra digna dos ouvidos do público , que bem sabem que é um corpo muito respeitável .
+      [ 133 ]  AURÉLIA
+      [ 134 ]  Eu não aceito papel sem ouvir a qualidade da obra .
+      [ 135 ]  GELÁZIO
+      [ 136 ]  Então Vossas Mercês porque se faça este exame ?
+      [ 137 ]  TODOS
+      [ 138 ]  Sim , senhor .
+      [ 139 ]  GELÁZIO
+      [ 140 ]  Pois entrem para aquela sala , e cada um virá ler a sua obra , que não é justo que saibam uns dos pensamentos dos outros .
+      [ 141 ]  TODOS
+      [ 142 ]  Aprovamos a idéia .
+      [ 142 ]  ( Entram todos . )
+      [ 143 ]  MATÚSIO
+      [ 144 ]  Ora aí vão para segredo , e logo vêm a perguntas .
+      [ 144 ]  ( Sai Pascalino . )
+      [ 145 ]  PASCALINO
+      [ 146 ]  Então apeceu algum compositor de frivolidades ?
+      [ 147 ]  MATÚSIO
+      [ 148 ]  Já lá temos quatro engaiolados .
+      [ 149 ]  PASCALINO
+      [ 150 ]  Bravo , bravo .
+      [ 151 ]  Ora venha um , que não lhe há de ir mal com o cheiro dos nabos .
+      [ 152 ]  GELÁSIO
+      [ 153 ]  Venha um de Vossas Mercês .
+      [ 153 ]  ( Vai e abre a porta e vem Alberto . )
+      [ 154 ]  ALBERTO
+      [ 155 ]  Eu trago aqui um entremez com muita novidade .
+      [ 156 ]  MATÚSIO
+      [ 157 ]  Sim , Senhor .
+      [ 158 ]  O ano tem sido fértil .
+      [ 159 ]  AURÉLIA
+      [ 160 ]  Vossa Mercê lá me tem jeito de quem há de ter bons pensamentos .
+      [ 161 ]  ALBERTO
+      [ 162 ]  Tenho a vaidade que todos são novos .
+      [ 163 ]  PASCALINO
+      [ 164 ]  Pois vamos a isso .
+      [ 165 ]  Sente-se , meu senhor , para ler mais ao seu cômodo , que assim dá mais alma ao que ler .
+      [ 166 ]  ALBERTO
+      [ 167 ]  É muito justo .
+      [ 167 ]  ( Senta-se e depois lê . )
+      [ 168 ]  'Novo Entremez .
+      [ 169 ]  Amores de José Ramos e a Marcelina , em verso solto' .
+      [ 170 ]  MATÚSIO
+      [ 171 ]  É preciso que não seja tão solto que o seu destempero não nos cheire mal .
+      [ 172 ]  ALBERTO
+      [ 173 ]  Não vai a meter a bulha .
+      [ 174 ]  Ouça , e depois me dirá ; pois para ser uma peça boa , basta uma ária que tem do gracioso , que já lhe trago a música .
+      [ 175 ]  AURÉLIA
+      [ 176 ]  Audiamus .
+      [ 177 ]  PASCALINO
+      [ 178 ]  Leva rumor .
+      [ 179 ]  ALBERTO
+      [ 180 ]  'Atores ; José Ramos ; Marcelina ; Tomázia , irmã ; Niceta , sobrinha ; Roberto , sobrinho , primeiro galã . '
+      [ 181 ]  MATÚSIO
+      [ 182 ]  Não era melhor vir isso tudo em uma árvore de geração ?
+      [ 183 ]  ALBERTO
+      [ 184 ]  Ora cale o bico .
+      [ 185 ]  'Henrique , segundo ; Pacóbio , terceiro ; Júlio , quarto ; Androgéo , quinto . '
+      [ 186 ]  MATÚSIO
+      [ 187 ]  Isso são nomes de monarcas ?
+      [ 188 ]  ALBERTO
+      [ 189 ]  Ouça , e logo mo dirá .
+      [ 190 ]  'Pantufo , gracioso ; dois barqueiros ; dois passageiros ; dois soldados . ' .
+      [ 191 ]  MATÚSIO
+      [ 192 ]  Se vai por essas contas , isso não é entremez .
+      [ 193 ]  É rol de mostra de alguma nau de guerra .
+      [ 194 ]  ALBERTO
+      [ 195 ]  Ouça e logo mo dirá .
+      [ 196 ]  AURÉLIA
+      [ 197 ]  Audiamus .
+      [ 198 ]  PASCALINO
+      [ 199 ]  Leva rumor , que logo lho diremos .
+      [ 200 ]  ALBERTO
+      [ 201 ]  'Cena primeira no cais da Pedra . '
+      [ 202 ]  MATÚSIO
+      [ 203 ]  Fez-nos muita mercê não ser no de Manuel Ribeiro .
+      [ 204 ]  ALBERTO
+      [ 205 ]  Não me interrompa o fio da obra .
+      [ 206 ]  AURÉLIA
+      [ 207 ]  Audiamus .
+      [ 208 ]  GELÁZIO
+      [ 208 ]  ( À parte . )
+      [ 209 ]  O certo é que os cômicos têm razão .
+      [ 210 ]  ALBERTO
+      [ 211 ]  Haverá defronte uma bateira .
+      [ 212 ]  MATÚSIO
+      [ 213 ]  Não bastará um catraio ?
+      [ 214 ]  ALBERTO
+      [ 215 ]  Se Vossa Mercê mete a bulha , calo-me .
+      [ 216 ]  MATÚSIO
+      [ 217 ]  Isso não seria o pior que Vossa Mercê fizesse .
+      [ 218 ]  ALBERTO
+      [ 219 ]  O ar há de estar turbado , fazendo trovões e alguma chuva .
+      [ 220 ]  MATÚSIO
+      [ 221 ]  Aqui nos quer o senhor pôr de molho .
+      [ 222 ]  ALBERTO
+      [ 223 ]  Marcelina 'Meu José Ramos do coração , Não tenhas medo da cerração , Se queres vir comigo , Não há de haver perigo . '
+      [ 224 ]  José Ramos 'Sem ir Pantufo Eu não me embarco .
+      [ 225 ]  Temo este barco , do vento o tufo . '
+      [ 226 ]  Pantufo canta esta ária .
+      [ 227 ]  MATÚSIO
+      [ 228 ]  Venha a ária que aqui sou eu gente .
+      [ 228 ]  ( Pega no papel . )
+      [ 229 ]  ÁRIA
+      [ 229 ]  ( Canta Matúsio . )
+      [ 230 ]  'Que borrasca !
+      [ 231 ]  Que tormenta !
+      [ 232 ]  Pelos ares tudo vai !
+      [ 233 ]  Os trovões fazem rum rum , Os coriscos zás catrás , Eu de susto já morrendo , O coração está traz traz .
+      [ 234 ]  Já palpita , já desmaia .
+      [ 235 ]  Esmoreço , ai , ai , ai , Estou sem fala , quem me acode ?
+      [ 236 ]  Acabou-se a minha vida , Já não posso respirar . '
+      [ 237 ]  TODOS
+      [ 238 ]  Bravo , bravo .
+      [ 239 ]  ALBERTO
+      [ 240 ]  Esta é a unha do gigante .
+      [ 241 ]  MATÚSIO
+      [ 242 ]  Do gigante não , mas da grã besta .
+      [ 243 ]  PASCALINO
+      [ 244 ]  É muito bonito o seu entremez .
+      [ 245 ]  ALBERTO
+      [ 246 ]  Há de fazer seu encontro .
+      [ 247 ]  GELÁZIO
+      [ 248 ]  Temos visto .
+      [ 249 ]  E quanto quer Vossa Mercê por ele ?
+      [ 250 ]  ALBERTO
+      [ 251 ]  Não o dou por menos de quatro moedas .
+      [ 252 ]  MATÚSIO
+      [ 253 ]  De dez réis são dois vintéis .
+      [ 254 ]  Mas Vossa Mercê há de dá-lo por trinta e cinco .
+      [ 255 ]  PASCALINO
+      [ 256 ]  Não é preciso , porque eu lhe darei o que merece .
+      [ 257 ]  Vai-te , compositor malvado , fazer filhoses com Plutão .
+      [ 257 ]  ( Bate e some-se pelo escotilhão . )
+      [ 258 ]  ALBERTO
+      [ 259 ]  Ai , ai , ai .
+      [ 260 ]  Quem me acode que me sepultam ?
+      [ 261 ]  MATÚSIO
+      [ 262 ]  Assim o manda Apolo aos poetas tolos .
+      [ 263 ]  GELÁZIO
+      [ 264 ]  Tenho dó do pobre homem , mas não há peça mais bem pregada .
+      [ 264 ]  ( Todos em gargalhadas . )
+      [ 265 ]  AURÉLIA
+      [ 266 ]  Viva a idéia , senhor Pascalino .
+      [ 267 ]  MATÚSIO
+      [ 268 ]  Venha já outro para a molhadura .
+      [ 268 ]  ( Vem outro . )
+      [ 269 ]  CLITANDRO
+      [ 270 ]  Então senhores , que tal era a obra desse que saiu ?
+      [ 271 ]  MATÚSIO
+      [ 272 ]  Assim assim .
+      [ 273 ]  Ele vai contente como gato com trambolho .
+      [ 274 ]  CLITANDRO
+      [ 275 ]  Pois eu tenho uma pequena peça em verso lírico que não há de desgostar .
+      [ 276 ]  O caso é pagá-la bem .
+      [ 277 ]  PASCALINO
+      [ 278 ]  Isso não tem dúvida .
+      [ 279 ]  O mesmo que o outro , que é o preço de hoje .
+      [ 280 ]  MATÚSIO
+      [ 281 ]  Sede in scamo ,
+      [ 281 ]  ( sem cerimônia . )
+      [ 282 ]  AURÉLIA
+      [ 283 ]  Eu já não me posso ter de riso .
+      [ 284 ]  GELÁZIO
+      [ 285 ]  Sente-se , e leia muito a seu cômodo .
+      [ 286 ]  GELÁZIO
+      [ 286 ]  ( Lê . )
+      [ 287 ]  'Entremez novo : As regateiras arrimadas .
+      [ 288 ]  Pessoas : Brázia rendeira das barbas ; Aldonça ; Jacinta ; Josefa ; Antónia ; dois marujos ; três malsins ; cinco rasqueiros . '
+      [ 289 ]  MATÚSIO
+      [ 290 ]  Aí !
+      [ 291 ]  aí !
+      [ 292 ]  De onde há de vir tanta gente ?
+      [ 293 ]  CLITANDRO
+      [ 294 ]  A cena é na Ribeira Nova onde haverá muitas cabanas com peixe .
+      [ 295 ]  Aldonça ' A senhora aonde vai ?
+      [ 296 ]  Não me tire a freguesia . '
+      [ 297 ]  Jacinta 'Senhora Aldonça Maria Eu sou filha de meu pai . '
+      [ 298 ]  Aldonça 'E que quer isso dizer ?
+      [ 299 ]  Seu pai era um lava peixe . '
+      [ 300 ]  Jacinta 'Mente , velhaca importuna . '
+      [ 301 ]  Aldonça 'Olhe que a leva a fortuna . '
+      [ 302 ]  Brázia 'Vocês querem-se calar ? '
+      [ 303 ]  Aldonça 'Eu não .
+      [ 304 ]  E Você , que diz ? '
+      [ 305 ]  PASCALINO
+      [ 306 ]  Que já lhe tarda o boléu .
+      [ 306 ]  ( Bate e some-se . )
+      [ 307 ]  MATÚSIO
+      [ 308 ]  Lá vai outro .
+      [ 309 ]  Lá vai outro .
+      [ 310 ]  CLITANDRO
+      [ 311 ]  A que del rei que me surveto !
+      [ 312 ]  MATÚSIO
+      [ 313 ]  Compositor malvado , vai-te para o pégo .
+      [ 314 ]  AURÉLIA
+      [ 315 ]  Não há maior carriola .
+      [ 316 ]  PASCALINO
+      [ 317 ]  Veremos se assim se emendam de fazerem asneiras e quererem que lhas paguem .
+      [ 318 ]  MATÚSIO
+      [ 319 ]  Venha outro criminoso a perguntas .
+      [ 319 ]  ( Sai . )
+      [ 320 ]  MALTEVENHA
+      [ 321 ]  Suponho que Vossas Mercês já estarão satisfeitos de obras boas desses dois compositores que saíram .
+      [ 322 ]  MATÚSIO
+      [ 323 ]  Sabe Deus quem sai .
+      [ 324 ]  E Vossa Mercê terá a mesma fortuna .
+      [ 325 ]  MALTEVENHA
+      [ 326 ]  Assim espero .
+      [ 327 ]  Pois , senhores , eu sou um poeta das Ilhas e o meu nome é bem conhecido na República Literária .
+      [ 328 ]  MATÚSIO
+      [ 329 ]  Como é a sua graça ?
+      [ 330 ]  MALTEVENHA
+      [ 331 ]  Maltevenha da Costa .
+      [ 332 ]  MATÚSIO
+      [ 333 ]  Não , senhor , não queremos Poeta com esse nome .
+      [ 334 ]  Se Vossa Mercê quiser ser compositor deste teatro há de chamar-se Maltevenha da Barriga .
+      [ 335 ]  AURÉLIA
+      [ 336 ]  Enfim , isto é questão de nome .
+      [ 337 ]  O senhor , que tem tanta fama , há de trazer alguma obra bonita .
+      [ 338 ]  MALTEVENHA
+      [ 339 ]  Tenho uma tragédia em verso branco .
+      [ 340 ]  MATÚSIO
+      [ 341 ]  Pois seria melhor em verso negro por conta das luzes .
+      [ 342 ]  MALTEVENHA
+      [ 343 ]  Ora , senhor , eu não quero graças .
+      [ 344 ]  PASCALINO
+      [ 345 ]  Leva rumor .
+      [ 346 ]  AURÉLIA
+      [ 347 ]  Audiamus .
+      [ 348 ]  GERÁZIO
+      [ 349 ]  Sente-se , meu senhor , para ler a seu cômodo .
+      [ 350 ]  MATÚSIO
+      [ 351 ]  Sedete sem comprimento .
+      [ 352 ]  MALTEVENHA
+      [ 353 ]  A obra é 'Alexandre Vitorioso em Arboles . '
+      [ 354 ]  GELÁZIO
+      [ 355 ]  É comédia ou tragédia ?
+      [ 356 ]  MALTEVENHA
+      [ 357 ]  Tragédia em tragédia .
+      [ 358 ]  E por não gastar mais tempo , 'a primeira cena é nas margens do Granico e aqui fala Parmenião com AIexandre : Senhor , a vossa glória incomparável já sobe de um pólo para outro pólo e a vossa fama nas asas da mesma vai já voando nos confins da Grécia . '
+      [ 359 ]  Esta Figura é delicada , ' nas asas da mesma . '
+      [ 360 ]  MATÚSIO
+      [ 361 ]  Optime !
+      [ 362 ]  Padre mestre !
+      [ 363 ]  AURÉLIA
+      [ 364 ]  É bonito princípio .
+      [ 365 ]  PASCALINO
+      [ 366 ]  Belíssimo .
+      [ 367 ]  MALTEVENHA
+      [ 368 ]  Responde Alexandre : 'O teu braço , Parmenião amado , merece ser nos fastos esculpido com esse mesmo sangue que fizeste correr das veias dos indignos Persas . '
+      [ 369 ]  PASCALINO
+      [ 370 ]  Então como acaba a peça ?
+      [ 371 ]  MALTEVENHA
+      [ 372 ]  Com o casamento de Alexandre com Statira , filha de Dario .
+      [ 373 ]  GELÁSIO
+      [ 374 ]  Que ações trágicas tem Vossa Mercê para o caráter da Tragédia ?
+      [ 375 ]  MALTEVENHA
+      [ 376 ]  Essa é fresca !
+      [ 377 ]  Pois ainda lhe quer mais que tantos mil soldados mortos na batalha ?
+      [ 378 ]  MATÚSIO
+      [ 379 ]  Zabumba nele .
+      [ 379 ]  ( Bate Pascalino e some-se . )
+      [ 380 ]  MALTEVENHA
+      [ 381 ]  Que insolência é esta ?
+      [ 382 ]  Ai quem me acode ?
+      [ 383 ]  MALTEVENHA
+      [ 384 ]  Leve para o seu tabaco , senhor inventor de tragédias .
+      [ 385 ]  Vá lá fazê-las para a Ilha dos Lagartos .
+      [ 386 ]  AURÉLIA
+      [ 387 ]  Ainda há mais mentecaptos ?
+      [ 388 ]  MATÚSIO
+      [ 389 ]  Até amanhã se quisermos .
+      [ 390 ]  Venha outro .
+      [ 391 ]  CORNÉLIO
+      [ 392 ]  Servo , meus senhores .
+      [ 393 ]  Não sei se agradará a minha peça depois de tão bons autores que têm lido as suas .
+      [ 394 ]  MATÚSIO
+      [ 395 ]  Não importa .
+      [ 396 ]  Sempre quem estudou , estudou , e será aplaudido como os outros .
+      [ 397 ]  CORNÉLIO
+      [ 398 ]  Tenho um engraçado entremez com o título 'Sancho Pança alagartado . '
+      [ 399 ]  AURÉLIA
+      [ 400 ]  Bravo .
+      [ 401 ]  Isso há de ser bom .
+      [ 402 ]  CORNÉLIO
+      [ 403 ]  Sim , senhora .
+      [ 404 ]  É Sancho na Ilha dos Lagartos .
+      [ 405 ]  AURÉLIA
+      [ 406 ]  Bem percebo .
+      [ 407 ]  CORNÉLIO
+      [ 408 ]  ' Atores : ele ; os senadores da ilha ; o médico e outros .
+      [ 409 ]  Uma mesa , vários pratos de comer , o seu ruço entre os bastidores . '
+      [ 410 ]  MATÚSIO
+      [ 411 ]  Sedete in hac cathedratica sede ad loquendum cum nodato .
+      [ 412 ]  CORNÉLIO
+      [ 413 ]  Sento-me porque Vossas Mercês o mandam .
+      [ 414 ]  Princípio : ' Sancho : ai , ai , ai , senhor doutor , deixe-me comer que tenho rafa . '
+      [ 415 ]  MATÚSIO
+      [ 416 ]  Abaixo .
+      [ 417 ]  PASCALINO
+      [ 418 ]  Lá lhe prega o ruço dois coices .
+      [ 419 ]  CORNÉLIO
+      [ 420 ]  Que é isto ?
+      [ 421 ]  Para onde me precipitam ?
+      [ 422 ]  MATÚSIO
+      [ 423 ]  Para o inferno dos tolos .
+      [ 424 ]  GELÁZIO
+      [ 425 ]  Não posso duvidar que a peça é engraçada , mas tenho compaixão da fatuidade destes pobres homens .
+      [ 426 ]  MATÚSIO
+      [ 427 ]  É bem feito , para não quererem ser autores e ganhar dinheiro dizendo asneiras .
+      [ 428 ]  AURÉLIA
+      [ 429 ]  Entre tantos não havia uma peça que se pudesse ler .
+      [ 429 ]  ( Sai Semprónio . )
+      [ 430 ]  SEMPRONIO
+      [ 431 ]  Senhores , eu não procuro empenho para me aceitarem esta obra .
+      [ 432 ]  Venho oferecê-la ao senhor empresário para lisonjear o público , e para que , se lhe parecer bem , a mande representar , que não quero nada por ela .
+      [ 433 ]  AURÉLIA
+      [ 434 ]  Isto é outra linguagem .
+      [ 435 ]  MATÚSIO
+      [ 436 ]  Vejamos o que sai daqui .
+      [ 437 ]  SEMPRÓNIO
+      [ 438 ]  É uma comédia de meio caráter , 'Eneias em Cartago ' .
+      [ 439 ]  Não quero mortificar a Vossas Mercês com o seu extrato .
+      [ 440 ]  Basta-me só dizer-lhes qualquer pequena passagem dela e logo por aí farão o seu argumento .
+      [ 441 ]  Nesta da primeira cena em que Mercúrio repreende Eneias de se demorar em Cartago contra as ordens de Júpiter , depois de introdução da cena , lhe diz Mercúrio : ' Eneias , como assim nessa indolência Desprezando de Jove as suas ordens , Estranhando nos frívolos prazeres Desprezas de teu filho as esperanças ? '
+      [ 442 ]  AURÉLIA
+      [ 443 ]  Bravo !
+      [ 444 ]  TODOS
+      [ 445 ]  Bravo !
+      [ 446 ]  SEMPRÓNIO
+      [ 447 ]  ' Dos teus deuses Penates não te lembras ?
+      [ 448 ]  Entregue ao ócio , um alto herói piedoso , Que os fados lhe destinam altas glórias E fundar nas Itálias nova Tróia ! '
+      [ 449 ]  E daqui continua até se embarcar , fugindo de Cartago com alguns episódios que me parecem próprios de cada cena .
+      [ 450 ]  GELÁZIO
+      [ 451 ]  Que lhe parece , senhor Pascalino ?
+      [ 452 ]  PASCALINO
+      [ 453 ]  Esta obra há de ser de alto coturno , e deve representar-se .
+      [ 454 ]  AURÉLIA
+      [ 455 ]  De minha aprovação eu mostro os sinais .
+      [ 455 ]  ( Vai-se . )
+      [ 456 ]  SEMPRÓNIO
+      [ 457 ]  Pois , senhores , aí fica a obra .
+      [ 458 ]  Eu me sujeito à correção .
+      [ 459 ]  Porque isto em mim é efeito de gênio , e não da ciência .
+      [ 460 ]  MATÚSIO
+      [ 461 ]  Ora , senhores , o que é bom , logo tem outra cara .
+      [ 462 ]  Esta peça há de ser boa por força .
+      [ 462 ]  ( Vem Aurélia com uma coroa de louro que lhe põe na cabeça . )
+      [ 463 ]  AURÉLIA
+      [ 464 ]  Para sinal de que eu conheço que o senhor tem um estro legìtimamente poético e que a sua obra será excelente , lhe ponho esta coroa de louro , ainda que não sou das irmãs , de quem devia receber a coroa no Permeço .
+      [ 465 ]  Como a minha figura me desculpa , perdoará a confiança .
+      [ 466 ]  SEMPRÓNIO
+      [ 467 ]  Senhora , vós me honrais mais do que mereço , que as peças dos outros teriam mais merecimento .
+      [ 468 ]  PASCALINO
+      [ 469 ]  Quereis vós ver o seu merecimento ?
+      [ 469 ]  ( Abre o escotilhão e tira um . )
+      [ 470 ]  ALBERTO
+      [ 471 ]  Que mal fiz eu , senhores , para um tão grande excesso !
+      [ 472 ]  MATÚSIO
+      [ 473 ]  O querer ser compositor contra a vontade de Apolo .
+      [ 474 ]  PASCALINO
+      [ 475 ]  E se não promete emendar-se , tornará para baixo .
+      [ 476 ]  ALBERTO
+      [ 477 ]  Como este furor das composições e de querer ser autor anda tão espalhado , eu quis também mostrar as minhas habilidades .
+      [ 478 ]  Mas confesso que sou asno e não tornarei mais .
+      [ 479 ]  PASCALINO
+      [ 480 ]  Veja lá o que diz .
+      [ 481 ]  MATÚSIO
+      [ 482 ]  Levante o dedo para o ar .
+      [ 483 ]  GELÁZIO
+      [ 484 ]  Vá-se embora , senhor .
+      [ 485 ]  E faça coisas boas , se quer ter aceitação do público , e ganhar vinténs .
+      [ 486 ]  PASCALINO
+      [ 487 ]  Mas sempre é bom que leve a molhadura da obra .
+      [ 487 ]  ( Dá-lhe e foge . )
+      [ 488 ]  MATÚSIO
+      [ 489 ]  Dê cá a mão , senhor poeta da Ribeira Nova .
+      [ 490 ]  CLITANDRO
+      [ 491 ]  Eu me vou queixar de semelhante insulto .
+      [ 492 ]  PASCALINO
+      [ 493 ]  Isto não é insulto .
+      [ 494 ]  É correção para não ser tolo .
+      [ 495 ]  GELÁSIO
+      [ 496 ]  Pode-se , ir , senhor , com o seu entremez .
+      [ 497 ]  PASCALINO
+      [ 498 ]  Nada !
+      [ 499 ]  Quero que acabe às pancadas .
+      [ 499 ]  ( Dá-lhe e foge . )
+      [ 500 ]  GELÁSIO
+      [ 501 ]  Venha outro enquanto isto está em quente .
+      [ 502 ]  MATÚSIO
+      [ 503 ]  Saia cá para fora se é capaz , senhor ilhéu .
+      [ 504 ]  MALTEVENHA
+      [ 505 ]  Semelhante atentado nunca se viu .
+      [ 506 ]  MATÚSIO
+      [ 507 ]  Vossa mercê é que nos veio tentar a nós , que estávamos bem quietos .
+      [ 508 ]  MALTEVENHA
+      [ 509 ]  Eu me despicarei desta insolência .
+      [ 510 ]  PASCALINO
+      [ 511 ]  Pois quem há de pagar por pouco , pague por muito .
+      [ 511 ]  ( Dá-lhe . )
+      [ 512 ]  MATÚSIO
+      [ 513 ]  Este que é o do ruço do Sancho deve fazer uma escritura de nunca mais pegar em pena , senão para escrever ao ruço que é seu irmão .
+      [ 514 ]  Saia cá para fora , senhor compositor de figuras novas .
+      [ 515 ]  CORNÉLIO
+      [ 516 ]  Admiro-me de que se tratem assim homens que ajudam Vossas Mercês a ganhar dinheiro .
+      [ 517 ]  Pois se nós não fôssemos , não haveria peças que representar .
+      [ 518 ]  MATÚSIO
+      [ 519 ]  As suas peças ajudam-nos a perder .
+      [ 520 ]  Ora diga-me , senhor cronista do ruço de Sancho : queria Vossa Mercê empestar-nos o teatro com semelhantes asneiras , quando queremos agradar ao público e diverti-lo ?
+      [ 521 ]  Promete já de não cair em outra , senão torno a metê-lo na cova da onça .
+      [ 522 ]  CORNÉLIO
+      [ 523 ]  Só por me deixarem ir , o prometo .
+      [ 524 ]  MATÚSIO
+      [ 525 ]  Pois marche já para fora .
+      [ 526 ]  PASCALINO
+      [ 527 ]  Leve sempre para os pequenos .
+      [ 527 ]  ( Dá-lhe . )
+      [ 528 ]  GELÁZIO
+      [ 529 ]  Mas assim como se castiga a estultícia , se deve premiar o merecimento .
+      [ 530 ]  AURÉLIA
+      [ 531 ]  Eu da minha parte já fiz o que me tocava .
+      [ 532 ]  PASCALINO
+      [ 533 ]  Pois eu também farei da minha .
+      [ 534 ]  Cantemos o louvor de um Poeta sem amor-próprio .
+      [ 535 ]  Filhas de Apolo , Descei do monte E à sua fronte Virentes louros Logo cingi .
+      [ 536 ]  A Lira de Ouro , O Pastor louro , Todo em ramada , Bem afinada , Lhe entregue aqui .
+      [ title: 
+      [ 537 ]  A arte de tourear ou o filho cavaleiro ]
+      [ 538 ]  Personagens
+      [ 539 ]  RODRIGO DE RANGINELLI LÉLIO , seu filho OLAIA , irmã de Lélio INÊS , irmã de Lélio SALVAGEM , criado dos ditos LUTÉRIA , criada ROBERTO , empresário Um mestre sapateiro Um mestre de obras
+      [ 540 ]  Forçados , povo e aguadeiros
+      [ 541 ]  Cena 1
+      [ 542 ]  ( Sala composta com cravo e cadeiras . )
+      [ 543 ]  RODRIGO
+      [ 544 ]  Meu filho , pelas heróicas ações é que os homens se conhecem .
+      [ 545 ]  Desempenha-me , filho ; e desempenha-te .
+      [ 546 ]  Eu já falei ao empresário e este brevemente virá saber a tua e minha resolução .
+      [ 547 ]  LÉLIO
+      [ 548 ]  Não se canse , meu pai : Eu não vou tourear .
+      [ 549 ]  RODRIGO
+      [ 550 ]  Filho , vê que todos os imperadores romanos souberam andar a cavalo , e é vergonha que um homem como eu tenha um filho que não desempenhe o caráter de seu pai .
+      [ 551 ]  Vai tourear , meu filho , vai tourear .
+      [ 552 ]  LÉLIO
+      [ 553 ]  Não vou tourear , meu pai , não vou .
+      [ 554 ]  RODRIGO
+      [ 555 ]  Se não fores por bem , irás por mal .
+      [ 556 ]  Não sabes quem eu sou ?
+      [ 557 ]  Não me chama todo o povo o façanhudo Rodrigo de Ranginelli ?
+      [ 558 ]  Não foi sempre notória a minha valentia ?
+      [ 559 ]  E queres , por covarde , degenerar de teu pai ?
+      [ 560 ]  De teu avô e bisavô não conta a fama mil portentosos feitos , heróicas resoluções ?
+      [ 561 ]  Teu tio , aquele grande homem , não se viu uma vez na Horta da Cera perseguido de dois cães de fila com quem lutou ?
+      [ 562 ]  Eu mesmo , em pequeno , como quem despedaça tigres no berço , não briguei com um famoso macaco que estava numa loja ao Poço Novo ?
+      [ 563 ]  E tu temes os brutos !
+      [ 564 ]  Vai tourear , meu filho .
+      [ 565 ]  Eu dei a minha palavra , e basta !
+      [ 566 ]  SALVAGEM
+      [ 567 ]  Senhor Lélio , não amofine seu pai .
+      [ 568 ]  Que teme ?
+      [ 569 ]  O morrer ?
+      [ 570 ]  Morra o homem e fique fama .
+      [ 571 ]  LÉLIO
+      [ 572 ]  Com que tem Vossa Mercê , meu pai , por coisa de brinco , vir um touro investir-me , e da cornígera fronte sacudido ir ao ar , e em ar de volantim cair abaixo , mostrando a todo o povo as minhas tripas , e levando por isso muita palma ?
+      [ 573 ]  É bom , mas ...
+      [ 574 ]  RODRIGO
+      [ 575 ]  Nem mas , nem mais mas .
+      [ 576 ]  Depois de ires mandado por teu pai , morrendo nas armas de um touro , morres nos braços da glória .
+      [ 577 ]  SALVAGEM
+      [ 578 ]  Tal glória tenham os meus inimigos .
+      [ 579 ]  LÉLIO
+      [ 580 ]  Digam-me , qual foi a glória que neste mundo tiveram duas saloias que ali para Sete-Rios foram mortas por um touro ?
+      [ 581 ]  RODRIGO
+      [ 582 ]  Tolo , tolo !
+      [ 583 ]  Que maior glória que ainda hoje falar-se nelas ?
+      [ 584 ]  Se não tivessem essa desgraça viriam à tua e minha lembrança ?
+      [ 585 ]  LÉLIO
+      [ 586 ]  Pois , meu pai , já que me quer sacrificar , por lhe fazer o gosto irei .
+      [ 587 ]  Mas só faço um reparo , que se a glória de morrer nas armas de um touro é tão grande , porque não tem Vossa Mercê também escolhido um domingo para participar de boléus tão gloriosos ?
+      [ 588 ]  SALVAGEM
+      [ 589 ]  É verdade , senhor meu amo .
+      [ 590 ]  Porque se não resolve a dar um alegrão ao povo ?
+      [ 591 ]  Que glória não teria Vossa Mercê em ir pelos ares , e eu em vê-lo ?
+      [ 592 ]  RODRIGO
+      [ 593 ]  Se não foram os meus achaques , ninguém primeiro estrearia aquela praça .
+      [ 594 ]  Que glória , que glória maior do que entrar ao som de fortes timbales e ressonantes trombetas , montado em um soberbo cavalo , com chapéu de plumas , fazendo uma altiva figura , seguido de vistosos capinhas , levando os vivas de todo o povo ?
+      [ 595 ]  Que glória !
+      [ 596 ]  Virem depois os reforçados pretos buscar os brutos que foram vítima da minha espada , ficando na praça o rasto do sangue , imortalizando o nome do cavaleiro !
+      [ 597 ]  SALVAGEM
+      [ 598 ]  E ser acompanhado do Neto , não vale nada ?
+      [ 599 ]  LÉLIO
+      [ 600 ]  Logo também ficaram imortalizados o hirsuto João Burro , o desengonçado Raiz de Abrota , o Mal Lavado e outros muitos desta pasmosa jerarquia , que foram à praça ?
+      [ 601 ]  RODRIGO
+      [ 602 ]  Esses , meu filho , estão eternizados com o ridículo nome de bobos , e não se devem confundir com aqueles que seriamente vão expor a sua arte ao maior aplauso , dos quais os nomes te apontaria se os ignorasses .
+      [ 603 ]  Na História Romana me lembro de imensos heróis como Júlio César que em andar de galope ninguém lhe excedeu ; Augusto sempre a passo metia o seu cavalo ; Nero a trote ; Calígula , que foi insigne em cabriolas ; Tibério , Cláudio , Galba , Othon , Vitélio , Tito , Vespasiano , Alexandre e Jacob Bates do nosso século .
+      [ 604 ]  LÉLIO
+      [ 605 ]  Que me quer dizer nisso ?
+      [ 606 ]  Que todos souberam andar a cavalo ?
+      [ 607 ]  Também eu muitas vezes na Rua dos Canos costumo alugá-lo .
+      [ 608 ]  Custa-me um cruzado novo , mas tiro-lhe bem do corpo .
+      [ 609 ]  Saio às sete da manhã galopando nele até à uma hora da noite , e no fim ainda me parece que o dono me deve restituir alguma coisa do tal cruzado novo .
+      [ 610 ]  RODRIGO
+      [ 611 ]  E achas bem feito tratares desse modo um pobre animal ?
+      [ 612 ]  LÉLIO
+      [ 613 ]  Ainda eu não faço o que muitos fazem .
+      [ 614 ]  Quantos rapazes vejo eu bailando a fofa em cima dos cavalos , esbarrando em quantas esquinas há , descravando as pedras das calçadas e os cravos das ferraduras !
+      [ 615 ]  SALVAGEM
+      [ 616 ]  Ah , senhor meu amo , tem muita razão o senhor Lélio !
+      [ 617 ]  O outro dia vi eu um pedaço de asno a cavalo pelo Caracol da Graça .
+      [ 618 ]  Enfraquecem de repente os dois brutos , e caem para a esquerda .
+      [ 619 ]  E às duas por três era o cavalo cavaleiro e o cavaleiro cavalo , já abraçados um com o outro .
+      [ 620 ]  Eu , que vi aos trambolhões aquelas duas máquinas terrestres , sem me mexer lhes disse debaixo : 'Cá os espero ! '
+      [ 621 ]  Meu dito , seus feitos .
+      [ 622 ]  Eram já seis horas da tarde e confessou-me o tal que nem ele nem o cavalo tinham comido mais que um especione pela manhã e que ia dali ainda ver uma moça a Benfica , que ia visitar a filha da sua lavadeira a Loures , que havia de ir falar a uma prima em Odivelas ; e que , em sendo uma hora da noite , ia entregar o cavalo na rua da Barroca , e depois a pé para sua casa , às Janelas Verdes .
+      [ 623 ]  RODRIGO
+      [ 624 ]  Ter cavalo e ir a pé para casa é como aquele que ia fazer a barba à outra banda por que lha faziam a dez réis !
+      [ 625 ]  Que , com a paga do barco , vintém cá , vintém lá , lhe saía por meio tostão .
+      [ 626 ]  LÉLIO
+      [ 627 ]  Esse homem não sabia quanto essa fazenda está em conta .
+      [ 628 ]  Na Ribeira Velha se acham barbas à vendagem .
+      [ 629 ]  RODRIGO
+      [ 630 ]  Barbas à vendagem !
+      [ 631 ]  LÉLIO
+      [ 632 ]  Sim , senhor .
+      [ 633 ]  De cada dez me faziam uma de graça .
+      [ 634 ]  Porém , sou mártir nas suas mãos .
+      [ 635 ]  SALVAGEM
+      [ 636 ]  Eu cá faço-a a mim , depois que um venerando barbeiro , não muito longe deste sitio , me meteu a minha cabeça debaixo do seu sovaco e com cada esfregação me punha a cara a uma banda .
+      [ 637 ]  Eu , que vi no princípio tanta fúria , gritei , dizendo-lhe : 'De uma vez , senhor Mestre ! '
+      [ 638 ]  Responde-me o venerando : 'Sim , senhor ! '
+      [ 639 ]  Torna-me a doer , torno-lhe a gritar : 'De uma vez , senhor Mestre' .
+      [ 640 ]  Torna-me a responder : 'Sim , senhor ! '
+      [ 641 ]  Eis que sinto vir a cara abaixo .
+      [ 642 ]  Levanto a voz : 'De uma vez , senhor Mestre !
+      [ 643 ]  De uma vez ! '
+      [ 644 ]  Ultimamente fez-me a barba , e contando-as por curiosidade , trinta e seis vezes me foi ao couro .
+      [ 645 ]  Enfim , senhor , depois que assentei , que esta gente leva couro e cabelo , só fazendo-a a mim me dou por bem servido .
+      [ 646 ]  RODRIGO
+      [ 647 ]  Pois , meu filho , gostoso estou da tua resolução .
+      [ 648 ]  Espero que domingo faças uma bonita tarde .
+      [ 649 ]  LÉLIO
+      [ 650 ]  Domingo não pode ser .
+      [ 651 ]  Quero exercitar-me em picaria e aprontar um brilhante vestido , que leva tempo a fazer .
+      [ 652 ]  RODRIGO
+      [ 653 ]  As lições de picaria no meu ruço ou macho , logo no quintal as tomarás .
+      [ 654 ]  Eu mesmo te ensinarei os preceitos , já de trote , já a passo garupa ao pilão , cara à parede , curveta , saltos mortais : e enfim tudo o mais que pertence a esta arte .
+      [ 654 ]  ( Fazendo ao vivo quanto diz , montado na bengala que traz . )
+      [ 655 ]  SALVAGEM
+      [ 655 ]  ( À parte . )
+      [ 656 ]  Ah , senhor Lélio , perdeu-se no seu pai um forte burro de nora !
+      [ 657 ]  LÉLIO
+      [ 658 ]  Senhor , eu me vou pôr de botas e esporas ainda que as minhas estão um tanto arrombadas .
+      [ 658 ]  ( Vai-se . )
+      [ 659 ]  SALVAGEM
+      [ 660 ]  Praza a Deus que algum touro lhe não arrombe o couro , que as botas ...
+      [ 661 ]  RODRIGO
+      [ 662 ]  Grande felicidade é a minha se consigo ver tourear o meu filho e ver as minhas filhas damas de um teatro , ganhando para os seus alfinetes .
+      [ 663 ]  SALVAGEM
+      [ 664 ]  Tem razão , tem razão .
+      [ 665 ]  Só para alfinetes , que para comer e vestir não falta ao depois quem lhes dê .
+      [ 666 ]  RODRIGO
+      [ 667 ]  Que dizes ?
+      [ 668 ]  SALVAGEM
+      [ 669 ]  Nada , nada , senhor , não digo nada .
+      [ 670 ]  As senhoras cá da casa são muito prendadas e bonitas .
+      [ 671 ]  Depois , tudo com o tempo se faz ...
+      [ 672 ]  RODRIGO
+      [ 672 ]  ( Querendo dar-lhe . )
+      [ 673 ]  Explica-te , senão ...
+      [ 674 ]  SALVAGEM
+      [ 675 ]  Ah , senhor , olhe não o tente o diabo !
+      [ 676 ]  Eu o que digo é que suas filhas damas de um teatro farão um bom negócio em que Vossa Mercê pode levar interesse .
+      [ 677 ]  RODRIGO
+      [ 678 ]  Cuidava que dizias ...
+      [ 679 ]  SALVAGEM
+      [ 680 ]  Nada , senhor , não digo isso .
+      [ 681 ]  Pois eu havia de dizer tal ?
+      [ 682 ]  Mas lembra-me que , com quatro cavalheiros que as procurem em casa , outros tantos que , acabando a ópera , venham rir e falar entre os bastidores , fará uma casa grossa .
+      [ 683 ]  RODRIGO
+      [ 684 ]  Ó patife , a mim dizes-me ...
+      [ 685 ]  SALVAGEM
+      [ 686 ]  Não digo , não , senhor , mas aqui cai um broche , acolá uma bolsa de dinheiro ...
+      [ 687 ]  Dali o jogo de fivelas de pedras que manda o Senhor Dom Fulano ...
+      [ 688 ]  Já o corte de seda de matizes , que manda o morgado lá de cima , homem rico , que morre por ouvir cantar ...
+      [ 689 ]  Já sete quartolas da primeira pinga , desta que faz gló , gló , gló , gló , tanto haja , tanto corre , que oferece às meninas o Senhor Ilhéu aparentado com as primeiras casas que alugou , etc .
+      [ 690 ]  RODRIGO
+      [ 691 ]  E ainda eu te ouço tanto atrevimento ?
+      [ 692 ]  Ora grande é a minha paciência !
+      [ 693 ]  Pois minhas filhas hão de aceitar coisa alguma , ou por serem damas de um teatro perdem a estimação ?
+      [ 694 ]  Não tem havido imensas deste trato honestas , civis , prudentes e de muito bom proceder ?
+      [ 695 ]  O teatro dá ou tira ?
+      [ 696 ]  Se as pessoas se conduzem bem nesta , ou naquela ocupação , não se lhes conhece o merecimento ?
+      [ 697 ]  SALVAGEM
+      [ 698 ]  Isso mesmo digo eu .
+      [ 699 ]  Por serem de merecimento é que serão presenteadas .
+      [ 700 ]  Porém , senhor , cá para cima tenho que só o dinheiro é quem triunfa de todas essas bagatelas .
+      [ 701 ]  Ora ouça esta : morreu o carrasco velho , e creio que de algum garrotilho maligno , pela muita esquinência que causou a algumas pessoas .
+      [ 702 ]  Vai senão quando , por sua morte - acham-se - lhe em dinheiro quinze peças de seis e quatro .
+      [ 703 ]  Pois não faltou quem quisesse ser parente do carrasco para a herança .
+      [ 704 ]  Enfim , senhor , o dinheiro é o mal e o bem de muita gente .
+      [ 705 ]  Com o dinheiro se come e bebe à regalada de Moura .
+      [ 706 ]  Com o dinheiro se veste e pelo dinheiro também se afoga muita gente .
+      [ 707 ]  E isto sucede àquelas forretas do dinheiro emburricado que deixam criar ferrugem à fechadura , parecendo-lhes que com facilidade acharão um galego que lhes leve a burra para o outro mundo .
+      [ 708 ]  RODRIGO
+      [ 709 ]  Para semelhante coisa , antes não ter dinheiro .
+      [ 710 ]  SALVAGEM
+      [ 711 ]  Assim , é mas sem dinheiro , nem a panela tem sal nem o vestido tem gosto .
+      [ 712 ]  O moço faz-se velho , o velho ainda mais do que é .
+      [ 713 ]  As raparigas não olham , e finalmente anda tudo numa cegueira e sensaboria .
+      [ 714 ]  RODRIGO
+      [ 715 ]  Estou tonto de te ouvir .
+      [ 716 ]  LÉLIO e OS DITOS
+      [ 717 ]  LÉLIO
+      [ 718 ]  Meu pai , o empresário já vem no princípio da nossa rua e creio que vem falar com Vossa Mercê e comigo .
+      [ 719 ]  RODRIGO
+      [ 720 ]  Bom , estimo muito .
+      [ 721 ]  E advirto-te que , quando se falar em preço , nada menos de sessenta e cinco moedas , que eu celebrarei o ajuste , teimando nisso mesmo .
+      [ 722 ]  E tuas irmãs para o teatro , uma de primeira dama , outra de segunda , irão por outro semelhante preço .
+      [ 723 ]  LÉLIO
+      [ 724 ]  Já agora estou por quanto Vossa Mercê quiser .
+      [ 725 ]  Mas eu quero no partido , que ele me dê um camarote , para levar as três filhas do nosso alfaiate que são três moças de chupeta e nesse dia querem-me deitar pós no cabelo .
+      [ 726 ]  Já se me ofereceram para concertar o meu chapéu e embainharem as embotoadeiras .
+      [ 727 ]  Enfim , as manas comigo não hão de ter trabalho algum .
+      [ 728 ]  Olhe , das raparigas que digo , a mais velha ainda há de tomar mestre , de francês , e , que em estando desembaraçada na língua , me há de dar algumas lições .
+      [ 729 ]  A mais moça pesponta que é um assombro , até faz camisas para os soldados .
+      [ 730 ]  E então muito poupada , gastar linhas não entende , tudo cose com o fio do mesmo pano .
+      [ 731 ]  Já me mostrou uma alcofa cheia de retalhos dos acréscimos dos fregueses que é para vender a uma saloia a troco de ovos que é para eu almoçar no dia em que for tourear .
+      [ 732 ]  RODRIGO
+      [ 733 ]  Fico-lhes muito obrigado pelos obséquios que te fazem , mas que me importam a mim as prendas das raparigas ?
+      [ 734 ]  Se lhes és obrigado , terás camarote .
+      [ 735 ]  LÉLIO
+      [ 736 ]  Eu não queria ir tourear , mas estou com minhas cócegas .
+      [ 737 ]  Nesse dia , caspité ! ,
+      [ 738 ]  há de ir o fato à rua .
+      [ 739 ]  ROBERTO e OS DITOS
+      [ 740 ]  ROBERTO
+      [ 741 ]  Dá licença , o senhor Rodrigo de Ranginelli ?
+      [ 742 ]  RODRIGO
+      [ 743 ]  Ora venha em boa hora , amigo e senhor Roberto .
+      [ 743 ]  ( Chamando . )
+      [ 744 ]  Lutéria !
+      [ 745 ]  Lutéria !
+      [ 746 ]  LUTÉRIA e OS DITOS
+      [ 747 ]  LUTÉRIA
+      [ 748 ]  Estava pondo as velas nos castiçais para a noite .
+      [ 749 ]  RODRIGO
+      [ 750 ]  Chama lá as meninas , que venham a falar ao senhor empresário .
+      [ 751 ]  Diga-me , senhor Roberto , como está ?
+      [ 751 ]  ( Vai-se Lutéria . )
+      [ 752 ]  ROBERTO
+      [ 753 ]  Cheio de melancolia . Em casa é só o meu divertimento ler os Contos de Marmontel , quatro laudas de Pope , os Idilios de Gessner e o Entremez do Sapateiro Surdo que tem passagens célebres .
+      [ 754 ]  E agora busco o recreio da sua casa , para nela ter o gosto de ouvir cantar as meninas ; e de caminho vejo o jeito que elas têm para o teatro , segundo Vossa Mercê me falou o mês passado .
+      [ 755 ]  RODRIGO
+      [ 756 ]  Minhas filhas têm muito lindas vozes , e sua mãe , enquanto foi viva , as acompanhou , e fazia um excelente concerto .
+      [ 757 ]  SALVAGEM
+      [ 757 ]  ( À parte . )
+      [ 758 ]  Ainda depois de morta cantou que era um portento !
+      [ 759 ]  RODRIGO
+      [ 759 ]  ( Chamando . )
+      [ 760 ]  Olaia , Inês !
+      [ 761 ]  Inês , Olaia !
+      [ 762 ]  INÊS , OLAIA e OS DITOS
+      [ 762 ]  ( Com mesuras e cortesias de política . )
+      [ 763 ]  INÊS e OLAIA
+      [ 764 ]  Como passa , senhor Roberto ?
+      [ 765 ]  ROBERTO
+      [ 766 ]  Um pouco melancólico .
+      [ 767 ]  E talvez isto proceda de muito café que bebo e frenesins que no corpo me tem metido o meu cabeleireiro por me fazer o anel da parte esquerda mais acima do que o outro .
+      [ 768 ]  LÉLIO
+      [ 769 ]  A tristeza , em havendo motivo , é invencível .
+      [ 770 ]  Há dois meses padeci muito essa moléstia , por uma rapariga me desprezar .
+      [ 771 ]  ROBERTO
+      [ 772 ]  Estimo que tenha alívios .
+      [ 773 ]  Senhor Rodrigo , conceda que estas senhoras cantem alguma coisa do que souberem .
+      [ 774 ]  RODRIGO
+      [ 775 ]  Inês não poderá cantar , pois se levantou há pouco de doente , mas Olaia o poderá satisfazer .
+      [ 776 ]  Canta , minha Olaia , alguma modinha das tuas , canta , minha filha .
+      [ 777 ]  OLAIA
+      [ 778 ]  Por satisfazer o seu gosto , direi a que me lembrar .
+      [ 778 ]  ( Canta . )
+      [ 779 ]  'De meus males o remédio , etc . '
+      [ 780 ]  TODOS
+      [ 781 ]  Bonito , bonito !
+      [ 782 ]  ROBERTO
+      [ 783 ]  Isto é o que me contenta .
+      [ 784 ]  RODRIGO
+      [ 785 ]  Que tal , senhor Roberto , que tal ?
+      [ 786 ]  ROBERTO
+      [ 787 ]  Muito bem , muito bem .
+      [ 788 ]  SALVAGEM
+      [ 789 ]  Ah !
+      [ 790 ]  Tempo , tempo !
+      [ 791 ]  Lembrou-me pela senhora Dona Olaia o tempo em que minha avó me acalentava no berço .
+      [ 792 ]  Tinha habilidade de fazer sono a quem nunca o tivesse .
+      [ 793 ]  ROBERTO
+      [ 794 ]  Vamos à representação .
+      [ 795 ]  Sabem algum pedaço de alguma comédia de cor ?
+      [ 796 ]  LÉLIO
+      [ 797 ]  Logo que morreu nossa mãe , passados alguns dias , fizemos em casa a Comédia de Artaxerxes , em que eu entrei mais elas .
+      [ 798 ]  SALVAGEM
+      [ 799 ]  E ao aliviar o luto , não se lembra , senhor Lélio , que se fizeram cá em casa As Amorosas Finezas ?
+      [ 800 ]  Olhe Vossa Mercê se ela não está no céu , não é pela falta de lhe representarem comédias pela sua alma .
+      [ 801 ]  LÉLIO
+      [ 802 ]  A mana Inês faça Ernesto , a mana Olaia , Eritreia .
+      [ 803 ]  Ora vejamos : Saiam dali .
+      [ 803 ]  ( Representam . )
+      [ 804 ]  INÊS
+      [ 805 ]  ' Adeus , ídolo adorado , Adeus , formosa Eritreia . '
+      [ 806 ]  OLAIA
+      [ 807 ]  ' Ernesto , ouve-me , detém-te . '
+      [ 808 ]  INÊS
+      [ 809 ]  ' Senhora , amante quisera , Atender-te , e largas horas Gastar na tua presença . '
+      [ 810 ]  SALVAGEM
+      [ 811 ]  ' E além disso toda a noite , Levada sem mais na vela ; Com dize tu , direi eu , Com requebros e toleimas , E a barriga como emplastro Prospegado nas costelas . '
+      [ 812 ]  OLAIA
+      [ 813 ]  ' Pois , Ernesto , que resguardo É este e novas cautelas ? '
+      [ 814 ]  LÉLIO
+      [ 815 ]  Mana , mexa mais com esses braços .
+      [ 816 ]  ROBERTO
+      [ 817 ]  Basta , basta .
+      [ 818 ]  Pisem o teatro um pouco .
+      [ 819 ]  RODRIGO
+      [ 820 ]  Façam que se retiram .
+      [ 821 ]  SALVAGEM
+      [ 821 ]  ( À parte . ) .
+      [ 822 ]  Parece-me que andam de chouto .
+      [ 823 ]  ROBERTO
+      [ 824 ]  Senhor Rodrigo , vamos ao ajuste .
+      [ 825 ]  Quanto hei de dar ao filho de Vossa Mercê , o senhor Lélio , pela tarde de touros ?
+      [ 826 ]  RODRIGO
+      [ 827 ]  Meninas , vão para dentro .
+      [ 828 ]  AMBAS
+      [ 829 ]  Servas suas , senhor Roberto .
+      [ 829 ]  ( Vão-se com mesura . )
+      [ 830 ]  LÉLIO
+      [ 831 ]  Menos de sessenta e cinco moedas , nem um real que lhes falte .
+      [ 832 ]  RODRIGO
+      [ 833 ]  Cala-te .
+      [ 834 ]  Senhor Roberto , parece-me que sessenta moedas ...
+      [ 835 ]  ROBERTO
+      [ 836 ]  Dessa me rio eu , senhor Rodrigo !
+      [ 837 ]  RODRIGO
+      [ 838 ]  O rapaz leva de cá vestido e não depende de Vossa Mercê de coisa alguma .
+      [ 839 ]  LÉLIO
+      [ 840 ]  Até já tenho umas raparigas , senhor Roberto , que me embainham as embotoadeiras , e no ajuste há de entrar um camarote para elas que vão lá acenar-me com os lenços nessa tarde .
+      [ 841 ]  SALVAGEM
+      [ 842 ]  Olhem que eu quero ser capinha , ou o Neto , bem que a minha cara é mais para avô , pelas muitas crianças que tem desmamado .
+      [ 843 ]  ROBERTO
+      [ 844 ]  Pois vamos ao certo .
+      [ 845 ]  Em quanto fica este ajuste ?
+      [ 846 ]  RODRIGO
+      [ 847 ]  Fique em cinqüenta .
+      [ 848 ]  LÉLIO
+      [ 849 ]  E o tal camarote ?
+      [ 850 ]  ROBERTO
+      [ 851 ]  Senhor Rodrigo , o senhor Lélio pode ficar bem e pode ficar mal ; e não se sabe se agradará ao povo .
+      [ 852 ]  LÉLIO
+      [ 853 ]  Com que eu agrado às moças , não hei de agradar aos homens ?
+      [ 854 ]  RODRIGO
+      [ 855 ]  Isto não está na conta ?
+      [ 856 ]  Irá por quarenta .
+      [ 857 ]  LÉLIO
+      [ 858 ]  E o camarote para as raparigas .
+      [ 859 ]  ROBERTO
+      [ 860 ]  Ora Vossa Mercê não está em razão e não temos nada feito .
+      [ 861 ]  RODRIGO
+      [ 862 ]  Dá as trinta e cinco moedas , olhe que não arreio .
+      [ 863 ]  ROBERTO
+      [ 863 ]  ( Retirando-se . )
+      [ 864 ]  Senhor Rodrigo , adeus .
+      [ 865 ]  Vossa mercê está muito despropositado .
+      [ 866 ]  RODRIGO
+      [ 867 ]  Venha cá , senhor Roberto .
+      [ 868 ]  Ora fiquemos nas trinta .
+      [ 869 ]  SALVAGEM
+      [ 870 ]  Pouco e pouco , vai tourear de graça .
+      [ 871 ]  ROBERTO
+      [ 872 ]  Numa palavra , senhor Rodrigo , eu não lhe dou mais que quatro moedas .
+      [ 873 ]  RODRIGO
+      [ 874 ]  Ora adeus , senhor Roberto .
+      [ 875 ]  ROBERTO
+      [ 876 ]  Adeus , senhor Rodrigo de Ranginelli .
+      [ 877 ]  RODRIGO
+      [ 878 ]  Vai pelas vinte .
+      [ 879 ]  ROBERTO
+      [ 880 ]  Nada , nada .
+      [ 881 ]  RODRIGO
+      [ 882 ]  Vai pelas quinze .
+      [ 883 ]  LÉLIO
+      [ 884 ]  E o camarote para as minhas apaixonadas .
+      [ 885 ]  ROBERTO
+      [ 886 ]  Nada , nada .
+      [ 887 ]  RODRIGO
+      [ 888 ]  Vai pelas dez .
+      [ 889 ]  ROBERTO
+      [ 890 ]  Menos , menos .
+      [ 891 ]  RODRIGO
+      [ 892 ]  Ora , senhor Roberto , fiquemos em seis .
+      [ 893 ]  ROBERTO
+      [ 894 ]  Sem camarote .
+      [ 895 ]  LÉLIO
+      [ 896 ]  Então não quero .
+      [ 897 ]  Antes as quatro com camarote do que as seis sem ele .
+      [ 898 ]  ROBERTO
+      [ 899 ]  Pois isso escolha .
+      [ 900 ]  LÉLIO
+      [ 901 ]  Eu quero camarote em todos os modos , que não quero que as moças desconfiem .
+      [ 902 ]  RODRIGO
+      [ 903 ]  Enfim , senhor Roberto , só por ter gosto de o meu filho ir desempenhar a minha geração , eu sou o que consinto no ajuste que Vossa Mercê faz .
+      [ 904 ]  SALVAGEM
+      [ 904 ]  ( À parte . )
+      [ 905 ]  Eu sempre assim o entendi .
+      [ 906 ]  Ainda espero ver este menino pelas praças como marmota mostrando-se a dez réis .
+      [ 907 ]  ROBERTO
+      [ 908 ]  Senhor Rodrigo , fique-se em paz .
+      [ 909 ]  O dito , o dito .
+      [ 910 ]  RODRIGO
+      [ 911 ]  Escravo de Vossa Mercê , senhor Roberto .
+      [ 912 ]  Palavra , palavra .
+      [ 913 ]  ROBERTO
+      [ 914 ]  Senhor Lélio queira o Céu seja feliz .
+      [ 914 ]  ( Vai-se . )
+      [ 915 ]  LÉLIO
+      [ 916 ]  Também me vou preparar .
+      [ 916 ]  ( Vai-se . )
+      [ 917 ]  RODRIGO
+      [ 918 ]  Salvagem , vai pôr o meu ruço pronto .
+      [ 919 ]  Antes que se feche a noite quero ir dar lição de picaria a meu filho .
+      [ 919 ]  ( Vai-se . )
+      [ 920 ]  SALVAGEM
+      [ 920 ]  ( À parte . )
+      [ 921 ]  O filho cavaleiro !
+      [ 922 ]  As filhas damas !
+      [ 923 ]  E o pai tolo !
+      [ 924 ]  É bom chicote !
+      [ 924 ]  ( Vai-se . )
+      [ 925 ]  Cena II
+      [ 926 ]  ( Quintal .
+      [ 927 ]  SALVAGEM com um cavalinho pela rédea , o qual virá de sela , cabeções , e guisa .
+      [ 928 ]  LÉLIO de botas e esporas e RODRIGO com um açoite na mão e bengala . )
+      [ 929 ]  RODRIGO
+      [ 930 ]  Como um cavalo , meu filho , é um animal falto de razão , é preciso daqui até domingo estudares os melhores autores que escreveram nesta matéria .
+      [ 931 ]  Temos Martim Redondo , Fernão Calvo , o insigne Rego , Garnier , Rosmaninho , e muitos outros .
+      [ 932 ]  Porém , para as primeiras luzes , monta , meu filho .
+      [ 933 ]  Em teu pai acharás toda a lição desta arte .
+      [ 934 ]  LÉLIO
+      [ 935 ]  Sim , senhor .
+      [ 936 ]  Montarei .
+      [ 936 ]  ( Montando com muito custo . )
+      [ 937 ]  Chega , Salvagem .
+      [ 938 ]  SALVAGEM
+      [ 939 ]  Não faça muito excesso , que há de ter retenção de urinas .
+      [ 940 ]  RODRIGO
+      [ 941 ]  Nada , nada .
+      [ 942 ]  Monta com velocidade , repara bem neste meu botar de perna .
+      [ 942 ]  ( Monta na bengala que traz . )
+      [ 943 ]  SALVAGEM
+      [ 943 ]  ( À parte . )
+      [ 944 ]  A tal perna é um vivo retrato de um estupor .
+      [ 945 ]  Não vi coisa mais própria .
+      [ 946 ]  RODRIGO
+      [ 947 ]  Reparaste na minha velocidade ?
+      [ 948 ]  Olha o nosso médico , ainda que velho e pesado , faz maravilhas .
+      [ 949 ]  SALVAGEM
+      [ 950 ]  Ora não posso ouvir isso .
+      [ 951 ]  Ontem quando cá esteve , que veio curar a cadelinha da Senhora Dona Olaia , ao montar na mula caiu três vezes .
+      [ 952 ]  E da última , para ficar em cima , andou de gatas na sela .
+      [ 953 ]  LÉLIO
+      [ 954 ]  Senhor , vamos ao que serve .
+      [ 955 ]  Onde há de ficar esta perna ?
+      [ 956 ]  SALVAGEM
+      [ 957 ]  No lugar em que a tem , de outro modo é dar que fazer a Santo Amaro .
+      [ 957 ]  ( À parte . )
+      [ 958 ]  Tolo o pai , tolo o filho !
+      [ 959 ]  RODRIGO
+      [ 960 ]  Manda a regra que essa perna ande estendida .
+      [ 961 ]  SALVAGEM
+      [ 962 ]  Está livre que isso suceda a quem for curto de nós .
+      [ 963 ]  RODRIGO
+      [ 964 ]  A ponta do pé para dentro .
+      [ 965 ]  LÉLIO
+      [ 966 ]  Para dentro , como ?
+      [ 967 ]  Se minha mãe em pequeno me dava , por eu não deitar os pés para fora ?
+      [ 968 ]  RODRIGO
+      [ 969 ]  Faze o que te digo .
+      [ 970 ]  LÉLIO
+      [ 970 ]  ( Apeando-se . )
+      [ 971 ]  Está bem .
+      [ 972 ]  Irão para dentro os bicos dos pés .
+      [ 973 ]  RODRIGO
+      [ 974 ]  Considera que o tourear não é outra coisa mais que buscar o perigo .
+      [ 975 ]  E só se tem por melhor quando há mais risco .
+      [ 976 ]  Verbi gratia , o touro mais forte este é que acredita não só o cavaleiro mas ainda o mesmo cavalo .
+      [ 977 ]  Meu filho , é preciso que as ações se unam com as verdadeiras regras .
+      [ 978 ]  A primeira que te insinuo é esta : que sempre na terceira cortesia chegues com a anca à trincheira , que desse modo levarás todo o aplauso da parte do Sol .
+      [ 979 ]  Ouvirás baterem-te as palmas , verás muitos trapinhos brancos e negros .
+      [ 980 ]  As mesmas senhoras dos camarotes não cessarão de gabar a tua figura , que nessa tarde me empenho a que vá um grande número delas .
+      [ 981 ]  Debruça-te do cavalo para fora quando , depois das cortesias , circulares a praça .
+      [ 982 ]  Corteja a todos , e tem cautela antes de untares as mãos aos capinhas .
+      [ 983 ]  SALVAGEM
+      [ 984 ]  Tem razão o senhor seu pai em fazer esta advertência que , em se lhes dando dinheiro , já não falta rojão , não se desampara ; o cavalo , e todos puxam pelo lenço para limpar a espada ao cavaleiro do sangue em que raras vezes se suja .
+      [ 985 ]  LÉLIO
+      [ 986 ]  Eu já pedi ao vosso vizinho alfaiate a espada com que mete ronda , que me diz é do seu quinto avô , espada que cortou oito piteiras e uma lasca da sua banca .
+      [ 987 ]  RODRIGO
+      [ 988 ]  Eu tenho ferro melhor para emprestar-te .
+      [ 989 ]  LÉLIO
+      [ 990 ]  Tomara nesse dia ter os rojões bem compridos .
+      [ 991 ]  RODRIGO
+      [ 992 ]  O preceito são de oito palmos .
+      [ 993 ]  LÉLIO
+      [ 994 ]  Não , não estou por isso !
+      [ 995 ]  Quero-os de quarenta e três , para o touro andar bem longe de mim .
+      [ 996 ]  SALVAGEM
+      [ 997 ]  Olhe Vossa Mercê que lá faz-se o que deve ser , e não o que cada um quer .
+      [ 998 ]  Ainda os mestraços se expõem a muito , quanto mais Vossa Mercê .
+      [ 999 ]  O outro dia fui eu para a parte da sombra .
+      [ 1000 ]  E confesso-lhe que nunca vi tanto picador por imaginação .
+      [ 1001 ]  Estavam cadetes que era um dilúvio , todos afetados de mestres de picaria .
+      [ 1002 ]  Uns gabavam o cavalo , outros desa- creditavam o cavaleiro .
+      [ 1003 ]  Um gritava : ' toca-lhe a perna direita ! ' saía dali outro , ' sacode-lhe essas esporas !
+      [ 1004 ]  corta a praça para a esquerda !
+      [ 1005 ]  ! ' ; e ficava ao pé de mim um velho tão encarniçado que a toda a hora dizia consigo : ' abranda-lhe a rédea !
+      [ 1006 ]  abranda-lhe a rédea ! '
+      [ 1007 ]  E estava com isto tão influído , que até uma vez que o cavaleiro foi esperar o touro a pé , sempre o velho dizia das trincheiras : ' abranda-lhe a rédea !
+      [ 1008 ]  abranda-lhe a rédea ! '
+      [ 1009 ]  Vieram depois do touro os negros condutores levá-lo para a chacina , e não cessava o serrazina do velho com o maldito ' abranda-lhe a rédea !
+      [ 1010 ]  abranda-lhe a rédea ! '
+      [ 1011 ]  LÉLIO
+      [ 1012 ]  Tenho dito .
+      [ 1013 ]  Menos de quarenta e três palmos , nem um dedo .
+      [ 1014 ]  RODRIGO
+      [ 1015 ]  Nada , meu filho .
+      [ 1016 ]  Tu falas como ignorante da arte .
+      [ 1017 ]  Não vês que com tanta distância não podes ter certeza na pontaria dos rojões ?
+      [ 1018 ]  E demais , nós não estamos em Espanha para tourear de vara larga , nem de semelhante modo eu te posso ensinar .
+      [ 1019 ]  Não porque o ignore , mas porque sei só para mim .
+      [ 1020 ]  SALVAGEM
+      [ 1021 ]  O senhor seu pai tem razão .
+      [ 1022 ]  Por aquela regra geral de cada terra com seu uso e etc . , e como estamos em Portugal , há que tourear com rojões de oito palmos .
+      [ 1023 ]  RODRIGO
+      [ 1024 ]  Como ele os não manda fazer à sua custa , é de tourear com os que lhe derem , ainda que sejam de dois palmos .
+      [ 1025 ]  SALVAGEM
+      [ 1026 ]  E até , se for preciso , a murro seco .
+      [ 1027 ]  RODRIGO
+      [ 1028 ]  Ora monta .
+      [ 1029 ]  Endireita-me esse corpo .
+      [ 1030 ]  Como os freios , por brandos que sejam , sempre são molestos ao cavalo , como diz o autor Pedro de Aguiar , é preciso modificar-lhe a mão .
+      [ 1031 ]  Ora anda para diante .
+      [ 1032 ]  Faze de conta que ali é de onde deves fazer as cortesias .
+      [ 1033 ]  LÉLIO
+      [ 1034 ]  E quem hão de ser os homens que ajoelham ?
+      [ 1035 ]  RODRIGO
+      [ 1036 ]  Eu e o nosso criado Salvagem .
+      [ 1037 ]  LÉLIO
+      [ 1038 ]  Ora demos princípio .
+      [ 1038 ]  ( Faz a primeira cortesia . )
+      [ 1039 ]  RODRIGO
+      [ 1040 ]  Nada , nada .
+      [ 1041 ]  Esse tirar do chapéu não está bem .
+      [ 1042 ]  Repara em mim .
+      [ 1042 ]  ( Monta a bengala e faz a cortesia primeira . )
+      [ 1043 ]  LÉLIO
+      [ 1044 ]  Ah !
+      [ 1045 ]  Ele é assim ?
+      [ 1046 ]  Ora lá vai .
+      [ 1047 ]  RODRIGO
+      [ 1048 ]  Abranda-lhe a rédea !
+      [ 1049 ]  Abranda-lhe a rédea !
+      [ 1049 ]  ( Faz a Segunda . )
+      [ 1050 ]  SALVAGEM
+      [ 1051 ]  Ai que nosso amo também é dos que dizem : ' abranda-lhe a rédea !
+      [ 1052 ]  abranda-lhe a rédea ! '
+      [ 1053 ]  LÉLIO
+      [ 1054 ]  Vai assim bom , senhor ?
+      [ 1055 ]  RODRIGO
+      [ 1056 ]  Estende-me essas coxas das pernas !
+      [ 1057 ]  Fecha-me esses joelhos !
+      [ 1058 ]  Levanta-me esse rosto !
+      [ 1059 ]  Iguala esses cotovelos !
+      [ 1060 ]  Olha para as duas orelhas do cavalo !
+      [ 1061 ]  Leva firme esse corpo !
+      [ 1062 ]  Levanta as pontas dos pés !
+      [ 1063 ]  Sustém essa rédea !
+      [ 1064 ]  Abranda-lhe a rédea !
+      [ 1064 ]  ( Vai Lélio andando . )
+      [ 1065 ]  SALVAGEM
+      [ 1066 ]  Ah , senhor Rodrigo , Vossa Mercê , à ciência que mostra , bem parece que teve cavalo de aluguel .
+      [ 1067 ]  RODRIGO
+      [ 1068 ]  Tenho feito nisto muito estudo .
+      [ 1069 ]  Ora pois , filho , já sabes como são as cortesias .
+      [ 1070 ]  Agora circula a praça deste modo .
+      [ 1070 ]  ( Rodeia Rodrigo o teatro com o filho , montado na bengala . )
+      [ 1071 ]  Bem , bem .
+      [ 1072 ]  Aqui , meu filho , levarás multa palmada de todos os homens dos bolos e das quartas de água .
+      [ 1072 ]  ( Rodrigo batendo palmas . )
+      [ 1073 ]  LÉLIO
+      [ 1074 ]  Agora quem há de ser o touro para me investir ?
+      [ 1075 ]  RODRIGO
+      [ 1076 ]  Eu , ou Salvagem ?
+      [ 1077 ]  SALVAGEM
+      [ 1078 ]  Irra , que desde que me entendo , sempre fui talhado para homem , e não para bruto !
+      [ 1079 ]  RODRIGO
+      [ 1080 ]  Investe tu para que o rapaz se desembarace .
+      [ 1081 ]  E tu , Lélio , toma a minha bengala , que de rojão te poderá servir .
+      [ 1082 ]  LÉLIO
+      [ 1083 ]  Ora investe lá .
+      [ 1084 ]  ( Salvagem faz que investe mas furtando-lhe sempre o corpo . )
+      [ 1085 ]  RODRIGO
+      [ 1086 ]  Corpo atrás !
+      [ 1087 ]  Volta a perna !
+      [ 1088 ]  Esse chapéu bem posto nos olhos !
+      [ 1089 ]  O bico carregado para a parte direita !
+      [ 1090 ]  Bom , bom .
+      [ 1091 ]  Ah , cão , que perdeste a sorte !
+      [ 1092 ]  Olha o cavalo , que anda deitado !
+      [ 1093 ]  Põe-no em pé !
+      [ 1094 ]  SALVAGEM
+      [ 1095 ]  Pois ele não está em pé , senhor ?
+      [ 1096 ]  Que mais quer de um pobre cavalo que talvez ainda hoje não pusesse olho na cevada ?
+      [ 1097 ]  Eu conhecia um rapaz que morria por ter cavalo .
+      [ 1098 ]  Vendeu uns trastes , comprou um arenque .
+      [ 1099 ]  Saía então ele de noite com uma alcofa apanhando pelas ruas cascas de melão e melancia para sustento do cavalo .
+      [ 1100 ]  RODRIGO
+      [ 1101 ]  Deixa-te de graças .
+      [ 1102 ]  Pára , Lélio , pára !
+      [ 1103 ]  Corpo atrás !
+      [ 1104 ]  Lá perdeste outra sorte !
+      [ 1105 ]  Segura-lhe a mão esquerda , para andares de galope !
+      [ 1106 ]  LÉLIO
+      [ 1107 ]  Se os touros não investem mais do que isto , então estou bem com eles .
+      [ 1107 ]  ( Apeia-se . )
+      [ 1108 ]  SALVAGEM
+      [ 1109 ]  Senhor Rodrigo , Vossa Mercê fez de mim Júpiter , pois achando-me há tanto tempo homem , hoje por seu respeito estou convertido em touro .
+      [ 1110 ]  SAPATEIRO e OS DITOS
+      [ 1111 ]  SAPATEIRO
+      [ 1112 ]  Senhor vizinho , acuda com toda a pressa que temos fogo !
+      [ 1112 ]  ( Sai LUTÉRIA com as mãos na cabeça . )
+      [ 1113 ]  LUTÉRIA
+      [ 1114 ]  Senhor Rodrigo , temos fogo em casa !
+      [ 1115 ]  RODRIGO
+      [ 1116 ]  Fogo ?
+      [ 1117 ]  Fogo , rapariga ?
+      [ 1118 ]  SAPATEIRO
+      [ 1119 ]  Sim , senhor , está muito ateado .
+      [ 1120 ]  INÊS , OLAIA e OS DITOS
+      [ 1121 ]  INÊS
+      [ 1122 ]  Acuda , meu pai , que temos fogo na chaminé !
+      [ 1123 ]  OLAIA
+      [ 1124 ]  Lélio , vem acudir , que está muito ateado !
+      [ 1125 ]  LUTÉRIA
+      [ 1126 ]  Olhe , senhor Rodrigo , pegou na tigela do repolho que tinha ao lume , e pegou com tanta força , que tem ardido quase todo o ladrilho da chaminé .
+      [ 1127 ]  SAPATEIRO
+      [ 1128 ]  Acuda , acuda , senhor Rodrigo , que já estão tocando com toda a pressa !
+      [ 1129 ]  LÉLIO
+      [ 1130 ]  Vou acudir aos escritos de uma rapariga que tenho na gaveta do meu quarto .
+      [ 1131 ]  MESTRE-DE-OBRAS , FORÇADOS BOMBAS e AGUADEIROS
+      [ 1132 ]  MESTRE-DE-OBRAS
+      [ 1133 ]  Entrem !
+      [ 1134 ]  Cortem !
+      [ 1135 ]  Botem abaixo !
+      [ 1136 ]  Destruam tudo !
+      [ 1137 ]  SALVAGEM
+      [ 1138 ]  Isso não é acudir , é destruir .
+      [ 1139 ]  MESTRE-DE-OBRAS
+      [ 1140 ]  Cale-se lá , deixe ir com o costume .
+      [ 1141 ]  Sempre nestas ocasiões se destroem muitas coisas sem necessidade .
+      [ 1142 ]  SALVAGEM
+      [ 1143 ]  Isso agora é outro caso .
+      [ 1144 ]  Entrem !
+      [ 1145 ]  Cortem !
+      [ 1146 ]  Botem abaixo !
+      [ 1147 ]  Destruam tudo !
+      [ 1148 ]  VOZES DENTRO
+      [ 1149 ]  UMAS
+      [ 1150 ]  Venha água !
+      [ 1151 ]  Venha água !
+      [ 1152 ]  OUTRAS
+      [ 1153 ]  Cordas e escadas !
+      [ 1154 ]  OUTRAS
+      [ 1155 ]  Um colchão molhado !
+      [ 1156 ]  TODOS
+      [ 1157 ]  Vamos evitar tanta ruína !
+      [ 1158 ]  ( PANO ABAIXO . )
+      [ title: 
+      [ 1159 ]  A casa de pasto ]
+      [ 1160 ]  Personagens
+      [ 1161 ]  Um MORGADO de aldeia Um OFICIAL Um ESTUDANTE , ilhéu CAREIRO , patrão da casa de pasto PIRANGUEIRO , seu moço DONA LABUZADA , filha de Dona Fusca DONA TRAPALHONA , filha de Dona Fusca DONA FUSCA BISCAINHA , criada Um alcaide Colarejas , ronda e povo
+      [ 1162 ]  Cena I
+      [ 1163 ]  ( Quarto de locanda , com mesa e cadeiras , OFICIAL ao centro , de cabeleira na mão , concertando-a com um Pente .
+      [ 1164 ]  A um lado , o MORGADO , lavando as mãos em um alguidarinho vidrado .
+      [ 1165 ]  do outro lado , o ESTUDANTE pondo a volta e a capinha a um espelho .
+      [ 1166 ]  O OFICIAL e o MORGADO em mangas de camisa .
+      [ 1167 ]  Cantam todos o seguinte terceto . )
+      [ 1168 ]  MORGADO
+      [ 1169 ]  Eu quero ir com pressa , As unhas cortando As mãos lavando , Moças namorar .
+      [ 1170 ]  ESTUDANTE
+      [ 1171 ]  Eu quero , contente , A capa compondo , Esta volta pondo , da vida ir tratar .
+      [ 1172 ]  CAPITÃO
+      [ 1173 ]  Com fúria me apronto .
+      [ 1174 ]  Vejo-me ao espelho .
+      [ 1175 ]  Não sou muito velho , Posso ir passear .
+      [ 1176 ]  TODOS
+      [ 1177 ]  Aqui pouco vale O ser cavalheiro .
+      [ 1178 ]  Faltas de dinheiro Me fazem penar .
+      [ 1179 ]  MORGADO
+      [ 1180 ]  Agora acabo de crer que tenho umas mãos bem talhadas .
+      [ 1181 ]  Bem talhadas mãos .
+      [ 1182 ]  Que brancura !
+      [ 1183 ]  Que brancura !
+      [ 1184 ]  Tem reparado nas minhas mãos , senhor estudante ?
+      [ 1185 ]  Veja Vossa Mercê este dedo com um anel maltês , se deixarão todas as moças de invejar as minhas mãos ?
+      [ 1186 ]  ESTUDANTE
+      [ 1187 ]  Tomara-lhe os meus cuidados , senhor Morgado .
+      [ 1188 ]  Com que vossa Mercê vê as aflições em que estamos , com falta de dinheiro , e Vossa Mercê ...
+      [ 1189 ]  MORGADO
+      [ 1190 ]  Vossa Mercê ?
+      [ 1191 ]  Que diabo de falar é esse ?
+      [ 1192 ]  Vossa Mercê , senhor Morgado , Vossa Mercê cá , Vossa Mercê lá !
+      [ 1193 ]  Como se andássemos na escola .
+      [ 1194 ]  Vossa Mercê a um homem da minha qualidade , a um homem ilustre , a um homem fidalgo , a um homem ...
+      [ 1195 ]  Enfim , a um Morgado lá de cima faz Vossa Mercê andar cá por baixo com um Vossa Mercê ?
+      [ 1196 ]  Já ontem , na partida de Dona Tarela , me deu esse tratamento , e o que me suspendeu , senhor Capa Curta , de lhe tomar satisfação , foi o lembrar-me que estamos companheiros nesta casa de pasto .
+      [ 1197 ]  E se Vossa Mercê veio das Ilhas para estudar e fazer-se gente , eu já o sou , e vim da minha terra a requerimentos .
+      [ 1198 ]  ESTUDANTE
+      [ 1199 ]  Senhor Morgado , menos calotes , que logo assentam bem as senhorias .
+      [ 1200 ]  Parece-lhe bonito chegar o sapateiro : 'aos pés de Vossa Senhoria aquele resto' ; vir o cabeleireiro : 'Deus guarde a Vossa Senhoria a paga de três meses' ; ao mesmo tempo , o alfaiate : 'o dinheiro daquele vestido que comprou em segunda mão' ; e sobretudo aquele homem a quem Vossa Senhoria chupou um relógio emprestado e o mandou empenhar no Café Neutral , vindo uma e muitas vezes ao nosso quarto ?
+      [ 1201 ]  Com que ânimo lhe dará esta homem Senhoria ?
+      [ 1202 ]  MORGADO
+      [ 1203 ]  Com que ânimo ?
+      [ 1204 ]  Essa é boa !
+      [ 1205 ]  O senhor estudante quanto mais estuda menos sabe .
+      [ 1206 ]  Todas essas figuras , a quem devo , me seguram mais a nobreza .
+      [ 1207 ]  Vossa Mercê , que sabe ao que eles vêm , parece-lhe mal .
+      [ 1208 ]  Mas toda essa vizinhança , que vê a imensa gente que me procura , com razão dirá : 'o Morgado que está na casa de pasto é bem procurado ; tem muito dependente' .
+      [ 1209 ]  E , cuidando que eles buscam a minha proteção , ninguém me verá que me não diga : 'quero obedecer a Vossa Senhoria , estimo que passe bem Vossa Senhoria , escravo de Vossa Senhoria' .
+      [ 1210 ]  As mesmas moças das janelas : umas , 'é perfeito Sua Senhoria' ; outras , fazendo levantar as manas , 'venham ver , venham ver , lá chegou à janela do quarto Sua Senhoria' .
+      [ 1211 ]  Ah , senhor Capitão , não reparou ontem , na partida de Dona Tarela , dizer aquela menina de testa grande àquela que tinha só um olho : 'Sua Senhoria é bem falante ' ?
+      [ 1212 ]  Meu amigo , eu não sou tolo , estudei Gramática e Retórica .
+      [ 1213 ]  Reparei ontem no senhor estudante dizer errado um texto latino que meteu na conversa .
+      [ 1214 ]  Cá pronuncia-se o latim deste modo : ( Repare nesta expedição . )
+      [ 1215 ]  Forte ad Coimbram venit de monte novatus Ut matriculetur , nomen si rite recordor Jão Fernandes erat .
+      [ 1216 ]  Patris misere suorum Ut post formatus Doctor foret honra parentum .
+      [ 1217 ]  Palito Metrico , folhas 3 , capítulo 1 .
+      [ 1218 ]  CAPITÃO
+      [ 1219 ]  Sim , senhor .
+      [ 1220 ]  Sim , senhor .
+      [ 1221 ]  Anda pelo latim como quem anda por sua casa .
+      [ 1222 ]  Leu por Calepino encadernado em carneira .
+      [ 1223 ]  MORGADO
+      [ 1224 ]  Quando Vossa Mercê pegou abêcê já eu tinha de cor a Arte de Manuel Álvares e ninguém soube , como eu , petas dos arrieiros de Coimbra .
+      [ 1225 ]  ESTUDANTE
+      [ 1226 ]  Senhor Morgado , tudo está bom .
+      [ 1227 ]  Mas eu estou sem dinheiro , falando com amizade , você sem dinheiro e o companheiro Capitão sem dinheiro .
+      [ 1228 ]  Crescem as bazófias , tardam as mesadas , e essas diminutas .
+      [ 1229 ]  Três quartos de vinho que me vieram da Ilha tomaram-mos por perdidos , porque os tirei por alto .
+      [ 1230 ]  Não tenho vintém .
+      [ 1231 ]  Queria ostentar de cavalheiro para com os de cá , e não posso .
+      [ 1232 ]  Estamos em dívida nesta casa , e não sei que fim terá esta história .
+      [ 1233 ]  MORGADO
+      [ 1234 ]  Você de tudo se aflige .
+      [ 1235 ]  Dez moedas em dinheiro , assentes num papel ou em dívida , tudo são dez moedas .
+      [ 1236 ]  Nada de amofinações , respirar livre , respirar livre .
+      [ 1237 ]  Basta nestas casas a palavra 'morgado' para tudo andar a três de fundo .
+      [ 1238 ]  O que eu quero é que você diante de gente me dê o meu tratamento .
+      [ 1239 ]  CAPITÃO
+      [ 1240 ]  Que tratamento ?
+      [ 1241 ]  Que tratamento ?
+      [ 1242 ]  Ainda que somos companheiros , não posso deixar de perder a paciência com as afetadas fidalguias , de alforje .
+      [ 1243 ]  Homem que quer Senhoria não come em uma tenda sardinhas fritas como você ontem comeu .
+      [ 1244 ]  MORGADO
+      [ 1245 ]  Você , que me viu , estaria de outra parte comendo outras tantas .
+      [ 1246 ]  CAPITÃO
+      [ 1247 ]  Mas eu não quero Senhoria , suposto a podia ter .
+      [ 1248 ]  E quando me vem uma condessa de doces , reparto com os amigos e não os como debaixo dos lençóis .
+      [ 1249 ]  ESTUDANTE
+      [ 1250 ]  A Vossa Mercê ou a Vossa Senhoria , sim senhor , estou enjoado de sofrer despropósitos .
+      [ 1251 ]  E se soubera que era tão vilão não me metia nesta casa de pasto com tal sociedade .
+      [ 1252 ]  MORGADO
+      [ 1252 ]  ( Gritando . )
+      [ 1253 ]  Ó cão que o esgano !
+      [ 1254 ]  A mim , vilão !
+      [ 1255 ]  Se quer saber quem sou , procure na minha província a fama que tem este Morgado : lá verá o meu palácio , lá verá a minha cavalharice .
+      [ 1256 ]  Repare lá nas minhas bestas , veja as armas da minha sege , as librés dos meus lacaios .
+      [ 1257 ]  Lá nunca faltou este Morgado nas melhores funções ; jantares e mais jantares .
+      [ 1258 ]  ESTUDANTE
+      [ 1259 ]  Sim , senhor , eu tenho notícia .
+      [ 1260 ]  Um patrício seu me disse que os ia comer à casa alheia , de que lhe provém o ser de alcunha o Morgado Tolineiro .
+      [ 1261 ]  CAPITÃO
+      [ 1262 ]  Enfim , haja moderação .
+      [ 1263 ]  Cuidemos em tapar a boca ao patrão desta casa que está desesperado por dinheiro .
+      [ 1264 ]  Indo-lhe pedir um pouco de chá , respondeu-me asperamente na cozinha que avisasse os companheiros , que desde que entramos nesta casa lhe devemos cinco meses , que tem um rol de cento e quarenta e tantos mil réis de todos os que tem em casa , que ninguém lhe paga e que não tem com que compre na Ribeira o peixe ou a hortaliça .
+      [ 1265 ]  Aqui para nós , ele tem razão .
+      [ 1266 ]  MORGADO
+      [ 1267 ]  Pois não respeita a minha Senhoria para deixar de pedir dinheiro ?
+      [ 1268 ]  ESTUDANTE
+      [ 1269 ]  Ele respeitá-lo - ia se ao jantar e à ceia , por peixe ou carne , lhe desse a comer um prato de Senhorias .
+      [ 1270 ]  Mas como a ele na Ribeira ninguém lhe dá Senhoria , puxa pela bolsa , e com moeda corrente paga ao açougue e à peixeira .
+      [ 1271 ]  MORGADO
+      [ 1272 ]  Ó Pirangueiro !
+      [ 1273 ]  Pirangueiro !
+      [ 1274 ]  PIRANGUEIRO e OS DITOS
+      [ 1275 ]  PIRANGUEIRO
+      [ 1276 ]  Senhor , estava limpando esta caçarola .
+      [ 1277 ]  MORGADO
+      [ 1278 ]  A toda a pressa quero cear , que tenho que fazer .
+      [ 1279 ]  PIRANGUEIRO
+      [ 1280 ]  E os senhores também ?
+      [ 1281 ]  AMBOS
+      [ 1282 ]  Sim , traze ceia para nós .
+      [ 1283 ]  PIRANGUEIRO
+      [ 1284 ]  Que há de querer o senhor estudante ?
+      [ 1285 ]  ESTUDANTE
+      [ 1286 ]  Dois ovos fritos e meio quartilho de vinho .
+      [ 1287 ]  PIRANGUEIRO
+      [ 1288 ]  E Vossa Mercê , senhor Capitão ?
+      [ 1289 ]  CAPITÃO
+      [ 1290 ]  Uma posta de cavala e duas laranjas .
+      [ 1291 ]  PIRANGUEIRO
+      [ 1292 ]  E Vossa Mercê , senhor Morgado ?
+      [ 1293 ]  MORGADO
+      [ 1294 ]  Vossa Mercê a mim ?
+      [ 1295 ]  Já te disse uma e muitas vezes que tenho Senhoria .
+      [ 1296 ]  PIRANGUEIRO
+      [ 1297 ]  Perdoe Vossa Senhoria .
+      [ 1298 ]  Vossa Senhoria que há de cear ?
+      [ 1299 ]  Veja Vossa Senhoria o que quer .
+      [ 1300 ]  Tudo se fará para Vossa Senhoria .
+      [ 1301 ]  Eu não me lembrava que Vossa Senhoria tinha Senhoria .
+      [ 1302 ]  Com a sua advertência terá sempre de minha boca Senhoria .
+      [ 1303 ]  Em mim tem Vossa Senhoria um criado , que serve por gosto a Vossa Senhoria .
+      [ 1304 ]  Assim Vossa Senhoria me desse uns calções , que tenho estes muito rotos que eu agradeceria a Vossa Senhoria ...
+      [ 1305 ]  MORGADO
+      [ 1306 ]  Dar , não posso .
+      [ 1307 ]  Ainda vendidos te faço a esmola de te acudir com eles .
+      [ 1308 ]  Dize ao patrão que desconte do meu rol por eles três tostões que ainda te botam este Verão fora com uns fundilhos .
+      [ 1309 ]  ( PIRANGUEIRO pega nos calções muito rotos e com o pé mata sutilmente um ...
+      [ 1310 ]  que lhe achou e diz : )
+      [ 1311 ]  PIRANGUEIRO
+      [ 1312 ]  Se Vossa Senhoria ainda os traz , eu não quero o incômodo de Vossa Senhoria .
+      [ 1313 ]  Se Vossa Senhoria tira a substância aos seus criados como tira aos seus vestidos , estão bem aviados com Vossa Senhoria .
+      [ 1314 ]  Aqui não há que escolher , é calção
+      [ 1314 ]  ( Virando-os . )
+      [ 1315 ]  que tem mais de vinte pernas .
+      [ 1316 ]  Por toda a parte tem entrada .
+      [ 1317 ]  Mas diga Vossa Senhoria o que ceia .
+      [ 1318 ]  MORGADO
+      [ 1319 ]  Chama teu patrão .
+      [ 1320 ]  PIRANGUEIRO
+      [ 1321 ]  Sim , senhor .
+      [ 1322 ]  Servo de Vossa Senhoria .
+      [ 1323 ]  Guarde Deus a Vossa Senhoria .
+      [ 1324 ]  Passe Vossa Senhoria muito bem .
+      [ 1324 ]  ( Vai-se com muitas cortesias . )
+      [ 1325 ]  ESTUDANTE
+      [ 1326 ]  Senhor Morgado , não meta o caso à bulha .
+      [ 1327 ]  Eu quero mandar empenhar os meus livros e a minha batina para ajuda do pagamento deste homem , e Vossa Mercê veja como há de acomodar este patrão com algum dinheiro .
+      [ 1328 ]  MORGADO
+      [ 1329 ]  Nada de amofinações , respirar livre , respirar livre .
+      [ 1330 ]  ESTUDANTE
+      [ 1331 ]  Pois não lhe dão abalo estas coisas ?
+      [ 1332 ]  MORGADO
+      [ 1333 ]  Estava bem aviado se por dever a um homem me punha cheio de melancolia até aos olhos .
+      [ 1334 ]  Desde o berço o meu natural é ser alegre .
+      [ 1335 ]  Respirar livre , respirar livre .
+      [ 1336 ]  ESTUDANTE
+      [ 1337 ]  Quod natura dat , nemo negare potest
+      [ 1338 ]  Costumou-se aos calos , não há erva que lhos cure .
+      [ 1339 ]  MORGADO
+      [ 1340 ]  Conversemos em outra coisa .
+      [ 1341 ]  Murmuremos um bocado da função da quinta-feira .
+      [ 1342 ]  Enormes caras se viam naquela assembléia .
+      [ 1343 ]  CAPITÃO
+      [ 1344 ]  É verdade , caras bem enormes , bem amarelas .
+      [ 1345 ]  Pareciam que não dormiam há dez noites .
+      [ 1346 ]  ESTUDANTE
+      [ 1347 ]  Com os penteados , fazem-se bichos do mato .
+      [ 1348 ]  Aquela que levava o chapéu de esteira de bico adiante ia o diabo .
+      [ 1349 ]  MORGADO
+      [ 1350 ]  Pois a do vestido de chita parecia mesmo a cortina da nossa alcova .
+      [ 1351 ]  ESTUDANTE
+      [ 1352 ]  Eu gostei muito daquela que lhe rebentaram os atilhos da forma e lhe caiu no chão .
+      [ 1353 ]  CAPITÃO
+      [ 1354 ]  Fizeram reparo em uma que trazia gebilé solto ?
+      [ 1355 ]  Tinha por baixo um colete tão sujo que suponho era a morada de quantas pulgas e percevejos há em Lisboa .
+      [ 1356 ]  E como estava presumida !
+      [ 1357 ]  ESTUDANTE
+      [ 1358 ]  Essa foi a que caiu a fazer a mesura do minuete .
+      [ 1359 ]  Tão , baixa a quis fazer que se assentou no chão .
+      [ 1360 ]  MORGADO
+      [ 1361 ]  E aquele sujeito que se ajoelhou ao pé dela , não repararam ?
+      [ 1362 ]  Com uma sobrecasaca que precisava caudatário .
+      [ 1363 ]  E o dono da casa desvanecido porque as filhas cantavam ao cravo .
+      [ 1364 ]  CAPITÃO
+      [ 1365 ]  E a tia desdentada , cheia de cabelos brancos , no canto da parte esquerda a namorar-me ?
+      [ 1366 ]  ESTUDANTE
+      [ 1367 ]  Devia considerar que já pode ser desengano do mundo .
+      [ 1368 ]  Não falemos no chá .
+      [ 1369 ]  Mesmo chá de ópio .
+      [ 1370 ]  MORGADO
+      [ 1371 ]  De ópio assim é , que tomar chá é dar ópio às tripas .
+      [ 1372 ]  ESTUDANTE
+      [ 1373 ]  É o mesmo que quem come tremoços ou caranguejos , que toma ópio pelas suas mãos .
+      [ 1374 ]  Repararam no bule ?
+      [ 1375 ]  CAPITÃO
+      [ 1376 ]  Pois o açúcar era mascavado .
+      [ 1377 ]  MORGADO
+      [ 1378 ]  Eis aqui de que serve dar funções em casa .
+      [ 1379 ]  Se a que fez os anos nos não convidasse , não retalharíamos tanto a função .
+      [ 1380 ]  ESTUDANTE
+      [ 1381 ]  Depois de murmurar como nós , é que faz o escrúpulo .
+      [ 1382 ]  CAREIRO e OS DITOS
+      [ 1383 ]  CAREIRO
+      [ 1384 ]  Disse-me o moço que me chamavam .
+      [ 1385 ]  Que pretendem , meus senhores ?
+      [ 1386 ]  MORGADO
+      [ 1387 ]  Senhor Careiro , eu mandei-o chamar porque quero ajustar contas e saber que lhe devemos de cinco meses que aqui estamos .
+      [ 1388 ]  CAREIRO
+      [ 1389 ]  Pelos róis se mostra a quantia de setenta mil e novecentos réis , não falando em meio tostão de carne e um vintém de sopa que Vossa Senhoria mandou dar àquelas senhoras que o procuraram .
+      [ 1390 ]  MORGADO
+      [ 1391 ]  Meteu na conta aquela cabeça de pargo cediça que me disse estava fresca , por que me levou oito vinténs ?
+      [ 1392 ]  Que quer que lhe chame a isto ?
+      [ 1393 ]  Lembra-se quando me mandou arroz com cascas de berbigão , porque o peixe não o vi ?
+      [ 1394 ]  Lembra-se de um prato de ervilhas que não chegava a meio arrátel , que custariam cruas dois vinténs , com dois ovos , e levar-me por elas dois tostões ?
+      [ 1395 ]  E então , Vossa Mercê , senhor Careiro , entende que viemos das minas para nos pôr a faca aos peitos por semelhante modo ?
+      [ 1396 ]  CAREIRO
+      [ 1397 ]  Vossa Senhoria também vai logo às do cabo .
+      [ 1398 ]  Não se lembra que tenho muitos róis de dívidas e que uns hão de suprir os outros ?
+      [ 1399 ]  Quando cobrarei eu dezoito mil réis de um peraltinha de espadim de aço ?
+      [ 1400 ]  Quando cobra- rei três moedas de uma senhora de relógio à cinta ?
+      [ 1401 ]  Hei de com estas divisas pagar as casas , satisfazer ao moço , e surtir a minha cozinha ?
+      [ 1402 ]  Ah , senhor Morgado , tem chegado a muita parte a arte de calotear .
+      [ 1403 ]  Vivamos todos , venha dinheiro , e descontarei as suas queixas .
+      [ 1404 ]  MORGADO
+      [ 1405 ]  Dinheiro a seu tempo , nada de amofinações .
+      [ 1406 ]  Respirar livre , respirar livre , melancolias fora .
+      [ 1407 ]  Não tenho agora , mas pagarei .
+      [ 1408 ]  CAREIRO
+      [ 1409 ]  Então para que me chamou ?
+      [ 1410 ]  MORGADO
+      [ 1411 ]  Para saber que tem que dar a cear .
+      [ 1412 ]  CAREIRO
+      [ 1413 ]  Há pargo , ervilhas , feijão verde ripado , miolos com ovos , vitela assada , alguma guisada , peixe frito de escabeche , cebolas recheadas e água quente com açúcar .
+      [ 1414 ]  MORGADO
+      [ 1415 ]  E que mais ?
+      [ 1416 ]  CAREIRO
+      [ 1417 ]  Quer mais ?
+      [ 1418 ]  Há salada de pepino e alface .
+      [ 1419 ]  Há pescada , cavala , sardinhas fritas e abóbora .
+      [ 1420 ]  MORGADO
+      [ 1421 ]  E que mais ?
+      [ 1422 ]  CAREIRO
+      [ 1423 ]  Ainda que mais ?
+      [ 1424 ]  Há frangos de ensopado , eirozes , galinha assada , sopa de leite , língua de vaca , ruivos e pombos de empanadas .
+      [ 1425 ]  MORGADO
+      [ 1426 ]  E que mais ?
+      [ 1427 ]  CAREIRO
+      [ 1427 ]  ( À parte . )
+      [ 1428 ]  Irra , nada o farta .
+      [ 1429 ]  Há pudim , tortas de recheio , salsichões , macarrão , favas com presunto e panelinhas de queijo .
+      [ 1430 ]  MORGADO
+      [ 1431 ]  Está bem , tenho escolhido .
+      [ 1432 ]  Mande-me um pratinho de salada e dez réis de pão .
+      [ 1433 ]  CAREIRO
+      [ 1434 ]  Sim , senhor .
+      [ 1435 ]  Ora está bom o despacho .
+      [ 1436 ]  Abalaram-se os montes , pariram um rato .
+      [ 1437 ]  Tanta coisa para dez réis de pão e um pratinho de salada .
+      [ 1438 ]  ( Dona LABUZADA , Dona TRAPALHONA , de capuchinhos e chapelinhos , seguidas de sua MÃE , de capa grande e chapelinho , e BISCAINHA , também de capa . )
+      [ 1439 ]  LABUZADA
+      [ 1440 ]  Como está , meu bem querer ?
+      [ 1441 ]  MORGADO
+      [ 1442 ]  Para servir a Dona Labuzada .
+      [ 1443 ]  A estas horas por cá ?
+      [ 1444 ]  TRAPALHONA
+      [ 1445 ]  Adeus , meu estudantinho .
+      [ 1446 ]  Passa bem ?
+      [ 1447 ]  ESTUDANTE
+      [ 1448 ]  Isto é grande novidade , senhora Dona Trapalhona .
+      [ 1449 ]  MÃE
+      [ 1450 ]  Adeus , senhor Capitão , como está ?
+      [ 1451 ]  Como lhe vai ?
+      [ 1452 ]  CAPITÃO
+      [ 1453 ]  Oh , senhora , servo seu .
+      [ 1454 ]  MÃE
+      [ 1455 ]  Estas raparigas têm-me atormentado hoje muito .
+      [ 1456 ]  A mais velha teve uma convulsão por feitio tal que ninguém a segurava .
+      [ 1457 ]  Punha os olhos em alvo , mordia os beiços , dava muito murro em todos até que veio o nosso vizinho cirurgião que é um perfeito rapaz .
+      [ 1458 ]  Fez-lhe umas esfregações e mandou pôr em brasa uns tijolos para lhe pôr na boca do estômago .
+      [ 1459 ]  Só de ouvir o remédio tornou a si .
+      [ 1460 ]  A mais pequena sempre achacada por causa de umas anquinhas que lhe não saíram a seu gosto .
+      [ 1461 ]  Eu também , padecendo com um jejum que tenho tido fora dos que vêm na folhinha .
+      [ 1462 ]  CAPITÃO
+      [ 1463 ]  Casos lamentáveis e dignos de toda a compaixão .
+      [ 1464 ]  Os jejuns da mãe , os murros da mais velha , as anquinhas da mais moça são queixas irremediáveis .
+      [ 1465 ]  ESTUDANTE
+      [ 1465 ]  ( À parte . )
+      [ 1466 ]  Ora gabo-lhe a pachorra com que se põe na rua uma mãe e duas filhas para virem a um quarto de uns homens solteiros .
+      [ 1467 ]  MORGADO
+      [ 1468 ]  Pois minhas senhoras , melancolias fora , nada de amofinações !
+      [ 1469 ]  Respirar livre , respirar livre !
+      [ 1469 ]  ( À parte . )
+      [ 1470 ]  Chamarei o moço para que me dê Senhoria diante desta gente .
+      [ 1470 ]  ( Chamando : )
+      [ 1471 ]  Pirangueiro !
+      [ 1472 ]  Pirangueiro !
+      [ 1473 ]  PIRANGUEIRO e OS DITOS
+      [ 1474 ]  PIRANGUEIRO
+      [ 1475 ]  Senhor , que quer Vossa Senhoria ?
+      [ 1476 ]  MORGADO
+      [ 1477 ]  Nada .
+      [ 1478 ]  Vai-te embora .
+      [ 1479 ]  PIRANGUEIRO
+      [ 1480 ]  Servir a Vossa Senhoria .
+      [ 1480 ]  ( Vai-se . )
+      [ 1481 ]  LABUZADA
+      [ 1482 ]  Que véstia de chita tão bonita !
+      [ 1483 ]  Ó senhor Morgado , dá-me essa véstia para debruar a minha desestrada , que quem não tem uma desestrada não é gente ?
+      [ 1484 ]  MORGADO
+      [ 1485 ]  Ela ainda está em bom uso e serve-me muito bem .
+      [ 1486 ]  Deixe-me trazê-la mais um par de meses , e então falaremos .
+      [ 1487 ]  TRAPALHONA
+      [ 1488 ]  Ó meu estudante , dá-me alguma coisa ?
+      [ 1489 ]  ESTUDANTE
+      [ 1490 ]  Ah , senhora Dona Fusca , a moléstia das suas filhas é outra .
+      [ 1491 ]  Pedem muito para hóspedas .
+      [ 1492 ]  BISCAINHA
+      [ 1493 ]  Agora falo eu .
+      [ 1494 ]  Por ser pequena ninguém faz caso de mim .
+      [ 1495 ]  Tomara ser maiorzinha , que em fazendo figura hei de ter muitos arrojados .
+      [ 1496 ]  CAPITÃO
+      [ 1497 ]  Ainda assim rompe muito bem umas solas .
+      [ 1498 ]  BISCAINHA
+      [ 1498 ]  ( Em segredo . )
+      [ 1499 ]  Ó senhora , o senhor Morgado tem umas fivelas de pedras em cima daquela mesa .
+      [ 1500 ]  LABUZADA
+      [ 1500 ]  ( À parte . )
+      [ 1501 ]  Tira-lhas e esconde-as .
+      [ 1501 ]  ( Biscainha o faz assim . )
+      [ 1502 ]  MORGADO
+      [ 1503 ]  Pirangueiro !
+      [ 1504 ]  Pirangueiro !
+      [ 1505 ]  PIRANGUEIRO e OS DITOS
+      [ 1506 ]  PIRANGUEIRO
+      [ 1507 ]  Senhor , que ordena Vossa Senhoria ?
+      [ 1508 ]  MORGADO
+      [ 1509 ]  Diz ao patrão que cearemos quando viermos , que vamos a passeio e que respire livre .
+      [ 1509 ]  ( À parte . )
+      [ 1510 ]  Agora dá-me muita Senhoria .
+      [ 1511 ]  PIRANGUEIRO
+      [ 1512 ]  Farei o que ordena Vossa Senhoria .
+      [ 1513 ]  Aos pés de Vossa Senhoria .
+      [ 1514 ]  Em Vossa Senhoria vindo , virá a ceia para Vossa Senhoria .
+      [ 1515 ]  Veja Vossa Senhoria se quer mais alguma coisa .
+      [ 1516 ]  Sou criado de Vossa Senhoria .
+      [ 1516 ]  ( Vai-se . )
+      [ 1517 ]  TRAPALHONA
+      [ 1517 ]  ( À parte . )
+      [ 1518 ]  Ó mana , o Morgado tem bom tratamento e tem Senhoria .
+      [ 1519 ]  CAPITÃO
+      [ 1520 ]  Pois , senhoras , vamos a passeio que as noites são pequenas .
+      [ 1521 ]  MÃE
+      [ 1522 ]  O senhor Morgado , eu estou em jejum .
+      [ 1523 ]  MORGADO
+      [ 1524 ]  Nada de amofinações .
+      [ 1525 ]  Respirar livre , respirar livre , melancolias fora !
+      [ 1526 ]  Cantem alguma coisa , minhas senhoras .
+      [ 1527 ]  É justo ouvir cantar estas meninas antes que nos vamos .
+      [ 1528 ]  MÃE
+      [ 1529 ]  Pois cantem depressa , e vamos .
+      [ 1530 ]  TRAPALHONA
+      [ 1531 ]  Cantemos 'Os olhos marotinhos' .
+      [ 1531 ]  ( Cantam . )
+      [ 1532 ]  Esses olhos marotinhos Fazem todos suspirar .
+      [ 1533 ]  Depois de matar meninas , Corações sabem roubar .
+      [ 1534 ]  Ai lé li lo lé , marfim , nas glórias do céu se veja Quem se criou para mim !
+      [ 1535 ]  TODOS
+      [ 1536 ]  Bonito , bonito .
+      [ 1537 ]  Braceiros e vamos .
+      [ 1537 ]  ( Dão-se os braços e vão-se . )
+      [ 1538 ]  Cena II
+      [ 1539 ]  ( Praça da Figueira de Cabanas .
+      [ 1540 ]  Arvoredo e colarejas .
+      [ 1541 ]  Todos entram de passeio e o MORGADO de bandurrinha . )
+      [ 1542 ]  MORGADO
+      [ 1543 ]  Nestas pedras podemos descansar .
+      [ 1544 ]  LABUZADA
+      [ 1545 ]  Ó mãe , é bonita esta praça .
+      [ 1546 ]  COLAREJA
+      [ 1547 ]  Quem vem às ginjas ?
+      [ 1548 ]  OUTRA
+      [ 1549 ]  Quem vem às pêras ?
+      [ 1550 ]  OUTRA
+      [ 1551 ]  Quem quer reinões a seis dúzias ó vintém ?
+      [ 1552 ]  MÃE
+      [ 1553 ]  Não era mau comermos alguma coisa .
+      [ 1554 ]  Senhor Morgado , vamos à neve ?
+      [ 1555 ]  MORGADO
+      [ 1556 ]  Nada , minha Senhora , de amofinações .
+      [ 1557 ]  Respirar livre , respirar livre !
+      [ 1557 ]  ( À parte . )
+      [ 1558 ]  Estou com meio tostão de meu .
+      [ 1559 ]  Melhor é mandar vir queijo , pão e fruta .
+      [ 1560 ]  CAPITÃO e ESTUDANTE
+      [ 1561 ]  É mais barato .
+      [ 1562 ]  Concordo nisso .
+      [ 1563 ]  Queijo , pão e fruta .
+      [ 1564 ]  MORGADO
+      [ 1565 ]  Ó rapaz , anda cá .
+      [ 1565 ]  ( Chega-se um rapaz . )
+      [ 1566 ]  Toma este meio tostão , traze-me um vintém de queijo , dez réis de ameixas e um vintém de pão , ouviste ?
+      [ 1567 ]  E depressa .
+      [ 1568 ]  Olha , não as comas pelo caminho .
+      [ 1568 ]  ( À parte . )
+      [ 1569 ]  Quem tem aí um lenço ?
+      [ 1570 ]  BISCAINHA
+      [ 1571 ]  Aqui está o meu .
+      [ 1571 ]  ( Ao tirar o lenço lhe caem as fivelas . )
+      [ 1572 ]  Ai de mim , que estou perdida !
+      [ 1573 ]  MORGADO
+      [ 1574 ]  Vossa Mercê , para mudar os trastes de uma casa , não é má !
+      [ 1575 ]  As minhas fivelas !
+      [ 1576 ]  AS DUAS
+      [ 1577 ]  Não faça caso !
+      [ 1578 ]  Respirar livre , respirar livre , nada de amofinações !
+      [ 1579 ]  MORGADO
+      [ 1580 ]  Como me tornaram às mãos ...
+      [ 1581 ]  Vai , rapaz .
+      [ 1581 ]  ( Vai-se o rapaz . )
+      [ 1582 ]  ESTUDANTE
+      [ 1583 ]  Ah , senhor Morgado , melancolias fora .
+      [ 1584 ]  Enquanto não vem o rapaz , Vossa Senhoria cante alguma coisa com a sua bandurrinha .
+      [ 1585 ]  MORGADO
+      [ 1586 ]  Aí vai , minhas senhoras .
+      [ 1587 ]  COLAREJA
+      [ 1588 ]  Quem vem aos damascos ?
+      [ 1589 ]  OUTRA
+      [ 1590 ]  Quem vem às ginjas ?
+      [ 1591 ]  OUTRA
+      [ 1592 ]  Quem quer os ricos malacotões ?
+      [ 1593 ]  MORGADO
+      [ 1593 ]  ( Canta . )
+      [ 1594 ]  Sou grande fidalgo .
+      [ 1595 ]  Não sou nenhum pobre , Sou de casa nobre , Sou bom mocetão !
+      [ 1596 ]  Buscai , ó meninas , A minha figura , Que a vossa ventura Tenho em minha mão !
+      [ 1597 ]  TODOS
+      [ 1598 ]  Viva , viva como sempre !
+      [ 1599 ]  MORGADO
+      [ 1600 ]  Há muito tempo que não canto .
+      [ 1601 ]  Andei na solfa , mas porque os que lá andavam comigo me não davam Senhoria , meu pai não quis que eu continuasse .
+      [ 1602 ]  Também sou poeta .
+      [ 1603 ]  Sou poeta .
+      [ 1604 ]  TRAPALHONA
+      [ 1605 ]  Ora diga alguma coisa que divirta a gente .
+      [ 1606 ]  MORGADO
+      [ 1607 ]  Sim , minhas senhoras .
+      [ 1608 ]  Soneto que fiz a uns anos .
+      [ title:  Soneto ]
+      [ 1609 ]  Senhora , os vossos anos são tão galantes , Que ainda os não vi mais belos .
+      [ 1610 ]  Quem Pudera chegar a tempo de merecê-los !
+      [ 1611 ]  Tendes uns olhos que são prisões de todos os amantes , Por eles vivo e morro todos os instantes , Por eles ...
+      [ 1612 ]  MÃE
+      [ 1613 ]  O rapaz fugiria com o dinheiro ?
+      [ 1614 ]  Tomara comer .
+      [ 1615 ]  ESTUDANTE
+      [ 1616 ]  Isso é o verdadeiro , que versos não sustentam .
+      [ 1617 ]  MORGADO
+      [ 1618 ]  Ainda cairei em fazer versos diante destas senhoras ?
+      [ 1619 ]  CAPITÃO
+      [ 1620 ]  Cantar , cantar é melhor .
+      [ 1621 ]  AS DUAS
+      [ 1622 ]  Cantemos a moda de Lívia .
+      [ 1622 ]  ( Cantam as duas . )
+      [ 1623 ]  Tu podes , amada Lívia , Tirar-me tanta aflição E fazer que ainda alcance A paz do meu coração .
+      [ 1624 ]  ( Remate . )
+      [ 1625 ]  Um ai , um suspiro Sem ter alegria De noite e de dia Desafogo são .
+      [ 1626 ]  COLAREJA
+      [ 1627 ]  Quem vem às ginjas ?
+      [ 1628 ]  OUTRA
+      [ 1629 ]  Quem quer os meus malacotões ?
+      [ 1630 ]  MÃE
+      [ 1631 ]  Ai meninas , que ai vem a ronda .
+      [ 1632 ]  TODOS
+      [ 1633 ]  É verdade , aqui temos alguma .
+      [ 1634 ]  RONDA , ALCAIDE e OS DITOS
+      [ 1635 ]  ALCAIDE
+      [ 1636 ]  Ninguém se mova daí .
+      [ 1637 ]  Vossas Mercês são as senhoras que eu procuro , inquietadoras da vizinhança e desassossego destes peraltinhas de bandurra .
+      [ 1638 ]  Já todas para o Castelo .
+      [ 1639 ]  Seja sua mãe a primeira , por consentidora , que se não foi o exemplo de boa educação de suas filhas , seja o exemplo do castigo , que este é o fruto de uma vida tão desordenada .
+      [ 1640 ]  E Vossa Mercê , senhor Morgado , introduzido por se andar fingindo fidalgo sem o ser , cheio de calotes e confundindo tão vilmente o bom proceder dos que o são , já para o Limoeiro .
+      [ 1641 ]  Os dois senhores vão em paz , que não são mencionados no meu rol .
+      [ 1642 ]  BISCAINHA
+      [ 1643 ]  Desgraçada de mim , pobre Biscainha !
+      [ 1644 ]  O rapaz levou-te o lenço e ainda por cima vais para o Castelo .
+      [ 1645 ]  MÃE
+      [ 1645 ]  ( Chorando . )
+      [ 1646 ]  Minhas filhas engomam e fazem meias a estes meninos .
+      [ 1647 ]  AS DUAS
+      [ 1647 ]  ( Chorando . )
+      [ 1648 ]  Nós em nada somos culpadas .
+      [ 1649 ]  MORGADO
+      [ 1650 ]  Companheiros , não me valem ?
+      [ 1651 ]  Meu estudante , acode-me !
+      [ 1652 ]  ESTUDANTE
+      [ 1653 ]  Nada de amofinações .
+      [ 1654 ]  Vossa Senhoria ensina a respirar livre , respirar livre .
+      [ 1655 ]  MORGADO
+      [ 1656 ]  Meu Capitão !
+      [ 1657 ]  Por quem és !
+      [ 1658 ]  CAPITÃO
+      [ 1659 ]  Melancolias fora , melancolias fora .
+      [ 1660 ]  ALCAIDE
+      [ 1661 ]  Depressa , depressa , vamos aviando .
+      [ 1662 ]  Basta de lástimas .
+      [ 1663 ]  Um viver estragado , más ações e ridicularias afidalgadas só têm este prêmio , que se expõe ao público , para que os bons se conservem na sua primeira e louvável educação , e para que os maus se emendem de vícios tão péssimos .
+      [ 1664 ]  ( Cantam . )
+      [ 1665 ]  MORGADO
+      [ 1666 ]  Não há desgraça maior Que a fingida fidalguia .
+      [ 1667 ]  AS DUAS
+      [ 1668 ]  Não há tormento mais fero , Este lance , quem diria
+      [ 1669 ]  MORGADO
+      [ 1670 ]  Tal não posso acreditar .
+      [ 1671 ]  AS DUAS
+      [ 1672 ]  O meu mal irei chorar .
+      [ 1673 ]  TODOS
+      [ 1674 ]  Mas o tempo tudo acaba , Este dano há de acabar .
+      [ title: 
+      [ 1675 ]  O cais do Sodré ]
+      [ 1676 ]  Personagens
+      [ 1677 ]  GERÚNDIO LAURA , sua filha CÉLIA , sua filha ESTOUVADA , criada Dois ingleses Um CEGO e RAPAZ do dito VALÉRIO , peralta afrancesado Uma PRETA de mexilhões UM PRETO de água Dois marujos Um DENTISTA O bando dos touros Povo
+      [ 1678 ]  Cena I
+      [ 1679 ]  ( Casa de GERÚNDIO , LAURA e CÉLIA , fazendo uma echarpe preta . )
+      [ 1680 ]  GERÚNDIO
+      [ 1681 ]  Laura , ponde-me o pescocinho , que são horas de ir para a minha ocupação .
+      [ 1682 ]  LAURA
+      [ 1683 ]  Sim , senhor .
+      [ 1684 ]  Mas é preciso mandar buscar de jantar .
+      [ 1685 ]  GERÚNDIO
+      [ 1686 ]  Também era preciso ter mais juízo do que tem .
+      [ 1687 ]  CÉLIA
+      [ 1688 ]  Essa é boa !
+      [ 1689 ]  Pois o primo vem cá hoje jantar !
+      [ 1690 ]  GERÚNDIO
+      [ 1691 ]  Que obrigação tenho eu de sofrer panais de palha ?
+      [ 1692 ]  Qual é a moral que impõe a obrigação de sustentar peralvilhos ?
+      [ 1693 ]  Ainda as mi- nhas filhas serei obrigado a pôr fora da minha companhia logo que se não portem como devem .
+      [ 1694 ]  LAURA
+      [ 1695 ]  Pois Vossa Mercê tem bastante razão de queixa de nós .
+      [ 1696 ]  CÉLIA
+      [ 1697 ]  Vossa Mercê tem obrigação de nos dar o sustento .
+      [ 1698 ]  GERÚNDIO
+      [ 1699 ]  Também Vossa Mercê tem obrigação de não ser atrevida , e de não querer só enfeites e ridicularias , pedindo jantar e ceia às suas ordens , e o pai suando com camisas por engomar e meias rotas .
+      [ 1700 ]  LAURA
+      [ 1701 ]  Deixe-se disso , meu pai .
+      [ 1702 ]  Deixe-lhe escovar o chapéu .
+      [ 1703 ]  GERÚNDIO
+      [ 1704 ]  Vejam se passa a mulher dos repolhos .
+      [ 1705 ]  CÉLIA
+      [ 1706 ]  Repolhos !
+      [ 1707 ]  GERÚNDIO
+      [ 1708 ]  Não , se lhe parece , mande vir tortas de nata , compotas .
+      [ 1709 ]  Ou veja se tem conhecimento na Ucharia e mande vir os guisados que bem lhe parecer .
+      [ 1710 ]  LAURA
+      [ 1711 ]  Hoje é dia de carne , e meu primo ...
+      [ 1712 ]  GERÚNDIO
+      [ 1713 ]  Seu primo e Vossa Mercê são dois bons juízos que há nesta terra .
+      [ 1714 ]  CÉLIA
+      [ 1715 ]  Cale-se , mana .
+      [ 1716 ]  Não aflija o pai .
+      [ 1717 ]  GERÚNDIO
+      [ 1718 ]  Estamos muito bem aviados .
+      [ 1719 ]  Nem Vossas Mercês necessitam de jantar como hajam saque em barcas franzidas com que se façam anãs ...
+      [ 1720 ]  CÉLIA
+      [ 1721 ]  É , moda , custa-me o meu trabalho .
+      [ 1722 ]  LAURA
+      [ 1723 ]  Tenho dito , meu pai .
+      [ 1724 ]  O primo janta cá , e de tarde temos justo irmos passear ao Cais do Sodré .
+      [ 1725 ]  GERÚNDIO
+      [ 1726 ]  Tomara saber se eu sou alguma estátua de jardim .
+      [ 1727 ]  Vossa Mercê dispõe as funções .
+      [ 1728 ]  E eu que as aprove , pouco importa .
+      [ 1729 ]  CÉLIA
+      [ 1730 ]  O primo Valério assim o disse .
+      [ 1731 ]  GERÚNDIO
+      [ 1732 ]  Ele é quem dá cá de comer , e beber , vestir e calçar ?
+      [ 1733 ]  Tomara saber a causa por que ele não governa suas irmãs .
+      [ 1734 ]  LAURA
+      [ 1735 ]  As irmãs são umas abeatadas e não querem viver como as gentes de bom tom .
+      [ 1736 ]  GERÚNDIO
+      [ 1737 ]  Como não passeiam , não são tolas , nem peraltas , como não têm chichisbéus , não aparecem a ninguém , não são Madamas de cotilhões , não têm bom tom ?
+      [ 1738 ]  O bom tom , eu lho darei antes de muito tempo .
+      [ 1739 ]  Hoje não há de sair ninguém daqui e , se suceder o contrário , lhe darei a providência com toda a brevidade .
+      [ 1740 ]  CÉLIA
+      [ 1741 ]  Quer lenço lavado ?
+      [ 1742 ]  GERÚNDIO
+      [ 1743 ]  Este ainda está bom .
+      [ 1743 ]  ( Vai-se . ) .
+      [ 1744 ]  CÉLIA
+      [ 1745 ]  Laura , que me dizes às impertinências do pai , que não quer que vamos fora ?
+      [ 1746 ]  LAURA
+      [ 1747 ]  Também não sei como a gente há de viver !
+      [ 1748 ]  Nós outras , se somos obedientes , somos bichos do mato .
+      [ 1749 ]  Se vamos às funções , somos desenvoltas , criticadas por todo o mundo .
+      [ 1750 ]  Chichisbéus não agradam , mas a moda inventou-os .
+      [ 1751 ]  Se cantamos , se falamos , se contradançamos , sátira no caso .
+      [ 1752 ]  Não sei viver com o mundo .
+      [ 1753 ]  VALÉRIO
+      [ 1754 ]  cantando
+      [ 1755 ]  VALÉRIO
+      [ 1756 ]  Amor é bambinello ; é bambinello amor .
+      [ 1757 ]  Bom jour , Madames .
+      [ 1758 ]  LAURA
+      [ 1759 ]  Seja bem-vindo , primo Valério .
+      [ 1760 ]  CÉLIA
+      [ 1761 ]  Grandíssimo insolente , que fez ontem que não apareceu cá ?
+      [ 1762 ]  VALÉRIO
+      [ 1763 ]  Ontem foi para mim um dia , oh ! , que dia !
+      [ 1764 ]  caspité ! ,
+      [ 1765 ]  Madames , que dia !
+      [ 1766 ]  Que dia !
+      [ 1767 ]  na França , na Itália , na Dinamarca , nas Espanhas , em Nápoles , na Rússia , na notável Constantinopla , em Gênova , Veneza , Hungria , na Prússia , nas nossas Américas , em Sintra , em Almada , Paço de Arcos , Benfica e Campo Grande se não passa um dia semelhante ao que passei .
+      [ 1768 ]  Brincou-se magnìficamente , viram-se volantins , viu-se a ópera , ponchiou-se , glosou-se , dançou-se , cotilhanou-se até amanhecer , dormiu-se pouco e agora vem-se buscar as primas para irem esta tarde a passeio e jantar rasgado .
+      [ 1769 ]  O ponto é que chegue um quartinho , resto de anel que se vendeu ontem de minha avó .
+      [ 1770 ]  LAURA
+      [ 1771 ]  Célia , vamos vestir-nos para não desgostarmos o primo ...
+      [ 1772 ]  CÉLIA
+      [ 1773 ]  Mas o pai ...
+      [ 1774 ]  LAURA
+      [ 1775 ]  Agora é que te chegou o medo ?
+      [ 1775 ]  ( Chamando . ) .
+      [ 1776 ]  Estouvada !
+      [ 1777 ]  Estouvada !
+      [ 1778 ]  ESTOUVADA
+      [ 1779 ]  Senhora , senhora .
+      [ 1780 ]  LAURA
+      [ 1781 ]  Prepara o meu xale e a desestrada da mana .
+      [ 1782 ]  Apronta os nossos chapéus , que havemos de sair pela porta do quintal .
+      [ 1783 ]  ESTOUVADA
+      [ 1783 ]  ( Faz mesura . ) .
+      [ 1784 ]  Serva sua .
+      [ 1784 ]  ( À parte . ) .
+      [ 1785 ]  Ah !
+      [ 1786 ]  bom arrocho !
+      [ 1787 ]  A criada sem jantar , a casa sem governo , o pai sem trato e a peralvilhice toda encaixada nestas cabeças com a vaidade de formosas .
+      [ 1787 ]  ( Vai-se . ) .
+      [ 1788 ]  VALÉRIO
+      [ 1789 ]  Allons , Madames .
+      [ 1790 ]  Venham os braços .
+      [ 1790 ]  ( Dá os braços a ambas e vai cantando o seguinte : )
+      [ 1791 ]  Bien capir , me voi popete , etc .
+      [ 1792 ]  Cena II
+      [ 1793 ]  ( Cais do Sodré .
+      [ 1794 ]  A um lado , PRETA DOS MEXILHÕES , PRETO AGUADEIRO , DENTISTA em cima de uma cadeira , do outro UM RAPAZ , UM CEGO sentados no fundo com viola , e no rio uma fragata andando à vara por dois FRAGATEIROS que ao levantar do pano cantam a seguinte composta : )
+      [ 1795 ]  FRAGATEIROS
+      [ 1796 ]  Toda a mulher algarvia Tem olhos de ser marota .
+      [ 1797 ]  A segurança de um barco Está no leme e na escota .
+      [ 1798 ]  Ai lé li lo lé , condecha Não há navio sem quilha , Nem iate sem fateixa .
+      [ 1799 ]  PRETA
+      [ 1800 ]  Maçaloca açara , auí micião bom !
+      [ 1801 ]  DENTISTA
+      [ 1802 ]  Mi Sinhori , eu sou um galante homo , como tem visto todos Cortes de Europi , tirado ao público tante dente que não potrá carregare hum grande navie , sono muntissimi destro in questre arte , vamos a fazer esto bem ao Mundo , venga qual che duno , que queira servir-se , ou seja dente ou seja raize , io lo saco senza dolore .
+      [ 1803 ]  PRIMEIRO HOMEM
+      [ 1804 ]  Tire-me este dente queixal sem dor nos queixos .
+      [ 1805 ]  DENTISTA
+      [ 1806 ]  Agora verano la mia industria , sono capace de deixar xento mille pessoas em una hora sem dente .
+      [ 1807 ]  CEGO
+      [ 1808 ]  Belo para fazer baratas as nozes e as castanhas piladas , porque sem dentes todos se sustentarão a caldos .
+      [ 1809 ]  PRETA
+      [ 1810 ]  Maçaloca açara !
+      [ 1811 ]  PRIMEIRO HOMEM
+      [ 1812 ]  Ai !
+      [ 1813 ]  Ai !
+      [ 1814 ]  Ai !
+      [ 1815 ]  Lá vão os queixos com os diabos !
+      [ 1816 ]  DENTISTA
+      [ 1817 ]  Não é nada , suono tão pronto che querendo tirar uno , arrincai quatro .
+      [ 1818 ]  Venga outro al suplício .
+      [ 1819 ]  CEGO
+      [ 1820 ]  Quer-me Vossa Mercê tirar dois dentes a um cavalo velho que lhe quero esconder a idade ?
+      [ 1821 ]  DENTISTA
+      [ 1822 ]  Si é al senhor seu padre , estou prontíssimo !
+      [ 1823 ]  Sinhori , qui stano unos polvos para limpari dente , cosa singularíssima .
+      [ 1824 ]  In uno estante ficarano negri como il carboni .
+      [ 1825 ]  Altra receita , para defenderi o escributi che faz subito apodrecer os queixos e gingibas , dissorte que morrendo una pessoa disto , não torna a ter questa queixa .
+      [ 1826 ]  Sei poner denti postici , que se pode comer com eles sem perigo , não mastigando nunca ...
+      [ 1827 ]  CEGO
+      [ 1828 ]  Vossa Mercê com esses tão bons remédios ainda tem costelas no corpo ?
+      [ 1829 ]  DOIS INGLESES e OS DITOS
+      [ 1830 ]  PRIMEIRO INGLÊS
+      [ 1831 ]  O negoci estar perdide .
+      [ 1832 ]  SEGUNDO INGLÊS
+      [ 1833 ]  Fazer minha carregação segure , dar à costa o navio , ficar perdido por toda a minha vida .
+      [ 1834 ]  PRIMEIRO INGLÊS
+      [ 1835 ]  Eu querer no navio de minhe correspondente ganhar em larange multe dinheire , ter lucros avultadíssimos , tomar saber quem terá algumes caixas de laranges para vender por nós .
+      [ 1836 ]  DENTISTA
+      [ 1837 ]  Tiro la pedre a identi com uma rapidez maravilhosa .
+      [ 1838 ]  CEGO
+      [ 1839 ]  Com ferro ou com quê ?
+      [ 1840 ]  DENTISTA
+      [ 1841 ]  Com ferro , non Senhori .
+      [ 1842 ]  Ma com tiro de pistola se vá la pedra al diablo sem restar sinal .
+      [ 1843 ]  CEGO
+      [ 1844 ]  Desse modo tire Vossa Mercê lá os dentes a quantos coelhos vir .
+      [ 1845 ]  Ó rapaz , tempera a viola e cantemos alguma coisa .
+      [ 1846 ]  ( Canta . )
+      [ 1847 ]  Os senhores , que me ouvem , E toda a mais companhia hão de mostrar para o cego Toda a sua bizarria .
+      [ 1848 ]  RAPAZ
+      [ 1849 ]  Também nos há de estrear Capote de baetão , Cabeleira de rabicho , Que tem tão boa feição .
+      [ 1850 ]  CEGO
+      [ 1851 ]  O senhor do Josezinho , E o do vestido encarnado , E o da véstia alvadia , Que tem capote melado .
+      [ 1852 ]  DENTISTA
+      [ 1853 ]  Que diabo de cantarolle é aquela ?
+      [ 1854 ]  CEGO
+      [ 1855 ]  Ah , sô saca molas , vá lá tirar dentes aos mouros , que é melhor tirar esmolas que tirar dentes .
+      [ 1856 ]  DENTISTA
+      [ 1857 ]  Esto é remédio para dolores , i li tui canzoni non vale un fico .
+      [ 1858 ]  CEGO
+      [ 1859 ]  Canzoni será você , Senhor estrangeiro .
+      [ 1860 ]  Olhe , se lá vai o bordão , há de tirar os dentes a três e três , e dou-lhe de parecer que se vá calando , que arrochada de cego é pior que boticão de saca molas .
+      [ 1861 ]  PRETA
+      [ 1862 ]  Micião bom , maçaloca açara , auí !
+      [ 1863 ]  PRIMEIRO INGLÊS
+      [ 1864 ]  Nos embarcar na fragata e fazer carregação em Paço d'Arcos de caixe de laranges .
+      [ 1865 ]  PRETA
+      [ 1866 ]  Micião bom , maçaloca açara , auí !
+      [ 1867 ]  SEGUNDO INGLÊS
+      [ 1868 ]  O preta , nou force com esses grites .
+      [ 1868 ]  ( Vão-se os ingleses embarcar na fragata e ficam rindo-se . )
+      [ 1869 ]  DENTISTA
+      [ 1870 ]  Esta luna non há dado multe dores de dente , pelo que vejo a outra será mais favorabili .
+      [ 1871 ]  CEGO
+      [ 1872 ]  Leve-lhe o diabo a agouro .
+      [ 1873 ]  DENTISTA
+      [ 1874 ]  Questo non é nada .
+      [ 1875 ]  Em Parice em um só dia tirava mille duzenti e mille trezenti , em Lonva quinhentos , seiscentos dentes .
+      [ 1876 ]  CEGO
+      [ 1877 ]  Vossa Mercê por onde anda põe todos a caldos de farinha .
+      [ 1878 ]  PRETO
+      [ 1879 ]  Mia Mãe Zuzefa , vozo não vende nara ?
+      [ 1880 ]  PRETA
+      [ 1881 ]  Ah , mia fio , sã muito fluta .
+      [ 1882 ]  Turo sar frato dus ameixa , melão , melancia .
+      [ 1883 ]  Se tu Bacião queri , tila e come .
+      [ 1884 ]  PRETO
+      [ 1885 ]  Enquanto come , cacimba vozo .
+      [ 1886 ]  PRETA
+      [ 1887 ]  Queri tu que faça uns festa ?
+      [ 1888 ]  Eu canta argum moda de nossa terra .
+      [ 1889 ]  PRETO
+      [ 1890 ]  Eu pelo mim canta vozo , que eu faço também os função cos pez , e cos mãos , e cos cascará .
+      [ 1891 ]  PRETA
+      [ 1892 ]  ( Canta. )
+      [ 1893 ]  Os pleta cativa Não tem liberdade .
+      [ 1894 ]  Anda na cidade Co seu micião. Auí , auí , auí , Maçalo ca açara , do meu Bacião , Clanguejo que bota a maré , Guiabá , guiabá , guiabé , Clanguejo que bota a maré , Guiabá , guiabá , guiabé .
+      [ 1895 ]  PRETO
+      [ 1896 ]  Viva mia mãe Zuzefa Zuiza dos Ataraia !
+      [ 1897 ]  Eu não faltei este ano a baiar nos função com mia meia de sera de linha crua , mia viola escangoara .
+      [ 1898 ]  VALÉRIO , LAURA e CÉLIA pelo braço e OS DITOS
+      [ 1899 ]  VALÉRIO
+      [ 1900 ]  Que bela tarde , que guapíssima , que fresquíssima , que apetecíssima , que ...
+      [ 1901 ]  LAURA
+      [ 1902 ]  Aí , não se faça doido .
+      [ 1903 ]  VALÉRIO
+      [ 1904 ]  Estou alegrete , porque o palhete ...
+      [ 1905 ]  CÉLIA
+      [ 1906 ]  Acomode-se .
+      [ 1907 ]  VALÉRIO
+      [ 1908 ]  Que diabo de estafermo é aquele que está em cima daquela cadeira ?
+      [ 1909 ]  Ah !
+      [ 1910 ]  é o dentista .
+      [ 1911 ]  Ora já estou enjoado de trazer tantos dentes na boca , e como tenho tão boa ocasião , vou tirar dois ou três .
+      [ 1912 ]  LAURA
+      [ 1913 ]  Ai que louco !
+      [ 1914 ]  Esteja sério .
+      [ 1915 ]  Pois quer tirar os dentes ?
+      [ 1916 ]  VALÉRIO
+      [ 1917 ]  Por cautela , antes que me doam .
+      [ 1918 ]  CÉLIA
+      [ 1919 ]  É bem acautelado .
+      [ 1920 ]  VALÉRIO
+      [ 1921 ]  Querem maçarocas , querem pêras , mexilhões , ameixas , laranjas , melões , melancias ...
+      [ 1922 ]  LAURA
+      [ 1923 ]  Queremos bastardo .
+      [ 1924 ]  VALÉRIO
+      [ 1925 ]  Nada .
+      [ 1926 ]  Amanhã lhe darei legítimo , que do jantar não cresceu vintém .
+      [ 1927 ]  CÉLIA
+      [ 1928 ]  Então foi caríssimo ?
+      [ 1929 ]  VALÉRIO
+      [ 1929 ]  ( Entoando uma contradança . )
+      [ 1930 ]  Bagatelas , bagatelas .
+      [ 1931 ]  LAURA
+      [ 1932 ]  Não se acomodará , mofino ?
+      [ 1933 ]  VALÉRIO
+      [ 1934 ]  Se fora de noite bailava aqui o solo inglês .
+      [ 1935 ]  Oh !
+      [ 1936 ]  Dio !
+      [ 1937 ]  Tem palitos , Madame ?
+      [ 1938 ]  DENTISTA
+      [ 1939 ]  Quem quer algum denti postici , e barrato .
+      [ 1940 ]  GERÚNDIO E OS DITOS
+      [ 1941 ]  GERÚNDIO
+      [ 1942 ]  Quem quer sua avó torta !
+      [ 1943 ]  DENTISTA
+      [ 1944 ]  Aquele homo non va buono , vai algum tanto disparato .
+      [ 1945 ]  CEGO
+      [ 1946 ]  Ora quem nos favorece ?
+      [ 1947 ]  PRETA
+      [ 1948 ]  Auí , micião bom !
+      [ 1949 ]  GERÚNDIO
+      [ 1950 ]  Boas tardes , minhas fidalgas de bom tom .
+      [ 1951 ]  CÉLIA e LAURA
+      [ 1952 ]  A sua bênção , meu pai .
+      [ 1953 ]  GERÚNDIO
+      [ 1954 ]  O seu rico primo que lha deite , que é quem as governa .
+      [ 1955 ]  VALÉRIO
+      [ 1956 ]  Meu tio , não se enfarrusque com as primas .
+      [ 1957 ]  Seja francês , deixe antigualhas e viva o bom tempo .
+      [ 1958 ]  GERÚNDIO
+      [ 1959 ]  Meu sobrinho , deixai de ser peralvilho , ridículo e asno .
+      [ 1960 ]  Sede homem de juizo , ainda que já lhe não vejo caminho , e guardai esse bom tempo para outra qualidade de gente .
+      [ 1961 ]  VALÉRIO
+      [ 1962 ]  Pois é algum caso estranho trazer as primas a divertir ?
+      [ 1963 ]  GERÚNDIO
+      [ 1964 ]  Devias primeiro divertir vossas irmãs e deixar as minhas filhas .
+      [ 1965 ]  VALÉRIO
+      [ 1966 ]  Não se queira fazer velho que lhe não está bem .
+      [ 1967 ]  GERÚNDIO
+      [ 1968 ]  Não vos façais tolo , que vos está pior .
+      [ 1969 ]  VALÉRIO
+      [ 1970 ]  Eu sou ...
+      [ 1971 ]  GERÚNDIO
+      [ 1972 ]  Um dardo que vos atravesse .
+      [ 1973 ]  LAURA
+      [ 1974 ]  Ora Vossa Mercê não tem razão .
+      [ 1975 ]  GERÚNDIO
+      [ 1976 ]  Ó grandíssima atrevida , aqui mesmo lhe hei de quebrar a cabeça com esta bengala .
+      [ 1977 ]  Sou pai e quero punir pela reputação da minha casa .
+      [ 1978 ]  LAURA
+      [ 1979 ]  Quantas vão com seus primos a passeio sem lhes ser censurado ?
+      [ 1980 ]  GERÚNDIO
+      [ 1981 ]  Também muita gente faz funções em casa , e eu nunca as fiz .
+      [ 1982 ]  E ùltimamente , senhora Dona Bacharela , se a isto se chama bom tom , para mim é muito desafinado .
+      [ 1983 ]  Será de eu ter maus ouvidos ...
+      [ 1984 ]  Não há mais que pegar nas famílias alheias sem pais nem mães , e andar com elas como marmotas pelas praças , pelas casas de pasto , pelas neves , pelos cafés ...
+      [ 1985 ]  Mas para que me canso eu ?
+      [ 1986 ]  Não me importa emendar as outras famílias , e à minha eu lhe darei a providência .
+      [ 1987 ]  ( Vem passando o bando dos touros em burrinhos , com vários figurões e espaIhando papéis . )
+      [ 1988 ]  VALÉRIO
+      [ 1989 ]  Meu tio , isso em que toca em seu casar com uma delas ?
+      [ 1990 ]  Está acabado .
+      [ 1991 ]  Já domingo há de ir ver os touros comigo .
+      [ 1992 ]  Vamos a ver as novidades neste papel .
+      [ 1992 ]  ( Lê Valério uma notícia . )
+      [ 1993 ]  'Domingo , que se hão de contar vinte do corrente , se fará um novo combate na Praça dos Touros com o maior luzimento .
+      [ 1994 ]  Será o cavaleiro Manuel , que por sobrenome não perca , corcovado até ao nariz .
+      [ 1995 ]  Virá montado em um soberbo cavalo de papelão bem ajaezado , e o Contendor ricamente vestido de asas de aranha , chapéu de plumas de peru , e uma grande espada de cartas de jogar ' ' .
+      [ 1996 ]  há de estar vistosa a tarde .
+      [ 1997 ]  'Terá para combater doze caranguejos das melhores raças da Fonte da Pipa , depois de vir o Avô fazer as cortesias em fralda de camisa .
+      [ 1998 ]  Para intervalo do combatente virá a cafraria da Guiné com espadas de manteiga , fazendo coisas raríssimas , e três capinhas montados em três cadeiras , correndo cavalhadas com três rissados da moda não faltando cães de fila , farpas e garrochas de fogo , com sujo divertimento se espera dar um grande alegrão a quem lá não for .
+      [ 1999 ]  Principiará às dez da noite , em ponto , para se aproveitar o luar .
+      [ 2000 ]  O preço , ninguém no há de ouvir . '
+      [ 2001 ]  ( Chocas dentro e vozes a gritar . )
+      [ 2002 ]  VOZES
+      [ 2003 ]  Fujam , que anda uma choca fugida !
+      [ 2004 ]  OUTRAS
+      [ 2005 ]  Guarda , que é uma vaca brava que fugiu do curral !
+      [ 2006 ]  ( Vem uma choca com chocalho correndo e atropelando tudo .
+      [ 2007 ]  Dois vaqueiros atrás dela .
+      [ 2008 ]  Deita o dentista da cadeira abaixo , atropela o bando com quedas dos burros abaixo , investe ao velho , aos pretos e põe todo o teatro em desordem . )
+      [ 2009 ]  DENTISTA
+      [ 2010 ]  Que maldito boi !
+      [ 2011 ]  GERÚNDIO
+      [ 2012 ]  O meu chapéu , a minha cabeleira !
+      [ 2013 ]  LAURA
+      [ 2014 ]  Nunca mais !
+      [ 2015 ]  CÉLIA
+      [ 2016 ]  Estou morta de susto .
+      [ 2017 ]  VALÉRIO
+      [ 2018 ]  Vou para cima do cais .
+      [ 2019 ]  PRETA
+      [ 2020 ]  Ó homem , dá cá a minha maçaloca .
+      [ 2021 ]  TODOS
+      [ 2022 ]  Ela aí torna , ela aí torna !
+      [ 2023 ]  ( Foge tudo . )
+      [ title: 
+      [ 2024 ]  A junta dos cabeleireiros ]
+      [ 2025 ]  Personagens
+      [ 2026 ]  DONA VÁRIA , viúva DONA LÉRIA , filha DONA CHUXADEIRA , filha ALFARROBA , criada MELCAQUETA , pai de Dona Vária MALANDRINO , parente MALACAZ , cabeleireiro ARTURO , aprendiz , cabeleireiro BISBORRIO , cabeleireiro CARAMBOLA , cabeleireiro
+      [ 2027 ]  ( Sala com três toucadores junto dos quais estarão sentadas DONA VÁRIA , DONA LÉRIA e DONA CHUXADEIRA .
+      [ 2028 ]  ALFARROBA em pé servindo .
+      [ 2029 ]  Enquanto as duas irmãs , penteando-se , cantam o seguinte : )
+      [ 2030 ]  LÉRIA e CHUXADEIRA
+      [ 2031 ]  ( A duo . )
+      [ 2032 ]  O que fará o meu bem ?
+      [ 2033 ]  Com quem estará brincando ?
+      [ 2034 ]  Se se lembrará de mim
+      [ 2035 ]  Como a mim me está lembrando ?
+      [ 2036 ]  Ai lé li lo lé , fineza .
+      [ 2037 ]  Pouco importa estar distante
+      [ 2038 ]  Se se lembrar da firmeza .
+      [ 2039 ]  VÁRIA
+      [ 2040 ]  Alfarroba , a toda a pressa
+      [ 2041 ]  Endireita aquele espelho .
+      [ 2042 ]  LÉRIA
+      [ 2043 ]  Traze-me as fitas de fora , Traze ganchos lá de dentro .
+      [ 2044 ]  CHUXADEIRA
+      [ 2045 ]  Limpa-me as minhas fivelas , Por que de prata pareçam .
+      [ 2046 ]  LÉRIA
+      [ 2047 ]  Dá-me a boceta dos pós .
+      [ 2048 ]  CHUXADEIRA
+      [ 2049 ]  Dá-me uma vela de sebo .
+      [ 2050 ]  VÁRIA
+      [ 2051 ]  Traze a púcara da banha
+      [ 2052 ]  .
+      [ 2053 ]  LÉRIA
+      [ 2054 ]  Põe-me no quarto um braseiro .
+      [ 2055 ]  ALFARROBA
+      [ 2056 ]  Não há caso semelhante .
+      [ 2057 ]  Ora está bom desconcerto !
+      [ 2058 ]  Uma pede pós e ganchos , Outra pede o chorão preto .
+      [ 2059 ]  Não sei em tal confusão A qual acuda primeiro .
+      [ 2060 ]  Vai-se a soldada em sapatos .
+      [ 2061 ]  De trabalho estou morrendo .
+      [ 2062 ]  ( Batem . )
+      [ 2063 ]  VÁRIA
+      [ 2064 ]  Alfarroba , apressa o passo , Olha ali quem bate dentro .
+      [ 2065 ]  ALFARROBA
+      [ 2066 ]  ( À parte . )
+      [ 2067 ]  Irra com tanto mandar !
+      [ 2068 ]  Três anos sem ter dinheiro !
+      [ 2069 ]  LÉRIA
+      [ 2070 ]  Anda , corre , rapariga !
+      [ 2071 ]  ALFARROBA
+      [ 2072 ]  ( À parte . )
+      [ 2073 ]  Eu lhe darei o remédio .
+      [ 2074 ]  ( Vai-se . )
+      [ 2075 ]  CHUXADEIRA
+      [ 2076 ]  Veja , mana , se esta flor Fica bem posta no centro .
+      [ 2077 ]  LÉRIA
+      [ 2078 ]  Fica sim , mas não diz bem Se levares chorão preto .
+      [ 2079 ]  ALFARROBA e AS DITAS
+      [ 2080 ]  ALFARROBA
+      [ 2081 ]  É o senhor Malandrino , Que raivoso vem ardendo .
+      [ 2082 ]  MALANDRINO e AS DITAS
+      [ 2083 ]  MALANDRINO
+      [ 2084 ]  Estou bastante agoniado .
+      [ 2085 ]  Não há maior destempero !
+      [ 2086 ]  LÉRIA
+      [ 2087 ]  Que tem , meu amado primo ?
+      [ 2088 ]  CHUXADEIRA
+      [ 2089 ]  Que tem , meu amor perfeito ?
+      [ 2090 ]  ALFARROBA
+      [ 2091 ]  ( À parte . )
+      [ 2092 ]  Quis fiado o camarote , Por ter faltas de dinheiro , O homem lho não fiou , E eis aqui o que eu entendo .
+      [ 2093 ]  VÁRIA
+      [ 2094 ]  Que lhe sucedeu , menino , Que foi isso , meu desvelo ?
+      [ 2095 ]  MALANDRINO
+      [ 2096 ]  Nada , nada , bagatela .
+      [ 2097 ]  Fui à ópera , e querendo Alugar um camarote ,
+      [ 2098 ]  Dou com um homem tão careiro Que uma moeda me pediu Por um da engra e pequeno .
+      [ 2099 ]  A poder de muitos rogos Foi por quatro mil e cento .
+      [ 2100 ]  LÉRIA
+      [ 2101 ]  Por isso não se consuma .
+      [ 2102 ]  Viu que ópera estão fazendo ?
+      [ 2103 ]  Leu acaso algum cartaz ?
+      [ 2104 ]  Farão algum bom enredo ?
+      [ 2105 ]  Terão entremez no fim ?
+      [ 2106 ]  Que é só do que faço apreço : As coisas que fazem rir São o meu divertimento .
+      [ 2107 ]  Uma vez ao Bairro Alto Fomos todos de passeio .
+      [ 2108 ]  Era Dona Inês de Castro , E no fim do ato primeiro Fomos à Ribeira Nova .
+      [ 2109 ]  Que lindo divertimento !
+      [ 2110 ]  CHUXADEIRA
+      [ 2111 ]  Comemos lá muita fruta .
+      [ 2112 ]  Trouxe três melões inteiros .
+      [ 2113 ]  Eram ranchos e mais ranchos De peraltas nos passeios .
+      [ 2114 ]  ALFARROBA
+      [ 2115 ]  E talvez que o camarote Ainda se esteja devendo .
+      [ 2116 ]  VÁRIA
+      [ 2117 ]  É para a Rua dos Condes Que nos leva , meu desvelo ?
+      [ 2118 ]  MALANDRINO
+      [ 2119 ]  Não , senhora , é no Salitre , Que é tragédia de espavento .
+      [ 2120 ]  E por fim há boas danças , E para maior recreio Um entremez que se chama 'Junta dos Cabeleireiros . '
+      [ 2121 ]  LÉRIA
+      [ 2122 ]  ( Rindo . )
+      [ 2123 ]  Olhem o que vão buscar ! ...
+      [ 2124 ]  Estes poetas em versos Fazem tudo quanto querem : 'Junta dos Cabeleireiros ! ! '
+      [ 2125 ]  MALANDRINO
+      [ 2126 ]  É muito bonito drama , Tem todo o merecimento .
+      [ 2127 ]  Ora ouçam uma modinha Que estou de lá aprendendo , Pertencente à mesma peça , Modinha de todo o apreço .
+      [ 2128 ]  ( Canta . )
+      [ 2129 ]  'A mulher que se penteia Dá trabalho a toda a gente .
+      [ 2130 ]  Ora os pós , agora o pente , Rosto alegre e descontente , Num espelho a consultar , Nunca fica penteada .
+      [ 2131 ]  Venham ganchos e pomada , Que ainda tendo o que é preciso Para mim não vale nada , Deve ir logo bugiar . '
+      [ 2132 ]  MELCAQUETA e OS DITOS
+      [ 2133 ]  MELCAQUETA
+      [ 2134 ]  Temos mudança de casas ?
+      [ 2135 ]  Vejo os trastes remexidos , O toucador a uma banda , Tudo pelo chão !
+      [ 2136 ]  Que é isto ?
+      [ 2137 ]  Alfarroba , anda depressa , Tira-me este pescocinho .
+      [ 2138 ]  Desaperta a cabeleira , Guarda-me este chapéu fino .
+      [ 2139 ]  ( ALFARROBA lhe tira o pescocinho . )
+      [ 2140 ]  VÁRIA
+      [ 2141 ]  Meu paizinho , não se admire De ver este labirinto .
+      [ 2142 ]  É que nós vamos à ópera .
+      [ 2143 ]  Já nos trouxe a chave o primo .
+      [ 2144 ]  Vossa Mercê , se quiser , Também pode ir , meu paizinho .
+      [ 2145 ]  MELCAQUETA
+      [ 2146 ]  Então também dá a sege , Um archote que é preciso , A gorjeta do lacaio , E a todas vocês vestidos ?
+      [ 2147 ]  MALANDRINO
+      [ 2148 ]  O velho quer muita coisa .
+      [ 2149 ]  Eu estou arrependido .
+      [ 2150 ]  Não posso largar a pena , Que ainda sou mui fraco pinto .
+      [ 2151 ]  LÉRIA
+      [ 2152 ]  Nós estamos aprontadas , Não tenha cuidado nisso .
+      [ 2153 ]  A mana tem jebilé Que com saia de raminhos Vai muito bem asseada .
+      [ 2154 ]  Eu tenho aquele vestido De uma chita do paquete Que é deste nosso vizinho Que veio para apertar .
+      [ 2155 ]  Por hoje dele me sirvo .
+      [ 2156 ]  O primo empresta o que falta Porque eu já lhe falei nisso .
+      [ 2157 ]  E como só nesta casa Há um leque , ainda que antigo , De noite no camarote A todas três vai servindo .
+      [ 2158 ]  MELCAQUETA
+      [ 2159 ]  Há maior pouca vergonha !
+      [ 2160 ]  Desaforo mais crescido !
+      [ 2161 ]  Com os trastes que são de outrem Satisfazerem tais vícios !
+      [ 2162 ]  CHUXADEIRA
+      [ 2163 ]  Vossa Mercê tudo reprova !
+      [ 2164 ]  Também a mãe , eu lhe digo , Tem para a mesma função A Dona Olaia pedido As meias de seda branca , Uma forma de três bicos , O vestido de belbute Para a cabeça uns pentinhos .
+      [ 2165 ]  E se não fosse isto assim Ficava tudo perdido .
+      [ 2166 ]  MELCAQUETA
+      [ 2167 ]  Dona Vária com ser velha Mostra muito pouco brio .
+      [ 2168 ]  Está pior do que as filhas .
+      [ 2169 ]  Olhem que é muito bom brinco !
+      [ 2170 ]  Ora pois nesta função Só eu governo e decido .
+      [ 2171 ]  Já e já desgadelhadas , Que eu vou cear , e em dormindo , Nem óperas nem meias óperas .
+      [ 2172 ]  Vossa Mercê , senhor Primo , Se me tornar a esta casa Com chaves de labirinto , Por cruz diabo da festa Lhe farei arre burrinho .
+      [ 2173 ]  Já me entende ?
+      [ 2174 ]  Esta bengala ...
+      [ 2175 ]  Perceba o mais que não digo .
+      [ 2176 ]  ( Vai-se . )
+      [ 2177 ]  Ora está bom disparate !
+      [ 2178 ]  Vejo-me em boa metido !
+      [ 2179 ]  Fui gastar num camarote , Para ter por prêmio disto Além de tanto desgosto Bengala e arre burrinho !
+      [ 2180 ]  ALFARROBA
+      [ 2181 ]  Eu mesma estava dizendo Que havia de suceder isto .
+      [ 2182 ]  LÉRIA
+      [ 2183 ]  Minha mãe , não faça caso .
+      [ 2184 ]  O avô ceia .
+      [ 2185 ]  Em dormindo , Nós , depois de estarmos prontas , Vamos logo rebolindo .
+      [ 2186 ]  Nem sege nem meia sege .
+      [ 2187 ]  Daqui lá são dois pulinhos .
+      [ 2188 ]  A noite está de luar E posto faz muito frio , A mãe pode ir abafada Com o capote do primo .
+      [ 2189 ]  CHUXADEIRA
+      [ 2190 ]  É verdade , boa idéia .
+      [ 2191 ]  Agradou-me muito isso .
+      [ 2192 ]  Que depois de lá estarmos , Ninguém é tão atrevido , Que lhe importe se nós formos A pé ; de sege ou carrinho .
+      [ 2193 ]  VÁRIA
+      [ 2194 ]  Irra com o negro velho .
+      [ 2195 ]  Faz-me sangue de bugio .
+      [ 2196 ]  Alfarroba que o espreite E logo nos passe aviso .
+      [ 2197 ]  ALFARROBA
+      [ 2198 ]  Sim , senhora , eu vou depressa .
+      [ 2199 ]  Olhe , senhor Malandrino , hei de querer que me dê Chita para um capuchinho .
+      [ 2200 ]  ( Vai-se . )
+      [ 2201 ]  MALANDRINO
+      [ 2202 ]  Porém esses penteados Ainda estão mui pequeninos .
+      [ 2203 ]  Eu domingo vi na ópera Toucados dos mais bonitos .
+      [ 2204 ]  Ali de tudo se vê , De mil coisas é um misto .
+      [ 2205 ]  Vi uma menina séria Com excelente vestido .
+      [ 2206 ]  Porém , oh !
+      [ 2207 ]  que penteado !
+      [ 2208 ]  Que topete guarnecido !
+      [ 2209 ]  Que estrondosa arquitetura !
+      [ 2210 ]  Que pirâmide do Egito !
+      [ 2211 ]  Ela com cara pequena , Metida naquele nicho , Era quase um caranguejo , Junto à Torre do Bugio .
+      [ 2212 ]  Forte coisa !
+      [ 2213 ]  Que toucado !
+      [ 2214 ]  Outra igual não tenho visto .
+      [ 2215 ]  Os canudos às escadas , Que segundo pareciam Tinha a moça na cabeça Os degraus do pelourinho .
+      [ 2216 ]  Ela toda desdenhosa , Fazendo a tudo focinho , Mordia o beiço de cima , E falava de assobio : 'Ó mana , que lhe parece De farda aquele menino ?
+      [ 2217 ]  Ó mana , naquele banco Parece que vejo o primo .
+      [ 2218 ]  Ó mana , aquela senhora Traz hoje o seu chapelinho .
+      [ 2219 ]  Ó mana , aquele fidalgo Traz uns botões bem bonitos . '
+      [ 2220 ]  Todo o povo a estas vozes , Rostos à vanguarda erguidos , Com risadas murmurando
+      [ 2221 ]  Uns chamavam-lhe um ouriço , Outros Maria da Manta , Outros de Chaves o bicho ; E até que se foi embora , De todos foi geral riso .
+      [ 2222 ]  VÁRIA
+      [ 2223 ]  Pois então este toucado Nada brilha à vista disso .
+      [ 2224 ]  LÉRIA
+      [ 2225 ]  Eu quero que todo o povo Me gabe o meu de bonito .
+      [ 2226 ]  CHUXADEIRA
+      [ 2227 ]  Eu já tiro a minha forma .
+      [ 2228 ]  Quero maior labirinto .
+      [ 2229 ]  LÉRIA
+      [ 2230 ]  Lembra-me agora não ter , Para levar , espartilho .
+      [ 2231 ]  MALANDRINO
+      [ 2232 ]  Tudo está remediado .
+      [ 2233 ]  Nunca faça caso disso .
+      [ 2234 ]  Eu sei que seu avô tem De peneiros um vestido .
+      [ 2235 ]  Corte-lhe uma aba de atrás , E faça dela espartilho .
+      [ 2236 ]  Que depois retrós irmão Faz na peça um bom cirgido .
+      [ 2237 ]  VÁRIA
+      [ 2238 ]  Olhe , eu sou de parecer Que se chame este vizinho Que penteia nobremente E mais alguns seus amigos Para consultarem todos O toucado mais bonito .
+      [ 2239 ]  Faça-nos este favor .
+      [ 2240 ]  Ande , meu querido primo , Diga-lhes que tragam tudo Que nesta ação for preciso .
+      [ 2241 ]  MALANDRINO
+      [ 2242 ]  Sim , senhoras , lhe direi Dessa forma mesmo isso .
+      [ 2243 ]  Que são para três cabeças
+      [ 2244 ]  ( À parte . )
+      [ 2245 ]  Muito faltas de juizo .
+      [ 2246 ]  ( Vai-se e elas vão para o toucador e cantam a duo . )
+      [ 2247 ]  LÉRIA
+      [ 2248 ]  Quem me dera já composta Para as outras desbancar .
+      [ 2249 ]  CHUXADEIRA
+      [ 2250 ]  hei de aparecer bonita Se me chego a pentear .
+      [ 2251 ]  LÉRIA
+      [ 2252 ]  Quem me dera que vissem .
+      [ 2253 ]  CHUXADEIRA
+      [ 2254 ]  Quem me dera que chegassem .
+      [ 2255 ]  AMBAS
+      [ 2256 ]  Nenhuma melhor toucado À comédia há de levar .
+      [ 2257 ]  ( Saem MALANDRINO , MALACAZ , ARTURO , BISBORRIO , CARAMBOLA , oficiais mudos com os aprestes . )
+      [ 2258 ]  MALANDRINO
+      [ 2259 ]  Entrem cá , senhores mestres .
+      [ 2260 ]  Consultem estas enfermas .
+      [ 2261 ]  Façam junta , meus senhores , Com a maior ligeireza .
+      [ 2262 ]  MALACAZ
+      [ 2263 ]  Precisa-se informação Dada por boca sincera .
+      [ 2264 ]  E depois de percebida A norma que tem na idéia , Todos nós concordaremos no que melhor aproveita .
+      [ 2265 ]  MALANDRINO
+      [ 2266 ]  Pois o melhor será isso : Informações e clareza .
+      [ 2267 ]  CHUXADEIRA
+      [ 2268 ]  Já com toda a brevidade Informa tu , Dona Léria .
+      [ 2269 ]  LÉRIA
+      [ 2270 ]  Deve dar a informação Você , Dona Chuxadeira .
+      [ 2271 ]  CHUXADEIRA
+      [ 2272 ]  Pois então a mãe que diga , Porque é senhora mais velha .
+      [ 2273 ]  VÁRIA
+      [ 2274 ]  Senhores , bem estendida É toda a nossa pobreza .
+      [ 2275 ]  É certo que as raparigas , E ainda as que têm sessenta , Nunca dormem , nem descansam , Com sentido em serem sécias .
+      [ 2276 ]  Isto mesmo nos sucede .
+      [ 2277 ]  Queremos ir à Comédia Que hoje se faz no Salitre .
+      [ 2278 ]  Vossas Mercês todos têm destas Formas de dois cantos , E das outras mais modernas .
+      [ 2279 ]  Queremos ser penteadas , Que fiquemos bem Maltezas , Que digam esses peraltas Uns gritando da plateia : 'Como vem bem penteada A filha de Melcaqueta ! '
+      [ 2280 ]  MALACAZ
+      [ 2281 ]  Sim , senhoras , nós faremos Aumentar essas belezas .
+      [ 2282 ]  E eu darei também meu voto , Se os senhores dão licença .
+      [ 2283 ]  TODOS
+      [ 2284 ]  Fale o mestre Malacaz , E fale sem comprimento .
+      [ 2285 ]  MALACAZ
+      [ 2286 ]  Senhora , à minha pergunta Queira responder primeiro : Tem atrás , tem adiante Todo o preciso cabelo ?
+      [ 2287 ]  É hirsuto e pouco fino , Ou terá bastante crespo ?
+      [ 2288 ]  Responda a tudo depressa , Que se vai depressa o tempo .
+      [ 2289 ]  VÁRIA
+      [ 2290 ]  Tem todas as circunstâncias , Que tem o melhor cabelo .
+      [ 2291 ]  MALANDRINO
+      [ 2292 ]  ( À parte . )
+      [ 2293 ]  Pela informação que toma É nobre cabeleireiro .
+      [ 2294 ]  VÁRIA
+      [ 2295 ]  Só vivo desconsolada De ter muito pouco jeito .
+      [ 2296 ]  MALANDRINO
+      [ 2297 ]  Há carqueja e lume em casa , Pois então não tema o crespo .
+      [ 2298 ]  Que os porcos pelo Natal Mais é um cabelo teso , Apenas lhe chega o fogo , Num instante toma jeito .
+      [ 2299 ]  MALACAZ
+      [ 2300 ]  Enfim sou de parecer Que para o divertimento Vão de formas gigantescas , As belezas com seus crespos , Atrás seis tranças num pente , Que são bonito concerto .
+      [ 2301 ]  E um chapelinho de esteira Posto em cima bem no centro .
+      [ 2302 ]  CHUXADEIRA
+      [ 2303 ]  Porém nós somos tão pobres Que nem chapelinhos temos .
+      [ 2304 ]  MALACAZ
+      [ 2305 ]  Não importa .
+      [ 2306 ]  Dois capachos Dão para isso bom remédio .
+      [ 2307 ]  Vão-se seguindo os senhores Que o meu voto dado tenho .
+      [ 2308 ]  BISBORRIO
+      [ 2309 ]  Fale o mestre Carambola .
+      [ 2310 ]  CARAMBOLA
+      [ 2311 ]  Ao mestre Bisborrio eu cedo .
+      [ 2312 ]  BISBORRIO
+      [ 2313 ]  Pois já que assim tanto aperta , Falarei sem comprimento .
+      [ 2314 ]  É preciso que as senhoras Saibam deste ofício o resto : As castas de penteados E a quantidade de ferros .
+      [ 2315 ]  Temos ferro de virar , Ferro de anéis , que dá crespo , Agulhetas e tesouras , Pomadas de cera e sebo , Óleo , banha , pós , limão , Tudo faz o mesmo efeito .
+      [ 2316 ]  Há fole , ou borla de seda , De linha , arminho e braseiro .
+      [ 2317 ]  Tenham santa paciência , Com isto tudo eu penteio .
+      [ 2318 ]  Mas se agora principio Gasto nisso um ano inteiro .
+      [ 2319 ]  Fale o mestre Carambola Que ainda não disse ao que veio .
+      [ 2320 ]  CARAMBOLA
+      [ 2321 ]  O meu modo de inquirir Tem muito diferente termo .
+      [ 2322 ]  Ainda a nenhum tem lembrado As coisas de que me lembro .
+      [ 2323 ]  Quero saber se estão sujos , Senhoras , os seus cabelos , Se têm lêndias ou piolhos , Se têm pós de muitos tempos .
+      [ 2324 ]  E finalmente se têm Bustelas por eles dentro , Porque estando dessa forma , Que será isso o mais certo , Sem lhe pôr pós de Joanes , Nem lhe bulo nem penteio .
+      [ 2325 ]  CHUXADEIRA e LÉRIA
+      [ 2326 ]  Pois senhores , dessa sorte O que dizem não entendo .
+      [ 2327 ]  LÉRIA
+      [ 2328 ]  Nós estamos penteadas .
+      [ 2329 ]  CHUXADEIRA
+      [ 2330 ]  A mãe cumpra o seu empenho .
+      [ 2331 ]  VÁRIA
+      [ 2332 ]  Ainda estou bastante fresca .
+      [ 2333 ]  Eu as modas não dispenso .
+      [ 2334 ]  De todos que têm falado O senhor Malacaz quero .
+      [ 2335 ]  Venha forma gigantesca , Forma a que chegue o cabelo .
+      [ 2336 ]  Quero um ramo chafariz Para levar bem no centro .
+      [ 2337 ]  MALACAZ
+      [ 2338 ]  Nada disso faltará .
+      [ 2339 ]  Entrem cá .
+      [ 2340 ]  Ouvem , galegos ?
+      [ 2341 ]  ( Entra o primeiro galego com uma escada , dois a paus e corda com um tronco de uma árvore , e outros dois do mesmo modo com uma forma .
+      [ 2342 ]  MALACAZ põe o ramo em cima da forma ajudado pelos mestres e oficiais e a levantam acima para a porem na cabeça de Dona VÁRIA ) .
+      [ 2343 ]  VÁRIA
+      [ 2344 ]  Senhores , nesta cabeça Hão de me pôr esse peso ?
+      [ 2345 ]  Por quem são , quero viver Ainda mais um par de tempos .
+      [ 2346 ]  MALACAZ
+      [ 2347 ]  Ora abaixe-se , senhora .
+      [ 2348 ]  MALANDRINO
+      [ 2349 ]  Já agora não tem remédio .
+      [ 2350 ]  VÁRIA
+      [ 2351 ]  ( Gritando . )
+      [ 2352 ]  Ai , ai , ai , que eu já não posso !
+      [ 2353 ]  Piedade com tanto peso !
+      [ 2354 ]  AS DUAS
+      [ 2355 ]  Ai que esmagam minha mãe !
+      [ 2356 ]  Quem acode ?
+      [ 2357 ]  Eu te arrenego !
+      [ 2358 ]  ( Sai MELCAQUETA em camisa , ceroulas , meias brancas , barrete na cabeça , espingarda ao ombro , óculos , espada em uma mão e na outra um archote aceso seguido de ALFARROBA .
+      [ 2359 ]  Parte direito à forma , às estocadas , gritando . )
+      [ 2360 ]  MELCAQUETA
+      [ 2361 ]  Que é isto ?
+      [ 2362 ]  Que história é esta ?
+      [ 2363 ]  ALFARROBA
+      [ 2364 ]  De susto ainda estou tremendo .
+      [ 2365 ]  VÁRIA
+      [ 2366 ]  Meu pai , tenha paciência .
+      [ 2367 ]  As suas netas e eu mesmo , Teimando em ir à comédia Sem atender ao respeito Para o nosso penteado , Chamamos cabeleireiros .
+      [ 2368 ]  Fez-se junta nas cabeças .
+      [ 2369 ]  O senhor foi o primeiro Que votou viessem formas A pau e corda ; os galegos Trouxeram-me aquela grande .
+      [ 2370 ]  Não pude sofrer-lhe o peso , Gritei por quem me acudisse , Já tal forma não querendo .
+      [ 2371 ]  Por sinal com esta junta Que estes senhores fizeram Ficamos por pentear , E tomaram-nos o tempo .
+      [ 2372 ]  Porém , eu , arrependida De tão grande desacerto , Com Léria e mais Chuxadeira , O seu perdão pretendemos .
+      [ 2373 ]  MELCAQUETA
+      [ 2374 ]  Ora pois , eu lhes perdoo .
+      [ 2375 ]  Mas tesouras aos cabelos .
+      [ 2376 ]  Demorem-se , meus senhores , Cortem isto em breve tempo , Este primo nunca mais O hei de ver aqui dentro .
+      [ 2377 ]  Em vindo , porta fechada , Que eu lhes darei o tempero .
+      [ 2378 ]  E vocês sendo carecas , Nunca mais com tal extremo Amotinarão a casa Com penteados eternos .
+      [ 2379 ]  Nem há de haver aqui mais Junta dos Cabeleireiros .
+      [ 2380 ]  TODOS
+      [ 2381 ]  ( Cantam . )
+      [ 2382 ]  Cuidado , ó Senhoras , nas poupas da moda Que a cabeça à roda Vos hão de trazer .
+      [ title: 
+      [ 2383 ]  A menina discreta da fábrica nova ]
+      [ 2384 ]  Personagens
+      [ 2385 ]  PAPÍRIO , pai de Corisca e de Pórcia CORISCA PÓRCIA SIMPLÍCIO , convidado ATANÁZIO , convidado ALBERTO , convidados DONA FÚFIA , amiga de Corisca DONA LESMA , amiga de Corisca MATILDES , criada de Papírio ESQUIPÁTICO , criado do dito Um enfermeiro Galegos com duas cadeirinhas
+      [ 2386 ]  ( Sala de PAPÍRIO , este falando . )
+      [ 2387 ]  PAPÍRIO
+      [ 2388 ]  Que moça , que moça !
+      [ 2389 ]  Que portento !
+      [ 2390 ]  Poucos homens têm uma filha com tão raras circunstâncias .
+      [ 2391 ]  Cada palavra é uma sentença , e tão crespa , que às vezes lhe não entendo em nada .
+      [ 2392 ]  O nome de Corisca lhe ficou nascendo porque ela é um raio de literatura e um corisco da ciência .
+      [ 2393 ]  Enfim , sabe de cor o Carlos Magno todo , a Constante Florinda .
+      [ 2394 ]  Não lhe fica papel de cego que não compre , que não estude .
+      [ 2395 ]  O meu gosto é conversar com a minha discreta filha .
+      [ 2396 ]  Parece que pelo espinhaço acima lhe sobem os conceitos em borbotões , que se lhe adoçam naquela língua de ouro .
+      [ 2397 ]  Ora quero chamá-la ainda que a tire da sua aplicação .
+      [ 2398 ]  Matildes !
+      [ 2399 ]  Matildes !
+      [ 2400 ]  MATILDES e O DITO
+      [ 2401 ]  MATILDES
+      [ 2402 ]  Senhor , senhor .
+      [ 2403 ]  PAPÍRIO
+      [ 2404 ]  Que faz Corisca , a minha rica filha ?
+      [ 2405 ]  MATILDES
+      [ 2406 ]  O costumado .
+      [ 2407 ]  Está lendo a obra de Bertoldo com os olhos em alvo , e agora que lhe fui pedir um fio de retrós , deu-me um grito , porque a fora interromper no seu estudo .
+      [ 2408 ]  PAPÍRIO
+      [ 2409 ]  Fazes mal em a estorvar das suas idéias .
+      [ 2410 ]  Deixa que estude à sua vontade , que brevemente entrará a compor , e teremos na minha filha uma mulher famosa na República Literária .
+      [ 2411 ]  MATILDES
+      [ 2412 ]  Por mim , estude ela quanto quiser .
+      [ 2413 ]  Porém olhe , senhor : eu sempre ouvi dizer a minha avó que a mulher era sábia se arrumava um até dois baús de roupa .
+      [ 2414 ]  PAPÍRIO
+      [ 2415 ]  Como és tola !
+      [ 2416 ]  Hoje as mulheres já estão em outro tom .
+      [ 2417 ]  Vai chamar a minha rica filha .
+      [ 2418 ]  MATILDES
+      [ 2419 ]  Eu vou .
+      [ 2419 ]  ( À parte . )
+      [ 2420 ]  O pai babando-se pela filha presumida é uma comédia .
+      [ 2421 ]  ( Vai-se . )
+      [ 2422 ]  PAPÍRIO
+      [ 2423 ]  Determino fazer em minha casa uma academia de senhoras e sujeitos prendados e discretos para embaraçar esses senhores que presumem de sábios .
+      [ 2424 ]  Oh que filha !
+      [ 2425 ]  Ela vem .
+      [ 2426 ]  Oh que filha !
+      [ 2427 ]  CORISCA , O DITO e MATILDES
+      [ 2428 ]  CORISCA
+      [ 2429 ]  Meu caro progenitor , acato-me dos anapícios de quem me prolificou .
+      [ 2430 ]  PAPÍRIO
+      [ 2431 ]  Isso é comigo , minha filha ?
+      [ 2432 ]  CORISCA
+      [ 2433 ]  Sim , senhor .
+      [ 2434 ]  Pois era faltar aos deveres do rubro sangue se não respeitasse o paterno semblante que me cientificou e me pôs apta para receber os esforços de uma ígnea aplicação .
+      [ 2435 ]  PAPÍRIO
+      [ 2436 ]  Tomara eu entender-te , minha rica filha .
+      [ 2437 ]  Deveras eu sou tudo isso que tu dizes ?
+      [ 2438 ]  Perdoa se te não percebo .
+      [ 2439 ]  Eu bem sei que tu não gostas de falar com homens leigos , mas ...
+      [ 2440 ]  MATILDES
+      [ 2440 ]  ( À parte . )
+      [ 2441 ]  A filha fala mouro .
+      [ 2442 ]  E o pai não ata nem desata .
+      [ 2443 ]  CORISCA
+      [ 2444 ]  Um homem ignorante me faz uma pungência indelével , que me extermina daquela paixão dominante com que o meu espírito se nutre e se corrobora .
+      [ 2445 ]  Isto é , daquela aplicação científica com que a minha alma se molda para fugir das inépcias e puerilidades .
+      [ 2446 ]  PAPÍRIO
+      [ 2447 ]  Abençoada seja a mãe que te pariu !
+      [ 2448 ]  Que eloquência !
+      [ 2449 ]  Que termos !
+      [ 2450 ]  MATILDES
+      [ 2450 ]  ( À parte . )
+      [ 2451 ]  Que tolos !
+      [ 2452 ]  Que patetas !
+      [ 2453 ]  PAPÍRIO
+      [ 2454 ]  E por onde estudas tu agora ?
+      [ 2455 ]  CORISCA
+      [ 2456 ]  Estou analisando a dissertação de Bertoldo que é obra boa , ótima , enérgica por um estilo fúlgido .
+      [ 2457 ]  PAPÍRIO
+      [ 2458 ]  Bravo , bravo .
+      [ 2459 ]  Que coisa é estilo fúlgido ?
+      [ 2460 ]  CORISCA
+      [ 2461 ]  É uma composição heterogênea .
+      [ 2462 ]  PAPÍRIO
+      [ 2463 ]  Fiquei da mesma sorte .
+      [ 2464 ]  MATILDES
+      [ 2464 ]  ( À parte . )
+      [ 2465 ]  Tem pilhado a dente aquelas palavrinhas arábicas e mata-nos com elas .
+      [ 2466 ]  CORISCA
+      [ 2467 ]  Estas composições por estilo ático são o chefe de obra dos homens grandes e os escritores dos séculos longevos como foram Parmenião , Apeles e Protógenes que sempre escreveram em poucas palavras grandes períodos , e todos souberam bem a Arte da Crítica e Analítica .
+      [ 2468 ]  PAPÍRIO
+      [ 2469 ]  Ó minha rica filha , antes quero conversar contigo que ver uma tarde de touros .
+      [ 2470 ]  CORISCA
+      [ 2471 ]  Não há dúvida que a ciência a todos agrada .
+      [ 2472 ]  Assim como desgosta a sórdida ignorância .
+      [ 2473 ]  Verbi gratia , Matildes , que ao depois me foi inquietar para pedir-me um fio de retrós em termos tão baixos , que pondo em revolução as minhas idéias , estas desceram à região do sangue que , tocado da acrimônia , pulsando iras , não pôde a reflexão suprimir os ímpetos da Natureza .
+      [ 2474 ]  MATILDES
+      [ 2475 ]  Pois já o retrós se não chama retrós ?
+      [ 2476 ]  CORISCA
+      [ 2477 ]  Não merecem atenção palavras insípidas e ocas .
+      [ 2478 ]  Se tu me pediras uma porção babuginosa dos bichos ambissexos , eu te responderia .
+      [ 2479 ]  PAPÍRIO
+      [ 2480 ]  Vocês cuidam que a gente sábia tem a mesma linguagem que têm os ignorantes ?
+      [ 2481 ]  Muitas vezes não entendem metade das palavras que nós falamos pelo nosso estilo usual .
+      [ 2482 ]  MATILDES
+      [ 2483 ]  Então estou bem aviada .
+      [ 2484 ]  Quando quiser pedir alguma coisa à Senhora , hei de ir buscar um mestre de retórica para que fale por mim .
+      [ 2485 ]  CORISCA
+      [ 2486 ]  Infelizes criaturas submersas na crápula da insipiência que não sabem falar se não a língua vernácula .
+      [ 2487 ]  PAPÍRIO
+      [ 2488 ]  Ó minha filha , a língua vernácula é a língua do Inverno ?
+      [ 2489 ]  CORISCA
+      [ 2490 ]  Não senhor .
+      [ 2491 ]  Porém é aquele jardão de futilidades com que se explicam os termos polímicos .
+      [ 2492 ]  PAPÍRIO
+      [ 2493 ]  Agora acabo de crer que sou um asno !
+      [ 2494 ]  MATILDES
+      [ 2495 ]  Sim senhor , nós estamos vendidos .
+      [ 2496 ]  CORISCA
+      [ 2497 ]  Conservo a verdade que logo que leio qualquer livro lhe vejo as letras com que está escrito .
+      [ 2498 ]  PAPÍRIO
+      [ 2499 ]  Que filha , que mulher , que habilidade !
+      [ 2500 ]  Esta minha filha é um archote animado !
+      [ 2501 ]  Tem mais luzes que o candeeiro das trevas .
+      [ 2502 ]  É um luzecu da noite .
+      [ 2503 ]  CORISCA
+      [ 2504 ]  Nada , meu pai , não fale por termos tão ignomínios .
+      [ 2505 ]  Diga pirilampo em lugar de luzecu .
+      [ 2506 ]  PAPÍRIO
+      [ 2507 ]  Ainda que preto velho não aprende línguas , contudo em tudo te seguirei .
+      [ 2508 ]  CORISCA
+      [ 2509 ]  Se o meu princípio animático , isto é , meu pai , me quisera fazer acessível àquela obra de Carlos Magno , eu lhe subministrara os excessos de minha reverente sindéresis , porque queria anatomizar várias palavras que a fazem escura .
+      [ 2510 ]  PAPÍRIO
+      [ 2511 ]  Escura chamais vós a uma obra que não há moço de navio que não leia , nem regateira que não chore com ela ?
+      [ 2512 ]  CORISCA
+      [ 2513 ]  Aí tem Vossa Mercê o erro que grassa entre os que não têm a verdadeira Arte da Crítica Hermenêutica .
+      [ 2514 ]  Se os Ovídios , os Homeros , Horácios , Vírgilios , Campaspes , Tarquínios , e outros homens que escreveram para a posteridade agora ressuscitassem , eles diriam que aquele livro tem sua ambiguidade .
+      [ 2515 ]  Os homens rasteiros vêem as ações , e a gente culta nota as belezas .
+      [ 2516 ]  PAPÍRIO
+      [ 2517 ]  Quanto mais vivermos mais aprenderemos .
+      [ 2518 ]  Ora vejam que livro de Carlos Magno tem belezas que não conhecem todos .
+      [ 2519 ]  Pois , minha senhora , à noite te quero dar um bocadinho de gosto .
+      [ 2520 ]  Manda convidar , tu , minha filha , as tuas amigas de boa escolha , que eu convidarei os meus amigos , e faremos nesta casa uma função de brado em que tu te espojes com eles para os atacares em discrição .
+      [ 2521 ]  CORISCA
+      [ 2522 ]  Contanto que sejam homens críticos , discernentes , instrutos , decisivos , eloqüentes e melífluos .
+      [ 2523 ]  MATILDES
+      [ 2524 ]  Aonde há de ir o senhor seu pai buscar esses estrangeiros ?
+      [ 2525 ]  CORISCA
+      [ 2526 ]  Que insipidez !
+      [ 2527 ]  Que crassidade de espírito volúvel !
+      [ 2528 ]  PAPÍRIO
+      [ 2529 ]  Deixa estar , minha filha , que hão de ser todos discretíssimos .
+      [ 2530 ]  CORISCA
+      [ 2531 ]  Que não sejam multíquos , obstinados e incorrigíveis .
+      [ 2532 ]  PAPÍRIO
+      [ 2533 ]  Nada , nada .
+      [ 2534 ]  Hão de ser todos meus amigos .
+      [ 2535 ]  Adeus , minha filha , adeus .
+      [ 2536 ]  Eu já venho .
+      [ 2537 ]  ( Vai-se a tempo . )
+      [ 2538 ]  CORISCA
+      [ 2539 ]  A felicidade circunde a sua face , e em torno da sua imagem lhe prospere a progressiva ação com alacridade .
+      [ 2540 ]  PAPÍRIO
+      [ 2541 ]  Benza-te Deus !
+      [ 2542 ]  Benza-te Deus !
+      [ 2543 ]  ( Vai-se . )
+      [ 2544 ]  MATILDES
+      [ 2545 ]  Não a lamba o gato !
+      [ 2546 ]  PÓRCIA e OS DITOS
+      [ 2547 ]  PÓRCIA
+      [ 2548 ]  Meu pai já se foi , Matildes ?
+      [ 2549 ]  MATILDES
+      [ 2550 ]  Sim , senhora .
+      [ 2551 ]  Foi agora à procura de uns homens de nomes tão feios , que lhe mandou sua mana , que não sei aonde se há de achar aquela casta de gente .
+      [ 2552 ]  PÓRCIA
+      [ 2553 ]  A mana , que o disse , bem sabe o que faz .
+      [ 2554 ]  São certamente alguns autores raros .
+      [ 2555 ]  Não é assim , mana ?
+      [ 2556 ]  CORISCA
+      [ 2557 ]  São pessoas com espírito .
+      [ 2558 ]  PÓRCIA
+      [ 2559 ]  Ó mana , o que fez ?
+      [ 2560 ]  Quer cá em casa gente endemoninhada ?
+      [ 2561 ]  CORISCA
+      [ 2562 ]  Ah , que ignorância tendes nesse obtuso cérebro .
+      [ 2563 ]  MATILDES
+      [ 2564 ]  Pois Vossa Mercê quer que todos tenham a sua ciência sem estudos ?
+      [ 2565 ]  PÓRCIA
+      [ 2566 ]  Olhe mana , eu não sei essas ciências de fábrica nova , mas em lugar dessas suas loucuras com que nos seca , sei muito bem bordar , coser , fazer meia , e tudo o que é preciso a uma pessoa para poder ser útil à sua família .
+      [ 2567 ]  Não leio obras insulsas , não digo palavras de Costa de África que falam as Tapuias , mas todos me entendem .
+      [ 2568 ]  CORISCA
+      [ 2569 ]  E está a minha mana despida de pensamentos tímidos por aquela prevenção doméstica , e o seu ente aniquilado entre os objetos ridículos .
+      [ 2570 ]  PÓRCIA
+      [ 2571 ]  Não importa , mana .
+      [ 2572 ]  Assim me quero .
+      [ 2573 ]  Mas ao menos estou livre de me chamarem tola , enfatuada e vaidosa .
+      [ 2574 ]  CORISCA
+      [ 2575 ]  Que diferentes noções nos distribui o sangue !
+      [ 2576 ]  A mana acomoda-se com estes exercícios corpóreos .
+      [ 2577 ]  E eu perderia os alentos que me vivificam se tivesse tão rasteiros pensamentos .
+      [ 2578 ]  PÓRCIA
+      [ 2579 ]  Faz bem o pai que a supõe uma Catoa .
+      [ 2580 ]  Fica com a boca aberta .
+      [ 2581 ]  Mas eu , se lhe raspar essa insípida casca de palavretas que nada significam , logo lhe descobrirei a qualidade da madeira , que nada me admira .
+      [ 2582 ]  MATILDES
+      [ 2583 ]  Não diga isso , menina .
+      [ 2584 ]  Quem estudou , estudou .
+      [ 2585 ]  CORISCA
+      [ 2586 ]  Não me quero comprometer com a estultícia das gentes .
+      [ 2587 ]  PÓRCIA
+      [ 2588 ]  Ai minha rica mana , diga já que acabou de ler o Acto da Imperatriz Porcina , sabe de cor o Roberto do Diabo , já tem interpretado o da Magalona ?
+      [ 2589 ]  Deus me livrara de ler tal , porque eles me fariam tola de todo .
+      [ 2590 ]  CORISCA
+      [ 2591 ]  O pai há de ser ciente dessas petulantíssimas imbecilidades .
+      [ 2592 ]  ( Canta . )
+      [ 2593 ]  Que glória , que gosto A ciência nos dá !
+      [ 2594 ]  Ah , pobres viventes Onde esta não há !
+      [ 2595 ]  Ai lé , lé , lé , lé , saber .
+      [ 2596 ]  Antes quero ler nos livros Que fazer meia ou coser .
+      [ 2597 ]  ( Vai-se . )
+      [ 2598 ]  MATILDES
+      [ 2599 ]  Razões não fazem sopas , senhora Dona Pórcia .
+      [ 2600 ]  Não faça caso do que diz sua mana .
+      [ 2601 ]  Ela foi para a sua livraria , e Vossa Mercê vá com todo o sossego para a sua costura , que eu vou varrer esta casa porque se espera hoje muita gente , e suponho que também vêm alguns mouros , porque seu pai levou os nomes deles .
+      [ 2602 ]  PÓRCIA
+      [ 2603 ]  À noite me hei de fartar de rir .
+      [ 2604 ]  E por divertir paixões , vamos cantar uma modinha .
+      [ 2605 ]  PÓRCIA e MATILDES
+      [ 2606 ]  ( Cantam . )
+      [ 2607 ]  Acabou de todo a glória Que tão contente logrei .
+      [ 2608 ]  Com a saudosa lembrança Dele somente fiquei .
+      [ 2609 ]  Ai lé li ló lé , agrados , O cantar serve de muito Para divertir cuidados .
+      [ 2610 ]  ( Vai-se Pórcia . )
+      [ 2611 ]  ESQUIPÁTICO e MATILDES
+      [ 2612 ]  MATILDES
+      [ 2613 ]  Bem podias tu , meu rico Esquipático , dar-me uma ajuda .
+      [ 2614 ]  ESQUIPÁTICO
+      [ 2615 ]  Pois tu achas-me com cara de cristaleira ?
+      [ 2616 ]  MATILDES
+      [ 2617 ]  Começas com as tuas esquipações e eu tenho pressa , que há de vir logo o senhor Papírio , e se acha a casa assim , há de ralhar muito .
+      [ 2618 ]  ESQUIPÁTICO
+      [ 2619 ]  Queres tu que ele não ralhe ?
+      [ 2620 ]  Dize-lhe que esteve aqui a senhora Doutora sacudindo o pó dos cartapácios e tu o verás ficar muito contente , porque neste ponto é para o que eu prestar .
+      [ 2621 ]  MATILDES
+      [ 2622 ]  Parece-me impossível que ...
+      [ 2623 ]  Mas quero varrer .
+      [ 2624 ]  Levanta-me as cadeiras .
+      [ 2625 ]  ESQUIPÁTICO
+      [ 2626 ]  Quais ?
+      [ 2627 ]  As minhas ?
+      [ 2628 ]  MATILDES
+      [ 2629 ]  Se tu queres zombar , é outra coisa .
+      [ 2630 ]  ESQUIPÁTICO
+      [ 2631 ]  Quantas coisas me mandas tu fazer ?
+      [ 2632 ]  MATILDES
+      [ 2633 ]  Nenhuma .
+      [ 2634 ]  Favorece-me com a tua ausência .
+      [ 2635 ]  ESQUIPÁTICO
+      [ 2636 ]  Ah !
+      [ 2637 ]  Tempos , tempos !
+      [ 2638 ]  Já tu me pediste algumas vezes que te não deixasse !
+      [ 2639 ]  MATILDES
+      [ 2640 ]  Isso foi no tempo dos Afonsinhos , quando tinhas mais juízo .
+      [ 2641 ]  ESQUIPÁTICO
+      [ 2642 ]  É habilidade , quando devias ter mais , achares-me tu com menos .
+      [ 2643 ]  MATILDES
+      [ 2644 ]  Ora se quer , ajuda-me a pegar naquela mesa que não posso com ela .
+      [ 2645 ]  ESQUIPÁTICO
+      [ 2646 ]  Tu não podes levantar a mesa quando és capaz de levantar um testemunho por mais pecado que seja ?
+      [ 2647 ]  MATILDES
+      [ 2648 ]  Olha que me arrenego !
+      [ 2649 ]  ESQUIPÁTICO
+      [ 2650 ]  Deus te livre de te cativarem os mouros , filha .
+      [ 2651 ]  MATILDES
+      [ 2652 ]  Não zombemos .
+      [ 2653 ]  Pega daquela banda .
+      [ 2654 ]  ESQUIPÁTICO
+      [ 2655 ]  Em que banda ?
+      [ 2656 ]  Naquela que tu já me deste ?
+      [ 2657 ]  MATILDES
+      [ 2658 ]  Tu não queres , pois tu o sentirás .
+      [ 2659 ]  Vem logo para cá dizer-me : ' Ó minha rica Matilde , vamos cantar aquela modinha ? '
+      [ 2660 ]  E eu então respondo-te : ' Ó meu rico Esquipático , digo que não quero ! '
+      [ 2661 ]  ESQUIPÁTICO
+      [ 2662 ]  Ah , cachorra , apanhaste-me com a boca na botija .
+      [ 2663 ]  Ora pois , olha : vamos nós cantar e logo farei tudo quanto quiseres numa volta de mão .
+      [ 2664 ]  MATILDES
+      [ 2665 ]  Pois olha , faze tu isso primeiro e logo cantaremos .
+      [ 2666 ]  ESQUIPÁTICO
+      [ 2667 ]  Nada , que tu logras-me .
+      [ 2668 ]  MATILDES
+      [ 2669 ]  Prometo de não faltar .
+      [ 2670 ]  ESQUIPÁTICO
+      [ 2671 ]  E se ficares mentirosa ?
+      [ 2672 ]  MATILDES
+      [ 2673 ]  Quem ?
+      [ 2674 ]  Eu ?
+      [ 2675 ]  Essa é boa !
+      [ 2676 ]  ESQUIPÁTICO
+      [ 2677 ]  Ora bem .
+      [ 2678 ]  Quero fiar-me desta vez com grande susto , porque vocês quando prometem , já vem a mentira na garupa .
+      [ 2679 ]  ESQUIPÁTICO e MATILDES
+      [ 2679 ]  ( Cantam depois de varrerem . )
+      [ 2680 ]  ' Quem tem presa a liberdade O grilhão há de arrastar .
+      [ 2681 ]  Nunca tem livre o desejo , Nunca pode respirar .
+      [ 2682 ]  Ai lé li ló lé , fadigas .
+      [ 2683 ]  Ah , pobreza desgraçada , A quantos males obrigas !
+      [ 2684 ]  MATILDES
+      [ 2685 ]  Aí vem nosso amo .
+      [ 2686 ]  E por mais um nada , não nos apanha no coro .
+      [ 2687 ]  ESQUIPÁTICO
+      [ 2688 ]  Quer sim , quer não .
+      [ 2689 ]  Eu logo lhe dizia : quem canta , seus males espanta .
+      [ 2690 ]  MATILDES
+      [ 2691 ]  Então ia-se ele embora .
+      [ 2692 ]  ESQUIPÁTICO
+      [ 2693 ]  Tu sempre hás de ter má língua .
+      [ 2694 ]  MATILDES
+      [ 2695 ]  E tu , fingido raposo ?
+      [ 2696 ]  ESQUIPÁTICO
+      [ 2697 ]  Se eu fora raposo , sendo tu franga , já me entendes ?
+      [ 2698 ]  MATILDES
+      [ 2699 ]  Percebo a dificuldade .
+      [ 2700 ]  PAPÍRIO e OS DITOS
+      [ 2701 ]  PAPÍRIO
+      [ 2702 ]  Depressa , depressa , esta casa pronta !
+      [ 2703 ]  Luzes !
+      [ 2704 ]  Velas nos castiçais !
+      [ 2705 ]  Cadeiras !
+      [ 2706 ]  Lume acesso !
+      [ 2707 ]  Água para chá !
+      [ 2708 ]  Açúcar !
+      [ 2709 ]  Biscoitos !
+      [ 2710 ]  Fatias com manteiga , chícaras !
+      [ 2711 ]  Tesoura para velas !
+      [ 2712 ]  Penteadas as meninas !
+      [ 2713 ]  E isto enquanto se dizem ovos .
+      [ 2714 ]  ESQUIPÁTICO
+      [ 2714 ]  ( Retirando-se . )
+      [ 2715 ]  Com licença .
+      [ 2716 ]  PAPÍRIO
+      [ 2717 ]  Aonde vais ?
+      [ 2718 ]  ESQUIPÁTICO
+      [ 2719 ]  Vou buscar papel e tinteiro para pôr num rol o que Vossa Mercê nos diz .
+      [ 2720 ]  PAPÍRIO
+      [ 2721 ]  Ora és bem asno .
+      [ 2722 ]  ESQUIPÁTICO
+      [ 2723 ]  Nós não nos fizemos .
+      [ 2724 ]  Ponha Vossa Mercê a culpa a quem quiser .
+      [ 2725 ]  PAPÍRIO
+      [ 2726 ]  Já vejo que tens memória de galo .
+      [ 2727 ]  ESQUIPÁTICO
+      [ 2728 ]  Memoria hominis scorregabilis es .
+      [ 2729 ]  MATILDES
+      [ 2730 ]  Bem sei o que quer meu amo .
+      [ 2731 ]  ( Vai-se . )
+      [ 2732 ]  PAPÍRIO
+      [ 2733 ]  Esquipático , sempre gastas os mesmos humores ?
+      [ 2734 ]  ESQUIPÁTICO
+      [ 2735 ]  Tomara eu gastá-los todos , e dava dois trincos para os remédios purgantes .
+      [ 2736 ]  PAPÍRIO
+      [ 2737 ]  É sobrenatural aquela ciência de minha filha .
+      [ 2738 ]  Faz-me pasmar o modo por que se explica por palavras desconhecidas .
+      [ 2739 ]  Eu bem sei que muitas se servem de palavras crespas que fazem assustar o bicho dos ouvidos .
+      [ 2740 ]  Mas a minha Corisca não é assim .
+      [ 2741 ]  ESQUIPÁTICO
+      [ 2742 ]  Qual , senhor !
+      [ 2743 ]  A menina fala que é um gosto ouvi-la .
+      [ 2744 ]  Tomara eu vê-la numa cadeira de Retórica ou ao menos almotacel na casinha , dando sentenças .
+      [ 2745 ]  PAPÍRIO
+      [ 2746 ]  Quero casá-la com um homem sábio por que os seus filhos serão uns heróis , que os pintos de casta sempre saem aos pais .
+      [ 2747 ]  Isto é , assim como os perdigotos , logo que saem do ninho , ainda com a casca pegada , seguem a natureza dos perdigões e das perdizes , do mesmo modo minha filha dará ao mundo partos maravilhosos .
+      [ 2748 ]  ESQUIPÁTICO
+      [ 2749 ]  Mas como diabo às vezes de pais tão discretos nascem filhos tão tolos que não sabem nem falar ?
+      [ 2750 ]  PAPÍRIO
+      [ 2751 ]  Isso são erros da natureza , que o comum é : de boa égua , bom poldro .
+      [ 2752 ]  Mas aí chegam os convidados .
+      [ 2753 ]  SIMPLÍCIO , ATANÁZIO e OS DITOS
+      [ 2754 ]  SIMPLÍCIO
+      [ 2755 ]  Senhor Papírio , este favor com que me distingue me dá grande vaidade .
+      [ 2756 ]  ATANÁZIO
+      [ 2757 ]  Eu não me julgava digno de tão sábia palestra , mas a vossa bondade é incomparável .
+      [ 2758 ]  PAPÍRIO
+      [ 2759 ]  Pretendo que hoje ouçais uma filha que tenho , que o seu comer são livros e o seu beber são papéis .
+      [ 2760 ]  ESQUIPÁTICO
+      [ 2760 ]  ( À parte . )
+      [ 2761 ]  Mas em chegando à mesa come como um cavador de enxada .
+      [ 2762 ]  SIMPLÍCIO
+      [ 2763 ]  Já temos a honra de a conhecermos por fama .
+      [ 2764 ]  ATANÁZIO
+      [ 2765 ]  O seu nome é muito respeitável .
+      [ 2766 ]  ESQUIPÁTICO
+      [ 2767 ]  Não há cego nenhum que não a conheça !
+      [ 2768 ]  ALBERTO e OS DITOS
+      [ 2769 ]  ALBERTO
+      [ 2770 ]  Estimo esta ocasião para oferecer-vos os meus respeitos e a toda esta casa .
+      [ 2771 ]  PAPÍRIO
+      [ 2772 ]  Esquipático , chega cadeiras !
+      [ 2773 ]  ATANÁZIO
+      [ 2774 ]  Vimos hoje aqui admirar uma senhora cuja a fama corre com ligeiro voo .
+      [ 2775 ]  ALBERTO
+      [ 2776 ]  Não será a primeira do seu sexo .
+      [ 2777 ]  PAPÍRIO
+      [ 2778 ]  Pois já tem havido algumas mulheres tão sábias como minha filha ?
+      [ 2779 ]  ALBERTO
+      [ 2780 ]  Muitas em todos os séculos .
+      [ 2781 ]  PAPÍRIO
+      [ 2782 ]  Vossa Mercê engana-se .
+      [ 2783 ]  Pois mulheres em mulheres ?
+      [ 2784 ]  ESQUIPÁTICO
+      [ 2785 ]  Não , senhor .
+      [ 2786 ]  Eram homens em traje de mulheres .
+      [ 2787 ]  PAPÍRIO
+      [ 2788 ]  Aí vem a minha jóia .
+      [ 2789 ]  CORISCA , PÓRCIA , MATILDES e OS DITOS
+      [ 2790 ]  CORISCA
+      [ 2791 ]  Senhores , eu não posso ter palavras exóticas nem termos categóricos que sejam precípuos e congruentes para as vossas pessoas , mas pelas frases ríspidas e pedantes vos agradeço o trabalho de querer ouvir-me .
+      [ 2792 ]  ALBERTO
+      [ 2793 ]  Bravo , bravo , minha senhora .
+      [ 2793 ]  ( À parte . )
+      [ 2794 ]  Temos tola pela proa .
+      [ 2795 ]  PÓRCIA
+      [ 2796 ]  Eu que não sou sábia nem estudiosa não tenho que agradecer a visita pois foi só feita aos sábios .
+      [ 2797 ]  ( Batem . )
+      [ 2798 ]  FÚFIA , LESMA e OS DITOS
+      [ 2799 ]  FÚFIA
+      [ 2800 ]  Revirisco , meus senhores .
+      [ 2801 ]  Eu me dedico às suas pessoas .
+      [ 2802 ]  ESQUIPÁTICO
+      [ 2802 ]  ( À parte . )
+      [ 2803 ]  Temos outro touro na praça .
+      [ 2804 ]  Não faltará que ver .
+      [ 2805 ]  LESMA
+      [ 2806 ]  Às suas ordens , meus senhores .
+      [ 2807 ]  ALBERTO ( À parte . )
+      [ 2808 ]  Parece-me que saiu o trunfo em tolas .
+      [ 2809 ]  PAPÍRIO
+      [ 2810 ]  Esquipático , vai lá dentro buscar uma cadeira de braços para minha filha .
+      [ 2811 ]  ESQUIPÁTICO
+      [ 2812 ]  Quer Vossa Mercê que lhe vá buscar o púlpito pequeno à freguesia ?
+      [ 2813 ]  PAPÍRIO
+      [ 2814 ]  Não sejas tolo .
+      [ 2815 ]  Faze o que te digo !
+      [ 2816 ]  CORISCA
+      [ 2817 ]  Não , meu pai .
+      [ 2818 ]  A ciência em qualquer parte brilha .
+      [ 2819 ]  E ainda que eu não tenha forças hercúleas para me combater com tão grandes corifeus , e só o faria tendo uma língua argentina e uma voz metálica ...
+      [ 2820 ]  ALBERTO
+      [ 2821 ]  Então precisávamos férreos ouvidos e timbales de bronze .
+      [ 2821 ]  ( À parte . )
+      [ 2822 ]  Demos corda a esta fátua .
+      [ 2823 ]  CORISCA
+      [ 2824 ]  Nem todos os autores priscos se conglutinam com o seu sistema .
+      [ 2825 ]  ALBERTO
+      [ 2826 ]  Bom seria que me nomeasse esses autores que adotam o estilo empolado , para me tirar esta névoa que me ofusca os oculares impecílios .
+      [ 2827 ]  PAPÍRIO
+      [ 2828 ]  Tira-lhe a névoa , minha filha , tira-lhe a névoa .
+      [ 2829 ]  CORISCA
+      [ 2830 ]  Eu sei que Esculápio foi um grande mestre de eloqüência e gostava de períodos escuros .
+      [ 2831 ]  ALBERTO
+      [ 2832 ]  Esculápio , se fizera períodos escuros , não lhe entenderiam as receitas os boticários , porque foi um médico .
+      [ 2833 ]  CORISCA
+      [ 2834 ]  Médico , nego , nego .
+      [ 2835 ]  Nunca tal foi .
+      [ 2836 ]  FÚFIA
+      [ 2837 ]  Com sua licença .
+      [ 2838 ]  Ambos se enganam .
+      [ 2839 ]  Porque Esculápio era um capitão de cavalos de um Regimento de Infantaria Romana .
+      [ 2840 ]  ESQUIPÁTICO
+      [ 2841 ]  Não era senão um maltês que fazia alféloa e gergelim .
+      [ 2842 ]  ALBERTO
+      [ 2843 ]  Olhem onde eu estou metido por meus pecados .
+      [ 2844 ]  CORISCA
+      [ 2845 ]  Não me desdigam , porque eu sei mais que todos .
+      [ 2846 ]  FÚFIA
+      [ 2847 ]  Não , minha rica , essa precedência lhe não dou eu .
+      [ 2848 ]  Porque em matéria de história sou um pouco instruída .
+      [ 2849 ]  ALBERTO
+      [ 2850 ]  Elas hão de vir à unha , e ambas estão com olhos de loucas .
+      [ 2851 ]  SIMPLÍCIO
+      [ 2851 ]  ( À parte . )
+      [ 2852 ]  Eu tenho medo que enlouqueçam .
+      [ 2853 ]  ALBERTO
+      [ 2853 ]  ( À parte . )
+      [ 2854 ]  Não lhes falta nada .
+      [ 2855 ]  CORISCA
+      [ 2856 ]  Vossa Mercê , senhora Dona Fúfia , não tem os meus estudos .
+      [ 2857 ]  FÚFIA
+      [ 2858 ]  Os seus estudos são de menina da mestra .
+      [ 2859 ]  PAPÍRIO
+      [ 2860 ]  Ui !
+      [ 2861 ]  A minha filha que tem mais livros que um letrado !
+      [ 2862 ]  Vossa Mercê não sabe o que diz .
+      [ 2863 ]  CORISCA
+      [ 2864 ]  Como há de saber , se é ignorante ?
+      [ 2865 ]  FÚFIA
+      [ 2866 ]  Qual de nós será mais ?
+      [ 2867 ]  Vossa Mercê não tem senão presunção .
+      [ 2868 ]  CORISCA
+      [ 2869 ]  Ai que me borra o nome !
+      [ 2870 ]  Ai que me tinge a fama com a tinta desses opróbrios !
+      [ 2871 ]  Ah , desgraçada Corisca !
+      [ 2872 ]  Quem me acode ?
+      [ 2873 ]  FÚFIA
+      [ 2874 ]  É para que saibam que Vossa Mercê não tem mais que basófia .
+      [ 2875 ]  PÓRCIA
+      [ 2876 ]  Matildes , não vês a mana que está meia louca ?
+      [ 2877 ]  MATILDES
+      [ 2878 ]  E a vizinha não lhe falta muito .
+      [ 2879 ]  Isto não está bom .
+      [ 2880 ]  PAPÍRIO
+      [ 2881 ]  Ora fui bem asno em mandar convidar estas senhoras para virem descompor a minha filha .
+      [ 2882 ]  ALBERTO
+      [ 2883 ]  Minhas senhoras , a questão não é para tanto .
+      [ 2884 ]  CORISCA
+      [ 2885 ]  Negarem que Esculápio foi um sábio em Retórica !
+      [ 2886 ]  FÚFIA
+      [ 2887 ]  Não foi senão um capitão de cavalos ...
+      [ 2888 ]  CORISCA
+      [ 2889 ]  Mente .
+      [ 2890 ]  FÚFIA
+      [ 2891 ]  Mente ela .
+      [ 2892 ]  CORISCA
+      [ 2893 ]  Confiada , na minha casa !
+      [ 2894 ]  ESQUIPÁTICO
+      [ 2895 ]  Não há tal , que esta é a casa dos doidos , e como estão aqui ao pé , tem aprendido .
+      [ 2896 ]  PAPÍRIO
+      [ 2897 ]  Minha filha ...
+      [ 2898 ]  LESMA
+      [ 2899 ]  Mana , que é isto ?
+      [ 2900 ]  CORISCA
+      [ 2901 ]  Esculápio , Esculápio , que o tenho aqui fechado na mão !
+      [ 2902 ]  FÚFIA
+      [ 2903 ]  Eu que o conheço como os meus dedos !
+      [ 2904 ]  CORISCA
+      [ 2905 ]  Cale-se , pedante !
+      [ 2906 ]  FÚFIA
+      [ 2907 ]  Cale-se , louca !
+      [ 2908 ]  CORISCA
+      [ 2909 ]  Valham-me os sábios todos .
+      [ 2910 ]  Confundam este fantasma .
+      [ 2911 ]  FÚFIA
+      [ 2912 ]  Não tenho medo .
+      [ 2913 ]  ( Lançam-se uma à outra , e como as apartam , entram a dizer loucuras com que se mostram loucas . )
+      [ 2914 ]  PAPÍRIO
+      [ 2915 ]  Forte desgraça .
+      [ 2916 ]  Eu tive a culpa de convocar esta assembléia !
+      [ 2917 ]  ( Elas continuam a dizer loucuras . )
+      [ 2918 ]  PAPÍRIO
+      [ 2919 ]  Senhor Alberto , valha-me neste caso .
+      [ 2920 ]  ALBERTO
+      [ 2921 ]  Em que posso valer-lhe , se não em lhe mandar aqui do vizinho hospital duas cadeirinhas ?
+      [ 2922 ]  E é preciso cautela , porque ambas estão doidas e frenéticas .
+      [ 2923 ]  PAPÍRIO
+      [ 2924 ]  Pois , senhor , faça-me esta mercê ...
+      [ 2925 ]  Ah , minha rica filha .
+      [ 2926 ]  ESQUIPÁTICO
+      [ 2927 ]  Deixe lá outra apalavrada para meu amo que também há de ir hoje .
+      [ 2928 ]  E já lhe tem roubado a justiça .
+      [ 2929 ]  ALBERTO
+      [ 2930 ]  Eu vou correndo .
+      [ 2931 ]  ( Vai-se . )
+      [ 2932 ]  ESQUIPÁTICO
+      [ 2933 ]  Eis aqui em que vêm a parar os que querem ser sábios sem terem princípios , e à força de louvores os perdem .
+      [ 2934 ]  PÓRCIA
+      [ 2935 ]  Meu pai , eu sempre disse que a mana havia de vir a dar nisto com as suas gabações de Vossa Mercê .
+      [ 2936 ]  PAPÍRIO
+      [ 2937 ]  Deixai-me , filha , que bem basta a minha pena grande .
+      [ 2938 ]  Filha perco .
+      [ 2939 ]  Daqui a dois dias entrava a compor .
+      [ 2940 ]  SIMPLÍCIO
+      [ 2941 ]  Sempre é grande risco nas mulheres que se querem tirar do seu instinto , isto é , bordar , coser , etc .
+      [ 2942 ]  CORISCA
+      [ 2943 ]  Esculápio me vingará com as suas barbas brancas .
+      [ 2944 ]  FÚFIA
+      [ 2945 ]  Ele virá no seu cavalo , catrapós , catrapós .
+      [ 2946 ]  CORISCA
+      [ 2947 ]  Oh , Infida !
+      [ 2948 ]  Pérfida !
+      [ 2949 ]  Mente e remente !
+      [ 2950 ]  FÚFIA
+      [ 2951 ]  Levem-na às margens do Píndaro para fazer filhós com Plutão .
+      [ 2952 ]  PAPÍRIO
+      [ 2953 ]  Estão loucas confirmadas !
+      [ 2954 ]  Grande desgraça !
+      [ 2955 ]  PÓRCIA
+      [ 2956 ]  Eu vou-me retirando nesta confusão antes que se me pegue a tinha .
+      [ 2957 ]  ( Vai-se . )
+      [ 2958 ]  ESQUIPÁTICO
+      [ 2959 ]  Ora não somos nada neste mundo .
+      [ 2960 ]  Pois parecia-me que ela não poderia endoidecer porque não havia de perder o que não tinha .
+      [ 2961 ]  PAPÍRIO
+      [ 2962 ]  Esquipático , vai-me chamar os médicos e cirurgiões .
+      [ 2963 ]  ESQUIPÁTICO
+      [ 2964 ]  Deixe-se disso !
+      [ 2965 ]  Que logo vem o enfermeiro , que é o que precisam !
+      [ 2966 ]  CORISCA
+      [ 2967 ]  Tragam-me o Bertoldo que verão que ele descompõe aquela insípida feiticeira .
+      [ 2968 ]  FÚFIA
+      [ 2969 ]  Longe de mim estas puerilidades que fazem revoltar o império de Netuno .
+      [ 2970 ]  ENFERMEIRO com duas cadeirinhas
+      [ 2971 ]  ENFERMEIRO
+      [ 2972 ]  Qual de Vossas Mercês aqui são os loucos ?
+      [ 2973 ]  ESQUIPÁTICO
+      [ 2974 ]  São todos fora eu .
+      [ 2975 ]  PAPÍRIO
+      [ 2976 ]  Estas duas meninas que endoideceram inflamadas num argumento .
+      [ 2977 ]  ENFERMEIRO
+      [ 2978 ]  Pois Vossa Mercê não sabia privar sua filha das imaginações de ser sábia ?
+      [ 2979 ]  Ignora que a maior parte das doidas que vão ao hospital é por presumidas e vaidosas ?
+      [ 2980 ]  Vamos , senhor , que tenho mais aonde ir .
+      [ 2981 ]  PAPÍRIO
+      [ 2982 ]  Elas não hão de querer entrar nas cadeirinhas .
+      [ 2983 ]  ENFERMEIRO
+      [ 2984 ]  Enganam-se estas loucas com qualquer coisa .
+      [ 2985 ]  CORISCA
+      [ 2986 ]  Que carroças flamantes são estas que me vêm buscar em triunfo ?
+      [ 2987 ]  FÚFIA
+      [ 2988 ]  São estes os carros das máquinas aéreas ?
+      [ 2989 ]  PAPÍRIO
+      [ 2990 ]  São as carroças que as vão conduzir para mandar a minha filha para as palhas .
+      [ 2991 ]  ESQUIPÁTICO
+      [ 2992 ]  Cale-se , que brevemente lhe fará companhia .
+      [ 2993 ]  ENFERMEIRO
+      [ 2994 ]  Entre para aqui , senhora , que vamos para uma grande assembléia , onde há de presidir .
+      [ 2995 ]  CORISCA
+      [ 2996 ]  A isto me têm elevado os meus estudos .
+      [ 2997 ]  Meu pai , espere-me
+      [ 2997 ]  ( Entra na cadeirinha . )
+      [ 2998 ]  na escada com uma coroa de murtas e louros que me hão de pôr o Gigante Galafre e a Giganta Amiota .
+      [ 2999 ]  ENFERMEIRO
+      [ 2999 ]  ( Para Fúfia . )
+      [ 3000 ]  Vamos , vamos !
+      [ 3001 ]  Entre , senhora .
+      [ 3002 ]  FÚFIA
+      [ 3003 ]  Para onde me transportam estes malandrinos ?
+      [ 3004 ]  ENFERMEIRO
+      [ 3005 ]  Para a casa de assembléia dos arrebatados .
+      [ 3006 ]  CORISCA
+      [ 3007 ]  Eu vou mostrar ao mundo a minha ciência .
+      [ 3008 ]  FÚFIA
+      [ 3009 ]  Tenho a esperança de levar o prêmio nos Jogos Olímpicos .
+      [ 3010 ]  PAPÍRIO
+      [ 3011 ]  Leve , senhor , estas desgraçadas meninas .
+      [ 3012 ]  LESMA
+      [ 3013 ]  Maldito convite .
+      [ 3014 ]  Quem nunca cá viera !
+      [ 3015 ]  ESQUIPÁTICO
+      [ 3016 ]  Cale-se , que ficamos bem , pois tiram-se de sociedade duas senhoras vaidosas .
+      [ 3017 ]  CORISCA
+      [ 3018 ]  Vamos a ver os arcanos da montanha fulminante .
+      [ 3019 ]  ENFERMEIRO
+      [ 3020 ]  Levem as cadeirinhas .
+      [ 3020 ]  ( Ao andar vão fazendo bulha e dizendo loucuras ) .
+      [ 3021 ]  PAPÍRIO
+      [ 3022 ]  Senhor , fico-lhe muito obrigado .
+      [ 3023 ]  Trate-me bem esta menina .
+      [ 3024 ]  Tudo lhe agradecerei e pode-se retirar .
+      [ 3025 ]  ENFERMEIRO
+      [ 3026 ]  Ainda me falta que fazer , que é dar-lhe remédio de prevenção para não cair em parvoíces que me dêem trabalho , que se Vossa Mercê fora um homem instruído e soubera preencher todas as suas obrigações , não cairia em deixar ridicularizar a sua casa , expondo sua filha com uma soberba fantasia a ser tola por arte e natureza , quando Vossa Mercê deveria ser o primeiro que coibisse os seus ridículos destemperos , metendo-a na segura estrada do comedimento , governo e honesta seriedade , que é o que deve pertencer a uma filha sisuda e a um pai honrado .
+      [ 3027 ]  E porque Vossa Mercê tem faltado a este justo sistema , eu não devo faltar a remunerar-lhe o incômodo que me dá .
+      [ 3028 ]  ( Tira umas correias e dá-lhe . )
+      [ 3029 ]  ESQUIPÁTICO
+      [ 3030 ]  Ó atrevido !
+      [ 3031 ]  Tira aqui as correias diante desta gente de bem ?
+      [ 3032 ]  ENFERMEIRO
+      [ 3033 ]  Todos nesta casa são doidos e por caridade vou-lhes calmando .
+      [ 3034 ]  ( Dá-lhe , e em confusão se acaba . )
+ date1550-1599

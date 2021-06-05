@@ -1,0 +1,554 @@
+
+|:| [START HEADER]|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|
+|:| PLEASE SET CHARACTER ENCODING SYSTEM TO UTF-8
+|:| Tycho Brahe Parsed Corpus of Historical Portuguese 
+|:| Document ID: m_009
+|:| Encoding: UTF-8
+|:| Last Saved: 21.01.2016
+|:| Title: Folheto de Lisboa
+|:| Author: Matoso, Luis Montez
+|:| Version: Simple Text, for Automatic Tools
+|:| Edition Type: Complete Modernization of Orthography
+|:| [END HEADER]|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|
+
+   
+      [ 1 ]  Número 4
+      [ title: 
+      [ 2 ]  FOLHETO DE LISBOA ]
+      [ 3 ]  Sábado 28 de Janeiro de 1741 .
+      [ title: 
+      [ 4 ]  Entre Douro , e Minho .]
+      [ 5 ]  Porto 21 de Janeiro .
+      [ 6 ]  Em a noite de sexta-feira para o sábado 16 , para 17 de Dezembro , entraram na Igreja de São Tiago da Freguesia de Lagares , Conselho de Pena Fiel de Souza , e arrombando a porta do Sacrário , tiraram o cibório de prata , em que estavam 24 partículas consagradas , que levaram juntamente com o mesmo cibório , e um pavilhão de damasco branco guarnecido de renda de ouro :
+      [ 7 ]  Roubaram mais da cabeça da imagem de Nossa Senhora do Rosário uma coroa de prata : do pe[sc]oço um fio de extremos de ouro ; e das mãos um anel d[e] ouro : do altar do Senhor Jesus uma toalha de [l]inho com sua renda ; e da Sacristia 3 toalhas de linho de administrar a comunhão .
+      [ 8 ]  Fizeram os ladrões a entrada por uma fresta , que está na Capela-mor da parte do Evangelho da largura de um palmo , e de 3 e meio de alto , a qual tinha um varão de ferro no meio de alto a baixo , que arrancarom , e uma vidraça , que quebraram , alargando a fresta com um picão para facilitar a entrada .
+      [ 9 ]  No dia 20 chegou a notícia deste desacato a esta cidade , e logo nele partiu o Corregedor da comarca João Pereira Fidalgo , e o Juiz de Fora Francisco José Pinto de Mendonça com os seus oficiais ao sitio do desacato a fazerem Auto , e Corpo de delito .
+      [ 10 ]  No dia 21 partiram daqui para o mesmo sítio o Excelentíssimo Diogo Marques Mourato , Bispo Eleito de Miranda , Vigário Capitular , e Governador desta cidade com o seu Vigário geral ; e o Doutor Francisco Luiz da Cunha e Ataíde , do Conselho de Sua Majestade Fidalgo da sua Casa , Desembargador do Paço , e Regedor das Justiças na Relação desta cidade , com o Corregedor do Crime da Corte Victoriano da Costa e Oliveira , a sindicarem deste caso , procedendo logo a rigorozas devaças , e a exatas diligências pelos agressores deste delito .
+      [ 11 ]  E para que todos os caminhos se tomassem , mandou Dom Diogo de Souza , Coronel do Regimento da Infantaria , e Governador das Armas desta cidade , os seus Militares para correrem todos os Lugares das Províncias , e ver se descobriam algum indício do roubo , ou aos mesmos sacrílegos .
+      [ 12 ]  Enquanto as Justiças se ocupavam nas suas diligências , tratou o povo desta cidade em aplacar a Divina Ju[st]iça com rogativas , e penitências , que se referirão para a semana , que vem .
+      [ title: 
+      [ 13 ]  Extremadura .]
+      [ 14 ]  Lisboa 28 de Janeiro .
+      [ 15 ]  Ontem chegou de Roma um postilhão , e dizem. que traz as Bulas para os novos Arcebispos , e Bispos .
+      [ 16 ]  Sábado passado 21 do corrente , indo Luiz Bernardo de Távora , filho do Marquês de Távora na sua carruagem pelo Chiado acima , rodava para baixo um carro com uma pipa de vinho , com o qual encalhou a carruagem .
+      [ 17 ]  Teimou o Fidalgo que recuasse o carro :
+      [ 18 ]  Replicou o carreiro , que lhe era impossível , e que Sua Majestade ou Senhoria se apeasse para as mãos se desencalhar a carruagem .
+      [ 19 ]  Saltou o lacaio em terra para dar com um chicote no carreiro , porém este o estendeu logo com a vara , com que guiava aos bois : acudiu o Fidalgo , e levando enfiado ao carreiro com o espadim , este lhe assentou a vara na cabeça de maneira , que lhe fez uma ferida , em que levou 5 pontos .
+      [ 20 ]  Fogiu o carreiro , e se fez apreensão nos bois .
+      [ 21 ]  Pediu o Fidalgo confissão ; o confessor o não quis confessar sem primeiro restituir , os bois ao homem , e perdoar-lhe , e depois recebeu o Sagrado Viático e a Extrema-Unção , e se acha em perigo de vida .
+      [ 22 ]  Roubaram da casa de paramentis do Excelentíssimo Cardial Patriarca na Santa Basílica Patriarcal uma jóia , a que chamam Farmace de valor de mais de 40₡ cruzados , porque só o topázio do meio vale 30₡.
+      [ 23 ]  Querendo um Monsenhor comprar um relógio de aljabeira , mandou de Santa Basílica Patriarcal por um criado a casa de um Relogioeiro buscar uns poucos para o escolher : veio com o mesmo criado um preto do Relogioeiro com o Relógios : juntaram-se alguns Monsenhores a vê-los , pegando cada um em seu ; e ao ajunta-los faltou um , que não apareceu .
+      [ 24 ]  Quinta-feira 26 do corrente pelas 9 horas da noite pegou o fogo na casa de Monsenhor Trinitê [ que é a da Ópera das Flores no Bairro Alto ] , e foi tão violento , que em uma hora se viu quasi consumida , sem se aproveitar couza alguma : durou até às 3 da madrugada , em que o deixaras apagado ; mas ontem sexta-feira pelas 3 horas da tarde se tornou a atear no quarto de baixo ; e acudindo de novo muita gente , e soldados e Justiça , indo examinar onde seria o fogo , caiu repentinamente um lanço da parede , que matou logo o Corregedor do Bairro Alto Manoel Antônio de Lemos , e Castro que servia também na rua Nova , e de Auditor Geral , e de Conservador das cidades : morreu também o Capitão de Infantaria Rodrigo da Costa de Carvalho , com um Ajudante , e cinco soldados .
+      [ 25 ]  O Ajudante Joaquim Leocadio saiu com as costelas , penas , e queixos quebrados , e quasi morto , e escapara milagrosamente .
+      [ 26 ]  O Conde da Ribeira saiu também com uma perna quebrada , e com muitas feridas .
+      [ 27 ]  Andava muita gente por baixo apagando o fogo , que morreram debaixo das ruínas , e se não sabe ainda o seu número , entre as quais era um cavaleiro chamado Antônio de Ponce , sobrinho de Luiz Pedro Ponce , e filho de João Ponce .
+      [ 28 ]  O Fidalgo da Cova entrou uma noite pelas 11. horas em as suas casas , em que vive o Excelentíssimo Cardeal da Motta , e não sequer ir sem São Em. lhe entregar os alugueres , que lhe devia delas , que importavam em 6₡ cruzados .
+      [ 29 ]  O Marquês Valença tendo umas razões com o Secretário Pedro da Motta , foi dar parte a Sua Majestade e indo o Cardial da Motta ao Paço , el-Rei enfadado mandou que não tornasse mais a ele nem seu irmão sem segunda ordem , e que fosse logo dar ao Marquês de Valença uma satisfação ; e com efeito a deu , e se achas em Belém .
+      [ 30 ]  Número 5
+      [ title: 
+      [ 31 ]  FOLHETO DE LISBOA ]
+      [ 32 ]  Sábado 4 de Fevereiro de 1741 .
+      [ 33 ]  Entre Douro , e Minho .
+      [ 34 ]  Porto 28 de Janeiro .
+      [ 35 ]  Ao mesmo tempo , em que as Justiças desta cidade , assim seculares , como Eclesiásticas , se ocupavam em sindicar do sacrílego roubo feito na Igreja de São Tiago de Lagares , se dispôs neste povo o modo , com que devia aplacar a divina , Justiça pelo meio de Rogativas , e de penitências .
+      [ 36 ]  No dia 30 de Dezembro se principiaram em todas as Igrejas desta cidade , e seus subúrbios , e duraram por espaço de 9 dias contínuos , cobrindo-se os Altares , e enlutando-se as Igrejas de sentimento ; e por carta Pastoral do Vigário Capitular se mandaram da mesma sorte fazer em todas as Igrejas deste Bispado .
+      [ 37 ]  A 6 do corrente saiu de noite em procissão a imagem do Senhor dos Passos com a sua Irmandade carregados de penitências , e juntamente a Comunidade dos Religiosos Eremitas de Santo Agostinho , pregando antes de sair o Padre Al. Frei Manoel de Figueiredo , tomando por tema Fuerunt mihi lacrimo med die ae nocte dum dicitri[...] mehi quotidie : ubi est Deus treus
+      [ 38 ]  A 7 de noite saiu a Irmandade dos Clérigos pobres de Nossa Senhora da Misericórdia , com a imagem da Senhora da Soledade , indo todos descalços , e ao sair da procissão pregou na Misericórdia o Padre Francisco Rodrigues , tomando por temas Tulerunt Dominum měu , et ne∫cioubi po∫uerunt eũ .
+      [ 39 ]  No domingo 8 esteve na Sé todo o dia exposto o Santíssimo Sacramento em desagravo , e pregou o Doutor Antônio de Deus Campos Cônego da mesma Sé , tomando por tema Post triducem invenerunt eum in Templo .
+      [ 40 ]  No mesmo dia pregou do mesmo assumpto em São Niculao o sobredito Frei Manoel de Figueiredo com o mesmo tema : Fuerunt mihi[?]a , e na Capela dos Terceiros de São Francisco pregou na tarde deste dia o Reverendo Padre Mestre Frei Lourenço de Santa Thereza , com o tema : Vid sion lugent , eo quod non sunt , qui veniant ad solemnitatem e de manhan pregou do mesmo desagravo na Capela dos Terceiros de São Domingos o Reverendo Padre Mestre Dor. Antônio da Madre de Deus Conêgo Secular do Evangelista e de noite saíram em procissão de penitência os Terceiros de São Francisco co 5 Pregadores pregando ao povo .
+      [ 41 ]  Na quinta-feira 12 se acabou na Igreja de São Miguel da Palmeira a Novena , e depois de rustido no Sacrário o Santíssimo Sacramento , pregou o Padre Frei Antônio Casão Religioso de São Francisco .
+      [ 42 ]  Na sexta-feira 13 saía a procissão do convento da Recoleção de Matozinhos a Igreja do São Ch[?] indo os religiosos descalços e cordas ao pescoço ; o Comissário levava uma grandíssima cruz às costas ; e pregou o Reverendo
+      [ 43 ]  Padre Frei Antônio de São Ambrósio Leitor Jubilado , tomando por tema o Texto do Psalmo 78 : Effunde iram tu [...] ingentes , quo te non noverunt [?]
+      [ 44 ]  No domingo 15 finalizou a Novena em Matozinhos estando o Santíssimo Sacramento exposto no lado do Senhor : pregou o Padre Frei João de Santa Thereza observante da Recoleção que tomou por tema : Tolerunt Dominum [?]
+      [ 45 ]  Na noite do mesmo dia saiu a Irmandade dos Clérigos de São Pedro passando a ponte do Lugar de Leça da Palmeira , levando a Senhora da Piedade , e se visse nesta procissão uma grande penitência .
+      [ 46 ]  No mesmo dia se acabou a novena na Freguesia de São Faustino de Guitões : pregou o Padre Frei Manoel do Senáculo , Religioso da Recoleção de Matozinhos , e tomou por tema : Puer non comparet , et ego quo[...]
+      [ 47 ]  Finalmente não houve Paróquia , nem Convento em que se não vissem extraordinárias demonstrações de sentimento pelo execrando roubo do Santíssimo Sacramento , fazendo-se em todas as partes muitas penitências para o seu desagravo , e pla[...]ar de Deus os castigos que merecemos por semelhante Sacrilégio .
+      [ title: 
+      [ 48 ]  Extremadura .]
+      [ 49 ]  Lisboa 4 de Fevereiro .
+      [ 50 ]  Chegou de Roma o postilhão de Sua Majestade com a alegre notícia , que logo se espalhou por esta Corte , de trazer as Bulas para os Bispos destes reino , e suas conquistas , e à manhã se hão de sagrar na Santa Basílica Patriarcal os Arcebispos de Braga e Bahia , e o Bispo do Rio de Janeiro .
+      [ 51 ]  Ao Bispo eleito do Porto Frei José da Fonseca Évora mandou de presente o Excelentíssimo Principal Lázaro Leitão um Pontifical mui rico , e de bom gosto .
+      [ 52 ]  O Conêgo Bernardes , que do Porto veio visitar , lhe ofereceu em nome do Cabido outro Pontifical rico , com um Bago , e uma Mitra tudo de muito custo , que o mesmo Bispo eleito tem exposto a quem o quer ir ver ; e ofereceu este ao mesmo Conêgo um bom relógio de ouro , uma caixa para tabaco de ouro , e um anel de diamantes de bom valor .
+      [ 53 ]  Um destes dias foram os Reverendíssimos Gerais de São Bento , e dos Cônegos do Evangelista a Bellem para falarem ao Cardeal Motta , e ao Secretário de Estado Pedro da Motta , Silva , e como não tiveram audiência senão depois das sete horas da noite , s[e] recolheram para a cidade tão tarde , que foi necessário levar o Beneditino ao Loio para o seu Mosteiro de São Bento , em que pernoitou .
+      [ 54 ]  Saíram as consultas da Teologia , saindo consultado com todos os votos , o Reverendo Padre Frei Manoel de São Antônio Beneditino para Lente da Cadeira vaga , e 8 Doutores seus imediatos para outras tantas condutas sem privilégio de Lentes , e se sabe que Sua Majestade aprova a dita consulta , mas há dúvida se 6 consultas mais que foram consultadas , serão do agrado de Sua Majestade
+      [ 55 ]  Hoje ao meio-dia passando uma sege , meteu debaixo das rodas a uma mulher , tirando-lhe logo a vida .
+      [ 56 ]  O filho do Marquês de Távora , Luiz Bernardo de Távora , se aí há com melhoras da ferida que lhe fez o carreiro , de que esteve sem esperança de vida .
+      [ 57 ]  A Frota do Rio de Janeiro está a partir quarta-feira da semana que vem , nela vai o Bispo daquela cidade , juntamente o Arcebispo da Bahia .
+      [ 58 ]  Número 6
+      [ title: 
+      [ 59 ]  FOLHETO DE LISBOA ]
+      [ 60 ]  Sábado 11 de Fevereiro de 1741 .
+      [ title: 
+      [ 61 ]  Entre Douro e Minho .]
+      [ 62 ]  Porto 4 de Fevereiro .
+      [ 63 ]  Revestidos os Ministros da Justiça do zelo católico pelo desacato feito ao Santíssimo Sacramento , e a imagem de Maria Santíssima Igreja de São Tiago de Lagares , para descobrirem os sacrílegos agressores daquele delito , não cessaram em buscar todos os meios de os conseguir por todos os caminhos .
+      [ 64 ]  A Justiça Eclesiástica prendeu a um homem , e uma mulher , que se provaram ser cúmplices no delito , e depois de alguns dias de prisão no Aljube desta cidade , d[...]precou a Relação ao Vigário Geral para lhos entregar , ao que se recusou , e ultimante foram remetidos para os cárceres do Santo Ofício de Coimbra por familiares , saindo de noite com o homem , e daí a 2 dias com a mulher .
+      [ 65 ]  A Justiça Secular prendeu a dous homens e ficaram compreendidos nas devaças do Corregedor , um Antônio José ; João Martins o das polainas de alcunha , Francisca Barboza , uma sua amiga por nome Jacinta cujas pátrias se ignoraram [ estes dous últimos foram os que prendeu a Justiça Eclesiástica , e foram levados para o Santo Ofício ]
+      [ 66 ]  Ficaram mais compreendidos por consentidores , e tesoureiros dos furtos Antônio Álvares o derrabado de alcunha , João Rodrigues o Creca , Pascoal da Silva Porteiro Francisca Ribeira sua amiga , Antônio Barboza ourives , João de Miranda vendeiro , e José Rodrigues o paquete ; João Francisco soldado , Antônio da Silva , e sua mulher Maria da Cruz a vinagreira , e Bonifácio Fernandes .
+      [ 67 ]  Tem-se prendido alguns , e se anda fazendo diligência pelos outros , para ver-mos executadas as penas , que merecem semelhantes delitos .
+      [ title: 
+      [ 68 ]  Extremadura .]
+      [ 69 ]  Santarém 9 de Fevereiro
+      [ 70 ]  Hoje se celebraram nesta vila os desposórios de Alberto Homem Espinola de Vasconcellos natural de Leiria , cavaleiro da Ordem de Cristo , senhor de alguns morgados , e de uma opulenta casa com a Senhora Dona Maria Bárbara da Cunha Andrade Souto Maior , que se achava recolhida no Real Mosteiro de Santa Clara desta mesma vila , filha herdeira de Luiz Álvares de Andrade Souto Maior [ que morreu infelizmente degolado por matar sua mulher , e a um Religioso Trino , a quem zelava sem fundamento ] foi procurador da noiva seu primo Felipe Peixoto Cavaleiro da Ordem de Cristo , e Fidalgo da Casa Real , e os recebeu Frei Reverendo ? Eremita de São Agostinho .
+      [ 71 ] 
+      [ 72 ]  Lixboa 11 de Fevereiro .
+      [ 73 ]  Domingo passado 5 do corrente se sagraram na Santa Basílica Patriarcal ao Arcebispo de Braga o senhor Infante Dom José de Bragança , ao Arcebispo da Bahia o Excelentíssimo Dom José Botelho de Mattos ; e ao Bispo do Rio de Janeiro o Excelentíssimo Dom Frei João da Cruz Religioso Carmelita Descalço , com assistência dos Excelentíssimos Bispos da Guarda Angra .
+      [ 74 ]  A todos São Em. mandou conduzir para o seu palácio , onde lhes ofereceu um magnífico jantar .
+      [ 75 ]  Concorreu ao ato da Sagração um grande número de pessoas da primeira grandeza de maneira , que o terreiro da Patriarcal se ocupou de tantas carruagens , que o Senhor Infante se não pôde ali desembarcar , e o foi fazer ao corpo da guarda , deixando ordem aos cocheiros para se não moverem dali até Sua Alteza voltar da mesmo função , e quando chegou já os Excelentíssimos Principais , e Monsenhores tinham esperado algum tempo que Sua Alteza saísse , para se poderem ir meter nas suas carruagens no Terreiro do Paço .
+      [ 76 ]  Chegou a esta Corte um homem espanhol para Sua Majestade o ver pela corpulência gigantada de que é composto , e a não ter as pernas tortas , ainda mostraria maior altura : excede esta de 15 palmos , e tem causado admiração nesta Corte .
+      [ 77 ]  Sabe aproveitar-se da Coriosidade Portuguesa , porque se não levanta do lugar , em que está assentado para o verem , sem primeiro lhe pagarem muito bem , custando-nos caro até o ver-mos disformidades .
+      [ 78 ]  Chegaram Bulas de Sua Santidade , para que durante a Sé vacante do Algarve , e enquanto o seu Bispo não tomar posse , governar aquela Diocese o Excelentíssimo Arcebispo de Évora : enquanto durar a Sé vacante da Cidade da Guarda , governe a mesma Diocese o Excelentíssimo Bispo de Portalegre ; e tenha também o governo do Bispado de Lamego o Excelentíssimo Bispo de Miranda , enquanto durar a Sé vacante daquela Diocese .
+      [ 79 ]  As Cartas de Roma referem , que deixando o Bispo eleito do Porto Frei José d'Évora um grande trem de fato entregue a um Religioso Franciscano seu Secretário , com a recomendação de o fazer conduzir para esta Corte , sabendo o Cavaleiro Sampaio , e alguns êmulos do mesmo Padre Évora da condução , lhe embargarás o fato com pretextos frívolos , representando ao Papa que tinham ordem de Sua Majestade Portuguesa para que se não expedisse a Bulla para o Bispado do Porto Sua Santidade que tinha presente as oposições antigas , e sabia o quanto o Sampaio pertendeu desluzir ao Padre Évora em todas as suas negociações , conhecendo , que aquela representação não podia ser da Magestade Portuguesa , mas sim do rancor particular , lhes não difiriu , respondendo , que como o nosso Soberano lhe não tinha feito aquela insinuação , havia de expedir a Bula com as mais .
+      [ 80 ]  Não vencendo a Sua Santidade por este caminho , trataram de incomodar ao Padre Évora por outro , vencendo ao mesmo Religioso , ou embaraçando-o de maneira , que não pode embarcar o fato a tempo , e partiu o navio para este reino sem ele .
+      [ 81 ]  O mesmo Bispo eleito do Porto tem nomeado ao Vigário geral , e outros empregos da sua Diocese , e vai mandando fazer librés para os seus criados , e algumas cousas ; pertencentes à sua Dignidade
+      [ 82 ]  Mandou São Majestade tirar as cadeiras do Coro da Capela , mayor da Sé Oriental , e em seu lugar se pusessem bancos .
+      [ 83 ]  Número 7
+      [ title: 
+      [ 84 ]  FOLHETO DE LISBOA ]
+      [ 85 ]  Sábado , 18 de Fevereiro de 1741 .
+      [ title: 
+      [ 86 ]  Extremadura .]
+      [ 87 ]  Santarém 15 de Fevereiro .
+      [ 88 ]  Rompendo um rústico na semana passada um mato junto a Almeirim para semear-lhe pão , descobriu uma grande pedra , e profundando a terra achou ser uma columna de mármore com o qual achado ficou mui satisfeito , levando-a para sua casa com o sentido de lhe servir em uma varanda , que queria fazer , o que com efeito fez , mas vendo , que era alguma cousa mais comprida , a partiu para acomodar na pobre obra , que fazia : reparou porém , que nela estavam algumas letras , e para as não mal lograr , as pôs para fora de modo , que se pudessem ler , mas como ele o não sabia , as pôs com cabeça para baixo : passando por ali um conozo antiquário , achou ser uma coluna , que a antiguidade levantou naquele lugar em honrado Imperador Marco Cláudio , Tácito Pio , venturoso , invencível Augusto , Pontífice Máximo no tempo , que tinha a dignidade de Tribuno e segunda vez , e era Confiel , e fora chamado o pai da Pátria ; porque se lhe divisavam os seguintes caracteres Romanos .
+      [ 89 ]  IMP. CÆSARI M.
+      [ 90 ]  CLAUDIO TACITO PIO F. INVICTO AUGUST PONTIF. M. TRIB.
+      [ 91 ]  POTESTATIS II. COS.
+      [ 92 ]  P. P.
+      [ 93 ]  Para que semelhante memória se não malograsse nas paredes de um rústico , lhe deu pela coluna o conoso uma pequena porção por paga , e a levou para sua casa .
+      [ 94 ]  Lisboa 18 de Janeiro .
+      [ 95 ]  Chegou o postilhão de Roma e se recebeu carta do Marquês Conca , referindo , que em segunda-feira 12 de Dezembro se fizera uma Congregação na presença do Papa , em que assistiram dez Cardeais sobre as dependências de Portugal , e nela se resolvera dar-lhe fim com a concessão de tudo o que se pedia , em virtude da qual fica o nosso soberano com a apresentação de todos os Bispados sobre que se disputa , não só no reino , mas ainda na China , onde Pequim estava conferido ao Padre Policarpo de Souza da Companhia de Jesus , e a Catedral de Lisboa à Patriarcal .
+      [ 96 ]  A unção das 3as partes das Igrejas do Padroado Real , e de outros Padroeiros do reino , que as ofereceram a Sua Majestade para se poderem unir as terças partes dos frutos delas à Santa Basílica Patriarcal .
+      [ 97 ]  Que a 19 em consistório se propozeram , e preconizaram os Arcebispados de Braga , e o de Lacedemônia in partibus : os Bispados de Faro , Coimbra , Portalegre , Elvas , Rio de Janeiro , e Pequim , e que os mais Bispados seriam propostos , e preconizados no Consistório , que se havia de fazer a 10 de Janeiro .
+      [ 98 ]  Que se ficavam expedindo as Bulas dos nomeados , as quais importariam em 8co₡ cruzados
+      [ 99 ]  Assim que entrou a Quaresma se intimou aos Monsenhores , e Cônegos da Basílica Patriarcal , que sem embargo de não estarem de semana , assistam a todas as Matinas na mesma Basílica , em que se prega pela mesma pauta do ano passado menos o lugar , que então teve o Monge Beneditino porque em seu lugar prega o Bexiga Religioso Belemita .
+      [ 100 ] 
+      [ 101 ]  Segunda-feira 13 do corrente estando na Santa Basílica Patriarcal para pregar das Quarenta Horas um Conêgo Secular do Evangelista antes de sobir para o púlpito lhe advertiu o Mestre de Cerimônias , que tirasse a murça , por expressa ordem , que para isso tinha de Sua Em.
+      [ 102 ]  Respondeu o Padre Loio , que também ele pelas suas Constituições , tinha excomunhão para não pregar sem ela , e que só o faria , se em seu lugar se desse uma capa magra para pôr ; e como esta seda , quando a Basílica está junta , resolveu o Padre não pregar .
+      [ 103 ]  O Mestre de Ceremônias foi dar parte à Sua Majestade que não quer resolver cousa alguma , e que os Mestres das Ceremônias o resolvessem , o que vendo Loio , se foi para o seu Convento , e se diz , que Sua Majestade louvara a sua resolução , que obrara o que devia .
+      [ 104 ]  Na quarta-feira de cinza 15 saiu o Excelentíssimo Bispo do Porto nomeado em um coche a 6 do Excelentíssimo Cardial da Motta , em hábito Prelatício , com chapéu branco na cabeça : este com Sua Majestade no Paço , e ontem foi jantar com o mesmo Excelentíssimo Cardial .
+      [ 105 ]  Ontem saiu a frota do Rio de Janeiro , e nela vai embarcado o Excelentíssimo Bispo daquela Diocese : fica ainda um navio mercante para depois ir de licença servindo de comboi a outro , que há de transportar a Bahia o seu Excelentíssimo Arcebispo , que se está preparando com toda a pressa para fazer a sua jornada todas as vezes , que se lhe ordenar .
+      [ 106 ]  Número 8
+      [ title: 
+      [ 107 ]  FOLHETO DE LISBOA . ]
+      [ 108 ]  Sábado 25 de Fevereiro de 1745 .
+      [ title: 
+      [ 109 ]  Beira .]
+      [ 110 ]  Arouca 18 de Fevereiro .
+      [ 111 ]  Está ajustado para casar João Carlos de Miranda , Fidalgo da Casa Real , filho de Martim Afonso de Miranda , Fidalgo da Casa de Sua Majestade , e Mestre de Campo dos Auxiliares da comarca de Santarém , e da Senhora Dona Leonor Maria de Almeida , com a Senhora Dona Umblina Maria Malafaia de Castro e Menezes , que se acha recolhida no Mosteiro das Religiosas de São Barnardo desta vila , filha de Diogo Malefaia Mascarenhas , Capitão-mor desta mesma vila , e de Burgo , e de sua mulher a senhora Dona Ana de Portugal e Menezes .
+      [ 112 ]  Com brevidade se celebraram os desposórios para irem viver no Lugar de Pontevel , termo de Santarém , onde o futuro noivo tem a sua casa e donde é natural .
+      [ title: 
+      [ 113 ]  Extremadura .]
+      [ 114 ]  Lisboa 25 de Fevereiro .
+      [ 115 ]  Segunda-feira desta semana 20 do corrente partiu desta cidade para a de Braga o Doutor Eugênio Boto da Silva , Bispo Coadjutor nomeado daquela cidade , que acabou de Provisor de Leiria , por onde fez o seu caminho .
+      [ 116 ]  Leva ordem para logo fazer uma reforma geral no Clero , proibindo-lhe o uso das cabeleiras , vestidos de seda , presilhas nos chapéus , com botão , e outros adornos indecorosos aos Eclesiásticos .
+      [ 117 ]  O Excelentíssimo Arcebispo de Évora Dom Frei Miguel de Távora no dia da sua Sagração deu um bom jantar à sua comunidade do Convento de Nossa Senhora da Graça , que constou de doze pratos a cada Religioso , e para os enfermos , que se achavam na enfermaria mandou uma grande quantidade de doces .
+      [ 118 ]  Deu-se liberdade aos que se achavam presos no cárcere pelo caso socedido com o Corregedor Santa Maria há tempos , e se mandaram recolher para a Corte os , que se achavam desterrados pelo mesmo caso .
+      [ 119 ]  Quinta-feira veio a pé acompanhando a Santíssima imagem do Senhor dos Passos desde a Graça até São Roque diante do Prelado do mesmo convento em ato de comunidade com grande edificação de todos .
+      [ 120 ] 
+      [ 121 ]  Nos dias passados sendo já noite entrou uma mulher em a casa de uma palmilhadeira rica aos Remolares , com muitas lágrimas , que por certos requerimentos , que naquele bairro tinha , lhe [...]tecera nele , e que não eram horas de se recolher ao seu por ser mui distante , e lhe podia soceder algum perigo .
+      [ 122 ]  A boa mulher , comovida das lágrimas da outra , a recolheu em sua casa , e no mais profundo sono abriu a porta a uns ladrões , que não somente roubaram quanto tinha a palmilhadeira , mas também lhe tiraram a vida .
+      [ 123 ]  A ingrata hóspeda andava amigada com um dos ladrões , o qual depois por queixas , que dela teve , a foi delatar ao Corregedor do bairro , dizendo ser ela a agressora daquele delito de que já se havia tirado devassa , e que por sinal ainda conservava em sua casa o furto , que deu a rol , nomeando-lhe os trastes roubados .
+      [ 124 ]  Este afetado aviso fez produzir no Ministro , que o homem era também cúmplice no delito , e por esta causa o reteve em sua casa , enquanto por uns esbirros mandou buscar presa a mulher delatada à sua presença , na qual confessou a sua culpa , e dos mais companheiros ; acrescentando , que aquele , que estava na sua presença , e a vira acusar , fora o que fizera o homicídio , e o que roubara , em prova do que lhe despissem os braços , em que se lhe achariam dous cordões e ouro da mesma mulher roubada , e morta : o que visto , foram ambos levados presos , e metid[os] no segredo , e se anda na diligência da prisão dez mais ladrões
+      [ 125 ]  Rompeu-se a voz , de que fallecem em Angola o seu Excelentíssimo Bispo Dom Frei Antônio do Desterro ; mas não se confirma esta notícia .
+      [ 126 ]  Está ajustado para casar a Ilustríssima e Excelentíssima Senhora Marquesa de Nira Dona Maria da Gama viúva de Nuno da Silva Teles , com João Xavier Fernando Teles de Menezes filho dos Excelentíssimos Condes de Onhão .
+      [ 127 ]  Continuam as obras da Patriarcal da parte dos cubertos de tal modo , que já por aquele sítio não passam as carruagens fazendo-se capacitar a notícia , que há tempos correu de elas se encaminharem até as casas do Conde da Beira junto a São Francisco .
+      [ 128 ]  Também se espalha a notícia que ocasiona vários discursos aos políticos ; porque se diz , que se mandam limpar as praias desta cidade não só das muitas casinhas , que por elas haviam , mas de todos os mais impedimentos , como são ; e [?]cias , pedras , mastros , Vossa Senhoria para deste modo ficare[...] desembaraçadas as muralhas , que correm pelas margens do Tejo desde Muralha até Bele[...]
+      [ 129 ]  Arrendou-se o contrato do Paço da Madeira por três anos a Manoel Gomes de Carvalho
+      [ 130 ]  De Coimbra se escreve esperar se ali o [S]enhor Arcebispo de Braga com muitos festejos , que se lhe preparam .
+      [ 131 ]  Número 9
+      [ title: 
+      [ 132 ]  FOLHETO DE LISBOA ]
+      [ 133 ]  Sábado , 4 de Março de 1741 .
+      [ title: 
+      [ 134 ]  Extremadura .]
+      [ 135 ]  Santarém [...] de Março .
+      [ 136 ]  Faleceu no Lugar do Pombal , termo desta vila , em sexta-feira da semana passada 24 de Fevereiro , Gaspar Teles da Silva , Conêgo da Sé de Évora , filho de João Teles da Silva , Vedor da Fazenda da Índia , e de sua mulher a Senhora Dona Andreza de Carvalho :
+      [ 137 ]  Foi sepultado na Parroquial Igreja de Santa Cruz do mesmo Lugar , onde tinha feito um bom palácio , e estabelecido uma casa com muitas rendas , e admiráveis fazendas , que deixou a seus sobrinhos filhos de Antônio Leite de Souza .
+      [ 138 ]  Nos campos desta vila , e suas charnecas se creavam antigamente alguns homens pastores , mais brutos , do que os mesmos , que apascentavam , fazendo pacto explícito com o Demônio , que lhes assistia em figura de lobo , e cão para os vingar de qualquer injúria , que percebiam haver-lhes feito os seus vizinhos , fazendo , que os gados , andando junto das searas , as não comam , sem guarda de pastor ; e outras habelidades :
+      [ 139 ]  Destes chamados amentadores havia ainda um chamado Shomé , e querendo matá-lo uns carvoeiros pela má fama , que tinham dele , em uma noite , que chegou à sua cabana na Ribeira de Mugem , a pedir-lhes agasalho , o recolheram , e depois de lhe darem a comer da sua cea , determinaram fazê-lo beber um barril de água , ponde-lhe preceito de morte para a beber toda , que senão mais de 6 canadas :
+      [ 140 ]  Bebeu até mais não poder , e pediu , que para descansar , o deixassem sair fora da cabana , e que logo voltava ,
+      [ 141 ]  Assim lho concederam , e a sua vista desapareceu :
+      [ 142 ]  No mesmo tempo repentinamente foram os mais dos carvoeiros : assaltados de um letargo , com dores profundas :
+      [ 143 ]  No seguinte dia faleceu um ; e 16 vieram para o hospital desta vila meios mortos , e por milagre escaparam .
+      [ 144 ]  Passados 3 dias se achou em Val do Junco junto à vila de Mugem o miserável amentador comido dos cães , conhecendo-se mal havendo-o morto os pastores .
+      [ 145 ]  Lisboa , 4 de Março .
+      [ 146 ]  O Conêgo Secular de São João Evangelista , que na Santa Basílica Patriarcal não quis pregar sem murça , na Dominga da Quinquagésima , como já se disse , foi logo metido no cárcere pelo seu Geral contra a vontade do Escelentíssimo Senhor Cardial Patriarca , parece , que entendendo que os Cônegos seus súbditos , fora dos claustros não gozam das honras canônicas .
+      [ 147 ]  Sábado passado mandou el-Rei Nosso Senhor que em três dias se despejasse o Palácio dos Arcebispos junto a Sé Oriental , o que se executou no determinado termo , alimpando-se , e se vão fazendo nele alguns pequenos repairos , o que tem dado assumpto às conversações dos políticos .
+      [ 148 ]  Já Sua Majestade comprou o palácio do Ilustríssimo e Excelentíssimo Conde da Ribeira junto ao Convento de São Francisco da cidade , dando por ele o do Conde de Alvor a São Alberto , que mandou pagar com dinheiro da casa da moeda por conta da Fazenda Real e lhe deu a lém disso um juro real de 600₡ réis , e com tudo isso dizem , que ainda o Conde se não dá por satisfeito
+      [ 149 ]  As obras junto da Basílica Patriarcal não só incomodam os moradores do Cubertos , e Tanuária , mas nos mais lados há também inquietações , e mudanças , para despejarem , e se demolirem as casas para continuarem as mesmas obras .
+      [ 150 ]  Mandou Sua Majestade chamar ao Prior dos Eremitas Descalços de Santo Agostinho do seu Convento de Nossa Senhora da Boa Hora , e lhe ordenou que no mesmo Convento queria vivessem 40 religiosos de vidas , e costumes exemplares , fazendo-lhos logo escrever , nomeando-lhos Sua Majestade de cor cada um pelo seu nome .
+      [ 151 ]  Com esta ordem se desacomodaram quasi todos os Conventuais , a que se deu a escolha de conventualidades por outros Conventos , e logo se executou a resolução real , mandando-se vir de muitas terras aos relegiosos compreendidos no Catálogo .
+      [ 152 ]  O Excelentíssimo Bispo do Porto chegou ontem da sua jornada .
+      [ 153 ]  Saiu desta Corte em duas carruagens da Casa Real para o Real Convento de Mafra , a ter nele os Exercícios no de Varatojo .
+      [ 154 ]  Em Mafra querendo-se mostrar não só político , mas também especulativo entrou em uma Aula a argumentar mostrando o quanto sabia em saber se responder a si mesmo ; por[qu]e o Presidente com antosiasmo desusado tomou a resolução logo na primeira proposição conceder-lhe a maior , menor , e consequência , dizendo que não podia contrariar cousa alguma do que Sua Excelência dissesse ; e como presistiu neste sistema , foi necessário a Sua Excelência argumentar-se , e responder rentamente até chegar a pôr a última dúvida .
+      [ 155 ]  Os hábitos , com que fez esta jornada foi casaca , talar , ou simarra viatória de seda parda com cabeção , e chapéu preto .
+      [ 156 ]  Escreve-se de Braga , que repreendendo um irmão a outro mais velho do seu mau procedimento , este lhe tirara a vida tiranamente com o tiro de uma clavina , estando a banca estudando tem-se feito mor diligências pelo fratricida , mas se não pode ainda prender , havendo notícia , que de um Convento em que se homiziara tem passado a esta Corte , onde se busca .
+      [ 157 ]  Número 10
+      [ title: 
+      [ 158 ]  FOLHETO DE LISBOA ]
+      [ 159 ]  Sábado 11 de Março de 1741 .
+      [ 160 ]  Aplausivelmente foi recebida nesta Corte a notícia que ontem se publicou de dar este reino à sagrada Religião de Malta mais um Grão-mestre .
+      [ 161 ]  A 18 de [Ja]neiro deste ano foi eleito Frei Manoel Pinto da [...]seca , da Casa de Balsemão , Comendador do Pedrogão , e de Álvaro , por falecimento do Grão-mestre Frei Raimundo Dupuig , que faleceu a 16 do referido mês .
+      [ 162 ]  Quatro Grão-mestres Portugueses se contam entre o Catálogo daquela Sagrada Religião .
+      [ 163 ]  O primeiro foi Dom Afonso filho natural d'el-Rei Dom Afonso Henriques , o qual passou deste reino à conquista da Terra Santa : foi promovido àquela Dignidade no ano de 1194 e faleceu em Santarém ao 1o de Março de 1207 jaz sepultado na Igreja de São João de Alporão da mesma vila , que é da ordem , anexa à Comenda de Pontevel .
+      [ 164 ]  O segundo foi Doutor Luiz Mendes de Vasconcelos , Balio de Aere , eleito a 17 de Setembro de 1622 jaz sepultado em Malta no jazigo dos Grão-mestres ; e se não clausurasse o seu governo em cinco meses [ ou sete , como diz outra memória ] escureceria o dos maiores Monarcas que tem havido assim na paz , como na guerra .
+      [ 165 ]  O terceiro foi Frei Antônio Manoel de Vilhena , Balio de Aere , que sucedeu a Frei Marcos Zondodari , que foi eleito a 19 de Junho de 1722 e faleceu a 12 de Dezembro de 1736 .
+      [ 166 ]  O quarto o que agora foi eleito .
+      [ 167 ]  Terça-feira 7 do corrente celebrou a nação alemã na Real Igreja de São Vicente de Fora , as Exéquias do Imperador Carlos VI com mag[ni]ficência e recitou a oração fúnebre o Monsenhor Padre Frei Francisco Xavier de Santa Thereza , vulgo perna de pau , Religioso da Província de Sua Francisco de Portugal .
+      [ 168 ]  A Igreja estava primorosamente armada de preto com vários , e um soberbo Mausuléu :
+      [ 169 ]  Concorreu a maior parte da Corte , e tanto povo , que se puseram guardas às portas da Igreja , e foi tanta abulha para entrar , que um clérigo deu uma facada em um soldado .
+      [ 170 ]  Hoje estava para dar à vela pela barra fora a nau almiranta da Frota do Rio de Janeiro em que vão embarcados os Excelentíssimos Arcebispo da Bahia , e o Bispo do mesmo Rio de Janeiro , mas com a tormenta , que sobreveio , não pôde sair :
+      [ 171 ]  A nau de licença de contrato do tabaco , que já tinha desamarrado , para na companhia daquela nau , passar ao mesmo Estado , foi dar na Trafaria em seco , e a tiraram ao encher da maré , com muito custo .
+      [ 172 ]  Chegou a esta Corte um Irlandês com um cavalinho , que depois de o mostrar em várias terras deste reino , veio aqui parar , para se lhe verem as suas habelidades por dinheiro .
+      [ 173 ]  Sobe o bruto por qualquer escada : na sala ajoelha aos circunstantes , perguntando-lhe o Estrangeiro quantos vinténs tem 480 réis , responde com 84 patadas .
+      [ 174 ]  Mostrando-se-lhe um relógio , insinua as horas , que são com outras tantas patadas , acrescentando os minutos com outras tantas mais pequenas .
+      [ 175 ]  Se lhe perguntam quem tem um , ou mais cartas ; que de um baralho se tomou às escondidas ,
+      [ 176 ]  vai tocar na pessoa , que a tirou , e explica os seus pontos com outras tantas patadas :
+      [ 177 ]  em uma roda de gente se lhe pergunta qual dos circunstantes era mais amigo de vinho , foi pôr a pata no colo de uma pessoa inclinada a ele .
+      [ 178 ]  Se o ameaças , que o hão de matar , lança-se no chão , e todo se confrange .
+      [ 179 ]  A união da Sé Oriental à Patriarcal se faz já patente aos olhos ; porque nas Bulas dos Bispos da Guarda , e Porta-Alegre , que atégora eram sufragâneos à Sé Oriental , já vem assertivamente sufragâneos à Basílica Patriarcal .
+      [ 180 ]  Todos estes dias na Sé Oriental andaram vários arquitetos tomando medidas , sem se penetrar para que fim .
+      [ 181 ]  Corre a voz , que o Senado mandara correr touros no Campo do Curral , na ocasião , que o Excelentíssimo Senhor Cardial Patriarca tomar posse da Sè Oriental , e que se arremata o senado para os palanques por 15₡ cruzados
+      [ 182 ]  Chegou a notícia de haver falecido o Reverendíssimo Comissário Geral da Família Seráfica Frei Domingos Louzada , que assistia em Madrid ; e que o Provincial da Província de Portugal Frei Antônio de Santa Rosa de Viterbo mandara notificar o seu visitador , Frei Bernardo de Avindes , Religioso Capucho da Província da Piedade , que se achava na cidade do Porto , para não continuar a visita por falecer o Geral , que lhe tinha dado a Patente .
+      [ 183 ]  O Senhor Infante Dom Francisco , contra o seu costume , se tem demorado muito nesta Corte , onde a tem edificado com os seus quotidianos exercícios , indo todas as noites ao Hospício dos Capucho , que a sua grandeza fundou na Carreirados Cavalos , aos Capuchos da Província da Piedade , a ter com eles oração mental .
+      [ 184 ]  Ali nam somente aos religiosos , mas quer transplantar na sua pequena cerca , com a arte , quanto na Arrabida produziu prodigiosamente a natureza .
+      [ 185 ]  Número 11
+      [ title: 
+      [ 186 ]  FOLHETO DE LISBOA ]
+      [ 187 ]  Sábado 18 de Março de 1741 .
+      [ title: 
+      [ 188 ]  Entre Douro , e Minho .]
+      [ 189 ]  Braga 7 de Março .
+      [ 190 ]  Hoje tomou posse o Excelentíssimo Dom Eugênio Botto da Silva , Bispo nomeado do anel desta cidade , do governo deste Arcebispado enquanto não chegar o Senhor Arcebispo Primaz por Provisão sua e juntamente para ser reitor , Provisor , e Presidente da Redação .
+      [ 191 ]  Foi hospedado no Colégio da Companhia [...] e se lhe aplaudia a sua chegada com 3 noites de repiques , e luminárias por toda a cidade .
+      [ title: 
+      [ 192 ]  Alentejo .]
+      [ 193 ]  Montemor-o-novo 15 de Março .
+      [ 194 ]  Na quinta-feira 23 de Fevereiro faleceu no Mosteiro de Nossa Senhora da Saudação das Religiosas Dominicanas , a Madre Soror Catherina de Jesus , contando 137 anos de idade , de exemplar vida , conservando até a sua morte sempre o juízo perfeito , e memória fresca , lembrando-se dos socessos mais antigos deste reino , que socederam no seu tempo .
+      [ title: 
+      [ 195 ]  Extremadura .]
+      [ 196 ]  Lisboa , 18 de Março ;
+      [ 197 ]  Chegou nesta semana o postilhão de Roma com os Palios para os Excelentíssimos Reverendíssimos Arcebispos de Braga , e de Évora .
+      [ 198 ]  Na sagração , que domingo passado 12 do corrente se fez na Santa Igreja Patriarcal do Excelentíssimo Bispo do Porto , se observou com ele a singularidade de ser só o que naquele dia se sagrara .
+      [ 199 ]  Observou-se-lhe uma numerosa , e luzida família .
+      [ 200 ]  Levou quatro cortezãos de capa , e volta , vestidos de veludo seis capelães com [...]batinas de seda e todos os mais criados a esta proporção :
+      [ 201 ]  Concorreu grande parte da Corte , que foi convidada a um esplêndido , que Sua Excelência lhe ofereceu no Convento de São Francisco da cidade : [...] de 15 pratos , além de uma grande pross[...] [...] frutas , e doces , ficando todo o trem da Mesa ao Convento .
+      [ 202 ]  Na segunda-feira 13 fez Pontifical na Igreja de São Francisco , e crismou a muita gente .
+      [ 203 ]  O Padre João Col está renitente em aceitar o Bispado de Elvas , de que Sua Majestade se tem senttido , segundo se observa porque teima , em que o aceite .
+      [ 204 ] 
+      [ 205 ]  O Excelentíssimo Cardial da Cunha , Inquisidor-geral , promo[vido] ao Concelho Geral do Santo Ofício a João Paes do Amaral , presidente da Inquisição de Coimbra e a José de Almeida do Amaral , presidente da Inquisição de Évora , conservando este na presidência do mesmo tribunal , em que se acha .
+      [ 206 ]  Faleceu nesta Corte Jorge Freire de Andra[de] [...]or do Senado , com mais de 90 anos de idade , nos quais fez grandes serviços em os Lugares de Letras , que ocupou , e foi o que recitou na entrada da Senhora Princesa do Brasil a oração que corre impressa ; e deixou na Mesa dos Agravos a seu filho o desembargador Antônio Freire de Andrade Enserrabodes .
+      [ 207 ]  O senhor infante Dom Francisco continua a assistência da Corte e os exercícios com os religiosos do seu hospício .
+      [ 208 ]  Chegaram a esta Corte os Falcões , que os Grão-mestres de Malta costumam todos os anos mandar a el-Rei Nosso Senhor de mimo , e o Grão-mestre defunto foi o que ainda enviava este presente :
+      [ 209 ]  Foram apresentados a Sua Majestade polo seu condutor Dom Joã[o] da Câmara , filho de Dom Francisco da Câmara , que antes de casar foi Cônego da Sé Patriarcal
+      [ 210 ]  Corre a voz , que a Corte passara para Belém , porque a Princesa do Brasil se recreia mais fora da cidade , e pela acompanhar o Príncipe Nosso Senhor e Suas Majestades , parece que se não recolheram até que a mesma senhora não volte para o Paço .
+      [ 211 ] 
+      [ 212 ]  O Excelentíssimo e [...]o Arcebispo de Lacedo[...]ia , Vigário Geral d[o] Patriarcado , dizem [...] no Palácio dos Arcebispos da Sé Orienta[l]
+      [ 213 ]  A capela-mor [d]a mesma Sé tem sido examinada pelo aqueduto , e engenheiro Carlos Mardel , e José J[o]rge , e parece , que este exame se encaminha para na mesma capela-mor [...] fazer alguma obra , ou haver nela alguma [...]ça para a nova Basílic[a] , que se diz haverá n[a][q]uela Sé .
+      [ 214 ]  O Ilustríssimo , e Excelentíssimo Marquês de Valença se acha mui doente : [...] [...]m perigo de vida o Excelentíssimo Arcebispo da Bahia Dom Frei José Fraco .
+      [ 215 ]  Publicou-se um vaticínio , para o ano de 1742 no seguinte :
+      [ title: 
+      [ 216 ]  Soneto . ]
+      [ 217 ]  A Bavie[...] bereis entronizado Grandes Duques bereis enardecidos Los Estados Austriacos dibididos De un infante será un nuevo Estado .
+      [ 218 ]  El Inglez ala España colligado Los Germanicos y Galicos [u]nidos Sin espada berey que[...] n vencidos Los que fieros ?
+      [ 219 ]  ños [...] mostrado LaFrandres mudara de [=...] ueño estraño Mejora se la Hollan[d]a de veziño , La Europa no padece [gr]ande dano .
+      [ 220 ]  Y queda su balança si[n] declino , El comercio florece , como el año Que es dequarenta y dós lo vaticino .
+      [ 221 ]  Número 13
+      [ title: 
+      [ 222 ]  FOLHETO DE LISBOA ]
+      [ 223 ]  Sábado , o 1 de Abril de 1741 .
+      [ title: 
+      [ 224 ]  Extremadura .]
+      [ 225 ]  Santarém 30 de Março .
+      [ 226 ]  No bairro da Ribeira desta vila , junto à Fonte de Palais morava um homem rústico , que vivia do seu trabalho , o qual adoecendo de uma leve febre se lhe foi agravando de tal sorte , que de maligna passou a fernesim , com que o miserável se pôs furibundo .
+      [ 227 ]  Receitaram-lhe os médicos sarjas nas costas , e na nuca da cabeça , que se lhe fizeram em um dia à noite :
+      [ 228 ]  Pouco , ou nada descansou com este violento remédio , e por esta causa o vigiavam algumas pessoas , mas sucedeu , que na mesma noite , todas juntas se entregaram ao sono já de cansadas , e faltas de dormir , e acordando de [m]adrugada , não acharam luz acesa , nem ao enfermo na cama ; porque vendo , que todos dormiam , se levantou nu , com as sarjas abertas , e saiu pela porta fora .
+      [ 229 ]  Antes de amanhecer fizeram várias diligên[ci]as assim pelas ruas , como pelos olivais , e até Tejo para verem se o topavam :
+      [ 230 ]  Não apareceu , nem o poderam descobrir até ao segundo dìa de tarde , em que já o supunham afogado , quando sem o buscarem , foi achado em um pomar da Assacaia assentado em camisa junto de um valado brincando com umas canas .
+      [ 231 ]  Cobriram-no com uma capa , e o levaram pelo seu pè à casa ainda com as forças , que lhe dava o fernesi :
+      [ 232 ]  Depois de deitado outra vez na cama , se aguentou a febre , e vivendo ainda 6 dias , faleceu nesta semana .
+      [ 233 ]  No primeiro do corrente à noite mataram no lugar de Almoster de um tiro , com muitas estocadas a Bernardo de Carvalho , casado , e com filhos , e o era de Manoel de Carvalho , cirurgião , e tabalião do mesmo lugar .
+      [ 234 ]  Estando-se nesta tarde pregando o Sermão do Mandato no Mosteiro de São Domingos das Donas , pegou o fogo de uma vela em o arco de flores de cambrai , em que estava a custódia com o Santíssimo Sacramento no trono , mas com a felicidade , que ardendo inteiramente todo o arco , não ofendeu a custódia .
+      [ 235 ]  A 20 do mês passado faleceu nesta vila Antônio Frazão , oficial de Conteiro , natural da vila da Batalha , com 113 anos de idade ;
+      [ 236 ]  Foi casado , e lhe havia a mulher morrido 2 anos antes com quase a mesma idade , e tão zelosa do pobre velho , e com ta[n]tos ciúmes dele , que em lhe tardando qualquer tempo , que saía arrumado a um bordão , e tão corcovado sobre a terra , que não trazia a cabeça distante dela quando andava , mais de 2 palmos , e meio , que chegando a casa eram tais as gritarias , descompondo-o ; que tinha ido à casa da amiga , que desacomodava a vizinhança , e lhe acudiam a paziguá-la .
+      [ 237 ]  Lisboa , 1 de Abril .
+      [ 238 ]  Em todos estes três dias da Semana Santa assistiu Sua Majestade na sua real tribuna aos Ofícios Divinos da Santa Igreja Patriarcal , que se celebrarão com a costumada grandeza .
+      [ 239 ]  O Excelentíssimo Senhor Cardial Patriarca concorreu em todo o Triduo à mesma igreja .
+      [ 240 ]  Domingo de Ramos celebrando-se na própria Basílica o Ofício das Palmas , caíram no coro desmaiados quatro Monsenhores .
+      [ 241 ]  O Monsenhor Perim acossado da malencolia , que o aperta , fogio de casa , e entrando na Sé Oriental , sobiu pelas escadas acima , e não parou senão na torre dos sinos , donde os sineiros foram à sua casa dar aviso , que ficava nela , a tempo , que o andavam buscando sem notícia alguma do lugar , em que estivesse :
+      [ 242 ]  Foram à torre para o conduzir , e riu-se disso :
+      [ 243 ]  Concorreram alguns amigos , e parentes para o persuadirem a que se recolhesse para sua casa , porque lhe não estava bem estar ali exposto ao rigor do tempo ; porém ele , crescendo-lhe um fernesi , começou a gritar : Não me quero ir daqui :
+      [ 244 ]  Quero morrer na minha Sé :
+      [ 245 ]  Eu sou católico ; quero acabar na casa de Deus , e não na casa do Diabo .
+      [ 246 ]  Toda a sua repugnância é assistir na Basílica Patriarcal , pe[l]o tirarem da Sé Oriental .
+      [ 247 ]  Esta fogida socedeu segunda-feira desta semana , e sabendo dela o Excelentíssimo Senhor Cardial Patriarca , deu parte a Sua Majestade que por um decreto o mandou levar preso para sua casa , com ordem para não sair dela , sem segunda vez lho ordenar .
+      [ 248 ]  Foi preso pelo meirinho dos Clérigos , atado de pés , e mãos : acompanhado de 8 mariolas , e foi executor da ordem de Sua Majestade o Padre Paulo Amaro Jesuíta .
+      [ 249 ]  Corre a voz haverem falecido o Bispos do Funchal , que vinha para Lamego , o de Angola , e o de Cabo Verde .
+      [ 250 ]  Também se diz , que está nomeado para Bispo de Elvas Dom Francisco Mascarenhas , filho natural de Dom João Mascarenhas , V Conde de Santa Cruz , e mordomo-mor d'el-Rei Dom Pedro II que de Conego regrante de São Agostinho , passou há anos para a dignidade de Dom Prior de Avis , cujo emprego atualmente exercita ; e finalmente , que para Bispo da Guarda era o Arcebispo , que vinha de Goa para Bispo do Algarve .
+      [ 251 ]  Espera-se a confirmação em parte , ou em todo .
+      [ 252 ]  A grande falta de trigo , que esta cidade padecia de trigo , por cuja causa tinha sobido de preço , se verá já suprida porque de segunda-feira até hoje se tem descarregado dos navios , que tem chegado . 5₡ moios , e se esperam por muito mais , para o que partiram daqui várias embarcações a carregar deste gênero a diversos países .
+      [ 253 ]  Número 14
+      [ title: 
+      [ 254 ]  FOLHETO DE LISBOA ]
+      [ 255 ]  Sábado , 8 de Abril de 1741 .
+      [ title: 
+      [ 256 ]  Extremadura .]
+      [ 257 ]  Almeirim , 5 de Abril
+      [ 258 ]  Sexta-feira de Paixão 31 de Março pelas duas horas da tarde sobreveio nesta vila , e seus limites uma trovoada de água , e pedras tão grandes , e em tanta quantidade , que eram como confeitos , e amêndoas , e toda a terra ficou cuberta delas em altura de 4 dedos :
+      [ 259 ]  Com a violência da queda , lançaram em terra quase todos os gomos das cepas das vinhas , que estavam rebentados , e de todas as ou- tras arvores :
+      [ 260 ]  Destruiu aos favais :
+      [ 261 ]  Por toda a Coutada , e Montanas , que abrangeu matou infinita caça meúda de maneira , que todo este povo , saindo a menos de uma légua , veio carregado de lebres , e coelhos , que se achavam mortos .
+      [ 262 ]  Os Viados , e os porcos bravos desesperados , e acossa[do]s da violência da pedra discorriam pela charneca , e campo sem acharem abrigo à inclemência do tempo , como desesperados .
+      [ 263 ]  Conglutinada a pedra depois de cair , se fez com uma pasta de neve sobre a terra , em que se não acabou de derreter de todo , senão no espaço de 6 horas .
+      [ 264 ]  Santarém , 5 de Abril .
+      [ 265 ]  Ontem à noite chegaram à esta vila os Excelentíssimos Bispos de Angra , e Macau :
+      [ 266 ]  Foram hospedados no Convento de São João Bautista do Pereiro dos Religiosos Arrabidos , e nesta manhã continuaram a sua jornada para Coimbra a assistirem à Sagração , que ali se há de fazer do Bispo de Miranda .
+      [ 267 ]  No Colégio da Conceição da Companhia de Jesus se anda preparando um quarto com todo o asseio para hospedarem nele ao Senhor Arcebispo de Braga , que brevemente sairá de Lisboa , para a sua Diocese , onde também se lhe preparam muitas festas
+      [ 268 ]  Lisboa , 8 de Abril .
+      [ 269 ]  O Senhor Dom Pedro . filho mais velho do Sereníssimo Senhor Infante Dom Francisco , se acha no Palácio da Bemposta mui doente do contagioso mal de bexigas , onde havia padecido o mesmo mal seu irmão o Senhor Dom João , Príncipe de grandes esperanças .
+      [ 270 ] 
+      [ 271 ]  Está ajustado o casamento de Dom José de Noronha , filho 3o. dos Ilustríssimos e Excelentíssimos Condes d’Areos com uma filha de Joaquim Manoel Ribeiro
+      [ 272 ]  Quinta-feira 6 do corrente se administrou o sagrado bautismo com os nomes de Maria José Xavier dos Passos Rita Mathias Vossa Senhoria a uma filha de José Felix da Cunha , e da Senhora Dona Constança de Men[e]zes , filha do Marquês do Louriçal , no Oratório do palácio do Ilustríssimo e Excelentíssimo Conde da Ericeira seu avó :
+      [ 273 ]  Bautizou-a o Excelentíssimo Principal Dom José Manoel , Deão da Santa Igreja Patriarcal :
+      [ 274 ]  Foi padrinho o Patriarca São José , por quem tocou com prenda sua Dom Henrique de Menezes , tio da bautizada , e madrinha a Ilustríssima e Excelentíssima Senhora da Ericeira Dona Maria José da Graça .
+      [ 275 ]  No mesmo dia entrou neste porto a nau da Índia , em sua Companhia outras três [ como já se disse ] uma delas se fabricou na Bahia , com carga de 60₡ cruzados em fretes , caixas de açúcar , e outros gêneros .
+      [ 276 ]  Nela , e nas duas vem embarcados os soldados [ com os seus oficiais presos ] e mais equipagem da nau , que na monção do ano passado ia para o Estado da Índia , e arribando à Bahia deu à costa .
+      [ 277 ]  Também chegou o Excelentíssimo Arcebispo primaz de Goa Dom Ignacio de Santa Thereza , promovido para Bispo do reino do Algarve .
+      [ 278 ]  As notícias , que se receberam do Estado da Índia são em tudo lamentáveis : porque tem sido tal a sua decadência , que ficava na última declinação aquele [p]oder que em outro tempo era o terror [d]e [t]odo o Oriente .
+      [ 279 ]  O inimigo Marata pôs sítio a Boçaim , e não se podendo já sustentar s[e] [che]gou a 16 de Maio de 1739 depois anos de cerco por capitulaç[ões] a praça de Margão foi tomada rompendo os inimigos às muralhas :
+      [ 280 ]  As Provín[ci][...] [de] Salsete , e Bardez foram invadidas de um po[deroso] exército , e nos tomaram nelas as fortalezas de Corjoem , e Panclêm , roubando e matan[d]o pondo desta sorte sítio a Goa , sem nela haver [man]timentos , causa , porque na mesma cidade em [o] espaço de 5 meses , e nas partes de Salsete e Bardez , morreram mais de 80 pessoas à pura necessidade .
+      [ 281 ]  Com a declinação da Estada ninguém há , que se não tenha declarado nosso inimigo , porque dous irmãos filhos do Angariá , um nos pôs sítio a Chaul , e outro nos tem dado grandes perdas por mar , e por terra :
+      [ 282 ]  O Bonzulo , chamado Reima Saunto a 5 de Março do mesmo ano de 1739 depois de 40 e tantos dias da entrada do Maratá em Salsete , pela meia-noite avançou os muros de Tioŷ , e em poucas horas os ganhou , ocupando toda a Ilha de Bardez .
+      [ 283 ]  A Ilha de Goa estaria já tomada , se Deus não fîzesse parar o curso às fortunas dos nossos inimigos :
+      [ 284 ]  o Vice-Rei chegou a proferir , que era impossível poder-se defender , e com efeito mandou o precioso para a Fortaleza de Murmugão , onde se recolheram as Religiosas de Santa Mônica , as Recolhidas de Nossa Senhora da Serra : a pólvora , provimentos , hospital , e a Secretaria Nossa
+      [ 285 ]  Número 19
+      [ title: 
+      [ 286 ]  FOLHETO DE LISBOA ]
+      [ 287 ]  Sábado , 13 de Mayo de 1741 .
+      [ title: 
+      [ 288 ]  Alentejo .]
+      [ 289 ]  Évora , 11 de Maio .
+      [ 290 ]  Querendo o Excelentíssimo , e Reverendíssimo Dom Frei José Maria da Fonseca e Évora , [B]ispo da Cidad[e] do Porto , antes d[e] recolher-se à su[a] Diocese , visi[t]ar a sua pátria , de que se ausen[t]ara há muitos anos , partiu de Lisboa anteontem , e entrou nesta cidade de Évora ontem com um grande luzimento , e acompanhamento , bem diferente daquele , com que a mesma sua pátria o despediu , quando dela saiu .
+      [ 291 ]  Foi recebido com especial distinção da nobreza [ saindo algumas léguas fora a esperá-lo ] , com luminárias , repiques , e outeiro de poesias , em que se lhe deu o para bem da sua [b]oa-vinda , e [se] lhe preparam outras f[es]tas .
+      [ 292 ] 
+      [ title: 
+      [ 293 ]  Extremadura .]
+      [ 294 ]  Lisboa , 13 de Maio .
+      [ 295 ]  Por via de França se recebeu a notícia , de que a nau de Vasco Lourenço , que havia partido deste porto a 29 de Março do ano passado de 1740 chegou à Costa de Coromandel a 7 de Junho do mesmo ano com feliz viagem , e se esper[a] , que ainda neste presente ano entre , neste [...] d[e] Lisboa .
+      [ 296 ]  Havendo os padres da Congregação de São Felipe Neri da Casa do Espírito Santo desta cidade determinado a tratar da canonização do venerável Bartolameu do Quintal , seu Fundador neste reino , que faleceu santamente na mesma Casa a 20 de Dezembro de 1698 nomearam para ir a Roma a es[s]e fim ao Reverendíssimo Padre Manoel de Almeida , e a outro Padre da mesm[a] Congregação , a que Sua Majestade mandou dar 6₡ cruzados para ajuda de custo , e os nomeou seus procuradores na Cúria Romana .
+      [ 297 ]  O vento contrário tem impedido a partida da esquadra para a Índia , e está pronta a dar à vela em o havendo favorável .
+      [ 298 ]  Compõe-se de cinco naus , duas pequenas , e três grandes , porque a que mandou vir de Inglaterra , está fazendo água .
+      [ 299 ]  Continua-se a prender marinheiros , e até se tem pr[en]dido a onze cirurgiões :
+      [ 300 ]  Vão 8[0] homens de desembarque , e por Comandante Antônio de Saldanha e Albuquerque , irmão de André de Saldanha e Albuquerque , que no ano passado chegou [d]o mesmo Estado em a nau , que veio neste ano da Bahia , e pertende [ Deus ajudando ] chegar a Goa ainda neste ano , fazendo a sua viagem por fora da Ilha de São Lourenço .
+      [ 301 ]  Mandou Sua Majestade pelo Bispo eleito de Viseu dizer a João de Melo Cogominho , que se acha há muito tempo preso no Limoeiro , se determinava casar com a neta de Dom Lourenço [de] Sotomaior , ou ir para a Índia ?
+      [ 302 ]  Respondeu , que se aparelhava para a Índia .
+      [ 303 ]  Teve segundo aviso , que iria para a Índia , mas havia ser depois de casado ; e respondeu , que lho mandasse escrever pelo Secretário de Estado , Sua Majestade se irritou , dizendo , que lho poderia mandar dizer por um Alcaide .
+      [ 304 ]  Resolveu-se a dizer , que se aparelhava para casa[r] , o que se espera ver com toda a brevidade .
+      [ 305 ]  Quinta-feira , 11 do corrente intentaram os presos , que se acham na Fundição , ou Tenência para irem para a Índia , minar a prisão em ordem a poderem fogir :
+      [ 306 ]  Um deles , que não convinha naquela resolução , e começava a falar mais alto , o mataram às facadas : logo se soube ; e para se lhes reprimir os seus desatinos , e evitar outro motim , se lhes dobraram as guardas .
+      [ 307 ]  Chegou a esta Corte o Excelentíssimo Bispo de Miranda depois de sa[gr]ado , a beija[r] a mão a Sua Majestade
+      [ 308 ]  Ainda se não sabe , quando se lhe ordenará , e aos mais Bispos , se recolham para as suas Dioceses .
+      [ 309 ]  Corre a voz , que o Excelentíssimo Arcebispo de Évora está renitente em dar as 3 partes do seu Arcebispado , valendo-se da cláusula da Bula das mesmas terças , para a Santa Igreja Patriarcal = Auditis Episcopis = e que à parte antea não fora , nem podia ser ouvido , porque ainda não era Arcebispo , e que à parte postea não devia de consentir em um notório prejuízo dos pobres .
+      [ 310 ]  Pedr[o] [G]onçalves da Câmara , acompanhado de seus parentes , beijou nesta semana a mão à Sua Majestade pela mercê de o haver nomeado General de Batalha com o governo das Armas da Província do Minho , e visitador das praças da Província de Trás-os-Montes .
+      [ 311 ]  Ontem se refugiaram três ladrões no Conventinho do [S]enhor da Boa Morte de Buenos Aires , e se defendera[m] com a espada na mão , querendo-os prender , saindo o Padre Baltazar da Encarnação a acudir pela imunidade da igreja ; mas nesta noite foram presos em uma casinha , que lhe fizeram para os meter de pedra , e cal , vendo-se sitiados .
+      [ 312 ]  Hoje recebeu o Senhor Arcebispo Primaz de Braga o pálio das mãos do Excelentíssimo e Reverendíssimo Senhor Cardeal Patriarca na Capela de Sua Eminência com assistência de dous Principais da Santa Igreja de Lisboa .
+      [ 313 ]  O Senhor Dom João , filho do Senhor Infante Dom Francisco es[tev]e muito doente de bexi[ga]s , sangrad[o] 9 vezes .
+      [ 314 ]  Número 20
+      [ title: 
+      [ 315 ]  FOLHETO DE LISBOA ]
+      [ 316 ]  Sábado , 20 de Maio de 1741
+      [ title: 
+      [ 317 ]  Trás-os-Montes .]
+      [ 318 ]  Miranda , 2 de Maio .
+      [ 319 ]  Costuma-se todos os anos a 25 de Abril fazer uma feira junto desta cidade em um sítio , que divide este reino do de Castela :
+      [ 320 ]  Os [Po]rtugueses formam em o nosso continente uma rua para venderem os seus gêneros ; e os Espanhóis fazem outra em o seu , de maneira , que é feira franca para todos , mas separada para os mercadores : e para se evitar algum distúrbio entre as duas nações por natureza opostas , costuma mandar-se uma Companhia de Soldados desta cidade para a feira enquanto dura .
+      [ 321 ]  Neste ano por causa de um troço de quatro réis se desavia um mercador de Bragança com outro Espanhol , que a[t]revidamente [d]eu uma bofetada no Português , o qual vendo-se afrontado , tirou da espada e acudindo gente de um , e outro partido , houve uma tão horrorosa peleja , envolvida com tiros , que ficaram mortos perto de 50 Castelhanos , e ao nosso Capitão de Infantaria levaram as abas da casaca , e ficou também morta uma mulher portuguesa de um tiro .
+      [ 322 ]  Como os Portugueses se viram senhores do campo , entraram no continente dos Espanhóis , eles saquearam o que puderam , como se fosse em alguma batalha .
+      [ 323 ]  Depois vieram os Espanhóis recolher os corpos mortos , ficando tão [deses]perados , que matam em Castela a quantos Portugueses encontram , de maneira , que em distância , de três léguas pela raia de Castela se tem nestes dias achado muitos mortos ;
+      [ 324 ]  Um clerigo , que daqui entrou nela dous dias depois do socesso a um negócio , o correram , e escapou por ir bem montado
+      [ 325 ]  O Governador desta cidade mandou logo dar parte deste caso a Sua Majestade .
+      [ title: 
+      [ 326 ]  Beira .]
+      [ 327 ]  Aveiro , 8 de Maio .
+      [ 328 ]  Faleceu a 2 do corrente no Convento de Jesus das Religiosas Dominicas desta vila com 100 anos de idade a Madre Soror Angela do Sacramento , com muitos sinais de predestinada , exercitando muitos atos de virtude , continuando o coro , e mais ações da comunidade , e lendo pelo Breviário , como se fora de vinte , ou trinta anos .
+      [ 329 ] 
+      [ title: 
+      [ 330 ]  Extremadura .]
+      [ 331 ]  Lisboa , 20 de Maio .
+      [ 332 ]  El-Rei , Nosso Senhor , foi servido nomear ao Ilustríssimo e Excelentíssimo Dom Luiz Peregrino de Ataide , X Conde de Atouguia , do seu Real Conselho , por Governador , e Capitão-general do reino do Algarve .
+      [ 333 ]  O Excelentíssimo e Reverendíssimo Bispo do Porto mandou agora de presente ao Papa 12 caixotes , e se presume , que cheios de louça da Índia , [...]nto , e tantos pássaros de cores , e cantos diferentes ; doze papagaios de diferentes espécies , e 6 macacos de divirso feitio .
+      [ 334 ]  Ontem andou o Corregedor S. Marta notificando os moradores da Tanoaria até a calçada de São Francisco para no último de Junho próximo darem , despejadas as casas , em que vivem , p[a]ra se demolirem , e se continuarem as reais ob[r]as do Paço : são trinta e duas moradas de casas , em que vivem 160 famílias , e se andam já avaliando pelos Mestres da cidade , e por louvados da parte de seus donos ; e Sua Majestade além do justo valor , por que cada uma das moradas das casas for avaliada , quer dar mais a terça parte .
+      [ 335 ]  Da praça de Mazagão se fez aviso a esta Corte , que a sua guarnição se acha na última consternação com a falta de mantimentos , e pela esterilidade do p[a]ís Maurit[...] :
+      [ 336 ]  El-Rei Nosso Senhor mandou logo à casa de Ceuta , que das consignações se enviasse socorro , e mantimentos à referida praça de Mazagão .
+      [ 337 ]  Fez-se junta sobre a esquadra das naus da Índia , que há de partir para aquele Estado , se deve ir , ou não ao Rio de Janeiro ; e se resolveu , que fosse logo daqui demandar o Cabo da Boa Esperança :
+      [ 338 ]  Assistiu a ela o cosmógrafo-mor ; e se espera por oportunidade de tempo para dar à vela , porque está pronta a partir .
+      [ 339 ]  Sua [M]ajestade tem mando lavrar novas cruzes , castiçais , e tocheiras de prata para a Santa Igreja Patriarcal pelo risco do Federico , e se diz importará esta obra em 800₡ cruzados .
+      [ 340 ]  Fala-se que se espera por Bula para 30 Comendas grandes se aplicarem para renda dos Monsenhores , que são os do real bolsinho ; e que ao Real Convento de Mafra apli[ca]rá o rendimento de todas as Capelas da Coroa para a sua subsistência .
+      [ 341 ]  Dom Felipe de Larcão , que na Provinciado Alentejo : estava servindo de Coronel , com potente de Brigadeiro , chegando no dia à noite , em que se passou mostra , estando esta já acabada , mandou fazer farda , assentou praça de soldado , e entro de guarda , como qualquer ordinário .
+      [ 342 ]  Devem-se 8 meses de soldo às tropas , e não se fala em pagamento .
+      [ 343 ]  O Excelentíssimo e Reverendíssimo Bispo do Porto partirá brevemente para a sua Diocese , e o se[nh]or Arcebispo de Braga .
+      [ 344 ]  Número 23
+      [ title: 
+      [ 345 ]  FOLHETO DE LISBOA ]
+      [ 346 ]  Sábado , 10 de Junho de 1741 .
+      [ 347 ]  Chegaram a esta Corte d[o]us postilhões de França , um mandado pela de Paris ao seu Embaixador , que reside nesta de Lisboa , e outro expedido por Dom Luiz da Cunha para el-Rei Nosso Senhor
+      [ 348 ]  Rompeu-se a voz , que a Corte de França se queixa , e está mal satisfeita da nossa , porque mandando aqui um Ministro , se não tem atenção às suas representações , nem se lhe difere a elas , remetendo-se el-Rei sempre a que lá mandara responder por Dom Luiz da Cunha .
+      [ 349 ]  Entende-se , que como Sua Majestade não tem Ministros com a capacidade necessária , para se não deixar vencer das sutilezas de Monsenhor de Clavagni se remete ao grande talento de Senhor Luiz , o que também lhe serve para dilatar mais tempo as respostas das proposições ; que se lhes fazem .
+      [ 350 ]  O Embaixador de França , negando-lhe el-Rei uma audiência , que pedia com o pretexto de se achar molestado , pedia audiência à Princesa do Brasil , do que el-Rei parece não ficou muito satisfeito .
+      [ 351 ]  Anteontem à noite chegaram outros dous postilhões de França do que se infere , que o negócio , que se trata , é de importância , e há dúvida nele , pois por ambas as partes se escreve .
+      [ 352 ]  O Embaixador frequenta muito as visitas das Senhoras da Corte , e até lhas vai já introduzindo à moda francesa de tomarem a liberdade de irem jantar com ele à sua casa .
+      [ 353 ]  Sábado , 3 do corrente pelas 8 para as 9 horas da n[oi]te , encontrando-se no estreito de São Jorg[e] acima da Sé Oriental , o monteiro-mor do reino com Lourenço Luiz Galvão , estribeiro-menor de Sua Majestade tiveram diferença sobre quem havia de recuar , e devendo-o fazer o monteiro-mor , saiu fora da sua carruagem Lourenço Luiz , puxou da espada , e depois de uma pendência , deu no monteiro-mor uma estocada no braço esquerdo , e tão desanimado ficou logo , que pediu confissão , e fez testamento na mesma noite , o que tem dado assunto aos poetas a saírem-lhe com sátiras , pela frouxidão , com que se postou :
+      [ 354 ]  Ambos foram presos à ordem de Sua Majestade , e quando saírem irão fazer termo de amizade .
+      [ 355 ]  Domingo , 4 se publicou por editais o Auto da Fé para se haver de celebrar na Igreja de São Domingos no domingo , que se hão de contar 18 do corrente , e todos estão esperando ver nele a celebrada , e formosa jud[ia] , chamada Rainha Esther .
+      [ 356 ] 
+      [ 357 ]  Na terça-feira , 6 pelas 10 horas da noite roubaram na rua dos Escudeiros ao Padre Teodósio de Cobelos , Oficial da Secretaria Ultramarina .
+      [ 358 ]  Os Ilustríssimos e Excelentíssimos Marquês de Távora , e Conde do Lavradio , que se acham na praça de Elvas se dispuseram a fazer neste verão festas de touros , para o que convidaram a nobreza da terra :
+      [ 359 ]  Já se levantou o mastro com grandes demonstrações de festejo , e tem mandado a esta Corte fazer vária[s] disposições .
+      [ 360 ]  Ainda todas as tropas se ach[am] nas praças , em que passaram mostra , queixando-se os Fidalgos de se acharem há tanto tempo fora de suas casas .
+      [ 361 ]  Fala-se muito em um decreto , pelo qual se há de mandar , que todas as Comunidades Religiosas , e todas as Confrarias serão obrigadas a venderem , dentro de certo termo , todas as propriedades d[as] casas , e bens de raiz , de que se seguirá um gran[de] rendimento para a casa das Cizas .
+      [ 362 ]  Também se fala , em que Sua Majestade mandar[a] por outro decreto distratar todos os juros reais .
+      [ 363 ]  Não tem[...] [...]esta semana mais notícias , que pu[...] ; mas para que o leitor não deixe de se ree[...] com o costumado papel , lhe faremos memo[...] [...] quais em algum tempo[...] se [...] a história .
+      [ 364 ]  Foi o ano de 1736 [...] invernoso de maneira , que nesta cidade , e em muitas deste reino , vilas , e lugares houveram contínuas preces pro serenitate :
+      [ 365 ]  Os campos se inundaram por algumas vezes , principalmentea 18 de Abril .
+      [ 366 ]  A chuva que fez na segunda-feira 7 do referido mês foi grande , mas a do sábado , e domingo antecedente , foi extraordinária , e de pasmosos efeitos .
+      [ 367 ]  Junto a Vila Franca da Xira correu um casal , que estava fundado em um monte , por ele abaixo , sem se demolir e passou em uma boa distâ[n]cia .
+      [ 368 ]  Na Quinta de Val do Sobral da Banda d’Além dos religiosos da Companhia de Jesus do Colégio de São Antão desapareceu uma casa , e um forno
+      [ 369 ]  A 15 de Abril do dito ano de 1736 baixou uma resolução ao Conselho Ultramarino sobre as freiras de Santa Mônica de Goa , para ficarem daqui em diante isentas de jurisdição do ordinário , e que in todas as mais dúvid[a]s se pusesse perpétuo silêncio
+      [ 370 ]  A 16 do referido mês mandou uma freira de Santa Clara desta cidade chamar um filho do Desembargador Francisco da Silva Coimbra , com quem havia tido conrrespondência [...] mas estavam já quebrados :
+      [ 371 ]  Obedeceu [...] ; [...] esperando [...] portaria , os primeiros , e últimos comprimentos , foram assentar-lhe ela [...] bofetadas , e [...] que nunca [...]
+      [ 372 ]  Número 24
+      [ title: 
+      [ 373 ]  FOLHETO DE LISBOA ]
+      [ 374 ]  Sábado , 17 de Junho de 1741 .
+      [ title: 
+      [ 375 ]  Beira .]
+      [ 376 ]  Coimbra , 12 de Junho .
+      [ 377 ]  Ontem fez a sua entrada pública o Excelentíssimo e Reverendíssimo Dom Miguel de Távora e Cunha , Conde de Arganil , e Bispo desta cidade : indo das portas de Santa Margarida pela rua da Sofia à Catedral precedido de um numeroso acompanhamento jamais visto aqui em semelhante ato .
+      [ 378 ]  Compunha-se este de todo o Clero da cidade , e seu termo , das Irmandades , Nobreza , e Cabido , e Sua Excelência montado em um soberbo cavalo ricamente ajaezado , que havia custado 336₡ réis .
+      [ 379 ]  As ruas todas por onde passou , estavam ricamente adornadas de tapecarias , e sedas :
+      [ 380 ]  Depois de fazer oração , se cantou o Te Deum com a melhor música , e instrumentos , e de noite houve repiq[u]es , e luminárias em todas as igrejas desta cidade .
+      [ 381 ] 
+      [ title: 
+      [ 382 ]  Alentejo .]
+      [ 383 ]  Elvas , 12 de Junho .
+      [ 384 ]  Cada dia se recebem nesta província ordens mais apessadas para as nossas tropas não saírem das suas praças , e novamente chegou ordem do Ilustríssimo e Excelentíssimo Conde Atalaia , Governador , e General das Armas da província aos Governadores das praças , que sem embargo de lhes haver permitido , concederem licença aos oficiais , que tivessem negócios no destrito da província , agora lhes diz , não dêem tal licença . senão por um dia , e que nele mesmo se hão de recolher as praças , e que não o fazendo assim , se lhes dê baixa , e os prendam , dando depois conta à Sua Excelência .
+      [ title: 
+      [ 385 ]  Extremadura .]
+      [ 386 ]  Torres Novas , 13 de Junho .
+      [ 387 ]  Domingo passado , 10 do corrente se celebrou na Paróquia do Salvador desta vila a Festa do Milagroso São Francisco de Paula , cuja imagem tinha a devoção dos fiéis mandado esculpir no ano passado , e expôr em uma capela da mesma igreja , em que agora se lhe fez um retábulo :
+      [ 388 ]  esteve o Santíssimo Sacramento exposto nas mãos da sagrada imagem em todo o dia :
+      [ 389 ]  Pregou de manhã o Prior da mesma igreja Antônio de Macedo e Silva , e de tarde o Reverendo Rober[to] Justiniano de Macedo , Prior da Igreja de São Ped[ro] desta mesma vila :
+      [ 390 ]  Coroou a festa uma rua procissão com o Santíssimo Sacramento , e a imagem do mesmo Santo , que acompanharam as Irmandades , Cle- ro , e Comunidades Religiosas .
+      [ 391 ]  Continua São Francisco de Paula em obrar prodígios e videntes , depois que a sua imagem se colocou no Salvador ; porque a um menino do lugar da Brogueira , tolhido da cintura para baixo , sem movimento no pescoço , restituiu a perfeita saúde , valendo-se seus pais do patrocínio do mesmo Santo :
+      [ 392 ]  A uma mulher desta vila , cega , comecando-lhe a sua novena das sextas-feiras , na terceira teve vista de um olho , e tem esperança de ver de ambos .
+      [ 393 ]  Lisboa , 17 de Junho .
+      [ 394 ]  Toda a Casa Real logra perfeita saúde , exceto a senhora Princesa do Brasil , que se acha sangrada , e dizem , que se acha pejada .
+      [ 395 ]  El-Rei Nosso Senhor se diverte muitas tardes no delicioso divertimento do passeio do rio Tejo em o seu bergatim real ; e assiste nos mais dos dias na sua real tribuna aos ofícios divinos da Santa Basílica Patriarcal
+      [ 396 ]  Antônio de Melo e Castro , filho de Caetano de Melo havendo pedido licença para ir a uma caçada fora da praça do Alentejo , em que se achava de quartel , veio pela posta ocultamente a esta Corte , onde nada se esconde aos olhos do Soberano :
+      [ 397 ]  Logo foi preso , e se acha no Forte de Santa Luzia
+      [ 398 ] 
+      [ 399 ]  Prenderam 4 ladrões , e um rapaz , que co outros mais estavam abrindo a logea de um ourives do ouro :
+      [ 400 ]  O rapaz foi logo para o segredo e prometendo perdoar-lhe , se confessasse , declarou , que esta era a décima quarta vez , que abria portas com aquela gente , entre as quais logeas eram 2 na rua da Prata , e 2 na do Ouro :
+      [ 401 ]  Descobriu o estrangeiro , a quem vendiam os furtos , e dizem que vai descobrindo muita gente enteressada nesta companhia .
+      [ 402 ]  Convidando Dom Luiz de Noronha Cônego da Basílica Patriarcal a um Minorista da mesma Basílica para jantar com ele na sua quinta , lhe mandou nela dar tantos açoutes por dous Algaravios , que lhe deram os Sacramentos .
+      [ 403 ]  Em Paris saiu impresso um Breviário com aprovação , e faculdade de certo Arcebispo , no qual faltam as Lições da Festa da Assunção de Nossa Senhora , e tudo o mais concernente a este mistério .
+      [ 404 ]  Nos Hinos o verso : Jesu Redemptor omnium .
+      [ 405 ]  Saiu contra estes Breviários um papel , que o mesmo Arcebispo suspeitou ser feito pelos religiosos da Companhia de Jesus , e determinou proibi-los de confessar , e pregar na sua Diocese , mas não o fez , por se meter nisto o Cardeal de Fleury .
+      [ 406 ]  O papel foi queimado publicamente por ordem do Parlamento , o que foi denuncìado :
+      [ 407 ]  Deu esta notícia grande cuidad[o] em a Cura Romana , por ser princípìo de uma cisma .
+      [ 408 ]  Número 26
+      [ title: 
+      [ 409 ]  FOLHETO DE LISBOA ]
+      [ 410 ]  Sábado , 1 de Julho de 1741 .
+      [ title: 
+      [ 411 ]  Alentejo .]
+      [ 412 ]  Crato , 24 de Junho .
+      [ 413 ]  Por virtude dos decretos , e alvarás d'el-Rei Nosso Senhor concedidos aos contratadores das Minas deste reino , se tem aberto várias em muitas terras de todas as suas comarcas , nas quais se tem descuberto diversos metais , que farão utilidade ao contrato .
+      [ 414 ]  Descobriram neste Priorado uma mìna de ouro , do qual foi um grão à mostra ao Senhor Infante Dom Francisco , e no ensaio , que lhe mandou fazer , se achou ser finíssimo .
+      [ title: 
+      [ 415 ]  Extremadura .]
+      [ 416 ]  Lisboa , 1 de Julho
+      [ 417 ]  Domingo passado , 25 do corrente pelas dez horas da noite recebeu o Ilustríssimo e Excelentíssimo Conde da Atouguia Carta da Secretaria de Estado , pela qual Sua Majestade lhe ordenava , que se aparelhasse para ir para o reino do Algarve , e na segunda-feira à noite recebeu outra para que no seguinte dia fosse tomar o juramento de homenagem do governo do Algarve .
+      [ 418 ]  Para satisfação das casas , que Sua Majestade mande demolir para o novo palácio [ que dizem ser destinado para o Príncipe ] nomeou os sobejos do rendimento da alfândega desta cidade .
+      [ 419 ]  Mandou avaliar o palácio do Conde da Ribeira junto da Igreja Paroquial de Nossa Senhora dos Mártires , e se tem feito a diligência em duas partes dele , que se avaliaram em 200₡ cruzados , por ser de ambas as partes revestìdo de pedra de cantaria , e as suas paredes muito grossas , e como a 3a. parte poderá emportar em 100₡ cruzados , se destinam 15₡ cruzados de juros , que se mandaram dar à casa do mesmo Conde da Ribeira .
+      [ 420 ]  Dìzem , que no novo palácio se há de fazer também uma Capela Real , mas a certeza , só está na idéa real .
+      [ 421 ]  No mesmo domingo passado houve no Sítio de Pedrouços um combate de touros , a que assistiram todas as reais pessoas , exceto o Senhor Infante Dom Francisco , que indo no seu iate defronte daquele sítio , mandou , que os seus criados fossem ver os touros , e ficou conversando todo o tempo , que duraram ; com os Algaravios com muita paciência até às 7 horas da tarde , em que partiu com eles pela barra fora , onde andou div[e]rtindo até à uma hora de pois da meia-noite , em que se recolheu a esta Corte , havendo primeiro reconhecido um navio , que avistou fora da mesma barra .
+      [ 422 ]  Na segunda-feira , 26 se celebrou o Ato Particular da Fé na sala do Santo Ofício desta cidade , e nele saíram quatro religiosos , um Clérigo , e um Secular irlandês .
+      [ 423 ]  Na terça-feira , 27 de tarde se lançou em um poço na rua Nova da Palma uma moça :
+      [ 424 ]  Dizem , que desesperada por lhe dificultarem certo casamento , que andava tratando à sua vontade .
+      [ 425 ]  Na quarta-feira , 28 se fez pagamento de seis meses aos Regimentos da Armada , e Junta , e houve ordem para se não dar baixa , nem ainda aos incapazes .
+      [ 426 ]  O filho do Conde de São Miguel capitão de Infantaria no Alentejo , mandando pedir licença para vir tomar a benção à Condessa sua mãe , que estava para morrer , se lhe negou , e se puseram espias para ver se vinha à Corte .
+      [ 427 ]  O Conde de Unhão pedìu também licença para vìr de Cascais receber-se nesta Corte com a Senhora Marquesa de Niza , se lhe mandou dizer , que também em Cascais podia contrair , e fazer aquele Sacramento .
+      [ 428 ]  Os ceifeiros , que andavam cegando o pão no sítio da Ribeira de Alcântra , ouvindo gritar uma mulher , que corria atrás de um mouro dos que mendigam nesta Corte , e assistem em Campolide , correram a ele , e achando-lhe dentro em um saco uma criança filha da mulher , se enfureceram contra ele , e o mataram às pancadas .
+      [ 429 ]  Nesta semana se passou ordem para se prender certo Clérigo , e indo para executá-la a Justiça Eclesiástica com ajuda do braço secular , e militar , pôde defender-se valerosamente de todos , e escapou , dando de caminho uma facada no cacach[...]ço de um quadrilheiro , que faleceu nesta noite passada .
+      [ 430 ]  Ontem principiaram os moradores da Tanoaria a despejar as casas , que logo começaram a demolìr com toda a pressa .
+      [ 431 ]  Na noite de São João Bautista saíram dobradas as rondas com ordem para prenderem todas as pessoas , que encontrassem lançando foguetes pelas ruas , e com efeito prenderam mais de 60 rapazes .
+      [ 432 ]  Na noite de São Pedro saíram 14 rondas , e partidas de cavalaria ; e nela se afogaram no rio dous homens , que se lançaram a nadar .
+      [ 433 ]  Prendeu-se em Sevilha o ladrão , que roubou a jóia peitoral do Excelentíssimo Senhor Cardeal Patriarca , de que já demos notícia , e se sabe ser natural do reino de Sevilha .
+      [ 434 ]  O Senhor Arcebispo de Braga , dizem partirá segunda-feira para a sua Diocese , para o que se acha pronto , por ter despedido-se da Corte .
+      [ 435 ]  Número 27
+      [ title: 
+      [ 436 ]  FOLHETO DE LISBOA ]
+      [ 437 ]  Sábado , 8 de Julho de 1741 .
+      [ title: 
+      [ 438 ]  Extremadura .]
+      [ 439 ]  Santarém , 6 de Julho .
+      [ 440 ]  Ontem pelas 7 horas da tarde entrou nesta vila o Senhor Dom José Arcebispo Primaz de Braga :
+      [ 441 ]  Haviam-se prevenido algumas companhias da Ordenança , que guarneciam em duas alas o caminho desde o Convento de Nosso Senhor de Jesus do sítio até ao Colégio de Nossa Senhora da Conceição dos religiosos da Companhia de Jesus , em que foi alojado ; e passando , lhe fizeram as honras militares , devidas à sua pessoa , e ao mesmo tempo se repicaram todos os sinos dos conventos ; o que repetiram de noite .
+      [ 442 ]  Foi Sua Alteza hospedado magnificamente no referido Colégio , em que se tìnha mornado algumas casas destinadas para isso .
+      [ 443 ]  Não só os sinos com as bocas de bronze felicitaram a chegada com alegres repiques , mas até o fogo lhe deu os parabéns com línguas de luzes com vistosas luminárias , e ao mesmo tempo os Engenhos Scalabitanos lhe tributaram no Terreiro da Piedade [ que é fronteiro à igreja e dormitórios do Colégio ] um outeiro de admiráveis poesias em louvor de Sua Alteza orando primeiro o nosso grande Felix da Silva Freire , recitando em seu louvor uma diseseta Silva .
+      [ 444 ]  Ontem também à noite assistiu Sua Alteza em uma das janelas do Colégio ao referido outeiro .
+      [ 445 ]  Na tarde de hoje visitou o Santíssimo Milagre da Hóstia Consagrada , que se venera incorrupta na freguesia de São Estevão desde o ano de 1266 e outros prodígios , e santuários , que se veneram nesta vila .
+      [ 446 ]  Lisboa , 8 de Julho .
+      [ 447 ]  Na semana passada fogiu do Real Mosteiro de Odivelas uma educanda , filha natural de Dom Antônio da Silveira , saindo dentro de uma canastra às costas de um manola , em que teve as mãos na portaria o Padre Confessor , a quem afirmaram ser roupa ; e ainda se não sabe , que caminho levou .
+      [ 448 ]  Sua Majestade logo deu ordem aos corregedores desta Corte para tirarem devassas com mais exação , e rigor , do que nunca , contra os freiráticos ocultos , e que os processos fossem entregues em mão própria do mesmo Soberano .
+      [ 449 ]  Ter[ç]a-feira , 4 do corrente partiu desta Corte para a de Braga o Sereníssimo Senhor Dom José Arcebispo Primaz :
+      [ 450 ]  Jantou em Santo Antônio do Tojal com o Excelentíssimo Senhor Cardial Patriarca :
+      [ 451 ]  Pernoitou na Vila da Castanheira , donde partiu na quarta-feira de manhã :
+      [ 452 ]  Neste dia jantou na Estalagem do Gaio , e foi dormir a Santarém .
+      [ 453 ]  Na noite do mesmo dia foi repentinamente partir o Ilustríssimo e Excelentíssimo Conde da Atouguia para o seu governo do reino do Algarve ; e em seu seguimento foi mandado uma espia de rebuço , para ver por onde vai , e onde se detém .
+      [ 454 ]  Na quinta-feira , 6 matou um homem a certo militar , pelo achar em sua casa conversando com sua mulher , sem negócio ; e a esta favoreceu também com um par de facadas , de que fica muito mal .
+      [ 455 ]  Na quarta-feira , 5 partiu desta Corte o enviado de Inglaterra , e Sua Majestade lhe mandou de presente quatro barras de ouro de valor de 400₡ réis cada uma , dizendo , que aquela era a jóia , que ordinariamente se dava aos enviados ; e se lhe mandaram outras quatro barras , como a plenipotenciário ; e que a estas 8 acrescentava Sua Majestade mais outras 8 em consideração da pessoa do mesmo enviado .
+      [ 456 ]  O Conde de Esterhari partiu por terra para França , pouco satisfeito dos presentes , que se lhe fizeram nesta Corte ; porque Sua Majestade lhe mandou um anel de valor de 480₡ réis , e a rainha Nossa Senhora lhe deu de presente uma caixa de ouro [ cheia deste metal em pó ] que mandou comprar à rua de mais peso , do que feitio .
+      [ 457 ]  O último administrador da grande casa de Achioayoli em Florença , mandou buscar à Ilha da Madeira Jacinto Achioayoli de Vasconcelos que se acha nesta Corte para casar com a sua filha herdeira , pondo créditos abertos em todos os portos até chegar à Itália .
+      [ 458 ]  A grande procissão do Corpo de Deus , que à manhã se havia de fazer na Sé Oriental em a Festa do Sacramento , que a Irmandade do Santíssimo costuma fazer na segunda dominga de Julho todos os anos , se não faz , nem ainda a mesma festa , por se picarem os irmãos de não consentirem os cônegos , que as armações se pregassem com as finetes nos estuques , que destroem aquela obra , que custou tantos mil cruzados , sendo eles os primeiros , que na festa de São Vicente Mártir não quiseram armações .
+      [ 459 ]  Quinta-feira se passou mostra no Terreiro do Paço ao Regimento da Cavalaria do Cais .
+      [ 460 ]  Tem-se notícia de estar feita no gabinete a reforma , e que se dará baixa a muita gente , e que todos os que fizeram troco por dinheiro , serão privados dos postos , e que ainda alguns oficiais dos postos antigos , que acharem indignos deles , como se entende , serão privados de os ocupar , e que se algum quiser dar baixa por rebendita os mandaram desnaturalizados deste reino .
+      [ 461 ]  Número 28
+      [ title: 
+      [ 462 ]  FOLHETO DE LISBOA ]
+      [ 463 ]  Sábado , 15 de Julho de 1741 .
+      [ title: 
+      [ 464 ]  Beira .]
+      [ 465 ]  Montemor-o-velho , 9 de Julho .
+      [ 466 ]  Querendo quatro religiosas bem dotadas do Mosteiro de Nossa Senhora de Campos , da Ordem de Santa Clara , distante desta vila duas léguas , e meia no sítio de Sendelgas , e di ficar à sua custa um dormitório , houveram para isso licença do Seu Provincial , que arrependido , lha derrogou a tempo , que já estavam juntos os materiais para a obra , e esta principiada :
+      [ 467 ]  Picadas da injúria , que receberam , sobiram aos telhados , e os descobriram :
+      [ 468 ]  Derrubaram o forno da comunidade : levantaram-se com quantas religiosas se lhes opunham : na porteira do carro deram muita pancada , e amotinaram todo o Convento .
+      [ 469 ]  A Madre Abadeça deu logo parte ao Prelado para [...] acudir aos desatinos destas desesperadas .
+      [ 470 ] 
+      [ title: 
+      [ 471 ]  Extremadura .]
+      [ 472 ]  Lisboa , 15 de Julho .
+      [ 473 ]  El-Rei Nosso Senhor , no domingo passado , 9 do corrente , foi assaltado de uma vertigem tão veemente , que o privou dos sentidos algum tempo , por cuja causa não foi assistir ao combate dos touros , que no mesmo dia ho[u]ve no Sítio de Pedrouços .
+      [ 474 ]  A rainha Nossa Senhora estava já vestida para sair fora , e se assustou tanto , que assim esteve até [pe]rto das 5 horas da tarde , em que se achou melhor .
+      [ 475 ]  O Reverendíssimo Geral de Alcobaça mandou proceder a devassa pela fogida da educanda do Mosteiro de Odivelas , e ficou pronunciada à prisão de cárcere a senhora Dona Joana de Menezes , religiosa do mesmo mosteiro , por concorrer , e dar ajuda para a fogida da educanda :
+      [ 476 ]  Esta tem metido valias para ser outra vez admitida na clausura ; porém Sua Reverendíssima a não admitirá , e que só um decreto de Sua Majestade o vencerá para isso :
+      [ 477 ]  Também as porteiras ficaram culpadas , e suspensas dos seus cargos , pela omissão , que tiveram em não registarem [ como deviam ] o que ia dentro na canastra .
+      [ 478 ]  Acha-se defronte desta barra uma galeota de Salê com 150 homens , que nos tomaram já um iate de Antônio Pinheiro , criado do Senhor Infante Dom Francisco , em que se transportava para o reino do Algarve o fato do Ilustríssimo e Excelentíssimo Conde da Atouguia , capitão-general , e governador do mesmo reino ; e algumas embarcações mais .
+      [ 479 ]  Os pescadores se não atrevem sair fora da barra com medo de não caírem nas mãos daqueles piratas .
+      [ 480 ]  Corre a voz , de que o Ilustríssimo e Excelentíssimo Duque estribeiro-mor teve ordem para não assignar a Folha dos Oficiais , e Criado da Cavalariça , sem rebate dos seus ordenados .
+      [ 481 ]  Entram os ladrões em uma das noites desta semana em casa do Corregedor do Crime da Corte , e Casa Diogo da Fonseca Pinto , e por uma janela lhe levaram um baú , em que guardava todo o seu cabedal de dinheiro , sem lhe arredarem outro traste algum da casa , e se presume , que algum criado dela concorreria para o referido roubo .
+      [ 482 ]  Prendeu-se no Limoeiro à ordem de Sua Majestade Manoel Fernandes Calheiros , seu criado particular , e escrivão das despesas particulares do Reverendo Prior de São Nicolau , depois de se haver descomposto um ao outro de ladrão .
+      [ 483 ]  Não se penetra ainda a causa desta prisão , em que se fala muito .
+      [ 484 ]  Fez-se esta prisão a 16 do presente mês a ordem d'el-Rei ;
+      [ 485 ]  Foi nomeado para essa deligência o Corregedor de São Paulo , Francisco pdor. Poxeil[...] que o foi buscar à sua Quinta de Tilheiros e o prendeu às onze horas da manhã , e a duas escravas pardas .
+      [ 486 ]  Tiram-se-lhes muitos papéis , fez-se inventário de todos os seus bens , que ficaram Soq[...]
+      [ 487 ]  Foi metido no segredo caedos. ec[...]vas : depois [...] largo tempo foi tirado do segredo para a sala li[vr]e onde esteve até 6 de Agosto deste presente ano de 1746 dia em que faleceu de um acidente de apoplexia .
+      [ 488 ]  Vide memória deste dia no tomo deste ano 46 Vossa Senhoria
+      [ 489 ] 
+      [ 490 ]  Por um navio Francês vindo da Índia Oriental , se recebeu a notícia , de que a nossa fortaleza de Dio se tinha rendido aos inimigos do Estado depois de uma grande resistência da parte dos sitiados , e era lástima , que esta nova se confirme , porque daquela ilha , com a sua cidade estava a Coroa Portuguesa de posse desde o ano de 1535 e tem sido teatro das maiores façanhas dos lusitanos , com que em diferentes sítios a defenderam contra os Turcos , governando-a Dom Antônio da Silveira de Menezes , que faleceu a 7 de Abril de 1547 e Dom João de Castro que acabou a vida em Goa a 6 de Junho de 1548 .
+      [ 491 ]  Passando anteontem pela Costa do Castelo um soldado depois de noite sem armas , lhe saíram dous rebuçados repentinamente de uma esquina , e o agarraram , pondo-lhe nos peitos uma pistola engatilhada para que não falasse ; e metendo-lhe a mão nas aljabeiras , lhe acharam uma carta de amores do seu alferes para uma moça , irmã dos rebuçados ;
+      [ 492 ]  E assim com ele foram até à sua escada , onde bateram ; e vindo a criada , mandaram chamar a irmã , o que entregaram a carta , que o soldado levava , e dando-lhe um tostão , o mandaram em salvo , e que a resposta eles a dariam pessivalmente a seu amo .
+      [ 493 ]  Não podendo a moça negar o trato amatório , confessou a conrespondência , que lhes negava ; e lhes apresentou um escrito de esponsais , com o qual no seguinte dia foram à casa do alferes , e politicamente lhe disseram , que sua irmã era uma senhora , e que Sua Senhoria devia cumprir a sua promessa .
+      [ 494 ]  Logo se escreveram os editos para se pregoarem .
+ date1550-1599

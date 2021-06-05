@@ -1,0 +1,1818 @@
+
+|:| [START HEADER]|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|
+|:| PLEASE SET CHARACTER ENCODING SYSTEM TO UTF-8
+|:| Tycho Brahe Parsed Corpus of Historical Portuguese 
+|:| Document ID: b_010
+|:| Encoding: UTF-8
+|:| Last Saved: 01.03.2013
+|:| Title: A Morgadinha de Val-d'Amores
+|:| Author: Branco, Camilo Castelo
+|:| Version: Simple Text, for Automatic Tools
+|:| Edition Type: Complete Modernization of Orthography
+|:| [END HEADER]|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|
+
+   
+[ prologue ] 
+      [ 1 ]  ADVERTÊNCIA
+      [ 2 ]  Da parte musical da primeira comédia deste livro se encarregou o distinto maestro Francisco de Sá Noronha , quando a comédia se escreveu com destino a ser representada em Lisboa .
+      [ 3 ]  Sendo importantíssimo para o bom êxito teatral o subsídio da música nesta composição , e sobrevindo razões que desviaram o nosso amigo Noronha de colaborar conosco em tamanha futilidade , não pôde por isso a comédia ser submetida à opinião das platéias .
+      [ 4 ]  Quem a ler agora tem de benevolamente disfarçar o seu fastio de leitura de versos , feitos ou copiados das canções populares , para se cantarem .
+      [ 5 ]  Por via de regra , tais trovas são sempre ásperas ou dessaboridas na declamação , mormente as que formam o Auto do nascimento do menino Jesus , consoante ele se figura nas aldeias do Minho ainda hoje .
+      [ 6 ]  Com referência à farsa não temos que pedir desculpa .
+      [ 7 ]  Seria desvanecimento irrisório recearmos nós que a ponderosa e grave crítica se descesse até coisa tão pequena .[ end prologue ] 
+      
+      [ title: 
+      [ 8 ]  A MORGADINHA DE VAL-D'AMORES ]
+      [ title: 
+      [ 9 ]  COMÉDIA EM TRÊS ATOS]
+      [ title: 
+      [ 10 ]  FIGURAS ]
+      [ 11 ]  DONA JOANNA COGOMINHO DE ENCERRABODES , morgada de Val-d'Amores , filha de
+      [ 12 ]  PANTALEÃO COGOMINHO DE ENCERRABODES .
+      [ 13 ]  FREDERICO ARTHUR DA COSTA , Escrivão da Fazenda de Santo Tirso .
+      [ 14 ]  COSME JORDÃO , Deputado por Guimarães .
+      [ 15 ]  MACARIO MENDES , Boticário de Santo Tirso .
+      [ 16 ]  JOÃO LOPES , Lacaio e confidente da Morgada .
+      [ 17 ]  FIGURAS DO AUTO DOS TRES REIS MAGOS .
+      [ 18 ]  Criados , cantadeiras , camponeses , músicos e outros personagens .
+      [ 19 ]  Cenas da atualidade .
+      [ act ]
+      [ title: 
+      [ 20 ]  ATO PRIMEIRO ]
+      [ 21 ]  Ao fundo , portão de quinta com sua enorme pedra de armas e ameias laterais .
+      [ 22 ]  O restante do palco figura uma alameda e estrada .
+      [ 23 ]  CENA I
+      [ character:  FREDERICO]
+      [ 23 ]  ( só )
+      [ 24 ]  ( Frederico é um homem entre 28 e 33 anos que traja quinzena e calças pretas apertadíssimas em corpo de extrema magreza e aprumo .
+      [ 24 ]  O chapéu é de forma inglesa e alto para tornar mais aguçada a figura .
+      [ 24 ]  A cabeleira byroniana em crespas ondulações .
+      [ 24 ]  Bigodes encerados e picantes nas guias retesadas .
+      [ 24 ]  A luneta de um vidro sem aro obriga-o a caretear , abrindo a boca de esguelha quando fixa mais atentamente a morgada .
+      [ 24 ]  Os seus movimentos , quando lhe for necessário fugir , hão de ter tal velocidade que simulem o rápido perpassar de um duende .
+      [ 24 ]  A agilidade da rotação do pescoço deve dar-lhe o que quer que seja de automático e fantasmagórico )
+      [ 25 ]  A razão diz-me que eu estou em perigo de ser moído por estes selvagens do Minho ; mas o coração , este intestino onde o amor e a coragem habitam , diz-me que não vacile .
+      [ 26 ]  A razão argumenta-me que eu , escrivão de fazenda no conselho de Santo Tirso , não devo arrojar as minhas desenfreadas ambições até a mão da morgadinha de Val-d'Amores ; mas o coração , esta república íntima que me esbraveja no peito , impele-me para ela , mandando-me ler naquele brazão ( apontando ) o epitáfio da fidalguia de raça , e o monumento levantado não às tradições ineptas , mas à restauração da dignidade humana .
+      [ 27 ]  Além disto , eu , homem de aspirações gigantes , eu , poeta de audaciosos raptos da alma , eu , que junto à poesia elevada a poesia profunda , preciso de me arranjar .
+      [ 28 ]  Sou escrivão de fazenda ; mas esta posição não quadra aos meus instintos .
+      [ 29 ]  Às vezes como que sinto escaldarem-se-me as artérias com sangue de príncipe , e me quer parecer que algum de meus avôs foi mais ou menos iludido por alguma das minhas avós .
+      [ 30 ]  Reconheço , como filho deste século , que a democracia matou a nobreza mascarando-se ela de fidalga ; assim é ; porém , ao mesmo tempo , não sei que filtros me circulam no íntimo peito , quando vejo esta morgada e lhe entrevejo na fronte o sangue azul das veias .
+      [ 31 ]  Sobre tudo , o que mais me incita a querer-lhe com a adoração dos Paulos e dos Romeus é a precisão que tenho de me arranjar .
+      [ 32 ]  Eu já manobrei por mares tempestuosos .
+      [ 33 ]  Um dia consultei a minha vocação ; e , como me sentisse um dos muitos desventurados que caem neste mundo sem vocação , fiz-me literato .
+      [ 34 ]  Os literatos fazem-se a si próprios , por serem coisa que a Bíblia não diz que o Criador fizesse nos sete dias de criação .
+      [ 35 ]  Um sujeito olha para si como Deus para as trevas , e diz « fiat lux » faça-se o literato ; « et lux facta est » , e o literato fez-se .
+      [ 36 ]  Eu prometo não dizer mais nada em latim , por que também não sei mais do que isto .
+      [ 37 ]  Feito literato , escrevi como toda a gente que quer escrever .
+      [ 38 ]  Preparava-me para coordenar uma História Universal em 25 volumes com 26 de suplemento , quando se me ofereceu um lugar de noticiarista num diário de Lisboa .
+      [ 39 ]  A minha reputação estava quase estabelecida , quando a empresa me despediu por sensaborão , como se fosse obrigatório ser engraçado no país mais desgraçado do mundo . Voltei o meu espírito para a história universal , e cheguei até a procurar num Almanaque onde era a Torre do Tombo com tenção de lá ir consultar os pergaminhos .
+      [ 40 ]  Neste propósito estava eu , sentindo já os calores da glória , quando me encarregaram de traduzir uma comédia francesa para o Ginásio .
+      [ 41 ]  Pus de parte a História Universal , e traduzi a comédia com um esmero indigno do resultado , porque ela foi pateada visto que tinha , segundo disseram os críticos , uns galicismos que lhe corrompiam a virgindade elegante do texto .
+      [ 42 ]  Ora eu então fiz-me crítico , animado pela grande cópia de sandices que se escreveram contra a minha tradução .
+      [ 43 ]  Neste modo de vida achei vantagens extraordinárias , sendo a primeira a dispensa de saber alguma coisa .
+      [ 44 ]  Um crítico , no jardim das letras , representa uma toupeira em jardim de flores ; é temível porque remexe e estraga tudo ; levanta empolas de terra , e suja quando não devasta a mimosa vegetação .
+      [ 45 ]  Eu fiz destroços grandes e escalavrei muitas reputações literárias , já por amor da arte , já por amor do estômago , esta coisa onde um homem de gênio não pode criar a luz , porque isto aqui ( indicando o estômago ) é um abismo que só recebe a luz pela boca .
+      [ 46 ]  Mas a final , as obras literárias que apareciam eram já de natureza que o arpéu da crítica não lhes ferrava a unha .
+      [ 47 ]  Entreguei-me ao gênero chamado reclame , e comecei a chamar a atenção do país para toda a coisa impressa , poema ou tragédia , romance ou farsa .
+      [ 48 ]  Este ofício , posto que o mais aviltante da vida de um escritor , é o mais lucrativo no mundo patarata , em que eu me atasquei .
+      [ 49 ]  A consciência pesava-me pouco , se o estômago saía pesado de casa do empresário do teatro ou do editor do romance .
+      [ 50 ]  Afoguei muitos escrúpulos em sopa de camarão .
+      [ 51 ]  Mas o sangue de príncipe , este não sei quê que me faz cócegas nos miolos , mostrou-me a indignidade da minha missão na terra , e desde logo atirei um voo atrevido às regiões aquilinas da política .
+      [ 52 ]  Estudei três dias as questões de fazenda em Portugal , e entendi-as tão claramente como se fossem questões da minha fazenda .
+      [ 53 ]  Percebi que o país estava como eu tal e qual : foi-me fácil escrever uma série de artigos nos quais provava que a maneira de matar o deficit era ...
+      [ 54 ]  sim eu provava que a maneira de matar o deficit , esse cancro roedor das entranhas do meu país , era ...
+      [ 55 ]  sim eu provava ...
+      [ 56 ]  não me lembra agora o que provei ...
+      [ 57 ]  o certo é que me despacharam escrivão de fazenda de Santo Tirso , provavelmente para matar o deficit .
+      [ 58 ]  Eis que chego , e vejo a Morgadinha ...
+      [ 58 ]  ( Ouvem-se os tamborileiros )
+      [ 59 ]  Não convém que estes bárbaros me vejam parado em frente do portão da mulher amada ...
+      [ 59 ]  ( Sai ) .
+      [ 60 ]  CENA II
+      [ 61 ]  PANTALEÃO , DOIS CRIADOS , E OS TAMBORILEIROS
+      [ 62 ]  Entram ao terreiro e param tocando em frente da porta três tamborileiros , um de bombo , e os outros com caixas de rufo .
+      [ 62 ]  Pouco depois abre-se a porta , e sai PANTALEÃO , com dois criados de lavoura , um dos quais distribui canecas de vinho , que despeja de um pichel vermelho , pelos tamborileiros , que se descobrem .
+      [ character:  1.º Tamborileiro]
+      [ 62 ]  ( o do Zabumba )
+      [ 62 ]  Biba o excelentíssimo morgado a mais a Senhora morgadinha !
+      [ character:  Os três]
+      [ 62 ]  Biba por muitos anos , biba !
+      [ character:  Pantaleão]
+      [ 63 ]  Olé ! rapazes ! Com que vocês já se vão chegando ao arraial ? ...
+      [ character:  1.º Tamborileiro]
+      [ 63 ]  Ao primeiro , vamos tocar aos mordomos do senhor San Joon , que tem festa de arromba este ano ; e aos depois lá bamos pro arraial com Deus .
+      [ 63 ]  ( Ouve-se ao longe a toada das cantadeiras que cantam o São João )
+      [ character:  Pantaleão]
+      [ 64 ]  Bebam ; mas não se encarraspanem como no ano passado .
+      [ character:  2.º Tamborileiro]
+      [ 64 ]  ( rindo alvarmente )
+      [ 64 ]  É berdade , fidalgo !
+      [ 64 ]  Aquilo é que foi perua !
+      [ 64 ]  Ainda me lembra !
+      [ character:  Pantaleão]
+      [ 65 ]  Pois vê lá se arranjas outra que te faça esquecer a do ano passado .
+      [ character:  3.º Tamborileiro]
+      [ 65 ]  ( bebendo )
+      [ 65 ]  Enton lá bai a saúde de Vossa senhoria , a mais da Senhora morgadinha .
+      [ character:  1.º e 2.º Tamborileiro]
+      [ 65 ]  A mesma .
+      [ character:  Pantaleão]
+      [ 66 ]  Querem mais ?
+      [ 67 ]  Bebam .
+      [ character:  1.º Tamborileiro]
+      [ 67 ]  Non faz míngua .
+      [ character:  Pantaleão]
+      [ 68 ]  Então , rapazes , adeus .
+      [ 69 ]  Lá nos veremos na romaria .
+      [ character:  Os três Tamborileiros]
+      [ 69 ]  Biba o fidalgo , e mais a obrigaçon .
+      [ 69 ]  ( Saem rufando estrondosamente :
+      [ 69 ]  cessa o estrondo pouco depois )
+      [ 70 ]  CENA III
+      [ 71 ]  PANTALEÃO E OS DOIS CRIADOS ( QUE POUSAM AS VASILHAS )
+      [ character:  Pantaleão]
+      [ 72 ]  Ora venham cá vocês , tomem tino no que eu vou dizer , e abram-me esses olhos .
+      [ 73 ]  Vocês tem obrigação de zelar a honra desta casa , por que nasceram nela , cá se criaram , e cá hão de morrer , se me servirem bem .
+      [ 74 ]  Aquilo que souberem a respeito do que vou perguntar hão de dizer-mo .
+      [ 75 ]  Aqui quem governa sou eu , percebem ?
+      [ 76 ]  Vocês tem visto de noite alguma vez por debaixo das janelas desta casa o escrivão de fazenda ?
+      [ 77 ]  um homem muito magro que cá vinha dantes ?
+      [ character:  1.º Criado]
+      [ 77 ]  Bem sei quem é o escribon das fazendas de Santo Tirso ...
+      [ 77 ]  Olhe , fidalgo , eu jurar non juro que era ele ; mas aqui atrás há três noites , vinha eu de regar a cortinha das chãs , e ao sair da carvalheira , rebentando sobre a direita , vi uma coisa a escoar-se por entre os carvalhos que parecia um abantesma ...
+      [ character:  2.º Criado]
+      [ 77 ]  Eu também já bi esse abantesma , salbo seja , aí aos depois da meia noite ; mas aquilo , meu amo , non podia ser o escribon das fazendas por que Vossa senhoria faça de conta que ele por este caminho além lebaba-se assim teso e hirtego que não bulia com os pés .
+      [ 78 ]  Haverá de ser o mesmo que tu enxergaste , Antonho !
+      [ character:  Pantaleão]
+      [ 79 ]  Pois creiam vocês que não era outro senão o escrivão de fazenda .
+      [ 80 ]  Nestes arredores não há homem daquele feitio senão ele ...
+      [ 81 ]  Sabem o que eu quero , rapazes ?
+      [ 82 ]  É que lhe deem uma boa sova de estadulho .
+      [ character:  1.º Criado]
+      [ 82 ]  Só se for a tiro ; que non há homem que o pilhe na carreira .
+      [ character:  2.º Criado]
+      [ 82 ]  E pra lhe acertar com uma bala faz míngua saber atirar às lebres .
+      [ 82 ]  ( Ouvem-se risadas de mulheres já perto )
+      [ character:  Pantaleão]
+      [ 83 ]  Por ora , nada de tiros ; o que mando é que lhe arrumem quatro bordoadas , sem lhe dizer isto nem aquilo .
+      [ 84 ]  Vocês zupem-lhe e escamem-se , que eu com a justiça não quero testilhas ; mas não lhe batam , sem o apanharem cá à volta da casa ...
+      [ 85 ]  Vamos conversar aqui pra carvalheira que vem aí as raparigas da freguesia .
+      [ 85 ]  ( Saem pela esquerda )
+      [ 86 ]  CENA IV
+      [ 87 ]  ( Rancho de raparigas vestidas de saias de chita com muita roda de saias e saiotes , capotilhas encarnadas , chinela e meia branca , acompanhadas de um tocador de rebeca e outro de violão , que lhes acompanham as cantigas .
+      [ 87 ]  Entram pulando alegremente , e puxam por a estridula sineta do portão )
+      [ character:  O rabequista]
+      [ 87 ]  Biba a Senhora morgadinha de Val-d'Amores !
+      [ character:  Todos]
+      [ 87 ]  Biba !
+      [ 87 ]  Biba !
+      [ 87 ]  ( Cantam o São João )
+      [ character:  COPLAS]
+      [ 88 ]  Son Joon adormeceu Nas escadas do colégio ;
+      [ 89 ]  Deron nas freiras com ele ,
+      [ 90 ]  Son Joon tem porbolejo .
+      [ 91 ]  Que é aquilo , que é aquilo , que é aquilo ?
+      [ 92 ]  Son Joon a caçar um grilo .
+      [ 93 ]  Ó meu son Joon da Ponte , Ó meu belo patusquinho , Dá-nos ano de bom pon ,
+      [ 94 ]  Dá-nos ano de bom binho .
+      [ 95 ]  Non é nada , non é nada , non é nada , Son Joon a comer pescada .
+      [ 96 ]  ( Abre-se o portão de par em par .
+      [ 96 ]  Sai a Morgadinha , trajada com luxo , mas fora da moda .
+      [ 96 ]  Vestido de ancas exageradas , cabelo à Stuart , e um grosso grilhão ao peito .
+      [ 96 ]  Segue-a um criado velho , de niza , com uma cadeira de braços à cabeça , e uma pichorra e caneca na mão )
+      [ 97 ]  CENA V
+      [ 98 ]  MORGADINHA , JOÃO LOPES , E AS CANTADEIRAS
+      [ character:  Vozes]
+      [ 99 ]  Biba a Senhora morgadinha !
+      [ 100 ]  Biba !
+      [ 101 ]  Biba !
+      [ character:  Morgadinha]
+      [ 101 ]  ( sentando-se na cadeira )
+      [ 102 ]  Adeus , raparigas .
+      [ 103 ]  Como estás tu , Maria do Quinchoso !
+      [ 104 ]  E tu Benta do Cazal ?
+      [ 105 ]  Olha a Marianna da Igreja como está gorda com o casamento !
+      [ 106 ]  Ó João Lopes , dá vinho a essa raparigada toda .
+      [ character:  Uma das moças]
+      [ 106 ]  Vossa senhoria bai ao arraial ?
+      [ character:  Morgadinha]
+      [ 107 ]  Pudera , não !
+      [ 108 ]  Já estou preparada , e vou assim que a tarde refrescar , que quero ver o fogo preso .
+      [ character:  Outra]
+      [ 108 ]  E mais o auto do Natal , que vem lá os de Arnoso com ele .
+      [ character:  Outra]
+      [ 108 ]  E como a fidalga está pimponaça !
+      [ 108 ]  Parece mesmo a Madanela da procisson de Passos !
+      [ character:  Outra]
+      [ 108 ]  Benza-a Deus , que palminho de cara assim , não se topa outra no mundo !
+      [ 108 ]  Faz agora um ano que os casacas do Porto andabon todos embeiçados atrás da Senhora morgadinha no arraial ; e enton aquele goberno que está em Santo Tirso esse é que andava mesmo azoratado !
+      [ character:  Morgadinha]
+      [ 108 ]  ( rindo )
+      [ 109 ]  Qual governo ? !
+      [ character:  A mesma]
+      [ 109 ]  Aquele que lhe chamon o das fazendas , ou non sei que dianho ...
+      [ character:  Morgadinha]
+      [ 110 ]  Ah ! ...
+      [ 110 ]  ( suspirando )
+      [ 111 ]  Já sei ...
+      [ character:  O do violão]
+      [ 111 ]  Mas raios o parton , que me mandou citar ainda ontem !
+      [ character:  O rabequista]
+      [ 111 ]  Eu onde lhe puder ser bom hei de medir-lhe o costado de pá a pá com fueiro ...
+      [ character:  Morgadinha]
+      [ 112 ]  Ora não sejas bruto , José da Eira !
+      [ 113 ]  Ele faz a sua obrigação ; faz tu a tua que é pagar o que deves ao rei .
+      [ character:  O mesmo]
+      [ 113 ]  Ao rei !
+      [ 113 ]  Bem me fio eu nisso ...
+      [ 113 ]  Enton a fidalga pensa que o rei aveza uma de dez do dinheiro que nós demos !!
+      [ 113 ]  Pois non avezastes !
+      [ 113 ]  Os governos de Santo Tirso repartem uns com os outros no fim do ano o dinheiro que don aos lavradores .
+      [ character:  O outro]
+      [ 113 ]  É como diz .
+      [ character:  Morgadinha]
+      [ 114 ]  Sois uns selvagens .
+      [ 115 ]  Deixemo-nos de tolices .
+      [ 116 ]  Cantem lá alguma coisa vocês .
+      [ character:  Uma das moças]
+      [ 116 ]  Quer a Marianinha , fidalga ?
+      [ character:  Morgadinha]
+      [ 117 ]  Pois sim ; cantem lá a Marianinha .
+      [ character:  COPLAS]
+      [ 118 ]  ( Tudo mulheres )
+      [ character:  ( UMA VOZ )]
+      [ 119 ]  Já fui canário do rei , Já lhe fugi da gaiola .
+      [ character:  ( CÔRO )]
+      [ 120 ]  Sim , sim , eu vou lá Ó Marianinha ,
+      [ 121 ]  Sim , sim , eu lá vou Ó pequerruchinha .
+      [ character:  ( UMA VOZ )]
+      [ 122 ]  Agora sou pintassilgo Destas meninas de agora .
+      [ character:  ( CORO )]
+      [ 123 ]  Sim , sim , eu vou lá , etc .
+      [ character:  ( UMA VOZ )]
+      [ 124 ]  Pintassilgo está no bosque , A andorinha no telhado .
+      [ character:  ( CORO )]
+      [ 125 ]  Sim , sim , etc .
+      [ character:  ( UMA VOZ )]
+      [ 126 ]  Só eu não sei onde estou , Quando não estou ao teu lado .
+      [ character:  ( CORO )]
+      [ 127 ]  Sim , sim , etc .
+      [ character:  ( VOZ )]
+      [ 128 ]  A andorinha quando chove Vai meter-se à escuridon
+      [ character:  ( CORO )]
+      [ 129 ]  Sim , sim , etc .
+      [ character:  ( VOZ )]
+      [ 130 ]  E eu quando o norte é rijo Meto-me ao teu coraçon .
+      [ character:  ( CORO )]
+      [ 131 ]  Sim , sim , etc .
+      [ character:  Todos]
+      [ 131 ]  Biba a Senhora Morgadinha !
+      [ 131 ]  Biba !
+      [ character:  Morgadinha]
+      [ 132 ]  Então vocês vão já para a romaria ?
+      [ character:  Uma delas]
+      [ 132 ]  Ainda bamos buscar as caseiras de Vossa senhoria que estão à espera de nós , e aos depois voltemos por aqui .
+      [ character:  Morgadinha]
+      [ 133 ]  Pois vão , e voltem .
+      [ 133 ]  ( Saem cantando o São João .
+      [ 133 ]  A morgadinha fica pensativa e melancólica , encostando o rosto à mão , enquanto se ouve e se vai perdendo a toada da cantiga )
+      [ 134 ]  CENA VI
+      [ 135 ]  MORGADINHA E JOÃO LOPES
+      [ character:  Morgadinha]
+      [ 136 ]  Como estes brutos são felizes ! ...
+      [ 137 ]  E eu sempre apoquentada por causa deste coração !
+      [ 138 ]  Ai ! eu antes de saber o que era amor também cantava ...
+      [ 139 ]  Lembras-te , ó João Lopes ?
+      [ character:  João Lopes]
+      [ 140 ]  Ora se lembro !
+      [ 141 ]  E cantava que nem uma calhandra a fidalga !
+      [ character:  Morgadinha]
+      [ 142 ]  Olha se te lembras , João !
+      [ 143 ]  Eu ia às espadeladas , às descamisadas , às malhas , brincava , saltava ...
+      [ character:  João Lopes]
+      [ 144 ]  Até dançava a cana verde , e a chula que era um gosto vê-la ! ...
+      [ 145 ]  E quando a menina quis que eu lhe ensinasse o jogar o pau ...
+      [ character:  Morgadinha]
+      [ 145 ]  ( com alegria )
+      [ 146 ]  É verdade ...
+      [ character:  João Lopes]
+      [ 147 ]  E o caso é que vossa excelência aí com duas dúzias de lições já me chegava com o pau .
+      [ character:  Morgadinha]
+      [ 147 ]  ( erguendo-se entusiasmada )
+      [ 148 ]  E daquela vez que eu me vesti de rapaz , e pus fora da eira do Manoel Tamanqueiro , com quatro partidas de pau , mais de seis mascarados que lá andavam a beliscar as minhas caseiras !
+      [ character:  João Lopes]
+      [ 149 ]  Por sinal que a menina deu uma tapona no Zé Torto , que ficou torto de todo ...
+      [ 150 ]  Ó fidalga , vossa excelência hoje já não era capaz de romper aí com um marmeleiro pra frente de um homem qualquer ! ...
+      [ character:  Morgadinha]
+      [ 151 ]  Estás enganado ...
+      [ 152 ]  Se me chegassem a mostarda ao nariz ...
+      [ 153 ]  Mas , ai ! ...
+      [ 153 ]  ( Torna a sentar-se triste )
+      [ 154 ]  A minha alegria foi-se desde que eu soube o que era amor ! ...
+      [ 155 ]  Olha lá , João ... não o viste hoje ?
+      [ 156 ]  não viste o meu amado Frederico ?
+      [ character:  João Lopes]
+      [ 157 ]  Fale baixinho , menina .
+      [ 158 ]  Olhe que o Senhor morgado ainda há todo-nada me esteve dizendo que desconfia que ele anda por aqui de noite .
+      [ 159 ]  A fidalga acautele-o ; que não vão os criados chegar-lhe ao forro da camisa ...
+      [ character:  Morgadinha]
+      [ 159 ]  ( erguendo-se colérica )
+      [ 160 ]  Façam isso , que os esgano !
+      [ 161 ]  Que lhe ponham um dedo , e verão quem é a morgada de Val-d'Amores !
+      [ character:  João Lopes]
+      [ 162 ]  Não grite assim , que seu pai , se a ouve , quem as paga sou eu .
+      [ 163 ]  A falar a verdade , eu não desgosto do Senhor Frederico ; mas , enfim , esta aquela de ser escrivão , é ruim modo de vida para poder casar com a Senhora morgadinha ...
+      [ character:  Morgadinha]
+      [ 164 ]  Isso que tem ! ?
+      [ 165 ]  Todos somos iguais ; e o coração , quando ama , não quer saber de contos .
+      [ 166 ]  Uma pessoa não está lá a averiguar se o objeto amado é fidalgo ou plebeu .
+      [ 167 ]  Tem-se visto rainhas casarem com pastores , e reis casarem com pastoras .
+      [ character:  João Lopes]
+      [ 168 ]  Cá no conselho de Santo Tirso não me consta , há de perdoar .
+      [ character:  Morgadinha]
+      [ 169 ]  Mas lá por esse mundo fora acontece isso a cada passo .
+      [ 170 ]  Tu é por que não lês os livros das histórias .
+      [ 171 ]  Eu te lerei casos que aconteceram ...
+      [ 172 ]  E então que tinha que eu casasse com um escrivão ?
+      [ character:  João Lopes]
+      [ 173 ]  Enfim , enfim , o paizinho da fidalga foi capitão-mór , seu avô foi desembargador , e seu bisavô foi sargento-mór de batalha no Roussilhon ...
+      [ character:  Morgadinha]
+      [ 174 ]  Vai dizendo até chegar a Adão e Eva , vai dizendo , e eu depois te direi de quem eu e mais tu somos netos .
+      [ character:  João Lopes]
+      [ 175 ]  Isso assim é , não há duvida ; mas , diz lá o ditado , lé com lé , e cré com cré .
+      [ character:  Morgadinha]
+      [ 176 ]  Não quero saber de ditados !
+      [ 176 ]  ( com força )
+      [ 177 ]  Este amor só mo há de arrancar do peito a morte !
+      [ character:  João Lopes]
+      [ 177 ]  ( apontando para o brasão )
+      [ 178 ]  Fidalga , ponha os olhos nas armas reais dos seus antepassados .
+      [ character:  Morgadinha]
+      [ 179 ]  Ora ! não tenho mais que fazer ...
+      [ 180 ]  Cuidas que eu não sei que meu avô casou com uma criada ?
+      [ 181 ]  Mostra-me onde estão ali as armas da criada .
+      [ 182 ]  Bem se importou ele das armas , nem do berzabum que as leve !
+      [ 183 ]  É o que faltava ... estar-me eu aqui a definhar por mor da pedra !
+      [ 184 ]  As armas são de pedra , e eu sou de carne e osso , ouviste ?
+      [ character:  João Lopes]
+      [ 185 ]  A fidalga responde a tudo , e não há remédio senão calar-se um homem , que a trouxe nos braços desde os três anos , e sou capaz de me meter no inferno vestido e calçado por causa da minha menina .
+      [ 185 ]  ( Sensibiliza-se )
+      [ character:  Morgadinha]
+      [ 186 ]  Sei o que tenho em ti , meu João Lopes ...
+      [ 187 ]  Vais tu aí ao cimo do pinhal a ver se o vês pela estrada ? ...
+      [ 188 ]  Ele disse-me que havia de passar para a romaria às seis da tarde .
+      [ 189 ]  Se o encontrares , diz-lhe que meu pai se está a vestir para ir também , e que ele pode demorar-se a conversar comigo um bocadinho .
+      [ character:  João Lopes]
+      [ 190 ]  Vou ver se o avisto ; mas , menina do meu coração , olhe que seu pai anda a espreita e traz espias ...
+      [ 191 ]  Nós temos grande desgraça pela porta ...
+      [ character:  Morgadinha]
+      [ 191 ]  ( energicamente )
+      [ 192 ]  Não morro de medo , já te disse .
+      [ 193 ]  A mulher que ama não tem medo de nada !
+      [ character:  João Lopes]
+      [ 194 ]  Seja assim ; mas , se lhe quebram o espinhaço a ele !
+      [ 195 ]  Coitado do homem , é tão delgadito que , se o apanha o vento de um pau , ele vai à terra ...
+      [ character:  Morgadinha]
+      [ 196 ]  Quem lhe há de bater ? !
+      [ 197 ]  Cuidas que ele não anda armado ?
+      [ 198 ]  Que se atrevam somente a ameaçá-lo ! ...
+      [ character:  João Lopes]
+      [ 199 ]  Cá vou , cá vou , não se desespere .
+      [ 199 ]  ( Sai )
+      [ 200 ]  CENA VII
+      [ 201 ]  MORGADINHA
+      [ 202 ]  ( Senta-se quebrantada e triste )
+      [ 203 ]  Ai ! quem me dera casar ! ...
+      [ 204 ]  Quem me dera casar com Frederico Arthur ! ...
+      [ 204 ]  ( Música de surdina )
+      [ 205 ]  Como eu gosto dele !
+      [ 206 ]  Há mais de dois anos que este meu coração padece !
+      [ 207 ]  Não há noite em que eu não sonhe duas vezes com a sua imagem ...
+      [ 208 ]  Quando acordo , e o não vejo , a minha vontade é chorar , chorar , chorar !
+      [ 209 ]  Perdi a vontade de comer !
+      [ 210 ]  Tudo me faz fastio .
+      [ 211 ]  Os cirurgiões mandam-me tomar águas férreas ! ...
+      [ 212 ]  E só eu sei o que tenho !
+      [ 213 ]  O meu mal é aqui ! ...
+      [ 213 ]  ( a mão sobre o coração )
+      [ 214 ]  Oh céus ! quanto eu sou desgraçada sem o meu Frederico !
+      [ 214 ]  ( Ergue-se , e fala com muito sentimento .
+      [ 214 ]  Música plangente )
+      [ 215 ]  Quando eu o vi , pela primeira vez , foi na hospedaria das Caldas de Vizella , onde meu pai tratava do seu reumático .
+      [ 216 ]  Estávamos a jantar quando ele entrou , e meu pai ofereceu-lhe frango com ervilhas .
+      [ 217 ]  Ele agradeceu , mas não comeu , dizendo que o seu jantar era um ovo quente .
+      [ 218 ]  E daí a pouco , trouxeram-lhe um ovo quente numa tigela ; e ele comeu o ovo , bebeu um copo de água fresca , e disse que tinha jantado !
+      [ 219 ]  Como eu fiquei triste e pensativa a olhar para ele , e ele para mim !
+      [ 220 ]  Perguntei-lhe , sem o pai ouvir , se podia viver só com um ovo , e ele respondeu que a sua alma se sustentava com a esperança de ser amado por mim ... e
+      [ 221 ]  com três ovos por dia .
+      [ 222 ]  Oh ! que lembranças estas , que lembranças estas !
+      [ 222 ]  ( Chora )
+      [ 223 ]  E vai depois , disse-lhe eu :
+      [ 224 ]  « O Senhor está assim magro porque come muito pouquinho ; se gosta de ovos coma uma dúzia deles de cada vez » ;
+      [ 225 ]  E ele pregou-me os seus lindos olhos , e respondeu a suspirar :
+      [ 226 ]  « Que me importa o corpo ?
+      [ 227 ]  A mim o que me importa é o coração que é grande ; e , se o corpo é magro , mais depressa me reduzirei a cinzas se Vossa Excelência me desprezar . »
+      [ 228 ]  Isto fez-me no peito mossa !
+      [ 229 ]  fiquei presa deste dito ; senti por aqui acima uma fogueira que me pôs a cara em brasas vivas , e não lhe disse coisa de jeito porque fiquei um pedaço entalada .
+      [ 230 ]  Depois , ao despedir-mo-nos , com muita vergonha , sempre pude dizer-lhe :
+      [ 231 ]  « amo-vos , meu bem ! »
+      [ 232 ]  Ora aqui está como começou isto .
+      [ 233 ]  Desde então para cá apenas lhe tenho falado umas três dúzias de vezes da janela para o caminho ...
+      [ 234 ]  Sinto-me muito acabada ; e , se isto assim dura , não vou longe .
+      [ 235 ]  Ele também está no osso , o meu pobre Frederico !..
+      [ 236 ]  Antes de começar estes amores , eu pesava cinco arrobas e seis arráteis pela medida antiga ; pois aqui há oito dias pesei-me de novo , e tinha mingado duas arrobas .
+      [ 237 ]  Assim não podemos viver , nem eu nem ele .
+      [ 237 ]  ( Com força , que a música imita )
+      [ 238 ]  É preciso acabar com isto de uma maneira ou de outra .
+      [ 239 ]  Se meu pai quer , quer ; se não quer , quero eu .
+      [ 240 ]  Uma mulher não pode ser escrava da sua fidalguia .
+      [ 241 ]  Antes quero ser esposa de um escrivão , e viver contente , que ser a morgadinha de Val-d'Amores , e estar-me aqui a pôr na espinha ...
+      [ 241 ]  ( Ouve-se rumor de vozes fora )
+      [ 242 ]  É o meu papá !..
+      [ 242 ]  ( Senta-se )
+      [ 243 ]  Vem-me empatar as vazas ...
+      [ 244 ]  CENA VIII
+      [ 245 ]  PANTALEÃO , MACARIO , E A MORGADINHA
+      [ 246 ]  ( Macario é um sujeito de óculos e casaca de briche , já de anos , e ar circunspecto )
+      [ character:  Pantaleão]
+      [ 246 ]  ( à parte ao boticário )
+      [ 247 ]  Veja lá como lhe fala ...
+      [ 248 ]  Olhe que ela é finória ...
+      [ 248 ]  ( à filha )
+      [ 249 ]  Cá me vou preparar , Joaninha .
+      [ 250 ]  Aqui te deixo o Senhor Macario para não ficares sozinha .
+      [ 250 ]  ( Sai )
+      [ 251 ]  CENA IX
+      [ 252 ]  MACARIO E A MORGADINHA
+      [ character:  Macario]
+      [ 253 ]  Tenha Vossa Excelência muito boas tardes .
+      [ character:  Morgadinha]
+      [ 253 ]  ( enfastiada )
+      [ 254 ]  Viva , Senhor Macario , as mesmas .
+      [ character:  Macario]
+      [ 255 ]  Tem-lhe passado o fastio ?
+      [ 256 ]  Aquele emplasto confortativo que eu lhe mandei fez-lhe bem ?
+      [ character:  Morgadinha]
+      [ 257 ]  Não o pus : cheirava a pez .
+      [ character:  Macario]
+      [ 258 ]  De pez de vergonha era ; fui eu mesmo que o manipulei ...
+      [ 259 ]  Então , a Senhora morgadinha vai ao arraial ?
+      [ character:  Morgadinha]
+      [ 260 ]  Vou .
+      [ character:  Macario]
+      [ 261 ]  Faz muito bem ; que lá há de encontrar pessoa que muito interessa à Vossa Excelência ...
+      [ 262 ]  Enganei-me ...
+      [ 263 ]  Pessoa que muito se interessa em ver Vossa Excelência queria eu dizer .
+      [ character:  Morgadinha]
+      [ 264 ]  Como é isso ?
+      [ 265 ]  Não percebi .
+      [ character:  Macario]
+      [ 266 ]  Eu me vou explicar .
+      [ 267 ]  Eu cheguei ontem de Guimarães , onde estive com o Senhor deputado Cosme Jordão , um sábio que tem votado grandes falas no parlamento ...
+      [ 268 ]  Há de ter ouvido falar Vossa Excelência ...
+      [ character:  Morgadinha]
+      [ 269 ]  Não sei nada de parlamentos , não leio periódicos .
+      [ character:  Macário]
+      [ 270 ]  Pois , minha Senhora , o doutor Cosme Jordão é um sujeito conhecido em todo o mundo , e lá na corte até vai ao palácio do rei e come lá ...
+      [ character:  Morgadinha]
+      [ 271 ]  Deixá-lo comer , que tenho eu com isso ?
+      [ character:  Macário]
+      [ 271 ]  ( à parte )
+      [ 272 ]  Não faço nada !
+      [ 273 ]  Está hoje levadinha dos diabos .
+      [ character:  Morgadinha]
+      [ 274 ]  Vamos , diga lá , Senhor Macário .
+      [ character:  Macário]
+      [ 275 ]  Pois este deputado vai hoje à romaria do São João .
+      [ character:  Morgadinha]
+      [ 276 ]  Deixá-lo ir ; que se divirta .
+      [ 277 ]  Então é esse o homem que me quer ver ?
+      [ character:  Macário]
+      [ 278 ]  Eu me explico .
+      [ 279 ]  O Senhor deputado Cosme diz que verá Vossa Excelência ...
+      [ character:  Morgadinha]
+      [ 280 ]  Ainda bem ; é sinal que não é cego .
+      [ 281 ]  E que mais ?
+      [ character:  Macário]
+      [ 282 ]  E que ficou muito agradado de Vossa Excelência ...
+      [ character:  Morgadinha]
+      [ 283 ]  Pois tem mau gosto e perde o tempo .
+      [ 284 ]  Que mais ?
+      [ character:  Macário]
+      [ 285 ]  Vossa Excelência , se o vir , não há de falar assim .
+      [ 286 ]  É ainda homem de boa idade , cheio de corpo , com uns óculos que lhe dão muito respeito à cara ...
+      [ character:  Morgadinha]
+      [ 287 ]  Ora ! óculos de respeito !
+      [ 288 ]  Que me importa cá a mim os óculos do homem ?
+      [ 289 ]  Sabe que mais , Senhor Macário ?
+      [ 289 ]  ( Põe-se a bamboar uma perna sobre a outra , e a trautear o « Pretinho que vem de Angola » )
+      [ character:  Macário]
+      [ 290 ]  Finalmente , Senhora morgadinha , como Vossa Excelência quiser ; mas lembre-se de que seu pai deve à fazenda nacional uns seis contos de réis , e que o Senhor doutor Cosme , casando nesta casa , há de fazer com que seu pai não pague nada , e mesmo no futuro lhe não lancem impostos .
+      [ character:  Morgadinha]
+      [ 291 ]  Não me seque , Senhor Macário .
+      [ 292 ]  Vossemecê queria que meu pai pagasse comigo ao tal Cosme o que deve à fazenda ?
+      [ 293 ]  Pois que pague com o que é dele , e que me deixe com menos dote .
+      [ 294 ]  Tenho dito , e deixemo-nos de lérias .
+      [ 295 ]  Meta-se lá na sua botica e não se faça casamenteiro .
+      [ 296 ]  Vá fazer xaropes .
+      [ character:  Macário]
+      [ 296 ]  ( à parte , retirando-se )
+      [ 297 ]  Apre com a cabra !
+      [ character:  Morgadinha]
+      [ 298 ]  Que tal está o sacripanta !
+      [ 299 ]  CENA X
+      [ 300 ]  JOÃO LOPES , ESPREITANDO A MORGADINHA , E DEPOIS FREDERICO
+      [ character:  João Lopes]
+      [ 301 ]  Psiu , psiu .
+      [ character:  Morgadinha]
+      [ 301 ]  ( sobressaltada )
+      [ 302 ]  Viste-o ?
+      [ character:  João Lopes]
+      [ 303 ]  Ele aí vem ...
+      [ 304 ]  Eu vou espreitar , e assim que eu tossir que fuja para a carvalheira .
+      [ character:  Frederico]
+      [ 305 ]  Anjo ! milagre de beleza !
+      [ 306 ]  Joanna querida , não sentes nestas mãos o vibrar da alma ?
+      [ character:  Morgadinha]
+      [ 306 ]  ( muito terna )
+      [ 307 ]  Como estás tu ?
+      [ 308 ]  Passaste bem desde ontem ?
+      [ character:  Frederico]
+      [ 309 ]  Pergunta ao lírio do vale o que lhe pende a fronte quando o orvalho do céu lhe não esfria os queimores do sol estivo .
+      [ character:  Morgadinha]
+      [ 310 ]  Olha lá , Frederico , tenho a avisar-te , antes de mais nada , que é preciso andares prevenido ...
+      [ character:  Frederico]
+      [ 311 ]  Temos sicários ?
+      [ 312 ]  Há aqui vampíros ?
+      [ 313 ]  A vindicta paterna tem sede do meu sangue ?
+      [ 314 ]  Eis aqui o peito .
+      [ 315 ]  Que mo farpem , que mo fendam , que mo lancem , que mo lancetem .
+      [ 316 ]  Tudo por ti , tudo por ti , ó estrela , ó loira visão dos meus sonhos !
+      [ 316 ]  ( Rumor fora )
+      [ character:  Morgadinha]
+      [ 317 ]  Foge ...
+      [ 318 ]  Esconde-te entre as árvores ...
+      [ 318 ]  ( Frederico some-se )
+      [ 319 ]  CENA XI
+      [ 320 ]  MORGADINHA , OS DOIS CAMPÔNIOS QUE VÃO PASSANDO , E DEPOIS FREDERICO
+      [ 321 ]  ( Um campônio tange flautim e outro viola .
+      [ 321 ]  Duas moças à frente batendo palmas ao compasso do canto , e saltando )
+      [ character:  Um campônio]
+      [ 321 ]  ( cantando )
+      [ 322 ]  Muito bem seja aparecido
+      [ 323 ]  Seja aparecido Nesta função .
+      [ 323 ]  ( Batendo palmas )
+      [ character:  ( CORO )]
+      [ 324 ]  Bate as palmas com seu peixinho
+      [ 325 ]  Com seu peixinho Com seu peixão .
+      [ 325 ]  ( Repete )
+      [ 326 ]  ( Assim que eles passam , a Morgadinha sai do portão , e logo Frederico do esconderijo )
+      [ character:  Frederico]
+      [ 327 ]  Mas dizias tu , pomba ?
+      [ character:  Morgadinha]
+      [ 328 ]  Que te acautelasses dos meus criados quando vens de noite .
+      [ 329 ]  Deves vir bem armado .
+      [ character:  Frederico]
+      [ 330 ]  Armado !
+      [ 331 ]  Para quê ?
+      [ 332 ]  Tu não sabes que o teu amor é talismã que prostra gigantes !
+      [ 333 ]  As minhas armas são os raios de fogo que bebo de teus olhos ; tenho vesúvios na alma capazes de abrasar cidades !
+      [ character:  Morgadinha]
+      [ 334 ]  Isto não é chalaça , meu amado Frederico !
+      [ 335 ]  Peço-te que tenhas cuidado , muito cuidado .
+      [ 336 ]  Se eu pudesse estar sempre ao teu lado , não temeria ninguém ...
+      [ 337 ]  Tu verias o que é a morgada de Val-d'Amores ...
+      [ 338 ]  Mas eu não sei como isto há de ser ...
+      [ 339 ]  Bem sabes que meu pai tem a mania de fidalgo ...
+      [ character:  Frederico]
+      [ 339 ]  ( interrompendo-a com exaltação )
+      [ 340 ]  Fidalgo !
+      [ 341 ]  Que é fidalgo ?!
+      [ 342 ]  Palavra obsoleta em 1871 !
+      [ 343 ]  Que é fidalgo ?
+      [ 344 ]  A sola velha e inútil de um borzeguim do século XV !
+      [ 345 ]  Oh ! então é certo que teu pai ignora , que o batismo de sangue da revolução francesa lavou todas as manchas da desigualdade entre homem e homem !
+      [ 346 ]  Oh ! a revolução !
+      [ 347 ]  o segundo cristianismo !
+      [ 348 ]  Que é fidalgo ?
+      [ 349 ]  Teu pai não sabe que aquele brasão de armas ( apontando ) está ali como a pedra sepulcral das cinzas feudais !
+      [ 350 ]  Teu pai está debaixo do sol e não sente o calor da fermentação social !
+      [ 351 ]  Ouve o estrondear da democracia reinante , e volta a face para os fantasmas dos avoengos que se somem lá em baixo no abismo da história !
+      [ character:  Morgadinha]
+      [ 352 ]  Não sei lá dessas histórias ; o que te peço é que não te exponhas a levar alguma paulada à falsa fé .
+      [ 353 ]  Olha que os meus criados são uns patifes , e meu pai não é boa rês , quando se arrenega .
+      [ 354 ]  Pensa no que se há de fazer , porque ele não nos dá consentimento para nos casarmos .
+      [ character:  Frederico]
+      [ 355 ]  Hei de movê-lo com a eloquência de um homem aquecido no sol moderno .
+      [ 356 ]  Hei de convencê-lo , enchendo-lhe o espírito de luz e o coração de ideias novas .
+      [ character:  Morgadinha]
+      [ 357 ]  Não te metas nessa asneira , que não fazes nada .
+      [ 357 ]  ( Tem-se já ouvido toada de música da chula , e depois a tosse rija de João Lopes .
+      [ 357 ]  Frederico some-se sem ser preciso mandá-lo .
+      [ 357 ]  A morgadinha fica )
+      [ 358 ]  CENA XII
+      [ 359 ]  MORGADINHA
+      [ 360 ]  ( Chega uma chulata que vai de passagem para a Romaria .
+      [ 361 ]  Bando de raparigas que precedem , bailando ; tocadores de rebeca , viola , clarinete , ferrinhos e requinta .
+      [ 362 ]  A estúrdia pára defronte da morgadinha , e continua dançando cada rapariga com o seu parceiro )
+      [ 363 ]  COPLAS DE DESAFIO
+      [ 364 ]  ( Enquanto o cantador deita a cantiga , tange somente a viola .
+      [ 365 ]  Entre os dois primeiros versos e os dois últimos de cada quadra há um espaço que dá lugar a que toquem por alguns segundos todos os instrumentos )
+      [ character:  Cantador]
+      [ 366 ]  Agora que eu vou passando , Faço aqui minha parada ; Para saber da saúde Da excelentíssima morgada .
+      [ character:  Cantadeira]
+      [ 367 ]  Da excelentíssima morgada Também eu quero saber , Que mais linda criatura Não na pode o mundo ter .
+      [ character:  Cantador]
+      [ 368 ]  Não na pode o mundo ter Nem terá até ao fim ;
+      [ 369 ]  Os seus olhos são de amoras , Os seus dentes de marfim .
+      [ character:  Cantadeira]
+      [ 370 ]  Se tem dentes de marfim , O seu rosto é uma rosa ;
+      [ 371 ]  E viva sua excelência Que não na há mais formosa .
+      [ character:  Cantador]
+      [ 372 ]  Quero dar a despedida À senhora Morgadinha ; Que não há por estas terras Mais bonita fidalguinha .
+      [ character:  Cantadeira]
+      [ 373 ]  Eu também vou expedir-me ,
+      [ 374 ]  Despedida quero dar ;
+      [ 375 ]  Adeus , senhora morgada ,
+      [ 376 ]  Sirva-se de perdoar .
+      [ 377 ]  ( A morgadinha agradece-lhes com um aceno de lenço .
+      [ 378 ]  O bando sai tocando e dançando .
+      [ 379 ]  Assim que o descante se ouve frouxamente , volta Frederico )
+      [ 380 ]  CENA XIII
+      [ 381 ]  MORGADINHA E FREDERICO
+      [ character:  Frederico]
+      [ 382 ]  Tenho ódio a estes selvagens que me roubaram horas de vida !
+      [ 383 ]  Quando sairão os lorpas da face da terra ?
+      [ character:  Morgadinha]
+      [ 384 ]  É verdade , Frederico !
+      [ 385 ]  Trouxeste-me os figurinos ?
+      [ character:  Frederico]
+      [ 386 ]  Ei-los chegados hoje de Lisboa .
+      [ character:  Morgadinha]
+      [ 386 ]  ( examinando-os )
+      [ 387 ]  Ai ! que demônio de mulheres !
+      [ 388 ]  Pois elas trazem estes vestidos assim encosipados nas pernas ! ?
+      [ character:  Frederico]
+      [ 389 ]  Oh ! isto é a elegância circassiana !
+      [ 390 ]  É a forma na sua diafaneidade sublime ; há aqui a poesia do fino , a mulher parece toda nervosa , é o lirismo da plástica ...
+      [ character:  Morgadinha]
+      [ 390 ]  ( rindo )
+      [ 391 ]  Se eu te percebo , sebo !
+      [ 392 ]  Boa cataplasma me parece este molho de crinas e saca-rolhas que elas têm na cabeça .
+      [ character:  Frederico]
+      [ 393 ]  Não blasfemes !
+      [ 394 ]  Ó Joanninha , veste-te assim ; realça , sobredoura a tua beleza com estes adornos que angelizam a mulher de compleição robusta , e transformam a mimosa em coisa ideal vestida de vapores .
+      [ 395 ]  A mulher assim envolta em roupagens etéreas é um madrigal de cetim que caiu das liras dos anjos .
+      [ character:  Morgadinha]
+      [ 396 ]  Pois sim , faço-te a vontade .
+      [ 397 ]  Vou mandar comprar no Porto esta trapalhice toda ...
+      [ 398 ]  CENA XIV
+      [ 399 ]  OS MESMOS E PANTALEÃO
+      [ 400 ]  ( Abre-se o portão repentinamente e aparece súbito Pantaleão .
+      [ 401 ]  Frederico ainda faz um ímpeto de fuga , mas contém-se , e corteja mui urbanamente o fidalgo )
+      [ character:  Frederico]
+      [ 402 ]  Passava para a romaria , e , como visse Sua Excelência ( indicando a morgadinha ) vim depor a seus pés os meus respeitosos cumprimentos , e informar-me da saúde de Vossa Excelência .
+      [ character:  Pantaleão]
+      [ 403 ]  Estou bom , muito obrigado .
+      [ 404 ]  Onde está o João Lopes ?
+      [ character:  Morgadinha]
+      [ 405 ]  Foi aparelhar a burra .
+      [ character:  Pantaleão]
+      [ 406 ]  Vai tu preparar-te que são horas .
+      [ character:  Morgadinha]
+      [ 407 ]  Quer ver como agora são as modas , papá ?
+      [ 408 ]  Olhe .
+      [ 409 ]  O Senhor Frederico vai levar estes figurinos às nossas primas de Ruivães .
+      [ character:  Pantaleão]
+      [ 410 ]  Pois faz-me o Senhor muito favor se me cá não trouxer bonecos à casa .
+      [ 411 ]  Nós cá não somos de modas .
+      [ character:  Frederico]
+      [ 412 ]  Direi a Vossa Excelência , Senhor morgado , que as modas têm certa relação com o espírito das gerações e das épocas .
+      [ 413 ]  Agora que o entendimento humano se adelgaça , o invólucro material também se subutiliza nas raças finas ...
+      [ character:  Pantaleão]
+      [ 413 ]  ( medindo-o de alto a baixo com ironia )
+      [ 414 ]  Bem se vê que o Senhor escrivão é de uma raça muito fina ... pelo muito adelgaçado que está ...
+      [ character:  Frederico]
+      [ 415 ]  Não me jacto de prosápia heráldica ; mas , na hierarquia dos espíritos , prezo-me de pertencer ao bando mais iluminado .
+      [ 416 ]  Respeito muito o brasão ; mas curvo-me diante da aristocracia do gênio e do talento .
+      [ character:  Pantaleão]
+      [ 417 ]  Sim , o Senhor tem muito talento , bem sei ...
+      [ 418 ]  Já te disse , Joanna , que te vás arranjar .
+      [ character:  Morgadinha]
+      [ 419 ]  Adeus , Senhor Frederico , muito obrigada .
+      [ 419 ]  ( Sai )
+      [ 420 ]  CENA XV
+      [ 421 ]  PANTALEÃO E FREDERICO
+      [ character:  Frederico]
+      [ 422 ]  Criado de Vossa Excelência
+      [ 422 ]  ( Vai a sair ; mas Pantaleão detém-o )
+      [ character:  Pantaleão]
+      [ 423 ]  Faça favor .
+      [ character:  Frederico]
+      [ 424 ]  Escuto as suas ordens .
+      [ character:  Pantaleão]
+      [ 425 ]  O Senhor anda muito mal encaminhado .
+      [ 426 ]  Minha filha é a morgada de Val-d'Amores ; o Senhor é o escrivão de fazenda de Santo Tirso .
+      [ 427 ]  Estão um do outro tão longe como aquela pedra de armas do rebolo de um sapateiro , entendeu ?
+      [ character:  Frederico]
+      [ 428 ]  Entendi , que Vossa Excelência tem um estilo bastante chato .
+      [ 429 ]  Entendi , posto que Vossa Excelência fale uma linguagem assaz gótica em pleno século XIX .
+      [ character:  Pantaleão]
+      [ 430 ]  Pois se entendeu , tire o seu atrevido pensamento de minha filha , e procure a forma do seu pé .
+      [ 431 ]  Não me obrigue a usar dos usos e costumes dos meus avós .
+      [ 432 ]  Quer que lhos diga ?
+      [ character:  Frederico]
+      [ 433 ]  Heroísmos dos seus ascendentes ?
+      [ 434 ]  Essas odisseias da aldeia são hoje impraticáveis .
+      [ 435 ]  Eu sei em que tempos vivemos , Senhor morgado .
+      [ character:  Pantaleão]
+      [ 436 ]  Sabe ?
+      [ 437 ]  Pois olhe que não sabe em que terra vive .
+      [ 438 ]  O Senhor veio lá de Lisboa onde qualquer bigorrilhas , que põe gravata , entende que é igual a todo o homem que põe gravata ; o que o bigorrilhas não quer é ser igual a todo o homem que não tem gravata .
+      [ character:  Frederico]
+      [ 439 ]  Aí há certa sublimidade de ideia , de que lhe dou os parabéns .
+      [ 440 ]  Vossa Excelência ia quase escrevendo de um traço a história filosófica da democracia moderna .
+      [ character:  Pantaleão]
+      [ 441 ]  Eu não escrevo história nenhuma ; o que eu lhe digo é que isto cá nas montanhas é outra coisa .
+      [ 442 ]  Os morgados são morgados ; os escrivães são escrivães ; e os sapateiros são sapateiros .
+      [ 443 ]  Ora , quando acontece alguém querer sair da sua classe , primeiro avisa-se ; depois quebram-se-lhe as costelas .
+      [ 444 ]  O Senhor sabia isto ?
+      [ character:  Frederico]
+      [ 445 ]  Eu não sabia que estava na Cafrária .
+      [ 446 ]  Cuidei que este concelho era um retalho do Portugal civilizado ; cuidei que a luz do grande foco radiara uma flecha de luz até ao coração de Vossa Excelência que me parece ser uma pessoa de bons costumes , e não um esquimó .
+      [ 447 ]  Cuidei finalmente que o Evangelho e a Carta constitucional livelavam a dignidade humana ...
+      [ 447 ]  ( Ouve-se o cantar das raparigas que se avizinha )
+      [ character:  Pantaleão]
+      [ 448 ]  Enganou-se comigo .
+      [ 449 ]  Eu sou Pantaleão Cogominho de Encerrabodes , décimo oitavo senhor do morgadio de Val-d'Amores .
+      [ 450 ]  Quem houver de casar com minha filha há de poder deixar apelidos nobres ao vigésimo senhor desta casa .
+      [ 451 ]  Tenho dito , e acabou-se o cavaco .
+      [ 452 ]  Saúde e juízo .
+      [ 452 ]  ( Volta-lhe as costas .
+      [ 452 ]  Frederico bamboa a cabeça altivamente e retira-se )
+      [ 453 ]  CENA XVI
+      [ 454 ]  MORGADINHA , PANTALEÃO , E O BANDO DAS MOÇAS E TOCADORES QUE APARECERAM NA TERCEIRA CENA
+      [ 455 ]  ( A Morgadinha sai sentada sobre a jumenta .
+      [ 456 ]  Vem vestida de Amazona .
+      [ 457 ]  João Lopes de farda azul com vivos vermelhos , bota de orelha e prateleira , colete encarnado , e chapéu embreado , tudo à antiga e grotesco , vem trazendo a burra pela rédea .
+      [ 458 ]  As raparigas estão cantando as seguintes ) :
+      [ character:  COPLAS]
+      [ 458 ]  ( UMA VOZ )
+      [ 459 ]  Dondes vens ó velha ?
+      [ 460 ]  Eu venho da feira .
+      [ 460 ]  ( CORO )
+      [ 461 ]  Que trazes na cesta ?
+      [ 462 ]  Crá , crá , crá , Sardinha vareira , Cri , cri , cri , Por a retangueira ; Cró , cró , cró , Se o galo cantou .
+      [ 462 ]  ( UMA VOZ )
+      [ 463 ]  Se o galo cantou Deixá-lo cantar .
+      [ 463 ]  ( CORO )
+      [ 464 ]  Minha rica prenda Crá , crá , crá , Lá da beira-mar Cri , cri , cri , Pela retangueira , Cró , cró , cró , Se o galo cantou .
+      [ 464 ]  ( UMA VOZ )
+      [ 465 ]  Donde vens ó velha ?
+      [ 466 ]  Eu venho dali .
+      [ 466 ]  ( CORO )
+      [ 467 ]  Que trazes na cesta ?
+      [ 468 ]  Crá , crá , crá ,
+      [ 469 ]  Que te importa a ti ?
+      [ 470 ]  Cri , cri , cri , Pela retangueira , Cró , cró , cró , Se o galo cantou .
+      [ 471 ]  ( Continua o canto ao descer do pano )
+      [ closing: 
+      [ 472 ]  FIM DO PRIMEIRO ATO .]
+      [ title: 
+      [ 473 ]  ATO SEGUNDO ]
+      [ 474 ]  Vista de arraial .
+      [ 475 ]  É noite .
+      [ 476 ]  Festões de lâmpadas de papel variegado pendem dos ramalhos das árvores .
+      [ 477 ]  Mulheres a frigir , ao lado das pipas cobertas de ramos de folhagem .
+      [ 478 ]  Barracas com botequins .
+      [ 479 ]  Multidão de povo a beber à volta das pipas .
+      [ 480 ]  Sinos repicando , e estouros de foguetes .
+      [ 481 ]  De ambos os lados da cena , mas fora , se canta o « São João » com vozes alternadas .
+      [ 482 ]  Frederico passeia por entre o povo , mirando as raparigas .
+      [ 483 ]  Os dois já conhecidos criados de Pantaleão , com as pernas encruzadas nos varapaus , medem de alto a baixo Frederico , e rompem a jogá-los um com outro .
+      [ 484 ]  Frederico , por uma das suas evoluções maravilhosas de rapidez , desaparece .
+      [ 485 ]  O povo ri-se , e ele reaparece logo , seguido por três cabos armados .
+      [ 486 ]  Os cabos usam boné com debrum azul .
+      [ 487 ]  Cessam as cantilenas , e rompe a banda musical de Santo Tirso , estrondosa em trompões , a qual entra em cena tocando uma marcha .
+      [ 488 ]  Os músicos uniformes , de calça branca , casaco azul com vivos amarelos , o boné avivado da mesma cor .
+      [ 489 ]  As figuras podem caracterizar-se caprichosamente .
+      [ 490 ]  Em seguida , entra a Morgadinha , com o pai , Macário , Cosme Giraldes , e João Lopes .
+      [ 491 ]  Cosme Giraldes é um sujeito gordo , aspecto sério , com os seus óculos , um todo de suma gravidade .
+      [ 492 ]  Os circunstantes cedem o lugar aos recém-chegados , que formam grupos .
+      [ 493 ]  CENA I
+      [ 494 ]  TODOS OS DESCRITOS ( GRUPO DA MORGADINHA E COSME GIRALDES )
+      [ character:  Cosme]
+      [ 494 ]  ( com gesto de orador e com grandes pausas , à Morgadinha )
+      [ 495 ]  A festa animou-se com a auspiciosa chegada de Vossa Excelência
+      [ 496 ]  O sol do império e uma senhora bela , que é o sol dos corações sensíveis , onde brilham , tudo reanimam .
+      [ 497 ]  Assaz ditoso me julgo em ser o mais feliz dos mortais que se sentem influenciados e entusiasmados pelos lumes encantadores de Vossa Excelência
+      [ 498 ]  Falta , todavia , à minha completa dita a certeza de que os meus afetuosos requebros acham graça nos seus olhos .
+      [ character:  Morgadinha]
+      [ 498 ]  ( com desdém )
+      [ 499 ]  Eu não lhe acho graça nenhuma .
+      [ character:  Cosme]
+      [ 500 ]  Como assim , divina ingrata ?
+      [ character:  Morgadinha]
+      [ 501 ]  Já disse ao boticário o que tinha a dizer .
+      [ character:  Cosme]
+      [ 502 ]  Pois o seu coração ...
+      [ character:  Morgadinha]
+      [ 503 ]  Está dado .
+      [ 504 ]  Eu cá sou franca .
+      [ 505 ]  Não perca tempo .
+      [ character:  Cosme]
+      [ 506 ]  Não há dúvida que ouvi dizer que Vossa Excelência , vítima duma alucinação , aceitava a corte dum esgrouvinhado arcabouço que exerce as ladras funções de escrivão da fazenda !
+      [ 507 ]  Hei de eu , ó céus ! acreditar que ...
+      [ character:  Morgadinha]
+      [ 508 ]  Sim , Senhor acredite , e faça favor de me não incomodar que eu vim à romaria para me divertir .
+      [ 508 ]  ( Volta-lhe as costas )
+      [ 509 ]  Ó papá , quando se faz o Auto do Natal ?
+      [ 509 ]  ( Ouve-se a música tocando uma marcha )
+      [ character:  Pantaleão]
+      [ 510 ]  É já .
+      [ 511 ]  Mandei vir as figuras para aqui .
+      [ 512 ]  Vai começar .
+      [ 513 ]  Ó amigos , desempachem o terreiro que chega o espetáculo .
+      [ 513 ]  ( O povo retira e apinha-se entre cenas )
+      [ 514 ]  CENA II
+      [ 515 ]  OS MESMOS , E AS FIGURAS ABAIXO DESCRITAS EM LUGAR COMPETENTE
+      [ 516 ]  ( A música entra a passo muito cadenciado com grandes pernadas .
+      [ 517 ]  Chegada à boca do palco , alinha a um lado para dar o passo aos dois primeiros personagens do auto ) :
+      [ title: 
+      [ 518 ]  Cena I do Auto ]
+      [ 519 ]  ADONIS E MANASSÉS
+      [ 520 ]  ( Adonis traja de príncipe de carnaval ; Manassés veste de profeta de procissão ; mas toda a fatiota é muito usada e desbotada .
+      [ 521 ]  Adonis traz um cavaquinho )
+      [ character:  Adonis]
+      [ 521 ]  ( com declamação muito boçal )
+      [ 522 ]  Canta , Manassés , que eu te acompanho ; para isso com esta harpa vanho .
+      [ character:  Manassés]
+      [ 522 ]  ( canta com ar inspirado , gesticulando estupidamente )
+      [ 523 ]  O céu estrelado , Sereno e propício , Será pois indício Do sol desejado .
+      [ character:  ( CORO DE PASTORES )]
+      [ 524 ]  ( Vozes femininas dentro )
+      [ 525 ]  Quem o habitará ?
+      [ 526 ]  Quem o gozará ?
+      [ character:  Manassés]
+      [ 526 ]  ( cantando )
+      [ 527 ]  Vede a paz serena desta noite ;
+      [ 528 ]  Nascerá a estrela de Jacó ?
+      [ 529 ]  O gado sossegado adivinha ;
+      [ 530 ]  Não se bole no ninho a avezinha .
+      [ character:  ( CORO )]
+      [ 531 ]  Quem o habitará ?
+      [ 532 ]  Quem o gozará ?
+      [ character:  Adonis]
+      [ 532 ]  ( declamando , e passeando com grandes passos )
+      [ 533 ]  Oh ! que terno , caro Manassés , cantastes !
+      [ 534 ]  O conceito da tua cançoneta amorosa me traz doces lembranças .
+      [ 535 ]  Ainda em nossos dias , veremos realizadas as profecias ?
+      [ 536 ]  Não caibo na pele de estifeito ; dá-me pancadas o coração neste peito !
+      [ 536 ]  ( Frederico despede um impulso de riso .
+      [ 536 ]  Espantam-se os circunstantes )
+      [ character:  Macário]
+      [ 537 ]  O senhor está a mangar destes atos sérios ? !
+      [ character:  Frederico]
+      [ 538 ]  Pois isto é sério !
+      [ 539 ]  Então não há nada ridículo neste mundo senão o senhor boticário .
+      [ character:  Macário]
+      [ 540 ]  O senhor é muito mal criado , é um incivil , é ... é ... um escrivão !
+      [ character:  Morgadinha]
+      [ 541 ]  Senhor Macário , não esteja a interromper o auto .
+      [ 542 ]  Deixe lá rir quem quer rir ; chore vossemecê , se tem vontade .
+      [ character:  Pantaleão]
+      [ 543 ]  Continuem lá vocês com isso .
+      [ title: 
+      [ 544 ]  CENA II do Auto ]
+      [ 545 ]  VOZ DE UMA PASTORA , CANTANDO DENTRO
+      [ 546 ]  Ó Deus do céu , e da terra , Ó vós que podeis tanto , Ouvide nossos clamores Sêde propício , ó Deus santo !
+      [ character:  CORO]
+      [ 546 ]  ( dos pastores )
+      [ 547 ]  Do povo amado , Mandai o desejado .
+      [ 548 ]  ( Os que estão no palco fazem cenas mudas de ternura muito lorpas )
+      [ character:  Manassés]
+      [ 549 ]  Escuta !
+      [ 550 ]  Não foi Ruiva , a pastora que cantou ?
+      [ character:  Adonis]
+      [ 551 ]  Foi .
+      [ 552 ]  E os pastores também , que nenhum dorme .
+      [ title: 
+      [ 553 ]  CENA III do Auto ]
+      [ 554 ]  O VELHO SIMEÃO E RUIVA
+      [ 555 ]  ( O velho vestido de peles de carneiro .
+      [ 556 ]  Ruiva de pastorinha , com um cordeiro branco nos braços )
+      [ character:  Simeão]
+      [ 556 ]  ( com os olhos no firmamento )
+      [ 557 ]  Incelso , interno rei soberano , que sobre os crebins tens assento , oubide os nossos lamentos .
+      [ character:  ( CORO )]
+      [ 558 ]  Do povo amado , Mandai o desejado .
+      [ character:  Manassés]
+      [ 559 ]  Agora creio no mistério oculto desta noite .
+      [ 560 ]  Revela que todos os pastores têm um só pensamento .
+      [ character:  Simeão]
+      [ 561 ]  Vinde pastores aqui todos ; neste campo contemplaremos o silêncio da noite , que o autor de altos mistérios anuncia .
+      [ character:  Frederico]
+      [ 561 ]  ( escancarando a boca )
+      [ 562 ]  Que sensaboria !
+      [ character:  Macário e Cosme]
+      [ 563 ]  Chiu !
+      [ 563 ]  ( prolongado )
+      [ title: 
+      [ 564 ]  Cena IV do Auto ]
+      [ 565 ]  ENTRAM PASTORINHOS E PASTORINHAS
+      [ character:  Ruiva]
+      [ 565 ]  ( declamando )
+      [ 566 ]  Aqui viemos , meus senhores , Adorar nós o menino ; No seu santo nascimento Com grande contentamento .
+      [ character:  ( CORO )]
+      [ 567 ]  Se o menino é nascido , Nós o bamos procurar ;
+      [ 568 ]  Aparecei , senhor menino , Que vos queremos adorar .
+      [ 568 ]  ( Saem por diversos lados )
+      [ title: 
+      [ 569 ]  Cena V. Auto ]
+      [ 570 ]  UM REI TURCO E DEPOIS OUTROS FIGURÕES
+      [ character:  Rei turco]
+      [ 571 ]  ( Com uma cara horripilante , e trejeitos assustadores )
+      [ 572 ]  Sou o turco rei , que é Valoroso na arrogância ;
+      [ 573 ]  Por ser filho da fortuna E neto da extravagância !
+      [ 573 ]  ( Corre brandindo a espada de um lado a outro )
+      [ 574 ]  De mouriscos reis nasci ,
+      [ 575 ]  Sou seu filho alentado ,
+      [ 576 ]  O meu braço furibundo Deixa tudo escangalhado .
+      [ 577 ]  Com esta espada sou capaz De entrar pelo inferno dentro E pôr tudo em mil pedaços Que eu sou um rei sanguinolento !
+      [ 577 ]  ( Risada de Frederico )
+      [ character:  Cosme]
+      [ 578 ]  Já é pertinácia de espírito forte e ateu estar aí o senhor a gargalhar em tão solene passo !
+      [ character:  Frederico]
+      [ 579 ]  Solene passo , diz o nobre deputado !
+      [ 580 ]  Chamar solene passo à prostituição da arte !
+      [ character:  Macário]
+      [ 581 ]  O Senhor é que é uma prostituição !
+      [ 582 ]  Bem disse aqui Sua Excelência que o senhor é um ateu !
+      [ 583 ]  Um ímpio que zomba dos mistérios dogmáticos !
+      [ character:  Vozes]
+      [ 583 ]  ( dentro )
+      [ 584 ]  Quebra-se-lhe a cabeça !
+      [ 585 ]  — Bordoada rija !
+      [ 586 ]  — Vamos a ele !
+      [ character:  Morgadinha]
+      [ 586 ]  ( erguendo-se colérica )
+      [ 587 ]  Essa canalha que se cale !
+      [ 588 ]  Ó João Lopes , onde está o regedor ?
+      [ character:  João Lopes]
+      [ 589 ]  Saberá Vossa Excelência que o regedor tomou tamanha turca que está a cozê-la no palheiro de um lavrador .
+      [ character:  Cosme]
+      [ 589 ]  ( com ênfase )
+      [ 590 ]  Um regedor crapuloso desacredita o funcionalismo e perverte a ordem social .
+      [ 591 ]  A autoridade que dá o exemplo da relaxação dos costumes não pode educar as massas .
+      [ 592 ]  É necessário que não se desvirtue e desprestigie o funcionalismo , com a embriaguez dos regedores .
+      [ 593 ]  Parece que estamos chegados à desmoralização do Baixo Império !
+      [ character:  Macário]
+      [ 594 ]  Apoiado !
+      [ character:  Morgadinha]
+      [ 595 ]  Então os senhores fazem favor de deixar continuar o auto ?
+      [ character:  Pantaleão]
+      [ 595 ]  ( ao Rei turco )
+      [ 596 ]  Ó Zé da Custódia , diz lá o que tinhas a dizer .
+      [ character:  Rei turco]
+      [ 597 ]  Se isto não leva rumor , acaba-se a pândega !
+      [ character:  Frederico]
+      [ 598 ]  Magnificamente !
+      [ 599 ]  Está a coisa definida : isto é uma pândega , e querem os moralões que a gente se desfaça em lágrimas !
+      [ 600 ]  Faça favor de continuar , senhor rei turco , que eu estou sério , e talvez chore .
+      [ character:  Rei turco]
+      [ 601 ]  Agora não sou eu que boto a fala , é o outro rei .
+      [ 602 ]  Entra , ó Manel Zarôlho !
+      [ 602 ]  ( Chamando para dentro )
+      [ 603 ]  O Manel Zarolho é o rei cristão .
+      [ 603 ]  ( Explicando )
+      [ title: 
+      [ 604 ]  Cena VI do Auto ]
+      [ 605 ]  ( Entra um Rei cristão com muitos pastores e pastoras )
+      [ character:  Rei cristão]
+      [ 606 ]  Eu trago os meus companheiros Fiéis à minha nação , Para te convencer , ó turco , E para te fazer cristão .
+      [ character:  Rei turco]
+      [ 607 ]  Para onde ides , romanos , Que tão alegres vos vejo ?
+      [ character:  Rei cristão]
+      [ 608 ]  Festejar o menino nado Que é todo o nosso desejo
+      [ character:  Rei turco]
+      [ 609 ]  Que é do passaporte ?
+      [ character:  Rei cristão]
+      [ 610 ]  Passaporte não trazemos ,
+      [ 611 ]  Se nos não deixas passar Para trás nós tornaremos .
+      [ character:  Rei turco]
+      [ 612 ]  Para trás não heis de tornar ; Que eu vou buscar algemas , Que vos quero algemar .
+      [ character:  Pastores e pastoras]
+      [ 612 ]  ( cantando )
+      [ 613 ]  Milagroso Deus menino , Esta obra vossa é ;
+      [ 614 ]  Ajudai-o a vencer O turco inimigo da fé .
+      [ character:  Rei cristão]
+      [ 615 ]  Saca lá da tua espada !
+      [ character:  Rei turco]
+      [ 615 ]  ( arrancando para ele )
+      [ 616 ]  Ó cão , que sova tu levas !
+      [ title: 
+      [ 617 ]  Cena VII do Auto ]
+      [ 618 ]  OS MESMOS E UM ANJO , QUE SE METE EM MEIO DOS DOIS REIS
+      [ 618 ]  Canta :
+      [ 619 ]  Detém-te , bárbaro turco !
+      [ 620 ]  Cessa a tua infeliz sorte ;
+      [ 621 ]  Faz-te cristão , que não tarda Que te apanhe a feia morte .
+      [ character:  CORO]
+      [ 621 ]  ( dos pastores )
+      [ 622 ]  Faz-te cristão que não tarda Que te apanhe a feia morte .
+      [ character:  Rei turco]
+      [ 622 ]  ( declama )
+      [ 623 ]  Eu sou o rei Almirante Lá do reino da Turquia ;
+      [ 624 ]  Nunca fui prisioneiro , Só do rei da Alexandria !
+      [ character:  O Anjo]
+      [ 624 ]  ( canta )
+      [ 625 ]  Detém-te bárbaro turco , etc .
+      [ character:  CORO]
+      [ 625 ]  ( dos pastores )
+      [ 626 ]  Faz-te cristão que não tarda Que te apanhe a feia morte .
+      [ character:  Rei turco]
+      [ 626 ]  ( aflito )
+      [ 627 ]  Que é isto ?
+      [ 628 ]  Que sinto ?
+      [ 629 ]  Que tenho eu aqui ?
+      [ 629 ]  ( Com a mão sobre o estômago )
+      [ 630 ]  Que tenho eu aqui ?
+      [ character:  Frederico]
+      [ 631 ]  Há de ser vinho .
+      [ 631 ]  ( A Morgadinha ri-se às escâncaras )
+      [ character:  Macário]
+      [ 631 ]  ( sobremodo indignado )
+      [ 632 ]  Não há notícia de tamanho escândalo ! ...
+      [ 633 ]  O Senhor escrivão está mostrando que é um homem de sentimentos muito hereges ! ...
+      [ character:  Cosme]
+      [ 634 ]  E eu assaz me espanto que a Senhora morgadinha aplauda com a sua hilaridade estas interrupções indecentes !
+      [ character:  Rei turco]
+      [ 634 ]  ( zangado )
+      [ 635 ]  Eu cá é que não estou pra chalaças ! ...
+      [ 636 ]  Passem por cá muito bem .
+      [ 637 ]  Por aqui me esgueiro .
+      [ 638 ]  Ó rapaziada , vamos embora .
+      [ 639 ]  Manda tocar a marcha ó Antonho da Pêga .
+      [ 639 ]  ( Sai com os personagens do auto , atrás da Música , que vai tocando a marcha )
+      [ 640 ]  CENA III
+      [ 641 ]  OS MESMOS , EXCETO OS PERSONAGENS DO AUTO
+      [ 642 ]  ( Grande movimento e rápido .
+      [ 643 ]  Macário gesticula com Jordão , e Pantaleão com a filha .
+      [ 644 ]  Alguns campônios de varapau fazem cerco a Frederico .
+      [ 645 ]  A morgadinha passa por meio deles , bamboando a cabeça e vibrando o chicotinho .
+      [ 646 ]  Frederico passeia com os cabos .
+      [ 647 ]  Os campônios retiram-se , relançando olhos ameaçadores ao escrivão )
+      [ character:  Morgadinha]
+      [ 648 ]  Isto já me aborrece , papá ...
+      [ character:  Pantaleão]
+      [ 649 ]  Vamos embora , menina ?
+      [ character:  Morgadinha]
+      [ 650 ]  Por enquanto não :
+      [ 651 ]  quero ver o fogo preso ; mas vou descansar um pouquinho à casa dos caseiros .
+      [ character:  Pantaleão]
+      [ 652 ]  Vai , que eu vou buscar-te assim que principiar o fogo .
+      [ character:  Morgadinha]
+      [ 653 ]  Ó João Lopes , vem comigo .
+      [ 653 ]  ( Saem .
+      [ 653 ]  Frederico retira-se pelo outro lado com os cabos )
+      [ 654 ]  CENA IV
+      [ 655 ]  MACARIO , COSME E PANTALEÃO
+      [ 656 ]  ( Formam um grupo à parte , do povo que gira no fundo )
+      [ character:  Macário]
+      [ 657 ]  Ó Senhor morgado , pois Vossa Excelência deixa fugir esta ocasião de fazer quebrar o espinhaço ao moroto ?
+      [ character:  Pantaleão]
+      [ 658 ]  A ocasião boa é ; mas é que eu não quero que minha filha assista , por que ela é capaz de se meter no meio da desordem .
+      [ character:  Cosme]
+      [ 659 ]  Pelo que observo , esta sua filha é uma heroína grega ou romana , Senhor morgado !
+      [ 660 ]  Ela faz lembrar a Pantasilea do Virgílio , e outras façanhudas mulheres da história antiga !
+      [ 661 ]  Nos tempos presentes , sou a dizer à Vossa Excelência que a mulher quer-se frágil , meiga e timorata ; e por tanto permitta que eu censure a educação que deu à sua filha !
+      [ character:  Pantaleão]
+      [ 661 ]  ( dócil )
+      [ 662 ]  Que quer Vossa Excelência ?
+      [ 663 ]  É filha única , ficou sem mãe muito cedo , e foi criada à laia de rapaz , a trepar às árvores , a atirar aos pássaros , e a jogar o pau ; enfim , confesso que andei mal avisado .
+      [ 664 ]  Eu então achava-lhe muita graça ; hoje não lhe acho nenhuma ; mas já não posso emendar a mão .
+      [ 665 ]  É tarde ; minha filha tem vinte e seis anos ; há de ser difícil corrigir-se , só se o casamento fizer a mudança , e espero que faça .
+      [ character:  Cosme]
+      [ 666 ]  Se o casamento fizer a mudança !
+      [ 667 ]  Ora essa !
+      [ 668 ]  Pobre marido que não tem os focinhos direitos vinte e quatro horas !
+      [ 669 ]  Eu , cá por mim , senhor morgado , confesso que tive certos intentos matrimoniais com ela ; à vista , porém , das suas informações , declaro que desisto e renuncio , por que me não sinto com forças e habilidade para domesticar uma cobra cascavel ...
+      [ character:  Pantaleão]
+      [ 669 ]  ( formalizado )
+      [ 670 ]  Não consinto que o senhor Cosme chame cobra a minha filha !
+      [ character:  Cosme]
+      [ 671 ]  Isto é uma comparação retórica , literariamente falando .
+      [ character:  Macário]
+      [ 672 ]  É retórica ...
+      [ 673 ]  Não se ofenda Vossa Excelência ; ...
+      [ 674 ]  Talvez ignore que a retórica é uma ciência que permite , a respeito de cobras cascavéis ...
+      [ character:  Pantaleão]
+      [ 675 ]  Não quero saber de retóricas : exijo que a filha do Pantaleão Cogominho de Encerrabodes seja respeitada !
+      [ 675 ]  ( Volta as costas , e sai bufando )
+      [ 676 ]  CENA V
+      [ 677 ]  COSME E MACARIO
+      [ character:  Cosme]
+      [ 678 ]  Isto é uma família de hotentotes !
+      [ 679 ]  Cheiram ao sertão estes selvagens !
+      [ 680 ]  Do que eu me escapei !
+      [ 681 ]  Se caio nas mãos destes dois bárbaros da idade média !
+      [ 682 ]  Parece-me uma relíquia de ostrogodos esta gente !
+      [ 683 ]  E vossemecê , Senhor Macário , a dizer-me que esta fidalga tinha uma educação fina !
+      [ character:  Macário]
+      [ 684 ]  Fina , não disse : há de perdoar-me , Senhor doutor Cosme ; eu disse-lhe que ela era finória ; de fina pra finória vai diferença , fisicamente falando .
+      [ character:  Cosme]
+      [ 685 ]  Perdão .
+      [ 686 ]  Vossemecê disse-me que ela tivera fina educação .
+      [ character:  Macário]
+      [ 687 ]  Isso então foi retórica ...
+      [ character:  Cosme]
+      [ 688 ]  Eu não admito retóricas em objeto tão sério como é o casamento !
+      [ 689 ]  Olhem que educação fina a deste anjo !
+      [ 690 ]  Trepa às árvores , atira aos pássaros , e joga o pau !
+      [ 691 ]  Que predicados estes tão mimosos para aumentarem as graças virginais de uma menina !
+      [ 692 ]  Não lhe falta senão vestir-se de homem , que é agora o trajar das senhoras inocentes das novelas e dos dramas .
+      [ 693 ]  Uma menina que enfia os seus pezinhos numas botas de canhão , e rompe com eles por umas pantalonas dentro , fica a recender um aroma suave de amores que nem assa-fétida !
+      [ 694 ]  E há de a gente persuadir-se que mora uma alma muito cândida e muito pura dentro do peito que se albarda com um paletó de homem para arrotar francamente umas frases de bomba real que nos fazem comichões nos miolos e arrepios na espinha !
+      [ 695 ]  Arreda !
+      [ 696 ]  Olha o que me estava reservado para os quarenta e seis anos !
+      [ 697 ]  Uma mulher assim paralisava-me as funções do intelecto , e lá se me iam as minhas ovações parlamentares !
+      [ 698 ]  Primeiro que tudo , sou do meu país , devo-me à regeneração da minha pátria , sou homem público ; e um homem público quando se casa deve fazê-lo com dama que o não impeça nem apoquente .
+      [ 699 ]  A fêmea natural do homem político é a política ; a esposa , para os homens devotados aos interesses materiais do seu círculo , significa tão somente um suplemento vivo e útil às comodidades domésticas .
+      [ 700 ]  Percebe vossemecê , Senhor Macário ?
+      [ character:  Macário]
+      [ 701 ]  Ora se percebo !
+      [ 702 ]  A minha mulher cá para mim também é um suplemento há muitos anos ; e mais eu faço-a trabalhar na política enchendo os bilhetes de votos na eleição .
+      [ 703 ]  Diz Vossa Excelência muito bem , que nós os homens públicos não temos tempo para cuidar de mulheres ...
+      [ 703 ]  ( Reparando em Frederico )
+      [ 704 ]  Aí vem o ateu ...
+      [ character:  Cosme]
+      [ 705 ]  Vou-me safando que não quero palestras com este safio .
+      [ 705 ]  ( Sai )
+      [ 706 ]  CENA VI
+      [ 707 ]  MACARIO E FREDERICO
+      [ character:  Frederico]
+      [ 707 ]  ( encarando o outro com a costumada careta )
+      [ 708 ]  O douto farmacopola está irado contra mim por que fui causa a interromper-se o escândalo do auto ...
+      [ character:  Macário]
+      [ 709 ]  Eu não me meto com o senhor ...
+      [ 710 ]  Tenha a bondade de não embarrar cá por mim .
+      [ character:  Frederico]
+      [ 711 ]  A ciência é sempre orgulhosa .
+      [ 712 ]  Façamos pazes e aliança , Senhor Macário Mendes .
+      [ 713 ]  Eu , com a minha ciência das coisas espirituais e o senhor com a sua ciência do basilicão e do óleo de mamona , podemos dominar este concelho , reunidas as duas forças numa aspiração única .
+      [ 714 ]  Por que me faz guerra inexorável e crua , Senhor Macário ?
+      [ 715 ]  Que lucra em impedir o meu consórcio com a Morgadinha ?
+      [ 716 ]  Por que anda o Senhor servindo de alcaiote deste alarve de Guimarães , que é o trompão grandioso das maiores asneiras cívicas assopradas na charanga parlamentar ?
+      [ 717 ]  O ofício do Senhor Macário , neste negócio , desacredita um farmacêutico , que reúne ao conhecimento do gamão , ciência não vulgar da história dos doze Pares de França , e tem orvalhado com lágrimas os fastos sanguinosos de Roncesvalhes .
+      [ character:  Macário]
+      [ 718 ]  Vá mangar com o diabo que o leve ...
+      [ 719 ]  Eu lhe mostrarei brevemente quem é Macário Mendes ...
+      [ 719 ]  ( Sai )
+      [ 720 ]  CENA VII
+      [ 721 ]  FREDERICO , JOÃO LOPES , E CABOS
+      [ 722 ]  ( As cantadeiras que no fim do 1.º ato acompanharam a morgada entram a cantar a moda com que se fechou o dito ato )
+      [ 723 ]  Donde vens , ó velha ?
+      [ 724 ]  Eu venho da feira , etc .
+      [ 725 ]  ( Num intervalo da 1.ª à 2.ª trova João Lopes acerca-se de Frederico com disfarce )
+      [ character:  João Lopes]
+      [ 726 ]  Olhe , se foge , que o Senhor vai levar pancada de criar bicho .
+      [ 727 ]  Estão-se a preparar os valentões .
+      [ 727 ]  ( Frederico apita rijo .
+      [ 727 ]  Aparecem de diferentes saídas 6 cabos de polícia que escutam Frederico , enquanto se repete a cantilena .
+      [ 727 ]  Finda a cantilena , ouve-se fora o rumor da desordem , e o estalido dos varapaus .
+      [ 727 ]  As cantadeiras fogem alvoroçadas a dar gritos )
+      [ 728 ]  CENA VIII
+      [ 729 ]  FREDERICO , CABOS , UM DESCONHECIDO , E CAMPÔNIOS
+      [ character:  Frederico]
+      [ 729 ]  ( com intimativa bélica )
+      [ 730 ]  Formem em linha .
+      [ 731 ]  Carregar armas !
+      [ character:  Um cabo]
+      [ 732 ]  Estão carregadas .
+      [ character:  Frederico]
+      [ 733 ]  Vamos ser atacados pelos desordeiros .
+      [ 734 ]  À voz de fogo , atirem .
+      [ 734 ]  ( Vê-se atravessar a cena por entre o povo um Desconhecido de chapéu derrubado , o rosto coberto por um lenço , de caraça , polainas de briche nas pernas e pés , com um grosso pau de choupa .
+      [ 734 ]  Próximos de Frederico os valentões param , com os paus cruzados nas pernas , gingando em atitude ameaçadora .
+      [ 734 ]  Frederico , não se desvia dos cabos .
+      [ 734 ]  De repente , rompem de fora uns poucos varrendo o campo a pauladas )
+      [ character:  Frederico]
+      [ 735 ]  Cabos de polícia , sentido !
+      [ 736 ]  Preparar armas !
+      [ 736 ]  ( Sai perto da boca da cena o Desconhecido .
+      [ 736 ]  Encosta-se ao pau observando os movimentos dos valentões , os quais vêm já avançando , já recuando , crescendo sobre Frederico )
+      [ character:  Frederico]
+      [ 736 ]  ( aos cabos )
+      [ 737 ]  Aperrar armas !
+      [ 737 ]  ( Uma paulada faz saltar a clavina das mãos de um cabo .
+      [ 737 ]  Os outros fogem .
+      [ 737 ]  Frederico recua , apitando rijamente .
+      [ 737 ]  No maior aperto , o Desconhecido salta para a beira dele , descobre a choupa do pau , e arremete com os agressores .
+      [ 737 ]  Estes , forçados pela destreza , fogem , logo que o primeiro cai de uma paulada .
+      [ 737 ]  A vozeria cresce no momento em que o palco está despejado .
+      [ 737 ]  O Desconhecido trava do braço de Frederico , e o traz à boca da cena )
+      [ character:  Frederico]
+      [ 738 ]  Quem é o valente homem a quem devo a vida ? !
+      [ 739 ]  Quem é ?
+      [ character:  Morgadinha]
+      [ 739 ]  ( arrancando o lenço do rosto )
+      [ 740 ]  Sou eu !
+      [ 741 ]  Salvei-te , Frederico !
+      [ character:  Frederico]
+      [ 742 ]  Ó morgadinha de Val-d'Amores !
+      [ 743 ]  Tu !..
+      [ 744 ]  Oh ! tu ! ...
+      [ 745 ]  Como és ideal e angélica !
+      [ 745 ]  ( Ajoelhando )
+      [ closing: 
+      [ 746 ]  FIM DO SEGUNDO ATO .]
+      [ title: 
+      [ 747 ]  ATO TERCEIRO ]
+      [ 748 ]  Salão da casa de Val-d'Amores .
+      [ 749 ]  Mobília antiga de couro de Moscóvia .
+      [ 750 ]  Reposteiros já envelhecidos com brasões .
+      [ 751 ]  Alguns retratos .
+      [ 752 ]  Um piano moderno .
+      [ 753 ]  CENA I
+      [ 754 ]  PANTALEÃO E MACARIO
+      [ character:  Pantaleão]
+      [ 755 ]  Como eu lhe vinha contando , amigo e Senhor Macário Mendes , minha filha , desde que começou a vestir-se à moda , e a tocar piano , está muito distraída do troca-tintas do escrivão .
+      [ 756 ]  Não anda por janelas , não sai de casa , e gasta alegremente o seu tempo a tocar , a cantar e a vestir-se .
+      [ 757 ]  Isto custa-me um dinheiro calado ; mas dou-o por bem empregado .
+      [ character:  Macário]
+      [ 758 ]  E quem é que ensina a Senhora morgadinha a tocar ?
+      [ character:  Pantaleão]
+      [ 759 ]  É a mulher de um sujeito que se estabeleceu há pouco em Santo Tirso com loja de fazendas brancas ...
+      [ character:  Macário]
+      [ 760 ]  Bem sei , bem sei .
+      [ character:  Pantaleão]
+      [ 761 ]  Foram lá as primas de Ruivães que fizeram a descoberta ; mas o que tem muita graça é que o homem da mestra é tão ciumento que só a deixa ir a casas onde não há homens ...
+      [ character:  Macário]
+      [ 762 ]  Que tal peseta é ela ! ...
+      [ character:  Pantaleão]
+      [ 763 ]  E para vir aqui , pôs por condição que a mulher só viria à noitinha acompanhada pelo marido que a deixa à porta , e vem por ela duas horas depois .
+      [ 764 ]  Eu estive quase a não aceitar tal professora por saber que o escrivão de fazenda estava muitas vezes na loja do marido ; e receei que ela fosse medianeira de alguma carta ...
+      [ character:  Macário]
+      [ 765 ]  E tem razão , Senhor morgado ...
+      [ 766 ]  Veja lá ! ...
+      [ 767 ]  Olhe que o mundo é um covil de marotos !
+      [ character:  Pantaleão]
+      [ 768 ]  Não há receio ; que eu tratei de me informar , e soube que o lojista pôs fora da loja o velhaco do Frederico , por desconfiar que ele lhe trazia de olho a consorte .
+      [ character:  Macário]
+      [ 769 ]  Não ! que sem licença dele ! não há maior desmoralização neste mundo !
+      [ 770 ]  Aquilo tem mesmo ideias de Sardanapalo !
+      [ 771 ]  Ainda bem que lhe está por um fio a ladroeira da repartição ...
+      [ character:  Pantaleão]
+      [ 772 ]  Conte lá isso então .
+      [ 773 ]  Em que termos está a bernarda ?
+      [ 774 ]  Rebenta hoje ou amanhã ?
+      [ character:  Macário]
+      [ 775 ]  Hoje .
+      [ 776 ]  Está tudo alevantado quando for nove horas .
+      [ 777 ]  Os sinos hão de tocar a rebate nas quatro freguesias mais chegadas , e o povo cai todo sobre Santo Tirso , e faz cerco para que o escrivão não possa escapulir-se ; que ele é leve como uma pena , e quando a gente mal se precatar , vê-o fazer vispre , zêpe-zêpe
+      [ 777 ]  ( expressão sibilante para imitar a rapidez da corrida )
+      [ character:  Pantaleão]
+      [ 778 ]  Se ele fugir , amigo Macário , deixá-lo ir .
+      [ 779 ]  Nada de o agarrar , que não vão os meus criados escadeirá-lo e eu ter de o pagar por bom .
+      [ 780 ]  O que eu desejo é que ele não apareça mais em Santo Tirso .
+      [ 781 ]  Lá a respeito da papelada isso é queimá-la toda ; que depois o governo como não tem cadernos para a cobrança dos impostos , não o manda para cá a ele nem a outro .
+      [ character:  Macário]
+      [ 782 ]  Grande idêa é essa , senhor morgado !
+      [ 783 ]  E o governo faz uma economia bem boa .
+      [ 784 ]  Se a gente fosse dando cabo dos empregados , ajudava o governo a fazer economias , porque depois não havia quem quisesse servir os empregos .
+      [ 785 ]  O sistema é um bocado violento para os empregados , mas eu não vejo outro meio de os ir acabando ...
+      [ character:  Pantaleão]
+      [ 786 ]  Não acho isso humanitário !
+      [ character:  Macário]
+      [ 787 ]  Meu caro amigo e Senhor morgado , eu sou homem político há trinta anos , leio jornais , e tenho feito muita soma de deputados ; conheço por dentro e por fora o país e as suas necessidades .
+      [ 788 ]  Fique certo disto ; enquanto se não der fim a uma casa a que os jornais chamam burrocracia , não se indireita a pátria .
+      [ character:  Pantaleão]
+      [ 789 ]  Como se chama isso ?
+      [ character:  Macário]
+      [ 790 ]  Burrocracia , que pelos modos é palavra de idioma francês , que vem a dizer empregado público .
+      [ character:  Pantaleão]
+      [ 791 ]  Senhor Macário , vá indo cá com as minhas idêas moderadas .
+      [ 792 ]  O melhor sistema de se acabar com os escrivães de fazenda é queimar os cartórios .
+      [ 793 ]  Eu lhe ponho uma comparação .
+      [ 794 ]  Se eu queimar a palha que tenho , e não comprar outra , que me acontece à minha parelha de machos ?
+      [ 795 ]  Morrem de fome , não é verdade ?
+      [ character:  Macário]
+      [ 796 ]  Isso é .
+      [ character:  Pantaleão]
+      [ 797 ]  Pois aí tem : os escrivães , em se lhe queimando os papéis , não têm que roer .
+      [ character:  Macário]
+      [ 797 ]  ( duvidoso )
+      [ 798 ]  Nada ; a comparação dos machos não me convence , queira Vossa Excelência perdoar .
+      [ 798 ]  ( Com energia )
+      [ 799 ]  Matá-los , matá-los , é o grande desideratum .
+      [ character:  Pantaleão]
+      [ 800 ]  E os papéis ?
+      [ 801 ]  Deixam-se ficar ?
+      [ character:  Macário]
+      [ 802 ]  Os papéis queimam-se , queimam-se as casas , queimam-se os escrivães !
+      [ 803 ]  Nada de cataplasmas emolientes ; o país o que precisa é cáusticos e ventosas .
+      [ character:  Pantaleão]
+      [ 804 ]  Ora vossemecê , Senhor Macário Mendes , sabe que no cartório do tal pulha está o processo da execução que a fazenda nacional me move ...
+      [ character:  Macário]
+      [ 805 ]  Por seis contos de uma fiança dos bens dos frades , sei muito bem ...
+      [ 806 ]  Esteja descansado , que não há de lá ficar papel em que se amortalhe um cigarro .
+      [ character:  Pantaleão]
+      [ 807 ]  Quem é o chefe da revolução ?
+      [ character:  Macário]
+      [ 808 ]  À falta de homens por hora sou eu ; mas não sei a que os comandantes das freguesias decidirão .
+      [ 809 ]  Já ouvi rosnar que eles querem aclamar Vossa Excelência general em chefe .
+      [ character:  Pantaleão]
+      [ 810 ]  Homem , tire isso da cabeça às freguesias .
+      [ 811 ]  Vossemecê bem sabe que eu ando muito adoentado dos intestinos , e não posso deixar de tomar o meu banho de canoa à noite .
+      [ 812 ]  Dinheiro , sendo preciso , algum darei para a revolução ; mas entrar nela em pessoa não posso por causa desta moléstia dos rins que me não deixa cavalgar ; e vossemecê bem entende que um general em chefe a pé não tem jeito , nem pode ver de longe o inimigo , se nos for necessário entrar em batalha com o exército .
+      [ 813 ]  Dispensem-me por tanto de tamanha honra .
+      [ character:  Macário]
+      [ 814 ]  Farei as diligências ; mas receio que ...
+      [ 815 ]  CENA II
+      [ 816 ]  OS MESMOS E A MORGADINHA
+      [ 817 ]  ( A morgadinha traja na última moda , mas exageradamente .
+      [ 818 ]  Vestido muito curto , sem alguma roda , apanhando-se-lhe cingido às pernas ; grande laço na cintura posteriormente ; sapatos de salto dourado ; cabeleira com estupendos tufos encaracolados )
+      [ character:  Pantaleão]
+      [ 819 ]  Vens para o piano , Joanninha ?
+      [ character:  Morgadinha]
+      [ 819 ]  ( pondo luneta de ouro )
+      [ 820 ]  Sim , papá , vou estudar a minha lição de escala .
+      [ 820 ]  ( Senta-se ao piano )
+      [ character:  Macário]
+      [ 820 ]  ( à parte , benzendo-se espantado do trajar da morgada )
+      [ 821 ]  Que desmoralização !
+      [ 822 ]  Isto é o pecado em carne e osso !
+      [ character:  Pantaleão]
+      [ 823 ]  Está vossemecê admirado destas modas , amigo Macário !
+      [ character:  Macário]
+      [ 823 ]  ( irônico )
+      [ 824 ]  São bonitas ...
+      [ 824 ]  ( Grave )
+      [ 825 ]  Mas não acho isto decente para a observância dos bons costumes .
+      [ character:  Morgadinha]
+      [ 826 ]  Que quer ?
+      [ 827 ]  É moda ; andam assim todas as senhoras do tom .
+      [ character:  Macário]
+      [ 828 ]  Do tom ?
+      [ 829 ]  Sem tom nem som .
+      [ 830 ]  As minhas filhas assim não hão de vestir , se Deus quiser .
+      [ character:  Morgadinha]
+      [ 830 ]  ( voltando o rosto com aborrecimento )
+      [ 831 ]  Então as suas filhas são senhoras ?
+      [ character:  Macário]
+      [ 832 ]  Daquela massa se fazem , senhora morgada ...
+      [ character:  Morgadinha]
+      [ 832 ]  ( dedilha nervosamente nas teclas )
+      [ 833 ]  Adeus , adeus .
+      [ 834 ]  Temos história !
+      [ character:  Pantaleão]
+      [ 834 ]  ( a meia voz )
+      [ 835 ]  Não a zangue ...
+      [ 836 ]  Deixe-a lá ...
+      [ 837 ]  Tomara eu que ela se entretivesse com os vestidos ...
+      [ character:  Macário]
+      [ 838 ]  A cabeça ... está feito , mas as pernas a ver-se-lhe , senhora morgada !
+      [ 839 ]  Assim não se podem observar os bons costumes ...
+      [ 839 ]  ( A Morgadinha canta acompanhando a escala , e desafina quando guincha as notas das oitavas altas .
+      [ 839 ]  Macário Mendes , ofendido pela desarmonia , faz caretas )
+      [ character:  Pantaleão]
+      [ 840 ]  Ainda não sabes cantar modinha nenhuma , menina ?
+      [ character:  Morgadinha]
+      [ 841 ]  A mestra não quer que eu cante modinhas ; aprendo a escala que é o essencial .
+      [ 841 ]  ( Repete a escala , e quando principia a desafinar , Macário despede-se , apertando a mão a Pantaleão )
+      [ character:  Pantaleão]
+      [ 842 ]  Veja lá os meus papéis , Senhor Macário .
+      [ 843 ]  CENA III
+      [ 844 ]  OS MESMOS E JOÃO LOPES
+      [ character:  João Lopes]
+      [ 844 ]  ( trazendo castiçais com luzes )
+      [ 845 ]  Está na sala de espera a Senhora mestra pianista e mais o marido .
+      [ character:  Morgadinha]
+      [ 846 ]  Está !
+      [ 847 ]  Papá , é preciso sair , tenha paciência . Bem sabe que ela , se vier homem aqui , não entra .
+      [ character:  Pantaleão]
+      [ 848 ]  Está bom pedaço de asno o marido !
+      [ 849 ]  Então ele não sabe que eu sou um homem sério !
+      [ character:  Morgadinha]
+      [ 850 ]  Que quer o papá !
+      [ 851 ]  Já lhe tenho dito que pode entrar segura de que não ouve palavra que a ofenda ; ela bem o sabe ; mas o marido , se souber que a mestra falou com um homem , seja ele quem for , não a deixa voltar .
+      [ character:  Pantaleão]
+      [ 852 ]  Com certos indivíduos tem ele razão ; mas nem todos são como o devasso escrivão de fazenda , que lhe andava a fazer a corte à mulher , e por isso foi posto de lá para fora .
+      [ 853 ]  Acho justo que ele se acautele dos tratantes ;
+      [ 854 ]  mas de mim ... parece-me bestialidade !
+      [ 855 ]  Enfim cá vou .
+      [ 855 ]  ( Sai )
+      [ 856 ]  CENA IV
+      [ 857 ]  MORGADINHA , JOÃO LOPES E DEPOIS FREDERICO
+      [ character:  Morgadinha]
+      [ 858 ]  Pode entrar a Senhora Dona Thomazia .
+      [ character:  João Lopes]
+      [ 858 ]  ( para dentro , levantando o reposteiro )
+      [ 859 ]  Pode entrar a Senhora Dona Thomazia .
+      [ 859 ]  ( João Lopes sai , assim que entra a suposta mestra .
+      [ 859 ]  Frederico vestido de mulher , o rosto coberto de véu espesso , e cachos .
+      [ 859 ]  Chapéu antiquado de orelhas , que lhe ajudem a cobrir a cara .
+      [ 859 ]  Vai direito ao piano .
+      [ 859 ]  Vê-se a cabeça de Pantaleão que espreita por uma fímbria do reposteiro .
+      [ 859 ]  João Lopes tosse )
+      [ character:  Morgadinha]
+      [ 859 ]  ( alto )
+      [ 860 ]  Passou bem , Senhora Dona Thomazia ! ...
+      [ 860 ]  ( Baixo )
+      [ 861 ]  Não me fales que meu pai está espreitando , enquanto João Lopes tossir ...
+      [ 861 ]  ( Tocam e cantam a escala , Frederico canta em falsete a duo .
+      [ 861 ]  Desarmonia nas vozes )
+      [ character:  João Lopes]
+      [ 862 ]  O Senhor morgado já está no pátio a conversar com o marido do Senhor Frederico ; estejam à vontade que eu vou para o postigo da escada .
+      [ 863 ]  Quando eu tossir , vejam lá ...
+      [ character:  Frederico]
+      [ 863 ]  ( levanta o véu , abraçando o velho )
+      [ 864 ]  Este João Lopes é um prodígio de dedicação !
+      [ 865 ]  É o tipo genuíno do antigo criado português !
+      [ 866 ]  Se eu realizar os meus sonhos , João Lopes , você há de progredir na escala das importâncias sociais ...
+      [ 867 ]  Eu hei de arranjar-lhe a você um hábito de Cristo !
+      [ character:  Morgadinha]
+      [ 868 ]  Deixa-o ir , deixa-o ir ...
+      [ 868 ]  ( João Lopes sai )
+      [ character:  Frederico]
+      [ 868 ]  ( tomando-lhe as mãos calorosamente )
+      [ 869 ]  E os nossos sonhos vão realizar-se , minha fada !
+      [ 870 ]  Oh ! ( contemplando-a absorto ) que deslumbrante !
+      [ 871 ]  que eclipse estás fazendo nos anjos do céu !
+      [ 872 ]  Não és só uma beleza !
+      [ 873 ]  És um milagre ! uma glória ! uma divinização !
+      [ 874 ]  Não ouso beijar-te as mãos ...
+      [ 875 ]  Os pés , os pés !
+      [ 876 ]  Estes pés requerem tapetes de lábios e almofadas de corações !
+      [ 877 ]  Consente que tos beije , huri !
+      [ character:  Morgadinha]
+      [ 877 ]  ( desviando-se )
+      [ 878 ]  Não sejas tolo !
+      [ 879 ]  Gostas de me ver assim ?
+      [ character:  Frederico]
+      [ 880 ]  Se gosto ! ...
+      [ 881 ]  Sinto delícias que atormentam , amor que me rescalda as fibras íntimas do peito !
+      [ 882 ]  Luz , luz que me cegas , faz-te lavareda , e ... devora-me !
+      [ character:  Morgadinha]
+      [ 883 ]  Vamos ao caso ...
+      [ 884 ]  Como estão os negócios ?
+      [ character:  Frederico]
+      [ 885 ]  Ótimos .
+      [ 886 ]  Logo que chegarmos a Lisboa , tenho a certeza de que será consagrado nos altares o nosso amor .
+      [ 887 ]  Poderíamos evitar a fugida , requerendo tu a tua emancipação , visto que já contas vinte e seis anos ; mas , como receias que eu seja assassinado logo que requeiras ao juiz , cumpra-se a tua vontade .
+      [ 887 ]  ( João Lopes tosse .
+      [ 887 ]  Vão sentar-se rapidamente ao piano , tocando e cantando a escala .
+      [ 887 ]  Depois , a Morgadinha vai espreitar , enquanto Frederico toca uma valsa voluptuosa que obriga a Morgadinha a fazer alguns passos de dança .
+      [ 887 ]  Frederico , arrebatado do donaire gracioso dela , ergue-se de mãos postas fazendo trejeitos de enlevado )
+      [ character:  João Lopes]
+      [ 887 ]  ( metendo a cabeça )
+      [ 888 ]  Podem conversar , que ele passou para a tulha .
+      [ character:  Frederico]
+      [ 888 ]  ( com transporte )
+      [ 889 ]  És divinamente grande nas mínimas bagatelas da humanidade !
+      [ 890 ]  Se lanças o pé quebradiço e chinês em atitude dançante , sacodes e impeles brasas à minha alma .
+      [ 891 ]  O pavimento arde debaixo dos teus pés lindíssimos .
+      [ 892 ]  Tudo que fazes mata e aviventa .
+      [ 893 ]  Como não serás esbelta , nos salões de Lisboa , princesa dos bailes , a rodopiar vertiginosamente nas valsas , nos cotillons , nos lanceiros , na doidice sublime em que há um espadanar de felicidade por todos os poros !
+      [ 894 ]  Ó Joaninha , deixa-me sonhar !
+      [ 894 ]  ( Fixa os olhos espantados no tecto da platéia .
+      [ 894 ]  Música surda )
+      [ 895 ]  A minha vida vai ser uma eterização de todas as potências espirituais .
+      [ 896 ]  Embriagado nas taças nectáreas do céu , viverei enlevado nos arroubos da minha embriaguez ...
+      [ 897 ]  Esse rosto em que se espelham as formosuras não vistas de Angelos nem de Raphaéis , será o meu Alcorão , porque o sumo artífice escreveu aí a suprema estrofe do seu poema .
+      [ 898 ]  Quando os teus olhos se abrirem ao dilúculo da manhã , ver-me-as de joelhos a beijar os teus cabelos ; quando os fechares , cansados de serem beijados , e as sedosas pálpebras se cerrarem como conchas ciosas de suas pérolas , eu me quedarei a teus pés velando que os silfos amorosos da noite não ousem perturbar o teu dormir .
+      [ 899 ]  Oh ! Joanna , Joanna !
+      [ 899 ]  ( Ajoelha-se-lhe aos pés . João Lopes tosse com maior força .
+      [ 899 ]  A morgadinha adverte em vão Frederico que continua no seu arrebatamento )
+      [ 900 ]  Abre-me aqui já o sepulcro , se em alguma hora hei de sentir-me órfão dos teus carinhos ...
+      [ 900 ]  ( Pantaleão ao fundo , erguendo o reposteiro )
+      [ character:  Morgadinha]
+      [ 901 ]  Ah !
+      [ character:  Frederico]
+      [ 901 ]  ( sobressaltado )
+      [ 902 ]  O diabo !
+      [ 902 ]  ( Desce o véu .
+      [ 902 ]  Canta qualquer ária conhecida no ato de ajoelhar , e cantando , diz perceptivelmente à Morgadinha )
+      [ 903 ]  Diz a teu pai que a mestra Para melhor te ensinar , Te está cantando uma ária Das que se usa cantar No Teatro de Lisboa :
+      [ 904 ]  Prega-lhe a peta , que é boa ;
+      [ 905 ]  E se esta nos não salva , Nada nos pode salvar .
+      [ 906 ]  CENA V
+      [ 907 ]  OS MESMOS E PANTALEÃO
+      [ character:  Pantaleão]
+      [ 907 ]  ( ao fundo )
+      [ 908 ]  Então que é isso ?
+      [ character:  Morgadinha]
+      [ 909 ]  É a minha mestra que me está ensinando uma ária das que se cantam no teatro de Lisboa .
+      [ character:  Pantaleão]
+      [ 910 ]  Ela tem a voz tão grossa !
+      [ 911 ]  Não parece voz feminina !
+      [ character:  Morgadinha]
+      [ 912 ]  Ela canta na voz que quer ....
+      [ 913 ]  Então o papá já se esqueceu que o marido dela ...
+      [ character:  Pantaleão]
+      [ 914 ]  Está bom , está bom ; eu vou-me embora .
+      [ 915 ]  Lá estive conversando com o marido da senhora , e lhe disse que não tivesse ciúmes que eu sou um velho ! ...
+      [ 916 ]  Aquele seu marido parece-me um doido ! ...
+      [ 916 ]  ( Rindo )
+      [ 917 ]  Ora andem lá , andem lá .
+      [ 917 ]  ( Sai )
+      [ 918 ]  CENA VI
+      [ 919 ]  FREDERICO , MORGADINHA E JOÃO LOPES A INTERVALOS
+      [ character:  Frederico]
+      [ 920 ]  Salvei-te ou não ?
+      [ 921 ]  Tu salvaste-me com a força , na romaria ; e eu aqui , salvei-te com o gênio !
+      [ 922 ]  Vês como o amor me deu espírito num trance difícil ?
+      [ 923 ]  Fazes maravilhas de perspicácia e finura , tu , com a magia dos teus olhos , ó formosa !
+      [ 923 ]  ( Ouve-se toque a rebate de sinos , que soa de diversas longitudes .
+      [ 923 ]  Rumor longínquo de vozes )
+      [ character:  Morgadinha]
+      [ 924 ]  Que será isto ! ?
+      [ 925 ]  Ó João Lopes !
+      [ character:  João Lopes]
+      [ 925 ]  ( dentro )
+      [ 926 ]  Que quer , Senhora morgadinha ?
+      [ character:  Morgadinha]
+      [ 927 ]  Sabes a que tocam os sinos ?
+      [ 928 ]  É fogo ?
+      [ character:  João Lopes]
+      [ 928 ]  ( dentro )
+      [ 929 ]  Fogo não me parece .
+      [ 930 ]  Acho que é bernarda .
+      [ 931 ]  Estou cá à janela a ver se entendo a gritaria .
+      [ character:  Morgadinha]
+      [ 932 ]  Diz que é bernarda ...
+      [ character:  Frederico]
+      [ 932 ]  ( alvoroçado )
+      [ 933 ]  Horrível ! oh ! horrível !
+      [ 934 ]  Isso bole seriamente comigo , contigo , conosco , com o nosso futuro , Joanna !
+      [ character:  João Lopes]
+      [ 934 ]  ( dentro )
+      [ 935 ]  É revolução .
+      [ character:  Morgadinha]
+      [ 936 ]  Revolução !
+      [ character:  Frederico]
+      [ 937 ]  Não ouves a fatalidade que esbraveja ?
+      [ 938 ]  Terei eu de perder-te , arcanjo ?
+      [ character:  Morgadinha]
+      [ 939 ]  Qual perder-me !
+      [ 940 ]  Importa-me cá a mim a bernarda !
+      [ 941 ]  Hei de ser tua !
+      [ 942 ]  Não temas , Frederico , que eu sou forte !..
+      [ character:  João Lopes]
+      [ 942 ]  ( na cena )
+      [ 943 ]  Já entendi o que eles dizem ...
+      [ 944 ]  Dão morras aos papéis , e que se queime o escrivão da fazenda ...
+      [ 945 ]  E trazem música ...
+      [ 946 ]  Ouvem ?...
+      [ 946 ]  ( Ouve-se distintamente , mas ainda longe , o hino da « Maria da Fonte » , à mistura com os « morra ! » )
+      [ character:  João Lopes]
+      [ 947 ]  O Senhor morgado está na torre a ouvir .
+      [ 948 ]  Agora bom será que o Senhor Frederico se escape , senão desconfio que o matem , sendo aqui pilhado ...
+      [ 948 ]  ( Frederico apanha as saias na cintura para poder fugir .
+      [ 948 ]  A Morgadinha agarra-o )
+      [ character:  Morgadinha]
+      [ 949 ]  Não te deixo sair agora , que é perigoso .
+      [ character:  Frederico]
+      [ 949 ]  ( muito inquieto )
+      [ 950 ]  Morrer aqui , seria uma morte inglória , Joanninha !
+      [ 951 ]  Dá-me armas que eu quero defender-me com uma bravura digna de ti !
+      [ 952 ]  Armas ! armas !
+      [ 953 ]  um revólver de doze tiros !
+      [ 954 ]  Quero armar-me até aos dentes , e combater , e morrer gloriosamente ao teu lado !
+      [ character:  Morgadinha]
+      [ 955 ]  Frederico , tu estás maluco ! ...
+      [ 956 ]  Olha que eles não vêm cá ...
+      [ 957 ]  Não percas o juízo !
+      [ character:  Frederico]
+      [ 957 ]  ( muito à trágica , aludindo ao estrondo da gritaria )
+      [ 958 ]  Não vem ?
+      [ 959 ]  Vem !
+      [ 960 ]  Escuta !
+      [ 961 ]  Escuta !
+      [ 962 ]  Não ouves o bramido do tigre popular ?
+      [ 963 ]  Olha ...
+      [ 964 ]  É o leão que ruge , partidos os grilhões de respeito à lei !
+      [ 965 ]  É a Líbia e a Hircânia a vomitarem feras !
+      [ 966 ]  Olha o lago sujo como se levanta em vagalhões e como eles roncam !
+      [ character:  Morgadinha]
+      [ 967 ]  Vem então esconder-te , vem esconder-te !
+      [ character:  Frederico]
+      [ 968 ]  Não !
+      [ 969 ]  Um homem não se esconde quando olhos como os teus são testemunhas de tamanha covardia !
+      [ 970 ]  É mister ser herói ! ...
+      [ 971 ]  Mas eu estou vestido ignobilmente !
+      [ 971 ]  ( Arranca os vestidos mulheris : fica de quinzena ; mas conserva o chapéu e os boucles )
+      [ 972 ]  Agora , armas ! armas !
+      [ 972 ]  ( A morgada ri-se apontando-lhe para a cabeça )
+      [ 973 ]  Por que ris tu , mulher forte !
+      [ 974 ]  Por que ris tu , se fazes favor ?!
+      [ character:  Morgadinha]
+      [ 975 ]  Tira a cartola e os cachos , meu amor .
+      [ character:  Vozes]
+      [ 975 ]  ( que sobrelevam o estrondo dos figles )
+      [ 976 ]  Morra o escrivão de fazenda !
+      [ 977 ]  Morra !
+      [ 977 ]  ( Grande catarro de João Lopes )
+      [ character:  Frederico]
+      [ 978 ]  É chegada a hora !
+      [ 979 ]  Dá-me um abraço , querida !
+      [ 980 ]  Um abraço ! e até ao reino eterno !
+      [ 981 ]  As nossas núpcias são no céu ! ...
+      [ 981 ]  ( Aponta para o teto e fica como extático ; enquanto a Morgadinha vai rapidamente dentro , e sai com dois bacamartes de boca de sino )
+      [ character:  Morgadinha]
+      [ 982 ]  Aqui tens um bacamarte ; defende-te , que eu te defenderei também !
+      [ 982 ]  ( Ela aperra o bacamarte )
+      [ 983 ]  CENA VII
+      [ 984 ]  OS MESMOS , PANTALEÃO E JOÃO LOPES
+      [ character:  Pantaleão]
+      [ 984 ]  ( estupefato )
+      [ 985 ]  Que vejo ?
+      [ 986 ]  Que é isto ?
+      [ 987 ]  Como entrou este homem aqui ?
+      [ character:  Frederico]
+      [ 987 ]  ( atirando ao chão o bacamarte )
+      [ 988 ]  Venho oferecer-me à vingança de Vossa Excelência .
+      [ character:  Morgadinha]
+      [ 989 ]  Meu papá , o Senhor Frederico vem pedir-lhe a minha mão de esposa !
+      [ character:  Pantaleão]
+      [ 990 ]  Das duas uma : ou o senhor foge , ou é espatifado pelo povo !
+      [ character:  Frederico]
+      [ 991 ]  Não sei fugir : sei morrer .
+      [ character:  Pantaleão]
+      [ 992 ]  Mas vá morrer à casa do diabo ; não quero que o matem aqui .
+      [ character:  João Lopes]
+      [ 993 ]  Vossa Excelência tem razão ; matá-lo aqui é mau : o melhor é eu ir escondê-lo no meu quarto ; por que , se o povo o achasse aqui a estas horas , os créditos da menina não ficavam com muita saúde .
+      [ character:  Pantaleão]
+      [ 994 ]  Pois vai escondê-lo ...
+      [ 995 ]  Some-o no inferno !
+      [ character:  Morgadinha]
+      [ 996 ]  Meu pai , se Frederico fugir , fujo eu ; se ele morrer , morre sua filha , sua filha única , a sua Joanninha , a luz dos seus olhos !
+      [ 997 ]  Meu papá ( ajoelha-lhe ) eu já não posso deixar de ser esposa de Frederico , e juro que sou dele na vida e na morte !
+      [ 997 ]  ( Ergue-se : conduz Frederico pela mão , e ajoelha com ele )
+      [ 998 ]  Dê-nos a sua benção , querido papá !
+      [ character:  Pantaleão]
+      [ 999 ]  Nunca ! nunca !
+      [ 999 ]  ( Ouvem-se fora as aclamações )
+      [ character:  Morgadinha]
+      [ 999 ]  ( erguendo-se soberba )
+      [ 1000 ]  Então , não tenho pai !
+      [ 1001 ]  Tenho só marido !
+      [ 1002 ]  Se o povo o matar , há de ver morrer-me ao pé dele ... mas vingada ! ...
+      [ 1002 ]  ( Lança mão do bacamarte )
+      [ 1003 ]  Que entre o povo !
+      [ character:  Pantaleão]
+      [ 1004 ]  Em que apertos me vejo !
+      [ 1005 ]  Rebenta-me o coração !..
+      [ character:  João Lopes]
+      [ 1005 ]  ( muito comovido )
+      [ 1006 ]  Senhor morgado ! ...
+      [ 1007 ]  Olhe que perdemos a nossa menina ! ...
+      [ character:  Pantaleão]
+      [ 1007 ]  ( a Frederico )
+      [ 1008 ]  Esconda-se naquele quarto , homem ...
+      [ 1009 ]  Depressa ...
+      [ character:  Frederico]
+      [ 1010 ]  Obedeço , por que mo ordena o pai deste anjo .
+      [ 1010 ]  ( Sai com João Lopes )
+      [ 1011 ]  CENA VIII
+      [ 1012 ]  PANTALEÃO E A MORGADINHA
+      [ character:  Pantaleão]
+      [ 1013 ]  Perdi a cabeça ! ...
+      [ 1014 ]  Estou doido ...
+      [ 1015 ]  Não sei o que vinha aqui fazer ! ...
+      [ 1016 ]  Ah ! ... onde está a pianista , que está ali fora o marido à espera ...
+      [ character:  Morgadinha]
+      [ 1017 ]  A pianista ?..
+      [ character:  Pantaleão]
+      [ 1018 ]  Sim , a pianista onde está ? ...
+      [ 1018 ]  ( Olha para o chão , tropeçando no vestido de mulher )
+      [ 1019 ]  Que é isto ?
+      [ 1019 ]  ( levantando o chapéu e os caracóis )
+      [ 1020 ]  Que é isto ? !
+      [ 1021 ]  Que é isto , Joanna ? ...
+      [ character:  Morgadinha]
+      [ 1021 ]  ( aflita )
+      [ 1022 ]  Isso ?
+      [ 1023 ]  Ah ! meu pai , que eu morro , se me apoquenta muito ! ...
+      [ character:  Pantaleão]
+      [ 1024 ]  Então a pianista era ... era o escrivão ?!..
+      [ character:  Morgadinha]
+      [ 1024 ]  ( soluçando )
+      [ 1025 ]  Era , sim , Senhor !
+      [ character:  Pantaleão]
+      [ 1026 ]  Que sucia de tratantadas se passam nesta casa !..
+      [ 1027 ]  e eu a conversar com o patife do logista que se dizia o marido desse velhaco !..
+      [ character:  Morgadinha]
+      [ 1028 ]  É meu esposo ...
+      [ 1029 ]  perdoe-nos ...
+      [ character:  Pantaleão]
+      [ 1030 ]  Tu és o demônio , mulher !
+      [ character:  Morgadinha]
+      [ 1031 ]  Sou uma infeliz apaixonada ...
+      [ 1032 ]  Ó meu papá , tenha piedade !
+      [ 1033 ]  Olhe que o Frederico é muito bom moço .
+      [ 1034 ]  Se não é fidalgo hoje , pode sê-lo amanhã .
+      [ 1035 ]  O papá bem sabe que os fidalgos agora se fazem de um dia pro outro .
+      [ character:  Pantaleão]
+      [ 1036 ]  Ergue-te , ingrata , que deste cabo de teu pai !
+      [ 1036 ]  ( Rompe a música pelo interior da casa , com grande vozeria , tocando o hino )
+      [ 1037 ]  CENA IX
+      [ 1038 ]  JOÃO LOPES , PANTALEÃO , MORGADINHA , MACARIO
+      [ 1039 ]  ( A música , na vanguarda , ladeia para dar passagem a Macário vestido de oficial de ordenanças , mas com chapéu embicado .
+      [ 1039 ]  Traz uma espada empunhada , e outra debaixo do braço , seguem-no 12 comandantes subalternos , vestidos a capricho , uns com chapéu redondo e banda e dragonas , outros de barretina e niza .
+      [ 1039 ]  Um destes arvora uma bandeira de várias cores )
+      [ character:  Macário]
+      [ 1040 ]  Viva o senhor morgado de Val-d'Amores , general em chefe das forças populares do Minho !
+      [ character:  Vozes]
+      [ 1041 ]  Viva !
+      [ 1041 ]  ( Cala-se a música )
+      [ character:  Macário]
+      [ 1041 ]  ( à frente dos revolucionários com ênfase oratória )
+      [ 1042 ]  Senhor morgado !
+      [ 1043 ]  As forças populares de seis freguesias que aí estão reunidas fora no terreiro desta ilustríssima casa , mandaram-me a mim , à frente dos seus doze comandantes que se acham presentes , declarar a Vossa Excelência que por voto geral foi aclamado general em chefe desta província .
+      [ 1044 ]  Eu lhes fiz um eloquente discurso para os tirar dessa ideia , alegando com o meu grau de farmacêutico que Vossa Excelência sofria dos intestinos e doutros incômodos intestinais ; mas eles não me atenderam e obrigaram-me a vir oferecer a Vossa Excelência a espada de general em chefe .
+      [ 1045 ]  Aqui está por consequência esta valente espada que matou em 1810 muita soma de francês do Junot , e que há-de nas mãos de Vossa Excelência limpar este país de escrivães de fazenda e outros mariolas que nos desgraçam .
+      [ 1046 ]  Receba Vossa Excelência das minhas mãos esta espada e salve com ela a pátria do Senhor Dom Afonso Henriques !
+      [ character:  Os comandantes]
+      [ 1047 ]  Viva o senhor boticário !
+      [ 1048 ]  Viva !
+      [ character:  Macário]
+      [ 1049 ]  Obrigado , valentes guerreiros !
+      [ 1049 ]  ( A música executa uma marcha muito compassada .
+      [ 1049 ]  Macário caminha a passo solene e cadencioso com a espada oferecida segura pela lâmina , levando a sua na bainha .
+      [ 1049 ]  O morgado faz sinal de que quer falar .
+      [ 1049 ]  Silêncio )
+      [ character:  Pantaleão]
+      [ 1049 ]  ( comovido )
+      [ 1050 ]  Senhor Macário Mendes , e mais Senhores !
+      [ 1051 ]  Grande impressão me fizeram as vossas palavras e não pude deixar de me comover ...
+      [ 1052 ]  Estou realmente comovido , e sinto-me abalado com tanta honra ; mas sinto muito dizer-lhe que as minhas doenças e outras desgraças me não permitem tomar o comando das valentes forças populares que representais .
+      [ 1053 ]  Não posso , senhores , não posso .
+      [ 1054 ]  Se a fortuna me tivesse dado um filho , essa espada estaria já nas mãos dele .
+      [ character:  Morgadinha]
+      [ 1054 ]  ( tirando a espada da mão de Macário )
+      [ 1055 ]  Está nas mãos de sua filha esta espada ; e , como infelizmente , sou mulher , há de haver um homem a quem meu pai chame filho , e ele será digno dela !
+      [ 1055 ]  ( Chamando )
+      [ 1056 ]  Frederico ! Frederico !
+      [ 1057 ]  CENA ÚLTIMA
+      [ 1058 ]  OS MESMOS E FREDERICO
+      [ character:  Frederico]
+      [ 1058 ]  ( ajoelhando diante da morgadinha )
+      [ 1059 ]  Sim ! sim ! recebo de vossas mãos , Senhora , a espada que há de decepar as infinitas cabeças da hidra financeira !
+      [ 1059 ]  ( Espanto geral )
+      [ character:  Macário]
+      [ 1060 ]  Como se entende esta caranguejola , senhor morgado ! ?
+      [ character:  Pantaleão]
+      [ 1061 ]  Senhor Macário ... esse homem ... vai ser ... vai ser ...
+      [ 1062 ]  Eu desmaio !
+      [ character:  João Lopes]
+      [ 1063 ]  Vai ser o marido da menina ...
+      [ 1063 ]  ( a Pantaleão )
+      [ 1064 ]  Faça favor de não desmaiar , por quem é !
+      [ character:  Frederico]
+      [ 1064 ]  ( com veemência e fogo )
+      [ 1065 ]  E o marido da morgadinha de Val-d'Amores vai conduzir-vos à vitória , briosos populares !
+      [ 1066 ]  Eu vos ensinarei a calcar tiranos !
+      [ 1067 ]  Auxiliado por vós , intrépidos filhos do norte , levantaremos o país das palhas podres em que o prostraram os comilões .
+      [ 1068 ]  Eu falo assim , porque cada nação , nas horas críticas , tem o seu Victor Hugo , o seu salvador por meio da retórica .
+      [ 1069 ]  Vamos a eles , filhos da vitória !
+      [ 1070 ]  As nossas bandeiras desenroladas aos ventos das batalhas , dirão : Riqueza e Moralidade !
+      [ 1071 ]  Em menos de quatro anos de regimento moral , e dieta aos lambões , o país não deverá nada , e vós não pagareis um pataco de décima .
+      [ character:  Vozes]
+      [ 1072 ]  Apoiado !
+      [ character:  Frederico]
+      [ 1073 ]  Cidadãos !
+      [ 1074 ]  Eu tenho estudado profundamente as doenças de Portugal e pude descobrir onde está o cancro que nos rói .
+      [ 1075 ]  Aí vai o meu programa :
+      [ 1076 ]  O meu sistema é dividir o país em repúblicas confederadas , cada república tem seu presidente de eleição popular , quero dizer , cada concelho governa-se a si , e não quer saber do concelho vizinho .
+      [ 1077 ]  Não sei se me percebem ...
+      [ character:  Macário]
+      [ 1078 ]  Muito bem , entendemos muito bem .
+      [ character:  Frederico]
+      [ 1079 ]  Por exemplo : Santo Tirso fica sendo uma república , que não tem nada com a república de Famalicão , nem com a república de Fafe .
+      [ 1080 ]  Nós cá vivemos com o que é nosso , fazemos as nossas despesas , e não damos nem vintém aos de fora .
+      [ character:  Vozes]
+      [ 1081 ]  Apoiado ! apoiado !
+      [ character:  Frederico]
+      [ 1082 ]  Aqui está o meu sistema que ainda não lembrou a ninguém , e que é o resultado de quinze anos de estudo .
+      [ 1083 ]  Conseguido isto , não temos a sustentar tropas , ( Apoiados ) nem as estradas por onde andam os outros , ( Apoiados ) nem teatros onde os outros se divertem , ( Apoiados ) nem escrivães de fazenda .
+      [ 1083 ]  ( Apoiados )
+      [ 1084 ]  E declaro que me dou já por demitido do meu lugar , e levanto minha voz autorizada bradando : Guerra e morte a todos os escrivães de fazenda !
+      [ 1084 ]  ( Os populares desembainham as espadas , e bradam : « guerra de morte ! » )
+      [ 1085 ]  E , por tanto , senhores , beijo esta espada , e leio na sua lâmina os novos destinos que vão alvorecer para Portugal !
+      [ 1086 ]  Recebi-a da mão do anjo protetor das nossas tremendas batalhas !
+      [ 1087 ]  E concedei , cidadãos , que essa bandeira seja arvorada nas mãos da Judith lusitana !
+      [ 1088 ]  Não mais cairá aos pés de vencedor algum o estandarte que foi consagrado pela filha deste honrado fidalgo !
+      [ 1088 ]  ( Frederico , tem passado a bandeira à Morgadinha , a qual se coloca de maneira que o pai fica entre ela e Frederico )
+      [ 1089 ]  Bravos sicambros de Santo Tirso ! agora , à vitória , à vitória que a pátria nos chama !
+      [ 1090 ]  Está inaugurada a república confederada de Santo Tirso !
+      [ 1091 ]  Toque o hino !
+      [ 1091 ]  ( Os músicos executam .
+      [ 1091 ]  Frederico floreia a espada com arrebatada bravura .
+      [ 1091 ]  A morgadinha agita a bandeira .
+      [ 1091 ]  Os comandantes fazem também seus ademanes de valentões .
+      [ 1091 ]  João Lopes sentado com os queixos entre as mãos contempla tudo aquilo .
+      [ 1091 ]  Corre o pano )
+      [ 1092 ]  FIM . 
+      
+ date1550-1599
