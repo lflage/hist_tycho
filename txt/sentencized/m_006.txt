@@ -1,0 +1,2225 @@
+title: 
+      [ 1 ]  
+O FIDALGO APRENDIZ ]
+      [ title: 
+      [ 2 ]  FARSA QUE SE PRESENTE a suas Altezas .]
+
+      [ 3 ]  FIGURAS QUE FALAM .
+
+      [ 4 ]  DOM GIL COGOMINHO
+      [ 5 ]  
+AFONSO MENDES .
+
+      [ 6 ]  BELTRÃO
+      [ 7 ]  ISABEL .
+
+      [ 8 ]  UM MESTRE DE ESGRIMA .
+
+      [ 9 ]  UM MESTRE DE DANÇAR .
+
+      [ 10 ]  UM POETA .
+
+      [ 11 ]  UM MOÇO DE CAVALOS .
+
+      [ 12 ]  UMA COMADRE .
+
+      [ 13 ]  UM HOMEM QUE PASSA .
+
+      [ 14 ]  UM HOMEM DAS ALMAS .
+
+      [ title: 
+      [ 15 ]  PRIMEIRA JORNADA .]
+
+      [ 16 ]  
+Sai Afonso Mendes vestido à portuguesa antiga , botas barbas , festo , pelote , gorra , espada em talabarte .
+
+      [ 17 ]  Sou velho , já fui mancebo , cousa que mal que lhes pês virá por vossas mercês ;
+      [ 18 ]  nasci no Lagar do Sebo faz hoje setenta e três .
+
+      [ 19 ]  Fui prezado , fui temido , passei sóis , passei serenos , rompi bons vintadozenos .
+
+      [ 21 ]  Já nunca mudei vestido , e inda fato mudei menos .
+
+      [ 22 ]  Sei o Açougue no Ressio os Estaus na Inquisição , vi El-rei Dom Sebastião sem dinheiro quis ter brio , fiquei perpétuo rescão
+      [ 23 ]  
+Hoje sirvo não sei donde lá de riba um escudeiro , enfronhado em Cavaleiro ; que de andar posto em ser Conde senão Conde , é Cond'Andeiro
+      [ 24 ]  Com dous mil , e cento a seco me tomou para seu Aio .
+
+      [ 25 ]  Sou seu paje e seu lacaio e ainda hei de ser seu Pacheco , conforme a tudo me ensaio .
+
+      [ 26 ]  Se nũa sandice encalha dou-o , ò demo que é testudo presume de homem sisudo de nada sabe migalha e , anda enxovalhando tudo .
+
+      [ 27 ]  
+Morto por ser namorado contrabaxo , e trovador , cavaleiro , dançador : enfim fidalgo acabado , valentão , e caçador .
+
+      [ 28 ]  Mas ũa comadre minha mulher para muita aquela anda armando-lhe esparrela
+c'uma filha bonitinha que eu fico que caia nela
+      [ 29 ]  
+Oh pesar de meu pai torto ( descreo dos Castelhanos ) pois à fé que é de bons panos ; e ressurgir pode um morto mas que seja de cem anos .
+
+      [ 30 ]  
+Entra na dança comigo um chapado velhacão que eu crismei em Dom Beltrão inculquei-lho por amigo e , o negócio anda em feição
+      [ 31 ]  por que o tal Beltrão pretende a menina tal qual era ; a velha está como cera mas , faz que de nada entende só pelo ganho que espera
+      [ 32 ]  
+Eis meu amo .
+
+      [ 33 ]  
+Sai Dom Gil como de por casa gualteira , balandrau e chinelas , e um pito a o pescoço ; e venha assoviando .
+
+      [ character:  Gil]
+      [ 33 ]  
+Olá criados
+Almeida , Costa , Miranda malovento , a ess'outra banda que desta já são lançados .
+
+      [ 34 ]  Sacratário ?
+
+      [ 35 ]  
+Há tal dormir
+      [ 36 ]  Estribeiro !
+Aio !
+
+      [ character:  Afonso]
+      [ 36 ]  Senhor .
+
+      [ character:  Gil]
+      [ 37 ]  Se chamara o Confessor tinha jeito de não vir .
+
+      [ character:  Afonso]
+      [ 38 ]  Que manda vossa mercê
+      [ character:  Gil]
+      [ 39 ]  Que tenhais mais cortesia .
+
+      [ character:  Afonso]
+      [ 39 ]  
+Que mandais ?
+
+      [ character:  Gil]
+      [ 39 ]  
+A Senhoria , não sei , para quando é .
+
+      [ character:  Afonso]
+      [ 40 ]  Basta que tomou teiró de querer mais do que é seu ?
+
+      [ character:  Gil]
+      [ 41 ]  
+Aio não sejas sandeu que nisso não sou eu só .
+
+      [ 42 ]  
+Os criados donde são .
+
+      [ character:  Afonso]
+      [ 43 ]  
+Todos são dos seus lugares
+      [ character:  Gil]
+      [ 44 ]  Folgais de me dar pesares ?
+
+      [ 45 ]  pergunto-vos donde estão ?
+
+      [ character:  Afonso]
+      [ 46 ]  
+Em casa do inculcador
+      [ character:  Gil]
+      [ 47 ]  Que dizeis Afonso Mendes ?
+
+      [ character:  Afonso]
+      [ 48 ]  Que os tenhais , já que os não tendes e , então pedimos Senhor
+      [ character:  Gil]
+      [ 49 ]  Só por isso , eu os terei
+      [ character:  Afonso]
+      [ 50 ]  Bem podeis quando quiserdes que para quando os tiverdes conta deles vos darei
+      [ 52 ] 
+      [ 53 ]  
+Batem à porta .
+
+      [ character:  Gil]
+      [ 54 ]  
+Enquanto não há porteiro vede quem bate a essa porta .
+
+      [ character:  Afonso]
+      [ 55 ]  Isso sim é o que importa ser ginete , e ser sendeiro
+      [ 56 ]  Chega , à porta e torna logo
+      [ character:
+ 
+Afonso]
+      [ 57 ]  
+O Mestre de Esgrima chama que vos vem a dar lição .
+
+      [ character:  Gil]
+      [ 58 ]  Venha , mas como quem são que bate como ũa dama .
+
+      [ 59 ]  Ensinai-o a falar fora .
+
+      [ 60 ]  Entra o Mestre da Esgrima com grandes guedelhas , colete de anta espada muito comprida , e , embuçado como valente .
+
+      [ character:  Mestre de Esgrima]
+      [ 61 ]  Guarde Deus a vossancé ,
+      [ character:  Gil]
+      [ 62 ]  Ó aio pois isto é o que eu vos disse inda agora ?
+
+      [ character:  Afonso]
+      [ 63 ]  Pois se ele termo não tem que importa que fale assim
+      [ character:  Gil]
+      [ 64 ]  Vem-me ele ensinar a mim ?
+
+      [ 65 ]  
+Pois ensinai-o também .
+
+      [ character:  Mestre de Esgrima]
+      [ 66 ]  Se , lição há de tomar , despachemos que tem homem outros mil , que lição tomem .
+
+      [ character:  Gil]
+      [ 67 ]  Que me haveis vós de ensinar ?
+
+      [ character:  Mestre de Esgrima]
+      [ 68 ]  Quê ?
+
+      [ 69 ]  
+Dous talhos sacudidos .
+
+      [ 70 ]  
+Um mão dobre , um altabaxo três tretas de unhas abaxo quatro panos , seis surzidos .
+
+      [ character:  Gil]
+      [ 71 ]  
+Sabeis mais ?
+
+      [ character:  Mestre de Esgrima]
+      [ 71 ]  
+Não , não sei al .
+
+      [ character:  Gil]
+      [ 72 ]  
+Pois se vós , bem que secreta não medias algũa treta que ninguém me empeça em mal
+      [ 73 ]  que posto me faça a mouco nem por toque , ou por re moque ferro nenhum , me não toque digo-vos que sabeis pouco
+      [ character:  
+Mestre de Esgrima]
+      [ 74 ]  
+Se disto para que valho quer saber , ensinar-lh'-emos .
+
+      [ character:  Gil]
+      [ 75 ]  Ora sus aprenderemos já que tomastes trabalho .
+
+      [ character:  Mestre de Esgrima]
+      [ 76 ]  
+Há espadas ?
+
+      [ character:  Gil]
+      [ 76 ]  Sou quieto .
+
+      [ character:  Mestre de Esgrima]
+      [ 77 ]  Nem adaga ?
+
+      [ character:  Gil]
+      [ 77 ]  Faz-me mal .
+
+      [ character:  Mestre de Esgrima]
+      [ 78 ]  
+Há montante ?
+
+      [ character:  Gil]
+      [ 78 ]  
+Não .
+
+      [ character:  Mestre de Esgrima]
+      [ 78 ]  Mangoal ?
+
+      [ character:  Gil]
+      [ 79 ]  Menos que tudo .
+
+      [ character:  Mestre de Esgrima]
+      [ 79 ]  
+Há espeto ?
+
+      [ character:  Gil]
+      [ 80 ]  Tenho a casa sem adorno
+      [ 81 ]  
+Vim há pouco .
+
+      [ character:  Afonso]
+      [ 81 ]  Não riais de tal dito .
+
+      [ character:  Gil]
+      [ 81 ]  
+Quanto mais , que eu , como assado do forno
+      [ 82 ]  ( com que os espetos escuso ) por que é mais tenro , ao trinchar .
+
+      [ character:  Mestre de Esgrima]
+      [ 83 ]  
+Há cana de esfolinhar .
+
+      [ character:  Gil]
+      [ 84 ]  Nem há cana , nem há fuso .
+
+      [ character:  Mestre de Esgrima]
+      [ 85 ]  Vou-me logo .
+
+      [ character:  Gil]
+      [ 85 ]  Tende mão .
+
+      [ 86 ]  Ó aio , andai sem tardança e havei-me da vezinhança com que possa dar lição .
+
+      [ character:  Afonso]
+      [ 87 ]  
+Pois eu mesquinho de mi quem me há a mi de dar arneses ?
+
+      [ character:  Gil]
+      [ 88 ]  Ora buscai , que mil vezes acha homem as cousas per i .
+
+      [ 89 ]  Vai-se Afonso Mendes .
+
+      [ character:  Gil]
+      [ 90 ]  Olhai Mestre ; eu sou morgado .
+
+      [ 91 ]  não tenho irmão , nem irmã .
+
+      [ 92 ]  Tenho um casal na Lousã e , não me quero arriscado
+      [ 93 ]  em prefias , nem arrufos .
+
+      [ character:  Mestre de Esgrima]
+      [ 94 ]  Eu sei já que quereis
+      [ 96 ] 
+      [ 97 ]  
+Entra Afonso Mendes , com dous chapins velhos , na mão
+      [ character:  
+Afonso]
+      [ 98 ]  Ora sus descansareis
+      [ 99 ]  a qui trago dous pantufos .
+
+      [ character:  Gil]
+      [ 100 ]  Chapins trazeis ?
+
+      [ 101 ]  Ora ide
+      [ 102 ]  Aio , não sejais assim .
+
+      [ character:  Afonso]
+      [ 103 ]  
+Pois eu sei quem c'um chapim faz fataxas como um Cide
+      [ character:  Gil]
+      [ 104 ]  
+Ouvi sempre a minha tia tomar o que o tempo dá que é grão siso , dai-os cá .
+
+      [ 105 ]  Beje
+Afonso Mendes
+os pantufos , e lhos entregue
+.
+
+      [ character:  Afonso]
+      [ 106 ]  Tome Vossa Senhoria
+      [ 107 ]  
+Toma Dom Gil os pantufos , e convida ao Mestre com qualquer deles .
+
+      [ character:  Gil]
+      [ 108 ]  Escolhei , não haja engano ;
+
+      [ 109 ]  já sou frio , como a neve !
+
+      [ 110 ]  Faz que lhe toma o peso .
+
+      [ 111 ]  
+Vistes vós cousa mais leve ?
+
+      [ 112 ]  brigarei com ele um ano .
+
+      [ 113 ]  Ponha-se cada um com seu chapim na mão em postura de esgrimir .
+
+      [ character:  Mestre de Esgrima]
+      [ 114 ]  Seja a primeira lição que desta arte se vos dê que andeis ligeiro do pé muito mais , do que da mão .
+
+      [ character:  Gil]
+      [ 115 ]  Tá tá , escusai a prosa que eu sei que sois de primor .
+
+      [ character:  Mestre de Esgrima]
+      [ 116 ]  Logo os pés aureis de pôr ,
+      [ character:  Gil]
+      [ 117 ]  Já sei .
+
+      [ character:  Mestre de Esgrima]
+      [ 117 ]  
+Onde ?
+
+      [ character:  Gil]
+      [ 117 ]  Em polvorosa .
+
+      [ character:  Mestre de Esgrima]
+      [ 118 ]  Depois dessa entendei logo , que em vos chegando a puxar o ponto haveis de tomar .
+
+      [ character:  Gil]
+      [ 119 ]  Já sei , as de vila-diogo .
+
+      [ character:  Mestre de Esgrima]
+      [ 120 ]  
+Dai dois talhos ao giolho como quem faz remoinho .
+
+      [ character:  Gil]
+      [ 121 ]  Mestre julgai de mansinho que me vazareis um olho .
+
+      [ 122 ]  
+Esgrima só .
+
+      [ character:  Afonso]
+      [ 123 ]  Ó Deus que grão desconcórdia !
+
+      [ 124 ]  Batem à porta .
+
+      [ character:  Gil]
+      [ 125 ]  Batem ?
+
+      [ character:  Afonso]
+      [ 125 ]  
+Sim
+      [ character:  Gil]
+      [ 125 ]  Respondei lá
+      [ character:  Afonso]
+      [ 126 ]  Já vou .
+
+      [ character:  Gil]
+      [ 126 ]  
+Visita será
+      [ character:  Afonso]
+      [ 127 ]  
+Da santa misericórdia
+      [ 128 ]  
+Vai-se Afonso Mendes ,
+      [ 129 ]  Esgrime Dom Gil , e o Mestre
+      [ character:
+ Gil]
+      [ 130 ]  Assopra que isso é cortar por são tal , que vos demſembre
+      [ character:  Mestre de Esgrima .]
+
+      [ 131 ]  Calai que é , por que vos lembre .
+
+      [ character:  Gil]
+      [ 132 ]  Prometo de me lembrar
+      [ 133 ]  Torna Afonso Mendes .
+
+      [ character:  Afonso]
+      [ 134 ]  Quatro Mestres juntos vêm
+      [ character:  
+Gil]
+      [ 135 ]  Eles têm mui boa andança vem o da Solfa ?
+
+      [ character:  Afonso]
+      [ 135 ]  E o da Dança
+      [ character:  Gil]
+      [ 136 ]  E o das Trovas ?
+
+      [ character:  Afonso]
+      [ 136 ]  Vem também
+      [ character:  Gil]
+      [ 137 ]  
+Todavia nenhum tarda são finíssimos .
+
+      [ character:  Afonso]
+      [ 137 ]  Basbaques .
+
+      [ character:  Gil]
+      [ 138 ]  Falta algum ?
+
+      [ character:  Afonso]
+      [ 138 ]  
+Sim , Mestre Jaques
+      [ character:  Gil]
+      [ 139 ]  E para vós Mestre
+Albarda
+      [ 141 ] 
+      [ character:  
+Mestre de Esgrima]
+      [ 142 ]  
+Vós tendes lição tomado
+      [ 143 ]  Vou-me andando .
+
+      [ character:  Gil]
+      [ 143 ]  Afonso Mendes dai-lhe ora aí , se o tendes , um meio vintém selado .
+
+      [ character:  Mestre de Esgrima]
+      [ 144 ]  Oh enfreado ele o fora se nos topáramos sós
+      [ character:  Gil]
+      [ 145 ]  
+Eu me lembrarei de vós sem mais talhos ,
+      [ 146 ]  Ide embora .
+
+      [ 147 ]  Vai-se Mestre de Esgrima .
+
+      [ character:  Afonso]
+      [ 148 ]  
+Qual quereis que entre primeiro ?
+
+      [ character:  Gil]
+      [ 149 ]  O da Dança .
+
+      [ character:  Afonso]
+      [ 149 ]  Entra , e nô mais
+      [ 150 ]  Entra o Mestre da Dança muito polido fazendo mesuras , põe-se de joelhos diante de Dom Gil , pega-lhe nas mãos para lhas beijar .
+
+      [ character:  Mestre de Esgrima]
+      [ 151 ]  
+Dai-me as mãos
+      [ character:  Gil]
+      [ 151 ]  
+Não mas comais que não são mãos de carneiro
+      [ 152 ]  
+Sois o Mestre ?
+
+      [ character:  Mestre de Esgrima]
+      [ 152 ]  E o rei David mais antigo da cidade
+      [ character:  Gil]
+      [ 153 ]  
+Tereis grande habilidade
+      [ character:  Mestre de Esgrima]
+      [ 154 ]  Estive já em Madri
+      [ character:  Gil]
+      [ 155 ]  
+Oh se fostes à Castela sabereis , cem mil mudanças
+      [ character:  Mestre de Esgrima]
+      [ 156 ]  
+Para mudanças , e danças , todos sabemos mais que ela .
+
+      [ character:  Gil]
+      [ 157 ]  Ora tiro o balandrau que o aprender sempre é virtude .
+
+      [ 158 ]  Tira o capote .
+
+      [ character:  Mestre de Dança]
+      [ 159 ]  Há em casa algum laúde ?
+
+      [ character:  Afonso]
+      [ 160 ]  Não há mais que um berimbau
+      [ character:  Mestre de Dança]
+      [ 161 ]  
+Violas ?
+
+      [ character:  Afonso]
+      [ 161 ]  Sim achareis na botica .
+
+      [ character:  Mestre de Dança]
+      [ 161 ]  Harpa ?
+
+      [ character:  Afonso]
+      [ 161 ]  
+De couro .
+
+      [ character:  Mestre de Dança]
+      [ 162 ]  Nem um sistro ?
+
+      [ character:  Afonso]
+      [ 162 ]  
+Um sistro agouro .
+
+      [ character:  Mestre de Dança]
+      [ 163 ]  Nem sequer dous cascavéis ?
+
+      [ character:  Gil]
+      [ 164 ]  Eu andei com a alma nos dentes est'outros dias passados por que diz , que os namorados nunca podem ser contentes .
+
+      [ 165 ]  Despedi toda a capela que em desafinando estroje ;
+
+      [ 166 ]  de sorte que quanto é hoje fareis som numa panela .
+
+      [ 167 ]  Mas por vida dos Coutinhos que isto se fique entre nós , Mestre , que bem sabeis vós que o tempo vai de escarninhos .
+
+      [ 168 ]  
+Eu quisera-me encampar sem primeiro andar em contos costumando-se homens tontos que o seu viver é matar
+      [ character:  Mestre de Dança]
+      [ 169 ]  Senhor , das portas a dentro todos passam dela , e dela , mandai que venha a panela .
+
+      [ character:  Afonso]
+      [ 170 ]  Ontem deu c'os tampãos dentro
+      [ character:  Gil]
+      [ 171 ]  Quebrou-se ?
+
+      [ 172 ]  Sou desgraçado !
+
+      [ character:  Afonso]
+      [ 173 ]  Pois agastais-vos de nada ?
+
+      [ character:  Gil]
+      [ 174 ]  Não é ela a destampada que vós sois o destampado
+      [ 175 ]  e calaste-lo ?
+
+      [ 176 ]  está bom .
+
+      [ character:  Mestre de Dança]
+      [ 177 ]  
+Eu vos tangerei co
+a mão
+      [ character:  Gil]
+      [ 178 ]  Tangei , que eu não dou lição assim sem tom , e sem som .
+
+      [ character:  Mestre de Dança]
+      [ 179 ]  Passeai por essa casa que vos quero dar o ar .
+
+      [ character:  Gil]
+      [ 180 ]  Isso é querer-me aleijar , dar-me o ar estando em brasa !
+
+      [ character:  Mestre de Dança]
+      [ 181 ]  
+Fazei mesuras .
+
+      [ 182 ]  Faça Dom Gil muitas mesuras sem feição .
+
+      [ character:  Gil]
+      [ 182 ]  A os pares
+      [ 183 ]  Mestre de Dança
+      [ 184 ]  
+Este pé esse acompanha sempre ?
+
+      [ 185 ] 
+      [ character:  Afonso]
+      [ 185 ]  
+Não , ninguém lhe ganha em mostrar os calcanhares !
+
+      [ character:  Mestre de Dança]
+      [ 187 ]  Andai , parai , dai três voltas
+      [ 188 ]  ide depressa , ide de espaço ;
+      [ 189 ]  haveis de andar a compasso .
+
+      [ 190 ]  
+Faz Dom Gil tudo quanto o Mestre lhe manda .
+
+      [ character:  Gil]
+      [ 191 ]  Melhor é lançar-me soltas .
+
+      [ character:  Mestre de Dança]
+      [ 192 ]  
+Podeis entrar num sarau segundo o bem que aprendeis .
+
+      [ character:  Gil]
+      [ 193 ]  
+Pois Mestre , que mais sabeis ?
+
+      [ character:  Mestre de Dança]
+      [ 194 ]  Ũa alta , um pé-de-xibau ,
+      [ 195 ]  galharda , pavana rica ; e nestas , novas mudanças .
+
+      [ character:  Gil]
+      [ 196 ]  Tende , que isso não são danças senão cousas de botica .
+
+      [ 197 ]  sabeis o sapateado ?
+
+      [ 198 ]  o terolero ?
+
+      [ 199 ]  o vilão ?
+
+      [ 200 ]  o mochachim ?
+
+      [ character:  Mestre de Dança]
+      [ 200 ]  Senhor não .
+
+      [ character:  Gil]
+      [ 201 ]  Pois sois Mestre mui minguado
+      [ character:  Mestre de Dança]
+      [ 202 ]  Não falais como quem sois .
+
+      [ character:  Gil]
+      [ 203 ]  Andai d'aí , sem mais contenda que eu não sou homem que aprenda por bicos de roxinóis .
+
+      [ character:  Afonso]
+      [ 204 ]  Tomai-vos c'o mentecapto , mais falido que centeo ,
+      [ 205 ]  por lhe não dar outro meo faz dele gato sapato .
+
+      [ character:  Gil]
+      [ 206 ]  Andai
+      [ 207 ]  Vai-se o Mestre da Dança .
+
+      [ 207 ]  Vou-me que é preciso
+      [ character:  Afonso]
+      [ 208 ]  
+Quem mandais que entre ?
+
+      [ character:  Gil]
+      [ 208 ]  
+Esperai que por vida de meu pai que estou cansado de siso .
+
+      [ 209 ]  Mas por saber cousas novas , é tudo bem empregado entre esse licenciado que diz , que é Mestre das Trovas
+      [ 210 ]  este ofício me contenta que inda que há quebras , há sobras , e , enfim são estas as obras que não gastam ferramenta .
+
+      [ 211 ]  Venha o trovador solene .
+
+      [ 212 ]  
+Vai Afonso Mendes à porta , e traz consigo um estudantão muito sujo , e muito mal vestido , entre muito devagar fazendo cortesias .
+
+      [ character:  Poeta .]
+      [ 213 ]  O claro humor de Pirene em diplúvios fragantes candidice borde , esmalte , retoque , aromatize .
+
+      [ character:  Gil]
+      [ 214 ]  Aio !
+
+      [ 215 ]  
+Este homem vem perene .
+
+      [ character:  Poeta]
+      [ 216 ]  
+A graça , a gentileza a fidalguia o grão valor , o literário estudo de Vossa Senhoria .
+
+      [ character:  Gil]
+      [ 217 ]  
+Vedes aio ?
+
+      [ 218 ]  Todavia bem disse eu que era sesudo .
+
+      [ character:  Poeta]
+      [ 219 ]  
+Ante vossa presença jaz estático um culto professor do estudo crítico , que outros querem chamar humor frenético .
+
+      [ character:  Gil]
+      [ 220 ]  Aio !
+
+      [ 221 ]  ouvis que vem asmático ?
+
+      [ 222 ]  chamai-me logo o meu físico que es te me há de deixar ético .
+
+      [ character:  Afonso]
+      [ 223 ]  
+Meu Senhor nunca se espante que estes tais palram assim
+      [ character:  
+Gil]
+      [ 224 ]  Mestre não faleis latim que eu nunca fui estudante .
+
+      [ character:  Poeta]
+      [ 225 ]  Falarei como mandais bom português , velho ; relho ,
+      [ character:  Gil]
+      [ 226 ]  
+Crede que é melhor conselho .
+
+      [ character:  Poeta]
+      [ 227 ]  Venho a ver do que gostais .
+
+      [ character:  Gil]
+      [ 228 ]  
+Sois poeta ?
+
+      [ character:  Poeta]
+      [ 228 ]  E o declaro .
+
+      [ character:  Gil]
+      [ 229 ]  Fazeis motes
+      [ character:  Poeta]
+      [ 229 ]  E os remendo .
+
+      [ character:  Gil]
+      [ 230 ]  Remendão sois ?
+
+      [ 231 ]  Ou entendo eu mal , ou não falais claro .
+
+      [ 233 ] 
+      [ character:  Poeta]
+      [ 234 ]  Às vezes sou de obra prima calça do velho outra vez ; chega um fidalgo cortês ; destes nem prosa , nem rima ;
+      [ 235 ]  que tem seus jeitos no Paço ;
+
+      [ 236 ]  vem de noite sem ser visto mostra um hábito de Cristo , pede-me um mote , e lho faço
+      [ 237 ]  outro que engasgado vem com dois versos sem feição pede no mais de um tacão paga , e lanço-lho também .
+
+      [ 238 ]  quantos namoram na rua que em mim cada qual se fia ?
+
+      [ character:  Gil]
+      [ 239 ]  
+Ah , por isso eu sempre ouvia eles bebem , e homem sua
+      [ 240 ]  ora de um enguirimanso chamado como por Momo cabeça de motes , como vos vai , Senhor Mestre ?
+
+      [ character:  Poeta]
+      [ 240 ]  Manso !
+
+      [ 241 ]  querei-lo saber de mim ?
+
+      [ 242 ]  Dir-vo-lo-ei .
+
+      [ character:  Gil]
+      [ 243 ]  Dizei ora
+      [ character:  Poeta]
+      [ 244 ]  Como ora digamos
+      [ character:  Gil]
+      [ 245 ]  Nora , que anda à roda , e não tem fim
+      [ 246 ]  como se fazem ?
+
+      [ character:  Poeta]
+      [ 246 ]  Começa perguntando , o que mais ousa .
+
+      [ character:  Gil]
+      [ 247 ]  Calai Senhor , que em tal cousa nunca achei pés , nem cabeça .
+
+      [ 248 ]  
+Fazeis sonetos ?
+
+      [ character:  Poeta]
+      [ 248 ]  Jeitosos
+      [ character:
+ Gil]
+      [ 249 ]  Romances ?
+
+      [ character:  Poeta]
+      [ 249 ]  
+Podem-se ler
+      [ character:
+ Gil]
+      [ 250 ]  Décimas ?
+
+      [ character:  Poeta]
+      [ 250 ]  Quantas quiser .
+
+      [ character:  Gil]
+      [ 251 ]  Tercetos ?
+
+      [ character:  Poeta]
+      [ 251 ]  São vagarosos
+      [ character:  Afonso]
+      [ 252 ]  Dai vós ao demo o famaco como ele os homens estreita .
+
+      [ character:  Gil]
+      [ 253 ]  Pois fazei-los por receita ou assim trovas em saco .
+
+      [ character:  Poeta]
+      [ 254 ]  
+Os versos tem seu quilate e medidas já sabidas .
+
+      [ character:  Gil]
+      [ 255 ]  Oh , se os fazeis por medidas sereis poeta alfaiate !
+
+      [ 256 ]  mas ora sus escutai bem que não tive lição uma trova com feição .
+
+      [ character:  Poeta]
+      [ 257 ]  
+Podeis dizer .
+
+      [ character:  Gil]
+      [ 257 ] 
+      [ 258 ]  Vós estais no vosso estrado ja zendo como um prelado e , eu triste na chaminé como um negro bujamé .
+
+      [ character:  Poeta]
+      [ 259 ]  Não a fez tal frei Sicrócio .
+
+      [ character:  Gil]
+      [ 260 ]  Pois é toda em consoante .
+
+      [ character:  Poeta]
+      [ 261 ]  Ora vamos adiante
+      [ character:  Gil]
+      [ 262 ]  
+Ouvi-lhe agora o negócio .
+
+      [ 263 ]  Sendo todos de um terrão minha mana
+Grimaneza não sei eu por que razão quereis sempre ser princesa e eu seja madraceirão
+      [ 264 ]  
+Todo o mundo por vós chama que há chamar de muitos modos ;
+
+      [ 265 ]  a mim apupam-me todos do Mocambo inté
+Al fama
+      [ character:  Poeta]
+      [ 266 ]  
+Há mais ?
+
+      [ character:  Gil]
+      [ 266 ]  
+Não .
+
+      [ character:  Poeta]
+      [ 266 ]  Estão bem feitos mas falta para dez um .
+
+      [ character:  Gil]
+      [ 267 ]  
+Mestre não falta nenhum são eles todos perfeitos ?
+
+      [ character:  Poeta]
+      [ 268 ]  Todos , mas um falta .
+
+      [ character:  Gil]
+      [ 268 ]  Eu sei que não falta ;
+      [ 269 ]  homem não vês que de cada cousa dez levam uma para El-rei ?
+
+      [ 270 ]  pois eu não sou dos de Malta
+      [ 271 ]  Pago como paga o prove , de sorte , que se tem nove nenhum para dez , lhe falta .
+
+      [ 273 ] 
+      [ 274 ]  Chega Afonso Mendes à porta , e torna logo .
+
+      [ character:  Afonso]
+      [ 275 ]  Dou tais mestres ao pecado
+      [ 276 ]  ora eis chega Dom Beltrão .
+
+      [ character:  Gil]
+      [ 277 ]  Vem por mim .
+
+      [ 278 ]  
+Traz coche ?
+
+      [ character:  Afonso]
+      [ 278 ]  
+Não .
+
+      [ character:  Gil]
+      [ 279 ]  Em que vem ?
+
+      [ character:  Afonso]
+      [ 279 ]  No seu calçado .
+
+      [ character:  Gil]
+      [ 280 ]  
+Ora embora .
+
+      [ 281 ]  Como é perto ir-nos-emos passeando
+      [ character:  Poeta]
+      [ 282 ]  
+Eu também me vou andando .
+
+      [ character:  Gil]
+      [ 283 ]  Ficamos neste concerto
+      [ 284 ]  Mandar-vos-ei , o murzelo
+      [ 285 ]  vireis cá todos os dias .
+
+      [ character:  Poeta]
+      [ 286 ]  Em dobro as Senhorias e vou-me muito singelo .
+
+      [ 287 ]  Vai-se o poeta .
+
+      [ character:  Gil]
+      [ 288 ]  Dom Beltrão não quer subir ?
+
+      [ character:  Afonso]
+      [ 289 ]  Diz que antes quer passear
+      [ 290 ]  agora o leva a cortar .
+
+      [ character:  Gil]
+      [ 291 ]  Ora sus , vou-me vestir .
+
+      [ 292 ]  Aio , dizei-me é estreita essa rua ?
+
+      [ character:  Afonso]
+      [ 292 ]  Senhor não .
+
+      [ character:  Gil]
+      [ 293 ]  E agora este Dom Beltrão é homem de mão direita ?
+
+      [ character:  Afonso]
+      [ 294 ]  
+Nada aos amigos negai que essa regra é cousa crua
+      [ character:  Gil]
+      [ 295 ]  
+Não que um fidalgo na rua há de saber como vai .
+
+      [ closing: 
+      [ 296 ]  
+Entram-se ambos , tocam-se as violas , e se a caba a Primeira Jornada .]
+      [ title: 
+      [ 297 ]  SEGUNDA JORNADA . ]
+
+      [ 298 ]  
+Sai Isabel , e Brites sua filha , a primeira de Velha , e a segunda de Dama do Bairro Alto .
+
+      [ character:  Isabel]
+      [ 299 ]  Adu-lo o teu malvaísco Brites filha , e o solimão ?
+
+      [ 300 ]  que é da arruda ?
+
+      [ character:  Brites]
+      [ 301 ]  Melhor me fora trovisco que me mudara o carão que essa muda .
+
+      [ 302 ]  Contra uma firme vontade não há erva , nem peçonha , com virtude .
+
+      [ 303 ]  nem amor há com verdade que por mais mudas que ponha , que se mude .
+
+      [ character:  Isabel]
+      [ 304 ]  Brites não sejas criança fidalguinhos de colher são tormento .
+
+      [ 305 ]  Tudo é vender esperança e quando os haveis mister malovento !
+
+      [ 306 ]  Grandes crenchas penteadas dões fulanos , todos dões ai , ai , ai !
+
+      [ 307 ]  E se as mulheres honradas lhe pedem quatro tostões , perdoai .
+
+      [ character:  Brites]
+      [ 308 ]  Mas que não tenham ceitil saibam falar português , tenham arte
+      [ 309 ]  
+Olhai lá para um Dom Gil mais cansado que um maltês .
+
+      [ 310 ]  Brites guar-te !
+
+      [ 311 ]  Que é ver um mancebo brando falar de noite , a uma porta donde trata !
+
+      [ 312 ]  Pois verde-lo ir andando o ar parece que corta , e , ele mata .
+
+      [ 314 ] 
+      [ 315 ]  
+Pois se acaso for à feira passará sem vos trazer ramalhete , ( sem que nada de vós queira ) aquilo , a quem o entender , põe ferrete .
+
+      [ 316 ]  
+Um falar com tanto jeito um ditinho de repente , que afeiçoa : um ter em tudo respeito
+      [ 317 ]  
+Ai , mate-me Deus co a gente de Lisboa .
+
+      [ character:  Isabel]
+      [ 318 ]  Meu espelho , eu não te tolho que tenhas lá para ti passatempo , que a mim em me enchendo o olho também ( má hora ) era assi no meu tempo
+      [ 319 ]  
+Mas esse Dom Gil que ofendes é mui rico , e abastado , e é noviço !
+
+      [ 320 ]  Inculcou-mo Afonso Mendes que o traz , sendo seu criado a teu serviço
+      [ 321 ]  Também nisso entra o galante que tu conheçes , e quer ser teu cujo
+      [ character:  
+Brites]
+      [ 322 ]  Qual ?
+
+      [ character:  Isabel]
+      [ 322 ]  Beltrão .
+
+      [ character:  Brites]
+      [ 322 ]  
+Ai o bargante .
+
+      [ 323 ]  E vós mãe a lho sofrer
+      [ 324 ]  
+Ui o sujo !
+
+      [ 325 ]  Batem à porta .
+
+      [ character:  Isabel]
+      [ 326 ]  
+Vê quem chama .
+
+      [ 327 ]  Chegue Brites à porta .
+
+      [ character:  Brites]
+      [ 327 ]  
+Ai , eles são
+      [ character:  Isabel]
+      [ 328 ]  
+Sus ao estrado , e depressa que ei-los vem .
+
+      [ 328 ]  
+Digam fora batendo .
+
+      [ 329 ]  Ou lá !
+
+      [ character:  Isabel]
+      [ 329 ]  
+Quem é ?
+
+      [ 329 ]  
+Digam fora .
+
+      [ 329 ]  Dom Beltrão .
+e Dom Gil , minha condessa homens de bem .
+
+      [ character:  Isabel]
+      [ 330 ]  Brites não é para rir ver qual vem homem de corte o embusteiro ?
+
+      [ 330 ]  Digam fora .
+
+      [ 331 ]  Mandais que possam subir ?
+
+      [ character:  Brites]
+      [ 332 ]  E descer quando lhe importe .
+
+      [ 333 ]  
+Entra Dom Beltrão vestido de cortesão , e Dom Gil de estranha figura , e muito enfeitado .
+
+      [ character:  Beltrão]
+      [ 334 ]  Sou primeiro .
+
+      [ character:  Isabel]
+      [ 335 ]  
+Vós sois o mais abelhudo .
+
+      [ character:  Beltrão]
+      [ 336 ]  Em servir-vos diligente .
+
+      [ character:  Isabel]
+      [ 337 ]  Sede embora
+      [ character:  Brites]
+      [ 338 ]  Guarde Deus tanto veludo
+      [ character:  Isabel]
+      [ 339 ]  Tomastes-nos de repente
+      [ character:  Gil]
+      [ 340 ]  Oh Senhora !
+
+      [ character:  Beltrão]
+      [ 341 ]  Oh Senhora ante quem é sem sal , o salgado mar se vos vir ; fale-vos vossa mercê .
+
+      [ character:  Isabel]
+      [ 342 ]  Eu não digo só , falar ; mas servir
+      [ character:
+ Gil]
+      [ 343 ]  A vossos pés minha estrela ó Dama de grão primor ; jaz aquele , que quanto em vós há de bela tanto de firme amador haverá nele .
+
+      [ character:  Brites]
+      [ 344 ]  
+Tanto amor em poucos dias ?
+
+      [ 346 ]  deveis ser de bom comer sem fastio .
+
+      [ character:  Gil]
+      [ 347 ]  Sou contrário de aprofias e se amor cozer me quer sou cotio .
+
+      [ character:  Brites]
+      [ 348 ]  Como é , Senhor vossa graça ?
+
+      [ character:  Gil]
+      [ 349 ]  Dom Gil Cogominho
+      [ character:  Brites]
+      [ 349 ]  Apelo !
+Santiago .
+
+      [ character:  Gil]
+      [ 350 ]  Estranhais ?
+
+      [ 351 ]  
+Sou de grão raça
+
+      [ character:  Brites]
+      [ 352 ]  Sede antes Gil cogumelo ou saramago .
+
+      [ character:  Gil]
+      [ 353 ]  Até Gil nabo , se é bom serei Dama deste dia pois gostais .
+
+      [ 354 ]  E não só deixar o Dom ; mas a própria Senhoria , se mandais
+      [ 355 ]  Por vós desejo correr todo o mundo como um galgo trás de haveres
+      [ character:  Brites]
+      [ 356 ]  Se vós flor haveis de ser antes sede , meu fidalgo malmequeres
+      [ 357 ]  
+Tendes Dama ?
+
+      [ character:  Gil]
+      [ 357 ]  
+Ela me tem
+      [ character:  
+Brites]
+      [ 358 ]  É ditosa .
+
+      [ character:  Gil]
+      [ 358 ]  Não o nego
+      [ character:  Brites]
+      [ 359 ]  Coitadinho .
+
+      [ character:  Gil]
+      [ 360 ]  
+Preso estou
+.
+
+      [ character:  Brites]
+      [ 360 ]  E ela também ?
+
+      [ character:  Gil]
+      [ 361 ]  
+Ela não , que eu sou o cego e o cachorrinho .
+
+      [ character:  Brites]
+      [ 362 ]  
+Sois delgado ?
+
+      [ character:  Gil]
+      [ 362 ]  
+Tal , que quebro .
+
+      [ character:  Brites]
+      [ 363 ]  Ui por ele como pega e aprofia .
+
+      [ character:  Gil]
+      [ 364 ]  Ó meu Anjo , e meu requebro quem vos vira a vós , a cega e ele a guia .
+
+      [ character:  Brites]
+      [ 365 ]  
+Sois poeta ?
+
+      [ character:  Gil]
+      [ 365 ]  Assim se roje .
+
+      [ character:  Brites]
+      [ 366 ]  Grande ?
+
+      [ character:  Gil]
+      [ 367 ]  Se estou namorado trato disso
+      [ character:  
+Brites]
+      [ 368 ]  
+Que obrais ?
+
+      [ character:  Gil]
+      [ 368 ]  Não trabelho em loje
+      [ character:  Brites]
+      [ 369 ]  
+Sois poeta de sobrado
+      [ character:  Gil]
+      [ 370 ]  Isso , isso .
+
+      [ character:  Brites]
+      [ 371 ]  Tangeis ?
+
+      [ character:  Gil]
+      [ 371 ]  
+Qualquer cousa tanjo
+      [ character:  Brites]
+      [ 372 ]  Cantais , se a dor vos provoca ?
+
+      [ character:  Gil]
+      [ 373 ]  Se me toma , não me gabo eu ora de anjo mas canto ; que quem tem boca vai a Roma .
+
+      [ character:  Brites]
+      [ 374 ]  
+Que voz ?
+
+      [ character:  Gil]
+      [ 374 ]  Como voz ?
+
+      [ character:  Brites]
+      [ 375 ]  Não digo se não se a Baixo , ou a Tenor .
+
+      [ 376 ]  
+Se entremete ?
+      [ character:  Gil]
+      [ 377 ]  Dos altos era eu amigo , mas hoje só tem louvor o falsete .
+
+      [ character:  Brites]
+      [ 378 ]  Entoai por meu prazer qualquer cousa .
+
+      [ character:  Gil]
+      [ 379 ]  Sem guitarra ?
+
+      [ character:  Brites]
+      [ 380 ]  Ei-la tomai .
+
+      [ 381 ]  Dá-lhe uma viola , tange como que quer cantar .
+
+      [ character:  Gil]
+      [ 382 ]  Pois que não posso al fazer ,
+      [ character:  Brites]
+      [ 383 ]  
+Ai que canta , e não escarra !
+
+      [ character:  Gil]
+      [ 384 ]  Ora ei-lo vai .
+
+      [ 385 ]  Canta Dom Gil o melhor que pode o que se segue cantando .
+
+      [ character:  Gil]
+      [ 386 ]  
+Passeava-se Silvana por um corredor um dia
+      [ character:  Brites]
+      [ 387 ]  
+Ai Senhor !
+
+      [ 388 ]  
+Eu não queria senão letra castelhana .
+
+      [ character:  Gil]
+      [ 389 ]  
+Cantarei algaravia
+      [ 390 ]  
+Se mandais , pois que quereis ?
+
+      [ character:  Brites]
+      [ 391 ]  
+Ũa letra nova quero .
+
+      [ 393 ] 
+      [ 394 ]  Canta .
+
+      [ character:  Gil]
+      [ 395 ]  
+A cazar va caballero
+      [ character:  Brites]
+      [ 396 ]  
+Ai mãe !
+
+      [ 397 ]  
+Acinte o fazeis ?
+
+      [ 398 ]  
+Por isso eu me desespero
+      [ character:  Gil]
+      [ 399 ]  
+Ora estai que já entendo quereis romances trovados ...
+
+      [ 400 ]  
+Mis amorosos
+cuidados , cómo se estarán durmendo
+      [ character:  
+Brites]
+      [ 401 ]  Isto foram meus pecados !
+
+      [ 402 ]  
+Vos cuido que estais zombando ora dizei !
+
+      [ character:  Gil]
+      [ 402 ]  Já me estanco
+      [ 403 ]  
+Gavião gavião branco vai ferido , e vai voando
+      [ character:  Brites]
+      [ 404 ]  
+Ui pelo pássaro manco !
+
+      [ 405 ]  
+Sabeis algũa ao divino ?
+
+      [ character:  Gil]
+      [ 406 ]  
+Sei
+      [ character:  
+Brites]
+      [ 406 ]  
+Dizei
+      [ character:  Gil]
+      [ 406 ]  
+Pois é famosa andorinha gloriosa
+      [ character:  Brites]
+      [ 407 ]  
+Tendes cousas de menino ?
+
+      [ character:  Gil]
+      [ 408 ]  Sou todo amor , minha rosa .
+
+      [ 409 ]  Chegue a falar como em segredo Dom Gil , e Brites , e diga Isabel a Dom Beltrão .
+
+      [ character:  Isabel]
+      [ 410 ]  Ora sus , pois há de ser e tendes dado recado bom é levá-lo esfaimado e quando o sino correr tende tudo aparelhado .
+
+      [ 411 ]  As redes lhe vou armar eu vos fico que ele caia
+      [ character:  Beltrão]
+      [ 412 ]  
+E eu que vós tenhais a saia
+      [ 413 ]  Brites haveis de ensinar .
+
+      [ character:  Isabel]
+      [ 414 ]  
+À minha conta deixai-a
+      [ 415 ]  
+Vai-se Isabel dond'está Dom Gil e Brites .
+
+      [ character:  Isabel]
+      [ 416 ]  
+Vedes vós como se achega ?
+
+      [ 417 ]  
+Dão-lhe o pé , e toma a mão !
+
+      [ 418 ]  Segredinhos , isso não !
+
+      [ 419 ]  
+Falar ninguém vo-lo nega mas falar de cortesão !
+
+      [ character:  Gil]
+      [ 420 ]  Senhora Dona , não cude de mim que sou mal fazejo que sei desta casa , e vejo a honra , e muita virtude , e viver nela desejo .
+
+      [ character:  Isabel]
+      [ 421 ]  
+Nesta ao menos não será antes ando nessa andança tenho mui má vezinhança e outra casa tenho já lá no bairro da Esperança .
+
+      [ 422 ]  Mas por não ter dez mil réis que venço nas obras pias me não mudei estes dias .
+
+      [ character:  Gil]
+      [ 423 ]  
+Ó Senhora , que dizeis
+      [ 424 ]  Dez mil réis são ninharias !
+
+      [ character:  Isabel]
+      [ 425 ]  Ninharias ?
+
+      [ 426 ]  
+Ai de mim !
+( ele entrou no labarinto )
+      [ 427 ]  
+Bofé Senhor isso sinto , mas por isso eu sempre vi rir-se o farto do faminto .
+
+      [ character:  Gil]
+      [ 428 ]  Vou buscá-los ,
+      [ 429 ]  venho asinha
+      [ character:  Isabel]
+      [ 430 ]  Não tomeis tanta canseira que amenhã é terça-feira
+      [ 431 ]  
+Venderei uma vasquinha mas que a vá queimar à feira .
+
+      [ character:  Gil]
+      [ 432 ]  Fatos vos quisera eu ricos queimados não , prefumados :
+      [ character:  Isabel]
+      [ 433 ]  Não que eu devo dez cruzados ;
+      [ 434 ]  a fora assim outros bicos , que homem vive c'os honrados
+      [ character:  Gil]
+      [ 435 ]  Senhora , a tudo me ponho que eu compricurtos não safo .
+
+      [ character:  Isabel]
+      [ 436 ]  
+Bom é chegar a bom bafo porque enfim se me envergonho bem sei com quem desabafo
+      [ 437 ]  
+O que vós filho vereis ( dou a Deus muitos louvores ) que em nós como nas melhores , cruzados não achareis , porém achareis primores .
+
+      [ 439 ]  Brites é muito muchacha ( deixai que assim vo-lo diga )
+há de ser mui vossa amiga .
+quanto mais que não é tacha estranhar-se é rapariga
+      [ 440 ]  
+O que agora importa é que vos vades , e tragais pois quereis , esses reais , de que nos fazeis mercê e , em dando as nove , venhais .
+
+      [ 441 ]  Terei as cousas dispostas
+      [ 442 ]  ir-nos-emos sem profia
+      [ 443 ]  a noite a todos confia ; que este andar c'o fato às costas , não honra a gente , de dia .
+
+      [ character:  Gil]
+      [ 444 ]  Tal dita não teve igual
+      [ 445 ]  A colher-me em outro estado lá fora todo o morgado ; que sou de humor liberal , além de estar namorado .
+
+      [ 446 ]  
+Ora pois com termo honesto vosso sou será rezão dar-me a mão .
+
+      [ character:  Brites]
+      [ 446 ]  Mão ?
+
+      [ 447 ]  Tentação !
+
+      [ 448 ]  Envidai vós vosso resto , que então ganhareis a mão .
+
+      [ character:  Gil]
+      [ 449 ]  Vou-me enfim
+      [ character:  Isabel]
+      [ 449 ]  Ide Senhor co'a Madalena , ide andando .
+
+      [ character:  Gil]
+      [ 450 ]  Não irei , senão voando
+      [ character:  Brites]
+      [ 451 ]  Adeus !
+
+      [ character:  Gil]
+      [ 451 ]  
+Adeus meu amor .
+
+      [ character:  Isabel]
+      [ 452 ]  
+Vindes ?
+
+      [ character:  Gil]
+      [ 452 ]  Venho .
+
+      [ character:  Isabel]
+      [ 452 ]  Às nove ?
+
+      [ character:  Gil]
+      [ 452 ]  Em dando
+      [ character:  Brites]
+      [ 453 ]  Caiu ?
+
+      [ character:  Isabel]
+      [ 453 ]  Disso duvidais ?
+
+      [ character:  Brites]
+      [ 454 ]  E esmechou-se ?
+
+      [ character:  Isabel]
+      [ 454 ]  Na metade do coração .
+
+      [ character:  Brites]
+      [ 454 ]  
+De verdade tendes mão contra estes tais
+      [ character:  
+Isabel]
+      [ 455 ]  
+Graças à necessidade
+      [ 456 ]  Vai-se Dom Gil ; e Dom Beltrão .
+
+      [ character:  Isabel]
+      [ 457 ]  Ora sus isto está feito , o pelão há de ir pelado tudo tenho concertado
+      [ 458 ]  
+Meu Compadre é , para um feito , e o Beltrão como pintado .
+
+      [ 459 ]  Se cada qual der ajuda à farsa , há de ser de ver .
+
+      [ character:  Brites]
+      [ 460 ]  
+Nela não me hei de meter .
+
+      [ character:  Isabel]
+      [ 461 ]  Tu serás figura muda
+      [ 462 ]  
+Brites filha , isto há de ser .
+
+      [ 463 ]  
+Esta não foi a primeira ;
+nem ele o triste mostrengo lhe há de valer o ser sengo .
+
+      [ 464 ]  Não te lembra na Ribeira a que lhe fiz ao framengo ?
+
+      [ character:  Brites]
+      [ 465 ]  Mãe olhai que o mundo é bola não vos quisera mais dores .
+
+      [ character:  Isabel]
+      [ 466 ]  
+De outros perigos maiores saí já , não sejais tola .
+
+      [ 467 ]  
+Vivam bons , tenho Senhores .
+
+      [ 468 ]  
+Pois , se quem mais o persegue é o criado , e o amigo donde está i o perigo ?
+
+      [ character:  Brites]
+      [ 469 ]  Que o amigo , e o criado entregue !
+
+      [ character:  Isabel]
+      [ 470 ]  
+Esse a chaque é já antigo .
+
+      [ 471 ]  Brites não sejas cobarde o feito está resoluto .
+
+      [ 472 ]  Eu cuido que gente es cuto
+      [ 473 ]  Recolhamo-nos que é tarde e , eles não tardarão muito .
+
+      [ closing: 
+      [ 474 ]  
+Vão-se Isabel , e Brites , e se acaba a Segunda Jornada .]
+      [ 476 ] 
+      [ title: 
+      [ 477 ]  TERCEIRA JORNADA .]
+      [ 478 ]  
+Sai Afonso Mendes , com um pano atado na cabeça , carapuça barbas mudadas , saltimbarca , e chuça de beleguim , e Dom Beltrão com vara de alcaide carapuça de rebuço , espada nua , rodela e linterna de furta-fogo .
+
+      [ character:  Afonso]
+      [ 479 ]  Deve-me já de reção vai correndo por três meses pedi-lhos quarenta vezes , não me diz nem sim , nem não ;
+      [ 480 ]  
+Tomei-lhe tamanho entejo de zombar do meu suor , que mas que seja o que for , me hei de vingar de sobejo
+      [ 481 ]  
+Inda temo que se escapa só para o mal sabe bem !
+
+      [ character:  Beltrão]
+      [ 482 ]  Calai-vos que se ele vem não me contento co'a capa !
+
+      [ 483 ]  Em vós o vendo agarrado espulgai-lhe as algibeiras !
+
+      [ character:  Afonso]
+      [ 484 ]  
+Eu bem lhe sei as maneiras
+      [ character:  Beltrão]
+      [ 485 ]  
+Partiremos ?
+
+      [ character:  Afonso]
+      [ 485 ]  Mal pecado !
+
+      [ character:  Beltrão]
+      [ 486 ]  Tomemos fala primeiro
+      [ character:  
+Afonso]
+      [ 487 ]  Ora eu chamarei : Comadre !
+
+      [ 488 ]  
+Bate a porta Afonso Mendes , e sai em cima como da jenela Isabel com ũa coifa branca emburulhada em um cobertor , e na mão ũa candeia .
+
+      [ character:  Isabel]
+      [ 489 ]  
+Sus !
+
+      [ 490 ]  
+Quem chama ?
+
+      [ character:  Afonso]
+      [ 490 ]  É seu Compadre .
+
+      [ 491 ]  São horas !
+
+      [ character:  Isabel]
+      [ 491 ]  
+Vindes lampeiro .
+
+      [ 492 ]  Que horas são ?
+
+      [ character:  Afonso]
+      [ 492 ]  Já corre o sino
+      [ character:  Isabel]
+      [ 493 ]  
+Bom está .
+
+      [ 494 ]  E estais em modo ?
+
+      [ character:  Afonso]
+      [ 495 ]  
+Outro sino venho eu todo
+      [ character:  
+Isabel]
+      [ 496 ]  E Beltrão ?
+
+      [ character:  Afonso]
+      [ 496 ]  Oh que menino !
+
+      [ character:  Isabel]
+      [ 497 ]  Pois metei-vos em dobrando essa esquina que inda é cedo não vos veja que ele há medo de ũa mosca , e , em entrando
+      [ 498 ]  que ele no fato bulir , à janela sairei chamarei aqui d'el-Rei , não tendes senão subir .
+
+      [ character:  Afonso]
+      [ 499 ]  Tudo farei puntual pardeus qu'é famosa traça
+      [ character:  
+Isabel]
+      [ 500 ]  
+Compadre isto vai por graça
+      [ character:  
+Afonso]
+      [ 501 ]  Tendes destas como sal !
+
+      [ 502 ]  Vou fazê-lo sabedor ao amigo .
+
+      [ character:  Isabel]
+      [ 502 ]  Ide-vos indo , e , em vós os gritos ouvindo ala ala mãos a lavor !
+
+      [ 503 ]  
+Recolhe-se Isabel , faz que cerra a jenela ,
+      [ 504 ]  escondem-se Afonso Mendes , e Dom Beltrão , e sai por outra porta Dom Gil com uma rodela muito grande es toque muito comprido , ũa coura , e muito mal embuçado .
+
+      [ character:  Gil]
+      [ 505 ]  Ora a gente há de tomar em moço as cousas , porque nunca andei de noite e , à fé que não deixo de estranhar .
+
+      [ 507 ]  
+Quanto de homens como eu sou mas que venham quatro juntos .
+
+      [ 508 ]  Mas com medo de difuntos já não sei por donde vou .
+
+      [ 509 ]  
+As cortes são arriscadas e vivem nelas as gentes , não sendo as cousas presentes boas , e más as passadas .
+
+      [ 510 ]  Soe dentro como ao longe ruído de cadeias de ferro .
+
+      [ character:  Gil]
+      [ 511 ]  
+Ai mãe que grande alarido
+      [ 512 ]  
+tudo só , e sem candeas mais de trinta mil cadeas vem sobre mim , sou perdido .
+
+      [ 513 ]  Tornem a soar , como se vem chegando .
+
+      [ character:  Gil]
+      [ 514 ]  
+Ai que ei-las vem !
+
+      [ 515 ]  
+Quem te mete Dom Gil em ser rufião ?
+
+      [ 516 ]  Já não dou por pé , nem mão
+      [ 517 ]  ei-la a fantasma arremete
+      [ 518 ]  É sem falta o conde Andeiro e mais sem falta é que morro .
+
+      [ 519 ]  Ladrem cães dentro .
+
+      [ character:  Gil]
+      [ 520 ]  
+Vós vedes quanto cachorro lhe vem fazendo terreiro ?
+
+      [ 521 ]  Se donde escapar tivera destes condes dos demônios ; eu dera a cem sant'Antônios outros tantos eus , de cera .
+
+      [ 522 ]  
+Sai correndo um moço em corpo com um mandil em uma mão e um cabresto na outra .
+
+      [ character:  Gil]
+      [ 523 ]  
+Eis vem a negra abujão
+      [ 524 ]  
+Enfim , não tive escapula .
+
+      [ character:  Moço .]
+      [ 525 ]  Senhor vistes-me aqui a mula do prior de São Gião ?
+
+      [ 526 ]  Que lhe vim dar de beber teve medo de uns tiçães fugiu ladraram-lhe os cães lançou por i a correr .
+
+      [ character:  Gil]
+      [ 527 ]  
+Ai que não é cousa morta
+      [ 528 ]  Jesus , como estou contente !
+
+      [ 529 ]  Enfim fazer do valente por dissimular me importa
+      [ 530 ]  
+Ó patife !
+
+      [ 531 ]  
+Ó vilãozinho !
+
+      [ 532 ]  
+Pois a um fidalgo embuçado vindes vós com tal recado ?
+
+      [ 533 ]  Levareis pelo focinho a reposta .
+
+      [ 534 ]  Faz que lhe dá , e diga o moço chorando .
+
+      [ character:  Moço]
+      [ 534 ]  Pois se errei perdoai-me meu Senhor .
+
+      [ character:  Gil]
+      [ 535 ]  
+A mim mula do prior , nem o ginete d'El-rei ?
+
+      [ character:  Gil]
+      [ 536 ]  
+Olhai lá como ele a tura
+      [ 537 ]  
+Vede-lo vai de corrida !
+
+      [ 538 ]  
+Pois a fé que em minha vida me hei visto em tal agastura .
+
+      [ 539 ]  Muito há agora de saber que me a mim fizer torvar :
+      [ 540 ]  
+Ora quero me aprestar que o sino quer já correr
+      [ 541 ]  
+Caminharei mais sem pejo
+      [ 542 ]  Vou-me a qui pelo Chiado que é bairro mais povoado .
+
+      [ 543 ]  
+Saem pela outra parte dous vultos , um emburulhado em ũa mantilha branca , e outro em uma capa negra , muito coberto , com um pedaço de murrão , acesa na mão .
+
+      [ character:  Gil]
+      [ 544 ]  
+Ai mãe !
+
+      [ 545 ]  Que é aquilo que eu vejo ?
+
+      [ 546 ]  
+Eis já que alma se me arranca !
+Ora o medo não tem regra !
+
+      [ 548 ]  Lá vem ũa cousa negra , junto de ũa cousa branca
+      [ 549 ]  Foi do demo esta prefia e à fé que outra me não tome
+      [ 550 ]  Jesus , não pudera home .
+ter amores com de dia ?
+
+      [ 551 ]  
+Pois eu juro se não pasmas Gil , que outra vez não te a foite ;
+      [ 552 ]  
+Eu digo que to da a noite devem de correr fantas mas
+      [ 553 ]  
+Ai Deus , como ũa é comprida e , aquela que traz na mão ?
+
+      [ 554 ]  
+Aquilo é lança ou tição ?
+
+      [ 555 ]  Escura da minha vida
+      [ 556 ]  Não é este oxalá fora o vilão da mula de antes !
+
+      [ 557 ]  São maiores que gigantes .
+Destes não escapo eu ora
+      [ 558 ]  
+Todavia bom será fazer gesto .
+
+      [ character:  Vulto negro .]
+      [ 559 ]  Andar , andar
+      [ character:  Vulto branco .]
+      [ 560 ]  Se não quiser esperar vá-se embora .
+
+      [ 561 ]  Põe-se-lhe diante Dom Gil com a espada nua .
+
+      [ character:  Gil]
+      [ 561 ]  Quem vem lá ?
+
+      [ character:  Vulto branco .]
+      [ 562 ]  
+Ai triste de mim que é isto ?
+
+      [ 563 ]  Chegai o tição compadre
+      [ character:  Vulto negro .]
+
+      [ 564 ]  Jesus , Senhora comadre !
+
+      [ character:  Gil]
+      [ 565 ]  
+Digam quem são , boto a Cristo !
+
+      [ character:  Vulto branco .]
+      [ 566 ]  Falai compadre esta vez
+      [ character:  Vulto negro .]
+      [ 567 ]  Falai vós .
+
+      [ character:  Gil]
+      [ 567 ]  Não sou seguro !
+
+      [ 568 ]  
+Abujão eu te es conjuro que tu me digas quem és .
+
+      [ character:  Vulto branco .]
+      [ 569 ]  
+Ai de mim que sou perdida
+      [ 570 ]  Jesus !
+
+      [ character:  Vulto negro .]
+      [ 570 ]  
+Eu morro primeiro
+      [ character:  Gil]
+      [ 571 ]  Cousa má , eu te requeiro que te vás para outra vida .
+
+      [ character:  Vulto branco .]
+      [ 572 ]  Falai compadre !
+
+      [ character:  Vulto negro .]
+      [ 572 ]  Não posso , que o medo me tem cortado ...
+
+      [ 573 ]  
+Dizei vós .
+
+      [ character:  Vulto branco .]
+      [ 573 ]  Sois um coitado !
+
+      [ character:  Vulto negro .]
+      [ 574 ]  
+Tenho medo !
+Padre nosso ...
+
+      [ 576 ] 
+      [ character:  Vulto branco .]
+
+      [ 577 ]  Senhor não sou cousa má ,
+sou Guimar Lopes parteira ,
+      [ 578 ]  Vou para cas da padeira que de parto diz que está
+      [ 579 ]  
+Este pobre é o marido que vai tal que é para ver
+      [ character:  Gil]
+      [ 580 ]  Se de ver tal a mulher tem razão de estar sentido .
+
+      [ 581 ]  
+Ora eu certo no que entendo quando vos vi vir lá atrás tive-vos por cousas más , e , agora não me arrependo .
+
+      [ 582 ]  
+Ambos sois gentes de dores a comadre , o compadre que enfim marido , e Comadre não vi eu cousas piores
+      [ 583 ]  
+Picai se levais esporas mas olhai que nunca mais meu amigo consintais em ter filhos fora de horas .
+
+      [ character:  Vulto branco .]
+      [ 584 ]  Senhor !
+
+      [ character:  Vulto negro .]
+      [ 584 ]  Senhor , vamos indo .
+
+      [ character:  Gil]
+      [ 585 ]  Ide-vos convosco amigos !
+
+      [ 586 ]  
+Não , quanto é destes per igos bem nos vamos nós saindo
+      [ 587 ]  
+Todavia hei de passar o Postigo da Trindade e se hei de falar verdade não me deixa de enfadar
+      [ 588 ]  Mas a conta é já somada
+      [ 589 ]  Virão medos , mas no cabo levo cruz contra o diabo e contra os homens espada
+      [ 590 ]  
+Oh que grande escuridão !
+
+      [ 591 ]  
+Que esquinas tão carregadas !
+
+      [ 592 ]  
+Tudo são en cruzilhadas próprias do demo ou ladrão
+
+      [ 593 ]  Não sei por donde me vim .
+
+      [ 594 ]  
+Toquem dentro ũa campainha a compasso como dos homem , que encomendam almas .
+
+      [ character:  Gil]
+      [ 595 ]  Ui que é isto , se ouço eu bem ?
+
+      [ 596 ]  
+Eu não diviso ninguém mas ouço talim , talim ...
+
+      [ 597 ]  
+Oh pesar de quem  me fez .
+
+      [ 598 ]  Boa vai a minha vida !
+
+      [ 599 ]  Ouço uma voz mui sentida não lhe fujo eu esta vez
+      [ 600 ]  
+Eu fora um Dom Gil ditoso se se acabara esta festa com a parteira ser esta e o seu compadre medroso .
+
+      [ 601 ]  Tange outra vez , a campainha mais perto .
+
+      [ character:  Gil]
+      [ 602 ]  Tomai lá !
+
+      [ 603 ]  Que será isto ?
+
+      [ 604 ]  Já não tenho pés nem mãos
+      [ 605 ]  Escutai .
+
+      [ 606 ]  Digam dentro em voz muito sentida .
+
+      [ 606 ]  
+Fiéis cristãos amigos de Jesus Cristo
+      [ character:  Gil]
+      [ 607 ]
+ Axopra , que vem jurando !
+
+      [ 608 ]  
+Em cristãos lhe ouvi falar .
+
+      [ 609 ]  Jurará de os acabar , por mim virá começando
+      [ 609 ]  
+Dentro .
+
+      [ 610 ]  Lembrai-vos das almas que estão no fogo .
+
+      [ character:  Gil]
+      [ 610 ]  Oh que jogo !
+
+      [ 611 ]  
+Ele fala em alma , e fogo sem falta demônio é
+      [ 612 ]  
+Dentro .
+
+      [ 613 ]  Do Purgatório , e as que estão em pecado mortal .
+
+      [ character:  Gil]
+      [ 613 ]  Ora esperai lá isto
+      [ 614 ]  
+Agora ele vem co a maldição
+      [ 615 ]  Purgatório lhe entendi se dirá que vem de lá !
+
+      [ 616 ]  Mas ei-lo que chega já que farei triste de mim ?
+
+      [ 617 ]  
+Sai um vulto negro de modo dos que costumam en comendar as almas , tocando , a campainha .
+
+      [ character:  Gil]
+      [ 618 ]  
+Eis a cousa mal fazeja oh sem ventura
+Dom Gil
+!
+
+      [ 619 ]  
+Fará tremer trinta mil
+      [ 620 ]  
+Queira Deus que me não veja
+      [ 621 ]  
+Ai já me viu !
+
+      [ 622 ]  Santo Antão !
+
+      [ 623 ]  Contentara-me de açoutes .
+
+      [ character:  Vulto .]
+      [ 624 ]  Deus lhe dê mui boas noutes
+      [ 625 ]  Irmão , quantas horas são ?
+
+      [ character:  Gil]
+      [ 626 ]  Se vós fantasma falais não vos hei medo a desoras
+      [ 627 ]  
+Não sei ;
+mas sei que são horas irmão que vos recolhais .
+
+      [ character:  Vulto .]
+      [ 628 ]  Deo gracias
+      [ character:  Gil]
+      [ 628 ]  Foi-se , sem falta que me elobrigou o alfange .
+
+      [ 629 ]  Tange dentro outra vez a campainha .
+
+      [ character:  Gil]
+      [ 630 ]  
+Ui má hora , ainda ele tange ?
+
+      [ 631 ]  
+Pois inda me sobressalta .
+
+      [ 632 ]  
+Não mas eu zomba zombando perto sou donde hei de entrar hoje levo que contar enfim ir-me hei costumando .
+
+      [ 633 ]  Faz que anda reconhecendo a rua , e a casa .
+
+      [ character:  Gil]
+      [ 634 ]  
+Esperai que é má derrota
+      [ 635 ]  Esta é a casa , e não aquela .
+
+      [ 636 ]  
+Esta é sim , que na jenela tem um craveiro , e ũa rota
+      [ 637 ]  
+Ó casa que assim lhe custas a um amor tão liberal ?
+
+      [ 638 ]  Ora faço-lhe o sinal por que me pague das custas .
+
+      [ 639 ]  Tira com ũa pedrinha à jenela .
+
+      [ character:  Gil]
+      [ 640 ]  Ouvis-me
+minha Senhora
+?
+
+      [ 641 ]  Vem Isabel outra vez como quando falou a Afonso Mendes à jenela .
+
+      [ character:  Isabel]
+      [ 642 ]  Sois vós ?
+
+      [ character:  Gil]
+      [ 642 ]  Pois quem senão eu ?
+
+      [ 643 ]  
+Já São Roque as nove deu
+      [ character:  Isabel]
+      [ 644 ]  Subi manso , e vinde embora
+      [ 645 ]  
+Saem da outra parte como a espreitar Dom Beltrão e Afonso Mendes .
+
+      [ character:  Afonso]
+      [ 646 ]  
+A burra já jaz no pó ...
+
+      [ 647 ]  Ele vem
+      [ character:  Beltrão]
+      [ 647 ]  Vede-lo bem ?
+
+      [ character:  Afonso]
+      [ 647 ]  
+Bem .
+
+      [ character:  Beltrão]
+      [ 648 ]  
+Vede-me ora se só vem .
+
+      [ character:  Afonso]
+      [ 649 ]  Só vem , e se há de ir mais só .
+
+      [ character:  Gil]
+      [ 650 ]  Abris , ou não ?
+
+      [ character:  Isabel]
+      [ 650 ]  
+Abri vós , que eu mandei-me ferrolhar por fora por escapar porque estamos aqui sós ,
+      [ 652 ]  e há mil homens inquietos contra casas tão honradas
+      [ 653 ]  
+Faz Dom Gil que des ferrolha com trabalho .
+
+      [ character:  Gil]
+      [ 654 ]  
+À fé , que es tais ferro lhadas
+      [ 655 ]  ( ui para filhos , e netos .
+
+      [ 656 ]  Desferrolha a porta , e faz que entra , e por outra sai Isabel , e o toma pela mão , fingindo que está às escuras .
+
+      [ 657 ]  Estarão na casa duas , ou três trouxas de fato .
+
+      [ character:  Isabel]
+      [ 658 ]  Andai quedo , porque hei medo que nos es preite o vizinho
+      [ character:  Gil]
+      [ 659 ]  
+E Brites ?
+
+      [ character:  Isabel]
+      [ 659 ]  
+Falai mansinho
+      [ character:  
+Gil]
+      [ 660 ]  Que é dela ?
+
+      [ character:  Isabel]
+      [ 660 ]  Estai , estai quedo !
+
+      [ character:  Gil]
+      [ 661 ]  Que é do fato ?
+
+      [ character:  Isabel]
+      [ 661 ]  Está liado .
+
+      [ character:  Gil]
+      [ 662 ]  Não tendes lume ?
+
+      [ character:  Isabel]
+      [ 662 ]  
+Qual lume ?
+
+      [ character:  Gil]
+      [ 663 ]  Não é esse bom costume
+      [ character:  Isabel]
+      [ 664 ]  
+Porei a roupa a recado
+      [ 665 ]  
+Tudo o mais bem se fará .
+
+      [ character:  Gil]
+      [ 666 ]  
+Pois adu-los mariolas ?
+
+      [ character:  Isabel]
+      [ 667 ]  Não somos nós cá tão tolas
+      [ 668 ]  
+Tudo em troxas tenho já
+      [ 669 ]  que são poucas me faz dor cada qual levará a sua ninguém parece na rua
+      [ character:
+ Gil]
+      [ 670 ]  
+Ora tudo faz amor !
+
+      [ 671 ]  
+Até carretão serei
+      [ character:  Isabel]
+      [ 672 ]  Tende ora esta !
+
+      [ 673 ]  
+Põe-lhe uma trouxa às costas .
+
+      [ character:  Gil]
+      [ 673 ]  
+Bom descanso .
+
+      [ 674 ]  
+Ela pesa
+      [ character:  
+Isabel]
+      [ 674 ]  Falai manso .
+
+      [ 675 ]  Faz que chega Isabel à jenela e grita .
+
+      [ character:  Isabel]
+      [ 676 ]  
+Ah d'El-rei !
+
+      [ 677 ]  
+A qui d'El-rei !
+
+      [ 678 ]  
+Aqui d'El-rei , que um ladrão me rouba , e o fato me muda
+      [ 679 ]  
+Não há ninguém que me acuda ?
+
+      [ 680 ]  
+Ah d'El-rei !
+
+      [ character:  Gil]
+      [ 681 ]  Isto é treição
+      [ 682 ]  
+Mofino de mim cuitado antes eu nunca nascera do que tal amor tivera !
+
+      [ 683 ]  
+Eis-me ainda hoje
+es quartejado
+      [ 684 ]  Entra de súbito
+Dom Beltrão de Alcaide , e Afonso Mendes de Beleguim , e pega de Dom Gil .
+
+      [ character:  Beltrão]
+      [ 685 ]  Da parte d'El-rei es tais preso dai-vos em boa fé .
+
+      [ 686 ]  Afonso Mendes , e Isabel pegam também de Dom Gil .
+
+      [ character:  Gil]
+      [ 687 ]  
+Vós não quereis que eu me dê pois por força me tomais
+      [ character:  Beltrão]
+      [ 688 ]  
+Que fizestes ?
+
+      [ character:  Gil]
+      [ 688 ]  
+Eu que fiz ?
+
+      [ character:  Afonso]
+      [ 689 ]  Não é nada , não é nada
+      [ character:  Beltrão]
+      [ 690 ]  Falai vós
+Senhora honrada
+      [ character:  
+Isabel]
+      [ 691 ]  Eu direi Senhor juiz
+      [ character:  Beltrão]
+      [ 692 ]  Meirinho direis melhor
+      [ character:  
+Isabel]
+      [ 693 ]  
+Sim Senhor licenciado .
+Este velhado malvado mofateiro , enganador !
+
+      [ 694 ]  Arrimou-se à minha porta por não ver ninguém na rua abriu-ma c'uma gazua
+
+      [ 695 ]  Fiquei como mulher morta
+      [ character:  
+Afonso]
+      [ 696 ]  
+Com gazua entre cristãos ?
+
+      [ 697 ]  
+A mim buscá-la me toca .
+
+      [ 699 ] 
+      [ 700 ]  
+Mete-lhe Afonso Mendes as mãos nas algibeiras .
+
+      [ character:  Gil]
+      [ 701 ]  Falai embora de boca mas deixai estar as mãos .
+
+      [ character:  Beltrão]
+      [ 702 ]  Que dizeis vós formigueiro ?
+
+      [ character:  Gil]
+      [ 703 ]  Senhor Alcaide , ou que é , escuite vossa mercê .
+
+      [ character:  Afonso]
+      [ 704 ]  
+Inda falais embusteiro ?
+
+      [ 705 ]  
+Estes são os mais da ninhos
+      [ character:  Gil]
+      [ 706 ]  Ó mulher do inferno toda nascida para pôr noda no sangue dos Cogominhos !
+
+      [ character:  Isabel]
+      [ 707 ]  
+Meu Senhor almotacel tudo são disculpas froxas
+      [ 708 ]  
+Requeiro que veja as troxas
+      [ character:  Beltrão]
+      [ 709 ]  Não fez ele mais fardel .
+
+      [ 710 ]  Dinheiro também ?
+
+      [ character:  Isabel]
+      [ 710 ]  Contado em muito belos tostões .
+
+      [ 711 ]  
+Toca-lhe Afonso Mendes nas algibeiras .
+
+      [ character:  Afonso]
+      [ 712 ]  Ei-lo tine nos calções
+      [ character:  Beltrão]
+      [ 713 ]  Tá tá isto está provado
+      [ character:  
+Gil]
+      [ 714 ]  A um fidalgo de solar tal fazeis ?
+
+      [ 715 ]  
+Sabê-lo-á El-rei !
+
+      [ character:  Beltrão]
+      [ 716 ]  Saberá que eu lho direi quando fordes a enforcar
+      [ character:  
+Afonso]
+      [ 717 ]  Também fidalgos têm munha .
+
+      [ character:  Gil]
+      [ 718 ]  Falai bem dum Beleguim
+      [ character:  Afonso]
+      [ 719 ]  Português é , não latim
+      [ character:  Beltrão]
+      [ 720 ]  Vinde , éreis testemunha
+      [ 721 ]  Levá-lo-emos diante do Doutor Francisco Brabo
+      [ character:  Gil]
+      [ 722 ]  Enfim isto foi diabo .
+
+      [ character:  Afonso]
+      [ 723 ]  
+Inda resmungais bargante ?
+
+      [ 724 ]  Entre tantos empuxões não pesquei mais de um cruzado
+      [ character:  Beltrão]
+      [ 725 ]  
+Quanto lhe tendes chupado ?
+
+      [ character:  Afonso]
+      [ 726 ]  
+Fanados quatro tostões
+      [ character:  Beltrão]
+      [ 727 ]  
+Eu vinte , Isabel fez presa
+      [ 728 ]  Vamos , e à rua che gando cada qual se vá safando
+      [ character:
+ Gil]
+      [ 729 ]  
+Só de desonra me pesa
+      [ character:  Beltrão]
+      [ 730 ]  Vamos .
+
+      [ character:  Afonso]
+      [ 730 ]  Vamos à chacona
+      [ character:  Gil]
+      [ 731 ]  
+Que dirão de mim na corte ?
+
+      [ 732 ]  Preso Dom Gil desta sorte !
+
+      [ character:  Beltrão]
+      [ 733 ]  Segui-nos Senhora Dona !
+
+      [ character:  Gil]
+      [ 734 ]  Meu amigo Dom Beltrão e meu aio Afonso Mendes amigo nem amo tendes , Dom Gil tornou-se carvão
+      [ 735 ]  
+Homens que vos enxeris na corte como em bigorna vede bem no que se torna qualquer fidalgo aprendiz .
+
+      [ 736 ]  Entram-se todos , e se acaba a farsa .

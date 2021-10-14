@@ -1,0 +1,3359 @@
+
+|:| [START HEADER]|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|
+|:| PLEASE SET CHARACTER ENCODING SYSTEM TO UTF-8
+|:| Tycho Brahe Parsed Corpus of Historical Portuguese 
+|:| Document ID: c_010
+|:| Encoding: UTF-8
+|:| Last Saved: 01.11.2014
+|:| Title: Teatro, António Ribeiro Chiado
+|:| Author: Chiado, António Ribeiro
+|:| Version: Simple Text, for Automatic Tools
+|:| Edition Type: Complete Modernization of Orthography
+|:| [END HEADER]|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|
+
+   
+      [ play ]
+      [ title:  Prática d' oito feguras . ]
+      [ 1 ]  Faria e Paiva moços .
+      [ 2 ]  Ambrósio da Gama .
+      [ 3 ]  Lopo da Silveira
+      [ 4 ]  Gomes da Rocha fidalgos .
+      [ 5 ]  Negro .
+      [ 6 ]  Capelã .
+      [ 7 ]  Aires Galvão .
+      [ 8 ]  Per Antonio Ribeiro Chiado .
+      [ 8 ]  Com real privilégio .
+      [ 9 ] 
+      [ character:  Paiva]
+      [ 10 ]  Nam pode ser mor mofina que ser cego no pecado corpo de Deos consagrado s' a mim o tempo m' ensina porque vou ser enganado .
+      [ 11 ]  Bestial oulha conhece teu mal não t' engane o bem do paço pois nele gastas o aço e ficas no ferro tal .
+      [ 12 ]  É ũa doce ponçonha esta que todos nos cega e é tinha que s' apega e é mal que se não sonha quanto homem depois renega .
+      [ 13 ]  Há dez anos que me mantenho d' enganos sem sentir lavrar os herpes mui más danados que serpes e tudo pera meus danos .
+      [ 14 ]  Ó paço , ó paço , eu diria qu' és tesouro de maldades pois nos gastas as idades no milhor da mancebia .
+      [ 15 ]  Quem cuidasse ante que no paço entrasse o que há de ser ao diante certo que escolhesse ante cousa com que se matasse .
+      [ 16 ]  Não comeis , morreis , servis como negros de Guiné sem achardes neles fé nem dó de vós lhe sentis .
+      [ 17 ]  De lisonjas andam como ũas esponjas maliciosos traidores e parecem em seus primores que fazem vidas de monjas .
+      [ character:  Faria .]
+      [ 18 ]  Oulá , cé , cé , qu' é de vós ?
+      [ character:  Paiva]
+      [ 19 ]  Mas qu' é de vós meu senhor ?
+      [ character:  Faria .]
+      [ 20 ]  Ês-m' aqui .
+      [ character:  Paiva]
+      [ 20 ]  Esse primor vem já de vossos avós .
+      [ character:  Faria]
+      [ 21 ]  E vós sois-me pacej ador .
+      [ 22 ]  Desse jeito levareis todo a eito e pôr-m'-eis no zombar taxa .
+      [ character:  Paiva]
+      [ 23 ]  Não passemos nós mais baixa falemos a bem de feito .
+      [ 24 ]  Como vos vai com vosso amo ?
+      [ character:  Faria]
+      [ 25 ]  Dai-o ò demo por seu é um doudo , e um sandeu e é o amo que eu desamo c'o vosso me tenho eu .
+      [ 26 ]  É maldito rege-se per apetito de nenhum bem é capaz .
+      [ character:  Paiva]
+      [ 27 ]  O meu si ?
+      [ character:  Faria]
+      [ 27 ]  Si pois vos traz vestido como palmito .
+      [ character:  Paiva]
+      [ 28 ]  A esse tal roer-lhe a trela e ser par' ele francês .
+      [ character:  Faria]
+      [ 29 ]  Há-me de dar ao marquês por seu moço da capela .
+      [ character:  Paiva]
+      [ 30 ]  E só por isso o sofreis ?
+      [ character:  Faria]
+      [ 31 ]  Pois que farei ?
+      [ character:  Paiva]
+      [ 32 ]  Nam é milhor ser del rei ?
+      [ character:  Faria]
+      [ 33 ]  Dai-me vós cá quem o seja .
+      [ character:  Paiva]
+      [ 34 ]  Lançai-vos logo à igreja .
+      [ character:  Faria]
+      [ 35 ]  E qu' é da renda ?
+      [ character:  Paiva]
+      [ 35 ]  Eu que sei ?
+      [ character:  Faria]
+      [ 36 ]  Vosso conselho m' aleija .
+      [ 37 ]  Eu já clérigo de vintém nam no serei pola vida .
+      [ character:  Paiva]
+      [ 38 ]  Pois quem quer buscar guarida o mal lhe parece bem .
+      [ 39 ]  Si à fé sede cônego da Sé e tereis vida segura .
+      [ character:  Faria]
+      [ 40 ]  Se cabe em minha ventura eu fico que Deos mo dê .
+      [ 41 ]  Vós meu senhor cavaleiro estimais-vos de pação pois ou tarde ou temporão vireis morrer em palheiro e nam vos enterrarão .
+      [ 42 ]  Vós cuidais qu' essa vida que levais que não há de descontar ?
+      [ 43 ]  Mandai-vos desenganar e olhai que me creais .
+      [ 44 ] 
+      [ character:  Paiva]
+      [ 45 ]  E vós tocais-me tam no fundo .
+      [ character:  Faria]
+      [ 46 ]  Muito bom vós zombareis .
+      [ character:  Paiva]
+      [ 47 ]  Eu zombar ?
+      [ character:  Faria]
+      [ 47 ]  Não mo negueis .
+      [ character:  Paiva]
+      [ 48 ]  Isso há d' haver no mundo senhor não me conheceis .
+      [ 49 ]  Que a zombaria entra lá per outra via mais discreta e mais sotil .
+      [ character:  Faria]
+      [ 50 ]  Nam daria eu um ceitil por vossa sabedoria .
+      [ character:  Paiva]
+      [ 51 ]  Sois vós logo Salamão ?
+      [ character:  Faria]
+      [ 52 ]  Salamão pudera ser .
+      [ character:  Paiva]
+      [ 53 ]  E porém nam em saber .
+      [ character:  Faria]
+      [ 54 ]  Bem porquê ?
+      [ 55 ]  Dai-me rezão .
+      [ character:  Paiva]
+      [ 56 ]  Tendes muito que aprender .
+      [ 57 ]  Vós galante prezar-vos-eis de ler Dante Petrarca , ou João de Mena .
+      [ character:  Faria]
+      [ 58 ]  E vós falareis por pena cousinha qu' o mundo espanta que nam é graça pequena .
+      [ character:  Paiva .]
+      [ 59 ]  Vós sereis muito atilado fareis cartinhas d' amores .
+      [ character:  Faria]
+      [ 60 ]  E vós trareis os primores em serdes mui confiado .
+      [ character:  Paiva]
+      [ 61 ]  Vós tornai-vos doutras cores .
+      [ character:  Faria]
+      [ 62 ]  Dais-me trato e é forte desbarato .
+      [ character:  Paiva]
+      [ 63 ]  Meu duque nam vos corrais .
+      [ character:  Faria]
+      [ 64 ]  As pequices veniais nam chegam ao meu sapato .
+      [ character:  Paiva]
+      [ 65 ]  A daga que vos eu vejo metei vós em má rezão .
+      [ character:  Faria]
+      [ 66 ]  Tirai vós já di a mão nam quero tanto despejo .
+      [ character:  Paiva]
+      [ 67 ]  Cuidei que éreis cortesão .
+      [ character:  Faria]
+      [ 68 ]  Ora abasta vós sois discreto por casta e fizestes-vos muito d' arte .
+      [ character:  Paiva]
+      [ 69 ]  Donde veo o talebarte ?
+      [ character:  Faria]
+      [ 70 ]  Tirai a mão que m' agasta .
+      [ character:  Paiva .]
+      [ 71 ]  Ora crede que até 'qui vivi convosco enganado cuidei que éreis extremado no zombar segundo ouvi .
+      [ character:  Faria]
+      [ 72 ]  Estou sobre vós dobrado vós de mim nam tende senam enfim conhecer-vos bem o centro .
+      [ character:  Paiva]
+      [ 73 ]  E eu jaço-vos lá dentro .
+      [ character:  Faria]
+      [ 74 ]  Pode ser que será sim .
+      [ character:  Paiva]
+      [ 75 ]  Mas é si .
+      [ 76 ]  Vós cuidareis que sois muito cristalino pois ter-vos-ei eu o pino a cem de vós .
+      [ character:  Faria]
+      [ 76 ]  Vós fareis ? Oh que graça .
+      [ character:  Paiva]
+      [ 76 ]  Mas que graça que vos faça per natural conjunçam c'a vossa discrição ande convosco à caça .
+      [ character:  Faria]
+      [ 77 ]  Tendes infinda rezão .
+      [ 78 ]  Senhor estais muito boto sois discreto de conserva .
+      [ character:  Paiva]
+      [ 79 ]  Mas sabe-vos mal esta erva porque vos eu dou no goto .
+      [ character:  Faria]
+      [ 80 ]  Sois sabido hoy vinido , y cras garrido cose-m' a boca Parmeno ontem pascendo no feno e hoje sois-me tam lido .
+      [ 81 ]  Quem tanta graça em si tinha eu o louvo em grã maneira ontem viestes da Beira e aprendeste tam asinha eu me meto na trapeira .
+      [ character:  Paiva]
+      [ 82 ]  Bem tocais ora nam zombemos mais falemos noutro prepósito e fique o zombar depósito pera os dias feriais .
+      [ 83 ] 
+      [ 84 ]  Ando pera vos mostrar ũa cousinha que fiz e haveis de ser juiz vós mesmo pera julgar .
+      [ character:  Faria]
+      [ 85 ]  Eu cuido que sois beliz que cousa é ?
+      [ character:  Paiva]
+      [ 86 ]  Nam é cousa pera em pé .
+      [ character:  Faria]
+      [ 87 ]  Pois onde vos acharei ?
+      [ character:  Paiva]
+      [ 88 ]  Nesse paço .
+      [ character:  Faria]
+      [ 88 ]  Eu me irei pera vós .
+      [ character:  Paiva]
+      [ 88 ]  Far-m'-eis mercê .
+      [ character:  Faria .]
+      [ 89 ]  E por vossa vida senhor que folgueis de m' acupar .
+      [ character:  Paiva]
+      [ 90 ]  Pera o que m' ele mandar achar-m'-á seu servidor e isto sem dovidar .
+      [ 91 ]  E sejamos como irmãos sem haver antre nós pejo e com isto lhas rebeijo .
+      [ character:  Faria]
+      [ 92 ]  Senhor beijo vossas mãos .
+      [ 93 ]  Entra Ambrósio da Gama fidalgo e despindo o capuz diz .
+      [ character:  Gama]
+      [ 94 ]  Toma lá esse capuz venha-m' um roupão varela e acende aqui ũa vela porque a casa sem luz sem luz é o dono dela .
+      [ 95 ]  Lumen a revelacionem lume de revelação lume que nos nam enlea lume que nos alomea o caminho da salvação
+      [ 96 ]  dá-m' o livro de rezar qu' inda hoje nam rezei domine memento mei .
+      [ 97 ]  Sabe que há pera cear .
+      [ character:  Faria]
+      [ 98 ]  Tem vossa mercê coelho que é muito bom de quando em quando .
+      [ character:  Gama .]
+      [ 99 ]  Vai saber o que te mando que eu nam te peço conselho .
+      [ 100 ]  Livra-me de má requesta pois a ti senhor m' acolho .
+      [ 101 ]  Dize que lhe façam molho porque sem molho nam presta .
+      [ 101 ]  Torna a rezar :
+      [ 102 ]  Pois tu és o nosso fim por fim tua morte e paixão que aceites minha oração com t' alembrares de mim .
+      [ 103 ]  Em que eu te nam mereça abaste a misericórdia pera pores em concórdia minh' alma que nam padeça .
+      [ character:  Faria .]
+      [ 104 ]  Coelho com' homem diz tem senhor o cozinheiro .
+      [ character:  Gama .]
+      [ 105 ]  E nam tinha esse cão dinheiro sequer pera ũa perdiz ?
+      [ 106 ]  Ora isto nam se crerá um cão que me tem roubado chama cá esse arrenegado verei que rezam me dá .
+      [ 106 ]  Torna a rezar :
+      [ 107 ]  Os meus beiços abrirás e dirão os teus louvores pois és senhor dos senhores de mim t' amercearás .
+      [ 108 ]  Dos teus da tua companha me faze por tais ofrendas que senhor nam me reprendas na ira da tua sanha .
+      [ 109 ] 
+      [ 109 ]  Torna a entrar o moço com o negro , e diz o moço :
+      [ character:  Faria .]
+      [ 110 ]  Eis aqui o comprador .
+      [ character:  Gama]
+      [ 111 ]  Beixo as do senhor ladrão .
+      [ 112 ]  Ora bem dai-me rezão que compraste meu senhor ?
+      [ character:  Negro]
+      [ 113 ]  Doso galia uo capão :
+      [ 114 ]  a mim trazê turo junto o coeio , co treze pombio .
+      [ character:  Gama]
+      [ 115 ]  Nam vou por esse caminho .
+      [ 116 ]  Falai ou que vos pregunto dizei nigrino sandeu saibamos que mal vos fiz por que nam me dais perdiz pois que ma comprais do meu ?
+      [ character:  Negro .]
+      [ 117 ]  Nunca ele mim achá muto caro , nunca bem mi dá-le treze bitém pro doso nam querê dá a regatera muto mau mi dizê querê vendê ?
+      [ 118 ]  Ele logo s' acondê medo Gasapar da Nau proquê ele logo prendê .
+      [ 119 ]  Mi prometê cinquenta ele dizê bai frugá boso nam querê comprá esse cousa tem pimenta .
+      [ 120 ]  Mi torná ele profiá logo chamá pero , cão bai boso comprá o pese boso seoro nunca come esse leba ele bom cação .
+      [ character:  Gama .]
+      [ 121 ]  Isso me parece bem abasta que nam hei de comer senão quando já valer a pássara a meo vintém não se pode isso sofrer .
+      [ 122 ]  Já vós negro hoje bebestes meter-vos-ei noutra afronta dai-me logo aqui conta de tudo o que despendestes casa cousa ò que se monta .
+      [ 123 ]  Vossa mercê recebeu esta somana passada mil reais nam gastastes nada ?
+      [ 124 ]  Dai-me em que se despendeu .
+      [ character:  Negro]
+      [ 125 ]  Esse conta demo é mi não dá boso otoro dia papel qu' o socrenco Faria boso tem mão boso mecê .
+      [ character:  Gama]
+      [ 126 ]  Que é 'quilo ?
+      [ 127 ]  Dize Faria .
+      [ character:  Faria]
+      [ 128 ]  Eu tais cousas nunca vi .
+      [ character:  Gama]
+      [ 129 ]  Eu não t' entendo a ti nem menos sua aravia tira-me esse cão daí .
+      [ character:  Negro .]
+      [ 130 ]  Boso nunca querê cutá .
+      [ 131 ]  A fresura cusá corenta a raia doze bitém outoro tanto ele tem nesse conta qu' ele senta .
+      [ 132 ]  A Frenando nunca frutou nunca boso crupá ele comprá combrito co pele que boso fora mandou .
+      [ 132 ]  Quando mi bai confessá dizê padere confessoro : que ofício que boso que tem ?
+      [ 132 ]  Mi dizê : coufradoro .
+      [ 132 ]  Ele logro preguntá : boso frutá boso seoro ?
+      [ 132 ]  Mi dizê : padre nam .
+      [ 132 ]  Nigrio dizê berdade mi dá boso sorobiçam .
+      [ 132 ]  Tem nigria bonetia chamá ele Caterina pedi perdam de bontade .
+      [ 133 ] 
+      [ character:  Gama .]
+      [ 134 ]  Nam vos falo em confissão vós negro nam me leveis pagai-me o que me deveis e nam me deis mais rezão .
+      [ 135 ]  Eu bem vos conheço o centro ambos nós nos conhecemos depois nos entenderemos i agora pera dentro .
+      [ 135 ]  Torna a rezar :
+      [ 136 ]  Antes de mores pecados miserere mei senhor porque tam grã pecador sendo vivo mais te ofende .
+      [ 137 ]  Deus in adjuturium meum intende adjuvando me festina mater dei celi regina tu me queiras defender .
+      [ 138 ]  Que te disse essa molher ?
+      [ character:  Faria .]
+      [ 139 ]  Qu' era dos mais sensabores diz ela alta e de bom som .
+      [ character:  Gama]
+      [ 140 ]  Kyrie leison Christe leison .
+      [ 141 ]  Tudo isso sam favores já lá tem meu coraçam por que dela nam se parta .
+      [ 142 ]  Deste-lhe tu minha carta ?
+      [ character:  Faria]
+      [ 143 ]  Si senhor na sua mão .
+      [ 144 ]  Entra Lopo da Silveira segundo fidalgo :
+      [ character:  Lopo .]
+      [ 145 ]  Que é isto senhor tam só ?
+      [ 146 ]  Farão vossos pensamentos dez mil castelos de ventos .
+      [ character:  Gama]
+      [ 147 ]  É cousa pera haver dó dos meus descontentamentos .
+      [ character:  Lopo]
+      [ 148 ]  Vossa mercê como s' acha ?
+      [ character:  Gama]
+      [ 149 ]  Senhor muito mal desposto em nada posso achar gosto e crede que tudo m' empacha .
+      [ character:  Lopo]
+      [ 150 ]  Bem no mostrais no rosto .
+      [ 151 ]  Eu ando de cadarrão que me nam posso valer nem sei onde isto há d' ir ter .
+      [ character:  Gama]
+      [ 152 ]  Doenças nam têm rezão senam deixar-nos morrer que eu andei aqui uns dias que nam cuidei que escapasse .
+      [ character:  Lopo]
+      [ 153 ]  De quê ?
+      [ character:  Gama]
+      [ 153 ]  De cólica passe .
+      [ character:  Lopo]
+      [ 154 ]  Vós comêreis cousas frias ?
+      [ character:  Gama]
+      [ 155 ]  Nam creais que isso o causasse .
+      [ character:  Lopo]
+      [ 156 ]  Si porém eu sam profeta .
+      [ character:  Gama]
+      [ 157 ]  Sabeis como sam regrado que nam comerei bocado se nam cheirar a dieta .
+      [ character:  Lopo]
+      [ 158 ]  Sois muito grande avisado .
+      [ character:  Gama]
+      [ 159 ]  Algũa nova deseo : que ouvis lá do emperador ?
+      [ character:  Lopo]
+      [ 160 ]  Dizem ontem ò embaixador qu' era chegado um correo .
+      [ character:  Gama]
+      [ 161 ]  Contai-me disso senhor .
+      [ character:  Lopo]
+      [ 162 ]  Do que ouvi vos contarei : dizem que veo a el rei ũa carta eu nam na vi que ficava em Valladolid .
+      [ 163 ]  S' assi é eu nam no sei e dizem cá por sobcapa que vem ele descontente .
+      [ character:  Gama]
+      [ 164 ]  Todavia perdeu gente .
+      [ character:  Lopo]
+      [ 165 ]  Senhor como homem escapa todo ess' outro nam se sente .
+      [ 166 ]  E mais o emperador é muito grande senhor nenhũa perda o espanta fará gente outra tanta e retanta e remilhor .
+      [ character:  Gama]
+      [ 167 ]  Foi um caso mui terrível ir em boca d' invernada .
+      [ character:  Lopo]
+      [ 168 ]  Isto nam releva nada pera Deos tudo é possível .
+      [ 169 ]  Ele é muito bem inclinado amigo de Deos e então tem vencimento na mão .
+      [ character:  Gama]
+      [ 170 ]  Deos acrescente o estado da cristã religião .
+      [ 171 ]  Esta ida d' Almeirim se é certa , se nam é certa .
+      [ 172 ] 
+      [ character:  Lopo]
+      [ 173 ]  A certeza anda encuberta certo pesar-m'-ia a mim .
+      [ 174 ]  Mais el rei nosso senhor em que queira nam pode ir .
+      [ character:  Gama]
+      [ 175 ]  Isso quero eu ouvir .
+      [ character:  Lopo]
+      [ 176 ]  Nam lhe dou eu outra cor que a que vós podeis sentir .
+      [ character:  Gama]
+      [ 177 ]  O que eu sinto vos direi : há corte há casamentos .
+      [ character:  Lopo]
+      [ 178 ]  Senhor senhor são ventos ond' há vontade del rei .
+      [ character:  Gama]
+      [ 179 ]  Além vejo qu' arrefece .
+      [ character:  Lopo]
+      [ 180 ]  Tudo agora está em paz .
+      [ character:  Gama]
+      [ 181 ]  Isso é o que m' apraz . O xerife ?
+      [ character:  Lopo]
+      [ 181 ]  Nam parece dizem que em Marrocos jaz .
+      [ character:  Gama]
+      [ 182 ]  Senhor como nos acodes a maior tribulação
+      [ character:  Lopo]
+      [ 183 ]  Sabeis já de Mazagão que é outro segundo Rodes .
+      [ character:  Gama]
+      [ 184 ]  Tendes infinda rezão .
+      [ 185 ]  A fortaleza está sobre penedia que nam pode ser minada .
+      [ character:  Lopo]
+      [ 186 ]  Dizem-me que está cercada .
+      [ character:  Gama]
+      [ 187 ]  Si da banda da Enxovia que do mar nam é feito nada .
+      [ character:  Lopo]
+      [ 188 ]  Porém tudo há de ter fim .
+      [ 189 ]  Nam há quem viva quieto o milhor é ser discreto e assentai que passa assi .
+      [ character:  Gama]
+      [ 190 ]  Sabeis o que o mundo tem ?
+      [ 191 ]  Males , desgostos , tormentos paixões , descontentamentos sem saberdes donde vêm .
+      [ character:  Lopo]
+      [ 192 ]  Senhor é certa certeza viver homem descontente naquesta vida presente isto já per natureza é mal que se nam sente .
+      [ 193 ]  Porque tende um ou dous cuidados ou trinta , ou cento , ou mil é cada um tam sotil que vos juga a vida ous dados sem no a pessoa sentir .
+      [ character:  Gama]
+      [ 194 ]  Isso tendes vós na mão como os vossos cinco dedos males são como penedos que lhe nam achais rezão .
+      [ 195 ]  Sobre nunca estarem quedos a fortuna é um legume que da hora que começa busca em que vos empeça e entam traz-vos a lume o que vós quereis que esqueça .
+      [ character:  Lopo]
+      [ 196 ]  Oh se nam fosse a lembrança dos males que sam passados nam teriam os cuidados em nós tamanha possança .
+      [ character:  Gama]
+      [ 197 ]  Seriam mais moderados que se vos lançais ao pesar cresce-vo' lo mal com molho .
+      [ 198 ]  De cuidarem nam lho tolho qu' os homens hão de cuidar porém nam que cegue o olho .
+      [ 199 ]  Nesta vida em que vivemos já temos por cousa certa que há d' haver nela referta com outros mores extremos .
+      [ character:  Lopo]
+      [ 200 ]  Isso só senhor m' esperta .
+      [ 201 ]  O mundo é falsidades malícias e sem-rezão .
+      [ character:  Gama]
+      [ 202 ]  O diz muito bem Salamão vaidade das vaidades palavras de sam João .
+      [ character:  Lopo]
+      [ 203 ]  Porque correi por esses estados reis , papas , emperadores príncipes grandes senhores pobres , solteiros , casados clérigos , frades , com dores todos vivem atribulados .
+      [ character:  Gama]
+      [ 204 ]  Tende mão nesta palavra senhor Lopo da Silveira : o mundo vai de maneira que ainda que o céo se abra há d' haver nele canseira .
+      [ 205 ]  Porque as malícias que vão cada hora em crescimento não se crê e é tudo vento como lá diz Salamão .
+      [ 206 ]  Não há i contentamento .
+      [ 207 ] 
+      [ 208 ]  Moço vê quem bate ali .
+      [ character:  Faria]
+      [ 209 ]  Quem chama ?
+      [ character:  Rocha]
+      [ 209 ]  Gente de paz .
+      [ character:  Faria]
+      [ 210 ]  Quem sois ?
+      [ character:  Rocha]
+      [ 211 ]  Abre essa porta rapaz .
+      [ character:  Faria]
+      [ 212 ]  Abrirei .
+      [ 213 ]  Estai vós i porque aqui assi se faz .
+      [ character:  Rocha]
+      [ 214 ]  Sois muito mal ensinado abre essa porta Faria .
+      [ character:  Faria]
+      [ 215 ]  Quem é vossa senhoria ?
+      [ character:  Rocha]
+      [ 216 ]  Vosso pai arrenegado .
+      [ character:  Faria]
+      [ 217 ]  Por mim se não vos abreria
+      [ character:  Rocha]
+      [ 218 ]  Hei d' estar aqui em molho à chuva e ao vendaval ?
+      [ character:  Faria]
+      [ 219 ]  Estareis muito natural vede senhor se me molho .
+      [ character:  Rocha]
+      [ 220 ]  Ora falemos em al .
+      [ 221 ]  Sois rapaz muito roim e muito roim cabrão arremedais-me entam estais zombando de mi ?
+      [ 222 ]  Dizei filho do ladrão .
+      [ character:  Faria]
+      [ 223 ]  Eu zombo ?
+      [ 224 ]  Nunca zombei nam quereis dizer quem sois ?
+      [ character:  Rocha]
+      [ 225 ]  Eu vo-lo direi depois .
+      [ character:  Faria]
+      [ 226 ]  Pois depois vos abrirei .
+      [ character:  Rocha]
+      [ 227 ]  É Gomes da Rocha .
+      [ 228 ]  Abri nam vamos mais por diante .
+      [ character:  Faria]
+      [ 229 ]  Vossa mercê nam s' espante por que eu nam no conheci .
+      [ character:  Rocha]
+      [ 230 ]  Sois muito sujo bargante
+      [ 231 ]  e se nam oulhara que estou em cás d' Ambrósio da Gama eu vos buscara a escama de quem vos mal ensinou .
+      [ character:  Gama]
+      [ 232 ]  Faria .
+      [ character:  Faria]
+      [ 232 ]  Senhor .
+      [ character:  Gama]
+      [ 232 ]  Quem vem ?
+      [ character:  Faria]
+      [ 233 ]  O senhor Gomes da Rocha .
+      [ character:  Gama]
+      [ 234 ]  Vai ali acende tocha .
+      [ character:  Rocha]
+      [ 235 ]  Quem tam boa vida tem dará cada vez à brocha
+      [ 236 ]  porque os fartos de riqueza arrebentam polo cinto .
+      [ character:  Gama]
+      [ 237 ]  Eu já nisso nam consinto .
+      [ character:  Rocha]
+      [ 238 ]  Jesu camanha certeza é assi como eu pinto .
+      [ 239 ]  Vai-se aqui desta maneira havemos d' estar em pé ?
+      [ character:  Gama]
+      [ 240 ]  Sente-se vossa mercê moço chega aqui cadeira .
+      [ character:  Rocha]
+      [ 241 ]  Em que pratica a relé ?
+      [ character:  Gama]
+      [ 242 ]  Em cousas que nam têm cura .
+      [ character:  Rocha]
+      [ 243 ]  Em quê ?
+      [ character:  Gama]
+      [ 243 ]  No tempo mudado .
+      [ character:  Rocha]
+      [ 244 ]  Ora tendes bom cuidado .
+      [ 245 ]  Sabeis que quer a ventura ?
+      [ 246 ]  Que deis passada ao passado ; que nenhum homem nascido de nenhũa calidade pode sofrer a metade do que eu tenho padecido .
+      [ 247 ]  E assentai que esta é verdade .
+      [ 248 ]  E quando vejo agravados da fortuna digo entam eu o sam e outrem nam e eu o fui por meus pecados e eu o serei com rezão .
+      [ character:  Gama]
+      [ 249 ]  Vejamos .
+      [ 250 ]  Vós que perdestes ?
+      [ 251 ]  Vejo-vos honra , e estado .
+      [ character:  Rocha]
+      [ 252 ]  Senhor perdi meu morgado .
+      [ character:  Gama]
+      [ 253 ]  Perdestes ?
+      [ 254 ]  Vós o quisestes .
+      [ 255 ]  Fôreis vós aconselhado ...
+      [ 256 ]  Quando os tais casos cometem pessoas do vosso jeito hão d' oulhar se têm direito e antes que as encertem .
+      [ character:  Rocha]
+      [ 257 ]  Nam sei como sois feito .
+      [ 258 ]  Se me roubam a justiça que quereis vós que lh' eu faça ?
+      [ character:  Gama]
+      [ 259 ]  Quem profia mata caça .
+      [ 260 ]  Que percais vós a preguiça e nam vos coma em casa a traça .
+      [ 261 ] 
+      [ character:  Lopo]
+      [ 262 ]  Nam faleis em despachar com quaisquer oficiais quanto mais importunais é lançar água no mar salvante se vós peitais por que a justiça nam é senam balança direita se num cabo pondes peita no outro nam s' acha pé todo o direito s' enjeita .
+      [ 263 ]  Notai senhor os presentes que lh' haveis de pôr na palma vida , fazenda , e alma , e ainda nam sam contentes e um vilam acolá só por peitar um cabrito põe a sua além do fito e nós outros fidalgos cá o peitar é infinito .
+      [ character:  Gama]
+      [ 264 ]  Nam há i vida segura na vida segundo isso .
+      [ character:  Rocha]
+      [ 265 ]  Os que estam no paraíso esses se riem da ventura .
+      [ character:  Gama]
+      [ 266 ]  Falais o mero aviso acho que pera prudência e pera ser descançado viver homem sem pecado e ter boa consciência este é o verdadeiro estado .
+      [ character:  Lopo]
+      [ 267 ]  Dai-me vós a mi no mundo quem possa ser vertuoso .
+      [ character:  Gama]
+      [ 268 ]  Vós , e eu , e o cobiçoso e o outro , e o outro , segundo .
+      [ character:  Rocha]
+      [ 269 ]  Senhor vindes oucioso isso é falar de papo .
+      [ character:  Gama]
+      [ 270 ]  Falo sagrada escritura .
+      [ character:  Lopo]
+      [ 271 ]  Dai-m' ora pola ventura vertude atada em trapo ou lugar ond' ela dura .
+      [ character:  Gama]
+      [ 272 ]  Ora tendes forte vea dura na vida eterna .
+      [ character:  Lopo]
+      [ 273 ]  Isso é ũa alenterna qu' a nós outros alomeia falo na gente moderna falai-me no terreal nam me penetreis os céus ninguém entende de Deos senam quem é devinal .
+      [ character:  Rocha]
+      [ 274 ]  Quem viverá nestas penas dantre nós outros humanos sem mentiras , sem enganos sem lisonjas , sem onzenas .
+      [ 275 ]  Sem roubar , sem outros danos ?
+      [ 276 ]  Aquele disse de mim eu digo de meu vezinho meu vezinho faz o ninho nas cousas que ham de ter fim metei-me o mundo a caminho .
+      [ character:  Lopo]
+      [ 277 ]  Ora notai de quantas maneiras vivemos nesta prisam uns s' aqueixam sem rezam outros por que tem canseiras uns ricos e outros nam uns morrem d' enveja pura outros medram pola língua a outros nunca lhes míngua furtunas e má ventura outros medram por ladrões outros por meixiriqueiros e outros por lisonjeiros e outros por afeições e outros por demos inteiros uns vam morrer por ter bem outros gastam a fazenda outros vivem com contenda outros vam ,
+      [ 278 ]  e outros vem na há i quem os entenda .
+      [ 279 ]  Um afloxa e outro tira e outros bailam sem som crede que Deos só é bom todo o al é grã mentira .
+      [ character:  Gama]
+      [ 280 ]  Oh com' isso vai tam fundo santo Augostinho doutor nam louves o pecador enquanto viver no mundo mas depois que daqui for .
+      [ 281 ] 
+      [ character:  Rocha .]
+      [ 282 ]  Diz muito bem sam Gregório mundus hominem justicia sam ũa mesma malícia como a todos é notório nam há i verita amicicia .
+      [ character:  Gama]
+      [ 283 ]  Deixemos esta perfia
+      [ 284 ]  . Deos que é a salvação maldito seja o baram que em outro baram se fia pois carece de razam .
+      [ 285 ]  Eu tenho feito um tratado sobre aquestas cousas taes .
+      [ character:  Lopo]
+      [ 286 ]  Por que nam no amostrais ?
+      [ character:  Gama]
+      [ 287 ]  Nam no tenho inda acabado sam cinco trovas nô mais .
+      [ character:  Rocha]
+      [ 288 ]  Essas cinco sam de ver só por gostar da tençam .
+      [ character:  Gama]
+      [ 289 ]  Nam sei se m' alembraram .
+      [ character:  Lopo]
+      [ 290 ]  Que cousa pera esquecer eu fico senhor que nam .
+      [ 291 ]  Aqui começa o tratado .
+      [ title:  Tratado ]
+      [ character:  Gama]
+      [ 292 ]  Quem na vida desta vida s' engana por cousa incerta anda su' alma deserta da outra que é mais sabida porque esta vida d' engano chea de mal e miséria s' alguma hora nos faz féria é pera mais nosso dano .
+      [ 293 ]  Vejo cuidados sobejos e cousas que nam tem cura vejo fiar da ventura o fim de nossos desejos .
+      [ 294 ]  Vejo nossas esperanças tam fixas em cousas vãs que as barbas mais anciãs sam as que guiam tais danças .
+      [ 295 ]  Vejo andar a justiça em mãos dos mais roubadores e vejo os julgadores casados com a cobiça .
+      [ 296 ]  Vejo o pobre arrestado sem lhe socorrer ninguém e vejo que quem mais tem que esse é o adorado .
+      [ 297 ]  Vejo que todo empiora e que Deos nam se respeita e vejo que quem não peita que vai lá muito em forte hora .
+      [ 298 ]  Vejo , e revejo , e verão cousas que est' alma nos cega e vejo que quem mais prega esse enche mais o surrão .
+      [ 299 ]  Vejo tudo ir-se ao fundo vejo vertudes em calmas e vejo perderem-se almas por negras honras do mundo .
+      [ 300 ]  Vejo o mundo lisonjeiro ser mar de grandes perigos e vejo não se acharem amigos senão a peso de dinheiro .
+      [ 301 ]  E vejo religiosos madrugarem por bispados que c'os mais estimulados às vezes sam mentirosos .
+      [ 302 ] 
+      [ character:  Rocha]
+      [ 303 ]  Tal penetrar nam se crê : com essas me levem à cova tornai senhor essa trova por nos fazerdes mercê .
+      [ character:  Gama]
+      [ 304 ]  Exprementai um amigo em tempo de vossos males foge-vos montes e vales como dum seu enemigo e dantes sam atabales . Soam quando s' oferecem tanta prática precita e se vem a certa confita fazem que nam vos conhecem buscai-me quem tenha dita .
+      [ comment: 
+      [ 305 ]  Outra rezam :]
+      [ 306 ]  Vede-vos em ũa afronta de mal , pobreza , ou prisão buscai amigos então todos vos têm em má conta e todos vos enforcarão .
+      [ 307 ]  E no tempo da bonança depois que o mal se consume cada um entam presume matar por vós toda França porém nada vem a lume .
+      [ 308 ]  Assi que :
+      [ 309 ]  Vejo o mundo lisonjeiro ser mar de grandes perigos e vejo não se acharem amigos senam a peso de dinheiro .
+      [ 310 ]  Vamos aos religiosos deixemos cá o legal quasi todos em geral os achais ser cobiçosos que nam pode ser mor mal .
+      [ 311 ]  E em suas pregações desprezam o mundo com feros e alguns são lobos meros e diabos nas tenções porque a boa consciência mete-se ali nũa lapa nam quer bispados nem papa senam aquela excelência de glória que todo rapa .
+      [ 312 ]  Assi que :
+      [ 313 ]  Vejo religiosos madrugarem por bispados e que os mais estimulados às vezes são mentirosos .
+      [ character:  Rocha]
+      [ 314 ]  Senhor nam m' haveis de crer pola hóstia consagrada que obra tam delicada nam se viu nem s' há de ver .
+      [ 315 ]  Jesu como vai fundada por vossa vida senhor que vades com isso ao cabo vós sentis como diabo vós sois-me tam dezidor mais há de que vos eu gabo .
+      [ character:  Lopo]
+      [ 316 ]  Todas vão dar na barreira vós sois digno de louvor acho-lh' eu lá ũa cor das de Luís da Silveira .
+      [ character:  Rocha]
+      [ 317 ]  Vós achastes ao saber altura do leste a oeste .
+      [ character:  Lopo]
+      [ 318 ]  Senhor consumato este quanto se pode dizer .
+      [ character:  Rocha]
+      [ 319 ]  Oh tomai-mas particulares lanc' ele senhor o prumo em todas achareis sumo e sentenças singulares .
+      [ character:  Gama]
+      [ 320 ]  Vistes já pola ventura obras do meu capelão ?
+      [ character:  Rocha]
+      [ 321 ]  Saibamos : e ele é trovão ?
+      [ character:  Gama]
+      [ 322 ]  Trovão por toda a doçura faz cousinhas de feição .
+      [ 323 ]  Ri-s' ele de João de Mena e é assi que sem candea fará copras pras com' area sem vos chegar nunca a pena por onde vejo que é vea .
+      [ character:  Rocha]
+      [ 324 ]  Ora já sei que zombais .
+      [ 325 ] 
+      [ character:  Gama]
+      [ 326 ]  Que zombo eu vos direi ele faz e eu lhe sei obras mui sustanciais .
+      [ character:  Rocha]
+      [ 327 ]  Quando o vir entam o crerei .
+      [ character:  Gama]
+      [ 328 ]  Faria .
+      [ character:  Faria]
+      [ 328 ]  Senhor .
+      [ character:  Gama]
+      [ 328 ]  Vem cá . Chama cá o capelão e vereis de sua mão milagres .
+      [ character:  Rocha]
+      [ 328 ]  Assi será mas não lhe vejo feição .
+      [ character:  Gama]
+      [ 329 ]  Que mais feição lhe quereis que ter grande natural e ser muito especial em obras como ouvireis se não é muito geral ?
+      [ 330 ]  Aqueste só desar tem que se fizer dous rifões chamará mil rapagões que lhos vejam se vão bem mas tudo vai nas tenções .
+      [ character:  Rocha]
+      [ 331 ]  Ora cagai nessa prea e mais vos digo senhor que cagueis no trovador e cagai em sua vea e cagai em seu primor .
+      [ 332 ]  Porque um homem capaz pera bom antre capazes não há de chamar rapazes que lhe vejam o que faz se quer ter com o mundo pazes .
+      [ character:  Lopo]
+      [ 333 ]  Oh s' ele é useiro e vizeiro a usar dessas maneiras dir-lhe-am é um contreiras um parvo , um malhadeiro um vende-copras em feiras
+      [ 334 ]  porque seja um homem sam Francisco e nessa arte especial se for assi tam geral cospir-lh'-emos a barrisco quanto s' honra tanto val .
+      [ 335 ]  Aqui entra o Capelam com Faria , e diz Faria :
+      [ character:  Faria]
+      [ 336 ]  Diga vossa reverência ò bom falar quer-se vea ?
+      [ character:  Capelão]
+      [ 336 ]  Quem se disso nam area nam sabe nem tem prudência .
+      [ character:  Faria]
+      [ 337 ]  Isso só senhor m' enlea
+      [ 338 ]  que eu farei duas trovinhas bonitas e bem soantes e porém nam são galantes como as vossas .
+      [ character:  Capelão]
+      [ 338 ]  Que as minhas as minhas sam como melões d' Abrantes .
+      [ 339 ]  Porque a trova pera ser trova nam presta se nam for fina delicada , cristalina fundada em cousa nova s' assi for fica devina .
+      [ character:  Faria]
+      [ 340 ]  Pera fazer um rifão mote , cantiga , ou trovar donde s' há de começar ?
+      [ character:  Capelão]
+      [ 340 ]  Da mesma discrição .
+      [ character:  Faria]
+      [ 341 ]  Nunca isso pude alcançar .
+      [ character:  Capelão]
+      [ 342 ]  Logo m' eu obrigaria a fazer-vos um eu segundo .
+      [ character:  Faria]
+      [ 343 ]  S' eu isso visse no mundo por ninguém me trocaria porém tocais muito fundo
+      [ 344 ]  qu' em outras cousas sam eu agudo .
+      [ character:  Capelão]
+      [ 345 ]  Nam é essa mui má peça .
+      [ character:  Faria]
+      [ 346 ]  Tenho eu gentil cabeça mas logo m' esquece tudo .
+      [ character:  Capelão]
+      [ 347 ]  Sabeis por que nam vos fica quanto quereis na memória ?
+      [ character:  Faria]
+      [ 348 ]  Por quê ?
+      [ character:  Capelão]
+      [ 348 ]  É cousa notória que onde o cuidado embica todo s' ali repenica em seu mal ou em sua glória .
+      [ 349 ]  Por que milhor m' entendais tendes livre o pensamento muito forro e muito isento naquilo em que o acupais alcançais num só momento e tomai um homem discreto por muito parvo que seja tem memória que sobeja .
+      [ character:  Faria]
+      [ 350 ]  De que vem ?
+      [ character:  Capelão]
+      [ 350 ]  De ser esperto .
+      [ 351 ] 
+      [ character:  Faria]
+      [ 352 ]  A isso só tenho enveja .
+      [ 353 ]  Aqui entra Aires Galvão :
+      [ character:  Galvão]
+      [ 354 ]  Bejo as do senhor Faria .
+      [ character:  Faria]
+      [ 355 ]  Oulá senhor donde é a vinda ?
+      [ character:  Galvão]
+      [ 356 ]  Venho donde se deslinda a dor de minha alegria .
+      [ character:  Faria]
+      [ 357 ]  E se haveis de ter ainda vossas manhas nam perdentes cousinhas boas me alegram porque assi como fumegam logo trincam antr' os dentes por onde vejo que cegam .
+      [ character:  Galvão]
+      [ 358 ]  E isso caminho é pera zombar do que eu faço .
+      [ character:  Faria]
+      [ 359 ]  Correis-vos ?
+      [ 360 ]  Nam sois de paço perdoe-me vossa mercê .
+      [ character:  Galvão]
+      [ 361 ]  Dentro nas tripas vos jaço .
+      [ character:  Faria]
+      [ 362 ]  Se vós jazeis dentro nelas saireis por mui má porta .
+      [ character:  Capelão]
+      [ 363 ]  Isso me tem alma morta as cousas sejam singelas .
+      [ character:  Galvão]
+      [ 364 ]  Ũa fala sua corta .
+      [ 365 ]  Senhor já tenho assentado comigo há muitos dias que das suas zombarias fica um homem degolado .
+      [ character:  Capelão]
+      [ 366 ]  Dai ò demo essas profias .
+      [ 367 ]  O amigo especial nam há de ficar aquém .
+      [ 368 ]  Zomba ?
+      [ 369 ]  Zombai vós também e nam vos pareça mal o de que mal vos nam vem .
+      [ character:  Faria]
+      [ 370 ]  Meu senhor Aires Galvão vós sois muito corridinho .
+      [ character:  Galvão]
+      [ 371 ]  Mas vós is por um caminho ond' is dar no coração .
+      [ character:  Faria]
+      [ 372 ]  Isso é sinal que adevinho .
+      [ 373 ]  Andais agora galante capinha , chapéu , e espada .
+      [ character:  Gama]
+      [ 374 ]  Inda isto nam é nada vós me vereis ao diante .
+      [ character:  Faria]
+      [ 375 ]  Isso faz a namorada .
+      [ character:  Capelão]
+      [ 376 ]  No seu jeito vejo eu em que estima s' ele tem .
+      [ character:  Gama]
+      [ 377 ]  Eu sempre me tratei bem .
+      [ character:  Faria]
+      [ 378 ]  Outro tanto faria eu mas nam tenho nem vintém .
+      [ character:  Galvão]
+      [ 379 ]  Senhor fiz ũa cantiga a ũa dama que tinha concrusão é cousa minha quero saber se tem liga .
+      [ 380 ]  Ser for tal terei rezão diga-m' o que lhe parece porque às vezes s' acontece julgar-se por afeição o que a rezão não compadece e diz assi o rifão :
+      [ 380 ]  Em castelhano .
+      [ 381 ]  El amor que s' olvidó de mis servicios pasados véngale tantos cuidados como los que tengo yo .
+      [ 381 ]  Volta :
+      [ 382 ]  Quando pensei d' alegrar-me no cabo de mim tromento fugi'-m' o contentamento pera mais della quixarme e pera serem dobrados mis males descompasados o mesmo mal me matou pera que me vaya yo con los más desesperados .
+      [ character:  Faria .]
+      [ 383 ]  Ai da puxa que linguagem com' isso é soverano muy bien falais castelhano e levais a todos ventagem .
+      [ character:  Gama]
+      [ 384 ]  Outra fiz a ũa rapariga em començo dũs amores a envenção é de flores porém nam sei se a diga .
+      [ character:  Capelão]
+      [ 385 ]  Oh vejamos vossos primores .
+      [ 386 ] 
+      [ 386 ]  Cantiga :
+      [ character:  Galvão]
+      [ 387 ]  Senhora pois sam cativo desses olhos com que oulhais matai-me pois começais .
+      [ character:  Capelão]
+      [ 388 ]  E far-lh'-eis a isso grosa ?
+      [ character:  Galvão]
+      [ 389 ]  Milagrosa isso é o milhor da festa sem grosa senhor que presta ?
+      [ character:  Capelão]
+      [ 390 ]  Será cousa preciosa .
+      [ character:  Galvão]
+      [ 391 ]  O pé do mesmo rifão conta assi desta feição :
+      [ 391 ]  Glosa :
+      [ 392 ]  Os males que d' improviso vêm ao triste coração esses causam perdição qu' os outros são todo riso .
+      [ 393 ]  Senhora falo de siso esses olhos com que oulhais prendeis , feris , e matais .
+      [ 393 ]  Outra sua :
+      [ 394 ]  Ali onde o mal se atiça os tendes vós mais acesos mereciam de ser presos certamente por justiça .
+      [ 395 ]  Oulhar qu' assi enfeitiça outros olhos inocentes .
+      [ character:  Capelão]
+      [ 396 ]  Nam vivam mais antre gentes .
+      [ character:  Galvão]
+      [ 397 ]  Mas Deos os torne contentes .
+      [ character:  Capelão]
+      [ 398 ]  Por i levar-m'-eis o saio o vosso saber m' enlea vós tendes já milhor vea que Afonso Lopes Sapaio .
+      [ character:  Faria .]
+      [ 399 ]  O senhor Aires Galvão por sua arte também toca que quereis pedir por boca tudo nele acharão sabedor muito grande trovador é a mesma discrição .
+      [ character:  Galvão]
+      [ 400 ]  Cousinhas que nam se crê tinha pera lhe amostrar .
+      [ character:  Capelão]
+      [ 401 ]  Se estivera de vagar fizéreis-m' essa mercê .
+      [ character:  Galvão]
+      [ 402 ]  Ordenai senhor um dia .
+      [ character:  Capelão]
+      [ 403 ]  Vede vós quando quereis pera que m' assotilheis a vossa galantaria .
+      [ character:  Galvão]
+      [ 404 ]  Tanto me dá que zombeis .
+      [ 405 ]  Beijo as de vossa mercê eu vou lá ter esta noite .
+      [ character:  Faria]
+      [ 406 ]  E se não ?
+      [ character:  Galvão]
+      [ 406 ]  Qu' ele m' açoute por roim .
+      [ character:  Faria]
+      [ 406 ]  Já o ele é .
+      [ 407 ]  Sai-se o Galvão e chega o Capelão e Faria à mesa , e diz Gama fidalgo :
+      [ character:  Gama .]
+      [ 408 ]  Que tardada ou que desvairo foi essa ?
+      [ character:  Capelão]
+      [ 408 ]  Estava rezando .
+      [ character:  Gama]
+      [ 409 ]  Padre quando vos eu mando deixai vós o briviairo por eu nam estar esperando .
+      [ 410 ]  Rezai vossas orações quando estais desacupado .
+      [ character:  Capelão]
+      [ 411 ]  E hei de buscar tempo azado .
+      [ character:  Gama]
+      [ 412 ]  Ora nam me deis rezões que estou um pouco agastado .
+      [ 413 ]  Se vos eu dou de comer de vestir , e de calçar e casa pera morar nam m' haveis vós de fazer tudo o que vos eu mandar ?
+      [ 414 ] 
+      [ 415 ]  Ora pois vos eu dou tença peço que vos emendeis nam rezeis nem celebreis senam com minha licença e se nam anojar-m'-eis .
+      [ character:  Capelão]
+      [ 416 ]  Sam eu algum malhadeiro ?
+      [ 417 ]  Tal sojeição nam na quero .
+      [ character:  Gama]
+      [ 418 ]  Vós sois meu escravo mero pois me levais meu dinheiro .
+      [ character:  Capelão]
+      [ 419 ]  No ofício de rezar nam m' haveis vós de pôr tacha .
+      [ character:  Gama]
+      [ 420 ]  Nam passamos nós mais baxa nem me queirais enfadar porqu' isso nada m' encaxa .
+      [ 421 ]  E mais polo que eu cá sei nam vades de noite fora eu nam vos pus ainda a espora eu inda vos nam cheguei pode ser que será agora .
+      [ character:  Capelão]
+      [ 422 ]  Eu nam sei que tenho feito nesta casa nem que fiz .
+      [ 423 ]  Escravo como homem diz nam foi nunca tam sojeito e sede vós o juiz .
+      [ 424 ]  Eu já depois que aqui entrei o que trouxe isso trago e c' o meu me fazeis pago que outra cousa nam medrei .
+      [ character:  Gama]
+      [ 425 ]  Calai-vos que sois um lago .
+      [ character:  Rocha]
+      [ 426 ]  Vós tendes muita rezão tomai padre seus conselhos assentai-vos em joelhos e pedi-lhe muito perdão .
+      [ character:  Capelão]
+      [ 427 ]  Ainda que eu nam soe e ande aqui por retraço ês aqui senhor o faço e peço-lhe que me perdoe .
+      [ character:  Gama]
+      [ 428 ]  Em penitência vos dou levantai-vos que digais as copras se forem tais que vos o outro mandou vós padre nam vos corrais .
+      [ character:  Capelão .]
+      [ 429 ]  Um homem nesta cidade tendo comigo amizade ( estém senhores a tento que a obra sem fundamento nam gostais dela a metade ) de maneira que andando este homem comigo em bando antre outras travessuras madou-m' estas apodaduras .
+      [ 430 ]  Porque estes se s' acontece põem o seu saber ao torno mas eu lhe darei o retorno assi como ele merece e sabê-lhe-á a piorno .
+      [ comment: 
+      [ 431 ]  Trovas feitas a Lopo Furtado capelão d' Ambrósio da Gama , sobre que presume de muito chefre no saber as quais trovas o coçam até o quarto grau , afora a sua algozaria .]
+      [ 431 ]  Trovas ao Capelão :
+      [ 432 ]  Padre criado em Paul almotacé na da Landeira forado como joeira vestido em coiraça azul .
+      [ 433 ]  Prioste no Lomiar tesoureiro em Fatiota padre moleiro em Ota e entendeis d' alveitar .
+      [ 434 ] 
+      [ 435 ]  Sois vigairo de respingo e dais ordens na retorta tendes grã ramada à porta pera pregar ao domingo .
+      [ 436 ]  Físico na Golegã precurador n' Azinhaga azemeleiro que estraga dez odres cada menhã .
+      [ 437 ]  E perdoai se vos acerto nam vos corrais desta vez sois bebedinho francês mouco , irmitão em deserto .
+      [ 438 ]  Juiz d' alçada nas Pias corregedor em Bucelas grande mestre de barrelas em beber sois um Golias .
+      [ 439 ]  Sois madraço de sequeiro doutorzinho remendado padrezote enxertado em borracha em cás d' odreiro .
+      [ 440 ]  Sois quadrilheiro de camens tendes muito má feição e tendes ser per rezão grã parvo de bastianes .
+      [ 441 ]  Estas são todas as suas as que ele a mi mandou .
+      [ character:  Lopo]
+      [ 442 ]  Dai a Deos bem vos coçou .
+      [ character:  Rocha]
+      [ 443 ]  E sabeis como vão cruas galantemente apodou .
+      [ character:  Galvão]
+      [ 444 ]  Dizei-lhe vossa reposta e vereis cousa excelente e mais vereis o que sente
+      [ character:  Capelão]
+      [ 445 ]  Nam , eu dei com ele à costa
+      [ 446 ]  ele tem-me por praguento e eu tirei-lhe ao alvo o vilancete é calvo muito feo , e peçonhento .
+      [ 447 ]  E tem mais que se sente que zombais logo se faz doutra cor e é tal o meu senhor que assi vivo o enterrais .
+      [ 448 ]  E as minhas palram assi :
+      [ comment: 
+      [ 449 ]  Trovas feitas per Lopo Furtado a Xemenes Soares abade de Cabrada , tão certo na parvoíce como barrete limpo cair no chão , etc]
+      [ 450 ]  Pois vos metestes em dança de comigo tirar palha venhamos logo à batalha de trovas que nam de lança .
+      [ 451 ]  Falais per tantos desvios que vos nam sei entender os néscios deviam ter discretos por senhorios .
+      [ 452 ]  Quanto às apodaduras que me destes no capelo certo eu lhe ponho o selo por mui más e mui escuras .
+      [ 453 ]  E as parvoíces puras que tocais a cada passo vão tanto por seu compasso que vos dais nas mataduras .
+      [ character:  Apoda :]
+      [ 454 ]  Pareceis-me contraforte que roeo dez calcanhares rapaz que anda ao folares por nam ser homem de sorte .
+      [ 455 ]  Antes quiséreis a morte qua tal cousa ir começar pareceis-me mão de gral qu' adevinha polo norte .
+      [ character:  Rocha .]
+      [ 456 ]  Nam vades mais por diante quereis que vos desengane ?
+      [ 457 ] 
+      [ 458 ]  A presunção nam vos dane porém vós sois inorante e podem-vos chamar Joane olhai-me o negro capelão olhai-me o padre de semente .
+      [ character:  Lopo]
+      [ 459 ]  E quer-se contar por gente o que parece na feição piloto de Benavente .
+      [ character:  Gama]
+      [ 460 ]  Cada um faz o que entende .
+      [ character:  Rocha]
+      [ 461 ]  Ó senhor nam falais mais é dos mores bestiais que se viram .
+      [ 462 ]  E isto tende .
+      [ character:  Lopo]
+      [ 463 ]  Galantemente apontais .
+      [ character:  Gama]
+      [ 464 ]  Dê-nos cá de consoar disso que per casa houver .
+      [ character:  Lopo]
+      [ 465 ]  Serão mimos de molher que mo nam podeis negar .
+      [ character:  Gama]
+      [ 466 ]  Nam sam daquesse mister senhor naquestes natais nam sam de mojerifadas vereis uns que em consoadas gastam meos cabedais .
+      [ character:  Lopo]
+      [ 467 ]  Senhor nam é pera crer é muito forte contenda gastardes vossa fazenda no que quer vossa molher .
+      [ 468 ]  E ainda pera mais mágoa são remás de contentar Alexandras em gastar e demandam ainda mais água .
+      [ character:  Rocha]
+      [ 469 ]  Se a minha despendeu em gergelis e em bocados quarenta cinco cruzados o que nunca s' escreveu .
+      [ character:  Gama]
+      [ 470 ]  À minha vã-lh' ensinar outras com' ela precitas cousas que nam estão escritas e entam haveis-lhas de dar senam não viveis com gritas .
+      [ 471 ]  É bem parvo e malhadeiro quem nam contempla esta míngua põe-vo' lo mel pola língua e gastam-vos vosso dinheiro .
+      [ character:  Lopo]
+      [ 472 ]  Venhamos à concrusão outro mal : s' há i ceúmes são cutelos de dous gumes dai-as à tribulação .
+      [ character:  Rocha]
+      [ 473 ]  Sofrê-las é grã tromento dai-as ao demo por suas se lhe cantam polas ruas .
+      [ 474 ]  As molheres deste tempo delas guardar , guardar que sam fino rosalgar .
+      [ 475 ]  Chega a consoada .
+      [ character:  Lopo]
+      [ 476 ]  Estas são outras batalhas e trazem mais aparato .
+      [ character:  Gama]
+      [ 477 ]  Moço tem tu mão no prato e essoutro ponha as toalhas olha nam sejas inhato .
+      [ character:  Rocha]
+      [ 478 ]  Oh como isto é angelical .
+      [ character:  Gama]
+      [ 479 ]  Comei se vos sabe bem .
+      [ character:  Rocha]
+      [ 480 ]  Assi faço mais porém nam s' há homem de fartar .
+      [ character:  Lopo]
+      [ 481 ]  Dai ao padre capelão parece arrais do Barreiro .
+      [ character:  Rocha]
+      [ 482 ]  Mas parece cavouqueiro taverneiro em Monção .
+      [ character:  Capelão]
+      [ 483 ]  Parecem vossas mercês assi juntos todos três consistório de mordomos mestres de vestirem momos escudeiros do marquês .
+      [ character:  Gama]
+      [ 484 ]  Dai a Deos mui bem nos coça o padre assopra boleimas grande mestre d' almorreimas aposentado em choça .
+      [ character:  Rocha]
+      [ 485 ]  Vós estais feito ũa frágoa parece que vos tocais Faria peço-vos que me tragais um grande púcaro d' ágoa .
+      [ character:  Gama]
+      [ 486 ]  Vem cá rapaz .
+      [ 487 ]  Onde vás ?
+      [ character:  Faria]
+      [ 488 ]  Vou por água .
+      [ character:  Gama]
+      [ 489 ]  Isso nos é necessário .
+      [ 490 ]  Que diz o padre d' almário em que cuida ou que faz ?
+      [ 491 ] 
+      [ character:  Gama]
+      [ 492 ]  Vai homem pera a velhice quanto monta a natureza .
+      [ character:  Rocha]
+      [ 493 ]  Jesu camanha certeza e que grande parvoíce .
+      [ 494 ]  Chega o moço com água e dá a Ambrósio da Gama .
+      [ character:  Gama]
+      [ 495 ]  Ora és dos mais poçonhentos rapaz dá-lhe lá .
+      [ character:  Rocha]
+      [ 496 ]  Oh beba vossa mercê .
+      [ character:  Gama]
+      [ 497 ]  Beba senhor pera quê sam agora comprimentos ?
+      [ 498 ]  Dá-la a Lopo da Silveira .
+      [ character:  Lopo]
+      [ 499 ]  Essa vos digo eu que é graça .
+      [ character:  Gama]
+      [ 500 ]  Por sua vida que o faça .
+      [ character:  Lopo]
+      [ 501 ]  Não no mande Deos nem queira .
+      [ character:  Rocha]
+      [ 502 ]  Senhor Ambrósio da Gama ele há de beber primeiro .
+      [ character:  Gama]
+      [ 503 ]  Nam senam por derradeiro por vida de minha dama .
+      [ character:  Lopo]
+      [ 504 ]  Vós sois-me tam tençoeiro .
+      [ character:  Gama]
+      [ 505 ]  Torna lá por nam cansarem . Estas cortesias tais nunca serviram de mais que de me muito enfadarem .
+      [ character:  Rocha]
+      [ 506 ]  Senhor mui bem apontais .
+      [ 507 ]  Mas a cortesia é a suma nam há i que duvidar .
+      [ character:  Gama]
+      [ 508 ]  Oh beba que s' acertar qu' assi senhor se costuma .
+      [ character:  Lopo]
+      [ 509 ]  Mandai daqui levantar .
+      [ character:  Gama]
+      [ 510 ]  Moço levanta daqui espevita essa candea .
+      [ character:  Rocha]
+      [ 511 ]  Isto passará por cea ?
+      [ character:  Lopo]
+      [ 511 ]  Nunca eu tal consoar vi .
+      [ character:  Rocha]
+      [ 512 ]  Sobremesa cantiguinha será cousa angelical .
+      [ character:  Lopo]
+      [ 513 ]  Quem tendes pera cantar ?
+      [ character:  Gama]
+      [ 514 ]  O meu moço tem falinha para só .
+      [ character:  Rocha]
+      [ 515 ]  Mandai-o senhor chamar .
+      [ character:  Gama]
+      [ 516 ]  Faria chama cá Parra .
+      [ character:  Rocha]
+      [ 517 ]  E nam dizeis que lhe diga ?
+      [ character:  Gama]
+      [ 517 ]  Diga que traga guitarra e cantará ũa cantiga .
+      [ 518 ]  Aqui canta o moço chistes a ũa guitarra , e acabado de cantar diz Rocha :
+      [ character:  Rocha]
+      [ 519 ]  Vós haveis d' ir ao serão .
+      [ character:  Gama]
+      [ 520 ]  Per força hei lá de chegar .
+      [ character:  Lopo]
+      [ 521 ]  Que fazeis ?
+      [ 522 ]  Mandai selar .
+      [ character:  Gama]
+      [ 523 ]  Já está feito d' antemão há s' homem d' antecipar .
+      [ character:  Lopo]
+      [ 524 ]  Vós senhor tendes cá besta ?
+      [ character:  Rocha]
+      [ 524 ]  Si qu' homem logo s' adarga .
+      [ character:  Lopo]
+      [ 525 ]  Pois iremos dous em carga como homens que vão a festa .
+      [ character:  Gama]
+      [ 526 ]  Faria .
+      [ 527 ]  Moço .
+      [ 528 ]  Aqui tocha passem senhores diante .
+      [ character:  Lopo]
+      [ 529 ]  Mas passe Gomes da Rocha .
+      [ character:  Gama]
+      [ 530 ]  Por mais moço e inorante me pregais essa garrocha mais rezão será que passe o senhor Ambrósio da Gama que é mais velho .
+      [ character:  Gama]
+      [ 530 ]  Essa fama dai vós de mim quem falasse .
+      [ character:  Lopo]
+      [ 531 ]  Ora eu por mais cortesão quero ser mal insinado .
+      [ character:  Gama]
+      [ 532 ]  Mais sois muito avisado .
+      [ character:  Rocha]
+      [ 533 ]  E eu também se vem à mão serei desavergonhado .
+      [ character:  Gama]
+      [ 534 ]  Pois o padre capelão nam fica cá encantado .
+      [ character:  Rocha]
+      [ 535 ]  Araújo .
+      [ 536 ]  Siquiera .
+      [ 537 ]  Moços
+      [ 538 ]  Barbosa
+      [ 539 ]  Chega o cavalo
+      [ 540 ]  Rebelo .
+      [ 541 ]  Moços .
+      [ closing:  Fim .]
+      [ 542 ]  
+      
+      [ play ]
+      [ title: 
+      [ 543 ]  Auto das regateiras ]
+      [ 544 ]  Per Antonio Ribeiro .
+      [ 545 ]  Prática de treze figuras : Velha , Briatiz , Negra , Comadre , Pero Vaz , Noivo , Mãi , Joã Duarte , Afonso Tomé , Fernã d' Andrade , Gomes Godinho , Grimanesa .
+      [ 545 ]  Com privilégio .
+      [ 546 ] 
+      [ title:  Carta . ]
+      [ 547 ]  Vertuoso auditório : e nam se vá rir , porque lança homem mão por vilhices que não fazem mais a prepósito que digamos ponde-lhe vós lá o nome , porque quem faz a casa na praça ...
+      [ 548 ]  Cada um rema pera sua openião como quem escreve em parede por cujo respeito passa assi .
+      [ 549 ]  O autor , como cousa que em todas as suas vos deseja servir vos pede , e assi requere da parte de vossas discrições e à honra de seu trabalho queiram ouvir esta breve colação fundada no aprazimento de diversas tenções que nesta congregação estarão porque já sabeis : cada um é filho de seu pai , e muitas vezes s' acontece , terem alguns os entendimentos tam ferrugentos que pera lhe chegarem ao vivo nam poderá ser sem escândalo de quem no entende .
+      [ 550 ]  E aqui m' ençarro e porque nesta prática se tratam passos que se ouvirão , e não verão lhes pede a queiram ouvir como é rezão , e dos tais s' espera cujas mãos mil vezes beijo etc .
+      [ 551 ] 
+      [ character:  Velha .]
+      [ 552 ]  Briatiz ah Briatiz .
+      [ character:  Briatiz .]
+      [ 553 ]  Senhora .
+      [ character:  Velha]
+      [ 554 ]  Inda dormes ?
+      [ 555 ]  Não se crê irgue-t' ora .
+      [ character:  Briatiz]
+      [ 555 ]  Pera quê ?
+      [ character:  Velha]
+      [ 556 ]  Pera nada .
+      [ character:  Briatiz]
+      [ 557 ]  Já qui somos que vos fiz ?
+      [ 558 ]  Eu nunca tal molher vi sei qu' hei d' ir colher amoras .
+      [ character:  Velha]
+      [ 559 ]  Erguer erguer às más horas e vós respondês-me assi ?
+      [ 560 ]  Vós havês mister esporas .
+      [ 561 ]  Que é dess' outro cadelão ?
+      [ 562 ]  Sei qu' inda se não levanta . Cadela .
+      [ character:  Negra]
+      [ 562 ]  Seora .
+      [ character:  Velha]
+      [ 562 ]  Quereis que vos vá tirá' la manta ?
+      [ character:  Negra]
+      [ 563 ]  Crialeisam , cristeleisam sato biceto nomen tuu .
+      [ character:  Velha]
+      [ 564 ]  Olhade a pele no cuu agora lhe chegou la devação .
+      [ character:  Negra]
+      [ 565 ]  A mi catiba ro judeu nam querê qu' a mim razá .
+      [ character:  Velha]
+      [ 566 ]  E ela responde-me já guardai-vos nam vos tom' eu .
+      [ character:  Negra]
+      [ 567 ]  A mim frugá boso matá boso sempre bradá bradá cadela , cadela , cadela bendê-me pera Castela .
+      [ character:  Velha]
+      [ 568 ]  Nunca t' o olho verá a vós vos porão na cela .
+      [ 569 ]  Cuidais cadela que zombo ?
+      [ 570 ]  Porque não me tens amor eu vos darei a senhor que vos ponha o pau no lombo e quiçais serês pior .
+      [ 571 ]  Quereis-vos hoje abalar ?
+      [ 572 ]  Que madrugada d' Alfama cadela e em cu na cama vós pondes-vos a rezar não virá por ti má trama ?
+      [ character:  Negra]
+      [ 573 ]  A boso sempre s' há graia .
+      [ character:  Velha]
+      [ 574 ]  Ui que diz ela , que diz ?
+      [ character:  Briatiz]
+      [ 575 ]  Diz que palrais como gralha .
+      [ character:  Velha]
+      [ 576 ]  Cadela tomai essa talha e ide logo ò chafriz e levai convosco o assento ou nam vos lembre de tornar qu' inda havês de pineirar e fazer hoje o formento qués-te tu hoje abalar ?
+      [ character:  Negra]
+      [ 577 ]  A mi não cabá besi .
+      [ character:  Velha]
+      [ 578 ]  Levai os fatos a rojo ou viço vos faz a vós nojo ?
+      [ 579 ]  Cadela qués ir por i ?
+      [ 580 ]  O vosso palrar é de pega vós provarês o toucinho cada um vá per seu caminho que não pariu aqui a galega .
+      [ 580 ]  Faz que vai dar na Negra e vem com sua filha e diz :
+      [ 581 ]  Com' isto está concertado que prazer e que frescura tal seja tua ventura em que trazes o cuidado feito é já não tens cura .
+      [ character:  Briatiz]
+      [ 582 ]  Vós tendes muita rezão vedes muitos desarranjos levais-me vida dos anjos e dais-me inda paixão .
+      [ character:  Velha]
+      [ 583 ]  E que vida levo eu ?
+      [ 584 ]  Andar embora e ter bem .
+      [ character:  Briatiz]
+      [ 585 ]  Tendes vós em casa alguém que vos sirva senão eu ?
+      [ character:  Velha]
+      [ 586 ]  E como ora isso tem negro serviço é o teu .
+      [ character:  Briatiz]
+      [ 587 ]  Eu não vos posso entender .
+      [ character:  Velha]
+      [ 588 ]  Malina quem te matasse .
+      [ character:  Briatiz]
+      [ 589 ]  Mas que de vós escapasse pois tão má sois de sofrer .
+      [ character:  Velha]
+      [ 590 ]  À fé que não m' enforcasse .
+      [ 591 ] 
+      [ character:  Briatiz]
+      [ 592 ]  Eu lavar e esfergar varrer e esfolinhar e por dai-me cá aquela palha ...
+      [ character:  Velha]
+      [ 593 ]  E tu fazes nemigalha senão comer e folgar e palrares como gralha e língua não na vão buscar milhor a Frandes nem a Roma mas o ensino qu' ela toma algum no há d' amargar .
+      [ character:  Briatiz]
+      [ 594 ]  Se o amargar sam contente mas não hei deste vassoira .
+      [ character:  Velha]
+      [ 595 ]  Traze-m' aqui a debadoura e um tanho em que m' assente acabai colher mexedoira e ponde-lhe lá ũa meada qu' está dentro no cabaz se inda estiver em paz que aqui não esta quedo nada o rabear qu' ela faz .
+      [ 596 ]  Senhor dá-me paciência certo nam é pera crer quem te em casa houver de ter terá sua consciência danada se te sofrer .
+      [ character:  Briatiz]
+      [ 597 ]  Não ficam lá mais meadas ?
+      [ character:  Velha]
+      [ 597 ]  Ficaram as que vós fiastes que má hora cá ficastes guardada pera tais fadas pois tam cedo madrugastes .
+      [ 598 ]  Vai ver quem bate ali dize que não estou cá qu' assi bate quem será ?
+      [ character:  Comadre]
+      [ 598 ]  Minha comadre esta i ?
+      [ character:  Velha]
+      [ 598 ]  Abre qu' é minha comadre na fala vos conheci .
+      [ character:  Comadre]
+      [ 599 ]  Deos vos salve .
+      [ character:  Velha]
+      [ 600 ]  Comadre venhais embora donde é a vinda agora ?
+      [ character:  Comadre]
+      [ 600 ]  Levei a vosso compadre de comer qu' anda i fora .
+      [ 601 ]  E ando assi não sei quejanda .
+      [ character:  Velha]
+      [ 602 ]  Que mal foi esse tamanho ?
+      [ 603 ]  Assentai-vos neste tanho isso é andaço qu' anda .
+      [ character:  Comadre]
+      [ 604 ]  Não sei que é nem que não mas desta negra emprenhidão ando assi pera morrir comadre não sam molher .
+      [ character:  Velha]
+      [ 605 ]  Benga-vos Deos .
+      [ character:  Comadre]
+      [ 606 ]  Ai ai não me ponhais a mão que o não posso sofrer .
+      [ character:  Velha]
+      [ 607 ]  Quanto há qu' assi andais ?
+      [ character:  Comadre]
+      [ 607 ]  Desd' a entrada d' Agosto .
+      [ character:  Velha]
+      [ 608 ]  Não tendes pano no rosto .
+      [ character:  Comadre]
+      [ 609 ]  Vai em quatro meses nô mais já hei de mudar o posto .
+      [ character:  Velha]
+      [ 610 ]  Eu há quatro dia qu' era desposta rija um lião e agora esta paxão me tornou um pau de cera .
+      [ character:  Comadre]
+      [ 611 ]  Isso é do coração .
+      [ 612 ]  Bebede a língua cervina vereis como vos achais .
+      [ character:  Velha]
+      [ 613 ]  Tudo isso é por demais isto é minha mofina por aqui me metem punhais
+      [ 614 ]  .
+      [ character:  Comadre]
+      [ 615 ]  Eu de tomar qualquer carga aqui m' acode a doença .
+      [ character:  Velha]
+      [ 616 ]  Pois comadre isso é criença que se vos mete na ilharga .
+      [ character:  Comadre]
+      [ 617 ]  Eu cousa que coma me presta e assi não posso comer .
+      [ character:  Velha]
+      [ 618 ]  Moça vai tu enfonder pões-te a oulhar como besta não tendes nada que fazer ?
+      [ 619 ]  Todo o mal em mi s' encerra por aqui me dão ao ferrolho que não posso çarrar olho grito em céu grito em terra .
+      [ 620 ] 
+      [ 621 ]  E sobe-se-m' a madre ao peito que me nam conhecerês .
+      [ character:  Comadre]
+      [ 622 ]  Defumai-vos c' os papês que fazem muito proveito e vós me nomearês ou tomai caldos de formento e purgarês destes lugares .
+      [ character:  Velha]
+      [ 623 ]  Tenho já coalhado os mares com mezinhas tudo é vento .
+      [ 624 ]  Trouxe cengido um bragal bibi dez manhãs a norça comadre nada m' esforça mas antes dobro meu mal pus já alfava-da-cobra e o ovo com a alfazema mas comadre isto é postema pois a mezinha não obra isto tenho já por prema .
+      [ character:  Comadre]
+      [ 625 ]  Eu ando assi tão pejada com estas negras doenças .
+      [ character:  Velha]
+      [ 626 ]  Vós trazês duas crienças com' eu estou aqui assentada e vós comadre havês mister muitos mimos ameúde .
+      [ character:  Comadre]
+      [ 627 ]  Queria ter mais saúde .
+      [ character:  Velha]
+      [ 628 ]  Pois fazei vós por viver .
+      [ character:  Comadre]
+      [ 629 ]  Comadre eu vos direi já não me prestam mezinhas ai pernas que não sois minhas cadeiras que vos farei ?
+      [ character:  Velha]
+      [ 630 ]  Comadre vós parirês e o corpo descansará .
+      [ character:  Comadre]
+      [ 631 ]  Mas quero-m' ir que tardo já .
+      [ character:  Velha]
+      [ 632 ]  Estai , logo vos irês .
+      [ character:  Comadre]
+      [ 633 ]  Há muito qu' estou já cá .
+      [ character:  Velha]
+      [ 634 ]  E meu compadre anda agora ajornalado ?
+      [ character:  Comadre]
+      [ 634 ]  Anda em ũa negra empreitada negra sou e espezinhada que tudo temos gastado qu' isso me tem enterrada .
+      [ 635 ]  Tomou ũa obra de praga e meteu oficiais e gastamos que falais quando vejo a negra paga houve uns quatro mil reais .
+      [ 636 ]  E então pagam-lhe com parola palavrinhas de pincéus .
+      [ character:  Velha]
+      [ 637 ]  Não falta a mercê de Deos sempre acode com ũa esmola .
+      [ character:  Comadre]
+      [ 638 ]  Assi haja eu vossa bênção como vendi meus anéis manilhas e arriéis sem me ficar um tostão nem ceitil .
+      [ character:  Velha]
+      [ 639 ]  Comadre a mi o dizês .
+      [ 640 ]  Perdoe Deos quem foi vender ũa taça de bastiães por dar de comer a cães que cuidei d' endoudecer e mais c' os ganhos d' agora bem vedes quejandos sam .
+      [ character:  Comadre]
+      [ 641 ]  Tudo vai em perdição hoje mal crás empiora como diz lá no rifão .
+      [ character:  Velha]
+      [ 642 ]  Tudo vai fora da estrada bem no vejo e bem no sei .
+      [ character:  Comadre]
+      [ 643 ]  E mais com esta ida del rei não há d' haver venda nada .
+      [ character:  Velha]
+      [ 644 ]  Comadre eu vos direi fic' homem naqueste inferno .
+      [ character:  Comadre]
+      [ 645 ]  Muitas vezes cuido em mim que se vai a Almeirim um rei meado Inverno ?
+      [ character:  Velha]
+      [ 646 ]  A fazer rico escoroupim .
+      [ character:  Comadre]
+      [ 647 ]  Disso só me fica mágoa nunca é contente a pessoa um rei qu' estava em Lisboa assi como peixe n' água mas vós veredes o que soa .
+      [ 648 ] 
+      [ 649 ]  Velha
+      [ 650 ]  Todos nós isso cramamos comadre manso o dizeis mas são vontades de reis que quereis que lhe façamos ?
+      [ 651 ]  Como dizem : lá vam leis .
+      [ character:  Comadre]
+      [ 652 ]  Isso é estopa ou linho ?
+      [ character:  Velha]
+      [ 653 ]  Linho .
+      [ character:  Comadre]
+      [ 653 ]  Como é delgado nam faço eu este fiado mal pecado já vou per outro caminho já os meus nembros sam mancos vivo assi por maravilha .
+      [ 654 ]  Eu fiei já biatilha que dei por seiscento brancos e de que comprei fraldilha .
+      [ character:  Velha]
+      [ 655 ]  E ind' agora valem caras .
+      [ character:  Comadre]
+      [ 656 ]  Isto era em tempo de peste .
+      [ character:  Velha]
+      [ 657 ]  Que renderá tal com' este ?
+      [ character:  Comadre]
+      [ 658 ]  Por arrate quatro varas .
+      [ character:  Velha]
+      [ 659 ]  Nunca lho dinheiro preste de dez arrates e meo mandei lançar seis lanções e nam me rendeu tam sóis a três varas .
+      [ character:  Comadre]
+      [ 659 ]  Nam no creo .
+      [ character:  Velha]
+      [ 660 ]  Por vida d' Ana de Guões
+      [ 661 ]  todos são ladrões a eito o milhor deles mais furta .
+      [ character:  Comadre]
+      [ 662 ]  Pois comadre nam encurta o fiado desse jeito .
+      [ character:  Velha]
+      [ 663 ]  Pois vem-me com outra dança que lhe falta ainda fiado e nam no acharei emprestado em toda esta vezinhança .
+      [ character:  Comadre]
+      [ 664 ]  Isso é roubo provado .
+      [ character:  Velha]
+      [ 665 ]  S' eu achara nessa praça sequer um par de novelos .
+      [ character:  Comadre]
+      [ 666 ]  Folgara eu bem de tê-los pera vo-los dar de graça .
+      [ character:  Velha]
+      [ 667 ]  Vejam-vos aqui estar por ũa cousa enforcada ali achais emprestada .
+      [ character:  Comadre]
+      [ 668 ]  Isso é pera pasmar .
+      [ character:  Velha]
+      [ 669 ]  Comadre não vedes nada
+      [ 670 ]  que tenho aqui ũa vezinha que me róie com' a traça comadre não sei que faça .
+      [ character:  Comadre]
+      [ 671 ]  Como se chama ?
+      [ character:  Velha]
+      [ 671 ]  Acharinha .
+      [ character:  Comadre]
+      [ 672 ]  E falais-me nessa raça e que peça e que siso e que cabeça comadre na minha rua mora ũa espada nua que fere dês que começa .
+      [ character:  Velha]
+      [ 673 ]  Essa será pão e mel pera estoutra que é lião tem língua d' escorpião .
+      [ character:  Comadre]
+      [ 674 ]  Onde mora ?
+      [ character:  Velha]
+      [ 674 ]  Junto a Sam Miguel nunca vi tal condição .
+      [ character:  Comadre]
+      [ 675 ]  Que casamento ali está tam negro tão espezinhado .
+      [ character:  Velha]
+      [ 676 ]  Quanto lh' eu tenho pregado .
+      [ character:  Comadre]
+      [ 677 ]  Pregue-lhe lá a ira má há de pagar seu pecado .
+      [ character:  Velha]
+      [ 678 ]  O coitado anda a pescar posto ao perigos do mar vestido em um chapeirão e o negro escudeirão sova-lhe no alguidar .
+      [ 679 ]  E a filha da Rebela outro pote tal como ela .
+      [ character:  Comadre]
+      [ 680 ]  Qual , a que mora n' Adiça ?
+      [ character:  Velha]
+      [ 681 ]  Aquessa que por justiça s' havia d' entender nela .
+      [ 682 ]  Aqui mora outra boneja que presume de santeira arroja o cu pela esteira e vai tam sesuda à igreja .
+      [ character:  Comadre]
+      [ 683 ]  Pois essa é sua praceira .
+      [ character:  Velha]
+      [ 684 ]  Essa lhe lê ela os baldos e essa lhe mexe os caldos e essa é seu ai Jesu chama-se ũa a outra por tu cada ũa tem seu ladroaço todas bebem por um tarraço .
+      [ 685 ]  Ali é o embebedar qual debaxo qual de cima é ũa escola d' esgrima comadre não é de crer é ũa mui grande erronia e é ũa Babilonia assi pera os Deos soverter se ir noite pela menhã a outra sua irmã inda Deos nam dava luz lançou o outro do capuz .
+      [ 686 ] 
+      [ character:  Comadre]
+      [ 687 ]  Saiu de carpear lã e cumpre-lh' homem dizer bus .
+      [ 688 ]  Pera que são esconjuros olhai cá comadre minha já por linha vem a tinha são seus pecados escuros .
+      [ character:  Velha]
+      [ 689 ]  Assi como é cousa forte deixar d' aquentar o lume assi o mudar costume é um parelho de morte .
+      [ character:  Comadre]
+      [ 690 ]  Deixai-a qu' assi persume .
+      [ character:  Velha]
+      [ 691 ]  Crede qu' às vezes me vem veas pera me enforcar .
+      [ character:  Comadre]
+      [ 692 ]  Estará bem de vagar quem se matar por ninguém tudo o tempo há de curar .
+      [ character:  Velha]
+      [ 693 ]  Comadre que vos parece deste que quer ser meu genro ?
+      [ character:  Comadre]
+      [ 694 ]  Comadre manso e tenro e doudo se s' acontece .
+      [ character:  Velha .]
+      [ 695 ]  Nam é macho nem capacho nem é pão nem é formento é parvo que tem porcento .
+      [ character:  Comadre]
+      [ 696 ]  Tende má hora empacho ele é daquesse alemento esse tal terá mão no castiçal e fá-lo-ão peneirar .
+      [ character:  Velha]
+      [ 697 ]  E andar e desandar .
+      [ character:  Comadre]
+      [ 698 ]  Casa logo Bretiz mal .
+      [ character:  Velha]
+      [ 699 ]  Entendei vós isso bem quem casa com tal com' ele nam casa com sua pele mas casa c' o qu' ele tem .
+      [ 700 ]  Que o marido não no queria eu sabido .
+      [ character:  Comadre]
+      [ 701 ]  E pois como ?
+      [ character:  Velha]
+      [ 701 ]  Rico e tolo que visse a corna c' o olho e perguntasse : qu' é 'quilo ?
+      [ 702 ]  Ele tem vinho e pão quanto convém e em que seja malhadeiro bom é marido gaiteiro .
+      [ character:  Comadre]
+      [ 703 ]  Dizês comadre mui bem .
+      [ character:  Velha]
+      [ 704 ]  Pois comadre que cuidais ?
+      [ 705 ]  Mais val saber que haver e o dar que receber se nisso bem atentais .
+      [ character:  Comadre]
+      [ 706 ]  Escolha-vos Deos aquilo qu' ele vir qu' é seu serviço mas comadre nam vos cobiço tal marido nem tal grilo metê-lo-ês num cortiço .
+      [ 707 ]  Assi como m' eu assento assi me deixo eu estar .
+      [ character:  Velha]
+      [ 708 ]  Sei que tendes d' amassar .
+      [ character:  Comadre]
+      [ 709 ]  Tenho muito do quebranto e muito do mau pesar .
+      [ 710 ]  Ir noite fui ao Terreiro e trouxe trigo de Bordéus tam alvo com' estes véus e saiu-me todo borneiro e vai a boa da forneira lançou-mo à costaneira e ele qu' era frol de forno amarga como piorno não mo querem na Ribeira .
+      [ 711 ] 
+      [ character:  Velha]
+      [ 712 ]  Comadre esse trigo tal quer-se ao sol muito secado e se não é mesturado pega-se todo ao bragal e quer que folgue da mão um pouco no alguidar .
+      [ character:  Comadre]
+      [ 713 ]  É um bofe d' amassar .
+      [ character:  Velha]
+      [ 714 ]  Leva água ?
+      [ character:  Comadre]
+      [ 714 ]  É perdição levara todo esse mar .
+      [ character:  Velha]
+      [ 715 ]  Ama tem sempre bom trigo .
+      [ character:  Comadre]
+      [ 716 ]  Quinta-feira levei dela tem muita avea e lingela .
+      [ character:  Velha]
+      [ 717 ]  Faz bom pão ?
+      [ character:  Comadre]
+      [ 717 ]  Eu que vos digo faz boleimas de Castela .
+      [ character:  Velha]
+      [ 718 ]  Eu que sam das mais pechosas trago sempre do que soio é sujozinho tem joio porém faz um pão de rosas .
+      [ character:  Comadre]
+      [ 719 ]  Eu também sam filha d' Eva e levei daquesse mesmo e lancei-lhe água a esmo mas não no achei de leva .
+      [ 720 ]  Comadre vós que mandais que é tempo de m' eu mudar ?
+      [ character:  Velha]
+      [ 721 ]  Que vos deixe Deos lograr .
+      [ character:  Comadre]
+      [ 722 ]  E vós comadre vejais prazeres .
+      [ character:  Velha]
+      [ 722 ]  Quereis cá jantar ?
+      [ character:  Comadre]
+      [ 723 ]  Não comadre eu vou contente do vosso contentamento não se faça o casamento sem eu ser também presente .
+      [ character:  Velha]
+      [ 724 ]  Ui comadre sequer vós sem vós que prestava eu ?
+      [ 725 ]  Dou-vos a Sam Bartolameu não são meu gozos tão sós .
+      [ character:  Comadre]
+      [ 726 ]  Nam vos espante o genro tosco que é muito bem assombrado .
+      [ 727 ]  Ficai embora comadre .
+      [ character:  Velha]
+      [ 728 ]  Pois dizei lá a meu compadre que venha a jantar conosco que o hei por combidado .
+      [ 729 ]  Sai a comadre .
+      [ character:  Velha]
+      [ 730 ]  Breatiz , moça , Breatiz .
+      [ character:  Briatiz]
+      [ 731 ]  Senhora .
+      [ character:  Velha]
+      [ 731 ]  Inda esse demo nam veo ?
+      [ character:  Briatiz]
+      [ 732 ]  Inda não .
+      [ character:  Velha]
+      [ 732 ]  E como creo qu' é 'stada de chafariz eu a meterei no seo e vós bela mal maridada de las más lindas que yo vi saí cá fora saí sei que sois dama ençarrada não sei que diga por ti .
+      [ 733 ]  Tu perguiçosa dorminhoca mentirosa golosa mixiriqueira rapariga endiçadeira por que não és vertuosa ?
+      [ character:  Briatiz]
+      [ 734 ]  Oulhai cá bem vos entendo sam muito boa molher e mau grado a quem tiver milhor fama .
+      [ character:  Velha]
+      [ 734 ]  Deos querendo és muito boa colher de bons caldos mexedoira limpa-mosca é prazer aguçosa no comer feitiboa que lavoira farás a quem te tiver .
+      [ 735 ]  E o marido que levar tal joia como tu és cumpre-lhe andar dos pés que tu hás d' esperdiçar segundo és feita ao revés .
+      [ 736 ]  E mais quem viver verá a volta que o mundo dá e verás se nam me crês que o que nam se faz no mês pelo ano se fará
+      [ 737 ]  qu' o que te teu padre deixou nam no bebi na taverna custado t' houvera ũa perna foras a molher que sou mas inda agora és moderna .
+      [ 738 ]  Eu não sei quem sofrerá as teas qu' andas tecendo Breatiz mui bem t' entendo e ao diante se verá s' e virtude o qu' eu reprendo .
+      [ 739 ]  Que quem nam crê madre velha eu não te falo galego nam t' enganes tu contego atenta quem t' aconselha e sigue pelo meu rego . Eu dou-t' o sangue do braço e tu não mo agradeces tanto andas tanto teces que sei eu qu' isto qu' eu faço ainda mo não mereces .
+      [ 740 ] 
+      [ character:  Briatiz]
+      [ 741 ]  Casai-me vós com alguém e sereis desabafada .
+      [ character:  Velha]
+      [ 742 ]  E com quem ?
+      [ 743 ]  Dize desfaçada olha não te quer ninguém qu' és ũa desenfreada .
+      [ 744 ]  E por essa língua tua t' há de vir o qu' hás de ver nunca me quiseste crer tu darás sinal na rua .
+      [ character:  Briatiz]
+      [ 745 ]  Darei de boa molher .
+      [ character:  Velha]
+      [ 746 ]  Rogo à virgem Maria que nam seja eu procefia e que saia mentirosa .
+      [ character:  Briatiz]
+      [ 747 ]  Nam hei de ser aleivosa .
+      [ character:  Velha]
+      [ 748 ]  Peca é quem em si confia olha cá eu te direi : todo o viver é fadiga e mais nunca niguém diga desta água nam beberei digo-t' isto como amiga .
+      [ 749 ]  Põe ũa pouca d' ágoa 'quecer morna nam já muito quente pera fazer o crescente essa negra se vier .
+      [ 750 ]  E se quiseres escaldar essa carne da gamela mete-a em ũa panela sequer farás um jantar s' os gatos nam dam com ela .
+      [ character:  Briatiz]
+      [ 751 ]  Há mister qu' Isabel mande a panela que levou .
+      [ character:  Velha]
+      [ 752 ]  Ui agora lhe lembrou a morte de João Grande e agora lhe chegou .
+      [ 753 ]  No cozinhar bem t' alargas busca tu por essa casa ũa panela de ũa asa que pera isso há cem cargas .
+      [ 754 ]  Entra a negra com Parvo com o pote quebrado e diz :
+      [ character:  Parvo]
+      [ 755 ]  Manda-me cá minha tia que disse que dezia ela ?
+      [ 756 ]  Olhai que já m' esquecia sabeis vós qu' ela dizia ?
+      [ 757 ]  Dizia que diria ela ?
+      [ 758 ]  Já me lembra já já já disse que viesse eu cá Luzia sabês a quê ?
+      [ character:  Negra]
+      [ 759 ]  Boso tia não dizê .
+      [ character:  Parvo]
+      [ 760 ]  Disse qu' a vossa caroucha quebrou o pote na rua e que a 'çoutásseis vós nua por amor dessa maocha .
+      [ character:  Negra]
+      [ 761 ]  Mim não quebrar bosso porta besa passá não falou .
+      [ character:  Parvo]
+      [ 762 ]  Sim que inha dona mandou por aquessa mesma porca .
+      [ 763 ] 
+      [ character:  Negra]
+      [ 764 ]  Prutugá santar diabo .
+      [ character:  Parvo]
+      [ 765 ]  Pois dizei vós quem na tem .
+      [ character:  Negra]
+      [ 766 ]  Boso nunca tendê bem .
+      [ character:  Parvo]
+      [ 767 ]  Si terei mas u-lo rabo ?
+      [ character:  Velha]
+      [ 767 ]  Negra nô mais aravia tu m' hás de levar à cova quebrastes-me a quarta nova .
+      [ character:  Parvo]
+      [ 768 ]  Sabeis vós onde ela sia ?
+      [ 769 ]  Vi-a e não no direi .
+      [ character:  Velha]
+      [ 770 ]  Inda ontem lha comprei cadela rosto d' estria que farei ?
+      [ 771 ]  Áque del rei .
+      [ character:  Parvo]
+      [ 772 ]  Sabeis vós o que façais ?
+      [ character:  Velha]
+      [ 773 ]  Que hei de fazer ?
+      [ character:  Parvo]
+      [ 773 ]  Que sei eu ?
+      [ character:  Velha]
+      [ 774 ]  Ó estroidoira do meu mui fora de vós andais .
+      [ character:  Negra]
+      [ 775 ]  Mim trazê pote cabeça a rua do Frono pretada besa que vem caregada dizê : negra anda
+      [ 776 ]  Co a pressa mim caí todo calabrada .
+      [ character:  Velha]
+      [ 777 ]  Quem me deu tal enxoval pera meu descanso todo cadela tu és engodo que naceste em Portugal pera me pores de lodo ou não posso cuidar al .
+      [ 778 ]  Já me quebraste ũa talha quatro potes um asado tudo me tens já quebrado já não tenho nemigalha e sofrer-te é meu pecado .
+      [ character:  Negra]
+      [ 779 ]  U-lo crupa qu' a mim tem ?
+      [ character:  Velha]
+      [ 780 ]  Cadela inda tendes língua ?
+      [ 781 ]  Quanta desculpa não míngua bem sei eu donde isto vem .
+      [ 782 ]  Tendes já a vergonha rasa eu te conheço raposa levantou-se a preguiçosa e foi pôr o fogo à casa .
+      [ 783 ]  Vós sois feita de manteiga benza a Deos esta negrinha i pineirar a farinha e deitai o rolão na teiga acabai cadela asinha .
+      [ 784 ]  Vai-se a negra .
+      [ 785 ]  Breatiz .
+      [ character:  Briatiz]
+      [ 785 ]  Senhora .
+      [ character:  Velha]
+      [ 785 ]  Vem cá abre-m' arca dos lançóis e revolve como sóis e pera a banda d' acolá mete a mão logo assi .
+      [ character:  Briatiz]
+      [ 786 ]  Acabai nunca tal vi .
+      [ character:  Velha]
+      [ 787 ]  Acharás aí um bragal e dai-o àquesse enxoval que cinja derrador de si .
+      [ character:  Briatiz]
+      [ 788 ]  Quereis mais ?
+      [ character:  Velha]
+      [ 789 ]  E já vos agastais ?
+      [ character:  Briatiz]
+      [ 789 ]  Sim com tanta Breatiz .
+      [ character:  Velha]
+      [ 790 ]  Não falem à empenatriz .
+      [ character:  Briatiz]
+      [ 791 ]  E vós por ventura acabais vós não sois como outra gente nunca vos vi sem bradar não há saber-vos levar nem há i quem vos contente e disto vos podeis gabar .
+      [ 792 ]  Entra Pero Vaz o pai do noivo e diz :
+      [ character:  Parvo]
+      [ 793 ]  Entraremos sem bater .
+      [ character:  Velha]
+      [ 794 ]  Quem é o qu' assi despacha ?
+      [ character:  Parvo]
+      [ 794 ]  Ladrão que furta quant' acha .
+      [ character:  Velha]
+      [ 795 ]  Isso havíamos nós mister mas furtara algũa borracha .
+      [ character:  Parvo]
+      [ 796 ]  Logo eu essa furtaria porém dá-se a quem na cava .
+      [ character:  Velha]
+      [ 797 ]  Olhai vós onde eu estava antre que vos conhecia mas não vos defemençava .
+      [ 798 ]  O mundo é enfadado d' oulá fechar e d' abrir .
+      [ 799 ] 
+      [ character:  Parvo]
+      [ 800 ]  Ontem quisera eu cá vir e não pude d' acupado e venho por não mentir .
+      [ character:  Velha]
+      [ 801 ]  Eu estava pera ir lá .
+      [ character:  Parvo]
+      [ 802 ]  Tomei logo a dianteira .
+      [ character:  Velha]
+      [ 803 ]  Assentai-vos nessa cadeira achegais-vos pera cá .
+      [ character:  Parvo]
+      [ 804 ]  Bem estou .
+      [ character:  Velha]
+      [ 804 ]  Nam sejais dessa maneira .
+      [ 805 ]  O que eu digo não se faz .
+      [ 806 ]  Fecha-m' essa porta Negra .
+      [ character:  Parvo]
+      [ 807 ]  Isso é por comprir a regra se queres viver em paz tuas portas fecharás etcetra .
+      [ character:  Velha]
+      [ 808 ]  Não é isso nemigalha são aqui atagantada .
+      [ character:  Pero .]
+      [ 809 ]  Por isso porta fechada tira o dono da baralha is pelo meo da estrada .
+      [ character:  Velha]
+      [ 810 ]  Estamos num mundo tal que não fio de ninguém e mais nam sei quem me quer bem nem menos quem me quer mal .
+      [ character:  Parvo]
+      [ 811 ]  Os que têm siso isso têm nam vos acho eu nisso tosca mas discreta e avisada e mais em boca fechada já sabês nam entra mosca .
+      [ character:  Velha]
+      [ 812 ]  Pois quem pineira e amassa destas cousas sabe o centro metem a cabeça dentro por darem fé do que passa .
+      [ character:  Parvo]
+      [ 813 ]  A malícia é seu coentro abasta por toda las vias tomais o milhor conselho e mais diz um dito velho fuge das más companhias e serás de todos espelho .
+      [ 814 ]  Aqui tosse Pero Vaz .
+      [ character:  Velha]
+      [ 815 ]  Nam vindes vós todo trigo .
+      [ character:  Parvo]
+      [ 816 ]  Eu ando morrendo em pé .
+      [ character:  Velha]
+      [ 817 ]  O vosso mal de que é ?
+      [ character:  Parvo]
+      [ 818 ]  Eu não m' entendo comigo sempre estou neste marteiro tem-me já morto esta tosse .
+      [ character:  Velha]
+      [ 819 ]  Curar-m'-ia eu s' a vós fosse e enforcasse-s' o dinheiro .
+      [ character:  Parvo]
+      [ 820 ]  Já em mim não há ter posse .
+      [ 821 ]  Isto m' há de tirar alma e de noite mais se m' aguça .
+      [ character:  Velha]
+      [ 822 ]  O doutor da mula ruça vos dará são como a palma .
+      [ 823 ]  Ou o das sete carapuças que aqui anda baganau tomai vós água do pau .
+      [ character:  Parvo]
+      [ 824 ]  Pois nem a poder de chuças sararei .
+      [ character:  Velha]
+      [ 824 ]  Isso é mau .
+      [ 825 ]  Mestre Anrique que é ᵱvado pera aquessas peitogueiras faz curas mui verdadeiras .
+      [ character:  Parvo]
+      [ 826 ]  Sabeis quem me tem pelado ?
+      [ 827 ]  Mestres mestras : meu pecado boticas e cristaleiras olhai vós como isso rima é muito forte elemento todo seu curar é vento qu' a mezinha vem de cima .
+      [ character:  Velha]
+      [ 828 ]  Bem no vejo e bem no sento .
+      [ character:  Parvo]
+      [ 829 ]  É muito forte contenda vós ficais por derradeiro sem saúde , e sem dinheiro e sem vida e sem fazenda e sem alma .
+      [ character:  Velha]
+      [ 829 ]  É marteiro .
+      [ character:  Parvo]
+      [ 830 ]  Ora i dar deles querela tenho com mestres guastados passante de cinco cruzados ora u la saúde ?
+      [ 831 ]  Qu' é dela ?
+      [ 832 ] 
+      [ character:  Velha]
+      [ 833 ]  Eles não têm outras tenças são como os precuradores acrescentam-vo las dores pera endez doutras doenças e guaias dos pecadores .
+      [ character:  Parvo]
+      [ 834 ]  Outra pera que saibais a fora suas receitas me tem levado de peitas mais de dez tostões , mais .
+      [ character:  Velha]
+      [ 835 ]  Visse-os eu com más maleitas .
+      [ 836 ]  Deixai-os qu' é seu ofício .
+      [ character:  Pero .]
+      [ 837 ]  Mas deles arrenegai .
+      [ character:  Velha]
+      [ 838 ]  Falemos no que nos vai qu' isso tem já d' ab enício .
+      [ character:  Pero .]
+      [ 839 ]  Falastes a concrusão as cousas que de Deos são Deos as ordena e ajunta .
+      [ character:  Velha]
+      [ 840 ]  A vertude é já defunta .
+      [ character:  Pero .]
+      [ 841 ]  Nam há reger por rezão .
+      [ 842 ]  Mas pois isto anda na frágua venho saber deste linho e pois água não vem a moinho que vá o moinho à ágoa por tudo ir por seu caminho .
+      [ character:  Velha]
+      [ 843 ]  Não há i mais que concertar vós mandastes-me falar por nam sei quem .
+      [ character:  Pero]
+      [ 843 ]  É verdade .
+      [ character:  Velha]
+      [ 844 ]  Pois saibamos vossa vontade vosso filho quer casar ?
+      [ character:  Pero]
+      [ 844 ]  Si com vossa filha Breatiz .
+      [ character:  Velha]
+      [ 845 ]  Sabeis o que a moça diz ?
+      [ 846 ]  Diz mui eu lho aconselho que antes quer marido velho rico , qu' a moço com dous ceitis .
+      [ character:  Pero .]
+      [ 847 ]  Pera isso eu vos direi eu com meu filho farei bons sassenta mil reais pagos em cruzado tais afora o que lhe darei
+      [ 848 ]  que é de seu ofício marca convém a saber : redes , barca ucha sua gorazeira pranchas , sua vela enteira isto tendes como n' arca .
+      [ 849 ]  E assi mais lhe daremos fateixa , cordas , e remos rede savar , sardinheira com seu copé e maneira como verão e veremos .
+      [ character:  Velha]
+      [ 850 ]  Pois mi filha Breatiz Varela quem houver de casar com ela tem muito bom casamento tem um olival em Sam Bento e um pinhal n' Arrentela e vinha d' aforamento .
+      [ 851 ]  E tem mais três colchões seis cabeçais e um mui bom cobritor e outro do mesmo teor dous pares de castiçais .
+      [ 852 ]  Seu estanho e um copo assi tamanho que tem dous marcos e meo cortinas com seu arreo três esteiras e um tanho .
+      [ 853 ]  E tem mais por esta guisa uns três bacios de pisa e de farténs duas bacias e seis boas almofias um gral com sua mão lisa .
+      [ 854 ]  Um enxergão quatro lançóis de Ruão e seis d' estopa curados oito de linho delgados e o mais que lhe darão .
+      [ 855 ]  E aquele que vive e reina sabe como s' isto cava e dar-vos-ei ũa escrava que trabalha como zeina amassa , e esfrega e lava .
+      [ 856 ] 
+      [ character:  Parvo]
+      [ 857 ]  E essa não se pode ver ?
+      [ character:  Velha]
+      [ 857 ]  Sim Jesu logo ness' hora cadela saí cá fora .
+      [ character:  Negra]
+      [ 858 ]  Seora nunca poder sá massando sá cupada .
+      [ character:  Velha]
+      [ 859 ]  Cadela já começais ?
+      [ 860 ]  Assi quero que venhais qu' isso não releva nada .
+      [ character:  Negra]
+      [ 861 ]  Seora sá farinhada .
+      [ character:  Velha]
+      [ 862 ]  Achegai-vos pera cá já vós receais a carga .
+      [ character:  Negra]
+      [ 863 ]  Esse cousa santá marga .
+      [ character:  Parvo]
+      [ 864 ]  E esta de qu' anos será ?
+      [ character:  Velha]
+      [ 865 ]  Ela veio a meu poder moça de trinta e um ano não tendes comigo engano .
+      [ character:  Pero]
+      [ 866 ]  E agora que pode haver ?
+      [ character:  Velha]
+      [ 866 ]  Não queira Deos que vos menta houve-a no tremor da terra pode agora ser essa perra moça d' alguns cinquenta salvante s' a conta erra .
+      [ character:  Pero]
+      [ 867 ]  Quanto ano Portugal ?
+      [ character:  Velha]
+      [ 867 ]  Não é ela tão salvagem falai-lhe vossa linguagem inda qu' ela fale mal .
+      [ character:  Pero]
+      [ 868 ]  Quanto ano ?
+      [ 869 ]  Não tender ?
+      [ character:  Negra]
+      [ 870 ]  Bosso tem grande boroço .
+      [ character:  Pero]
+      [ 871 ]  Como chamar terra vosso ?
+      [ character:  Negra]
+      [ 872 ]  Terra meu nunca saber .
+      [ 873 ]  Pera que bosso perguntá esse cousa nunca ouvir .
+      [ character:  Pero]
+      [ 874 ]  Quantos filho vós parir ?
+      [ character:  Negra]
+      [ 875 ]  Dosso , três , quatro juntá .
+      [ character:  Pero]
+      [ 876 ]  A bosso tem inda dente ?
+      [ character:  Velha]
+      [ 877 ]  Ainda tem os queixais é moça vós que lh' olhais ?
+      [ character:  Pero]
+      [ 878 ]  Comer bem santar valente ?
+      [ character:  Velha]
+      [ 878 ]  Quant' a disso não na há i mais .
+      [ character:  Pero]
+      [ 879 ]  Não curemos de mais festa não há i mais que falar .
+      [ character:  Velha]
+      [ 880 ]  Vai acabar d' amassar deixa-m' essa massa testa .
+      [ character:  Pero]
+      [ 881 ]  Em qu' havemos d' assentar ?
+      [ character:  Velha]
+      [ 882 ]  Eu digo que sam contente .
+      [ character:  Pero]
+      [ 883 ]  E eu também nisso fico moça fermosa e ele rico .
+      [ character:  Velha]
+      [ 884 ]  Nosso senhor os acrescente .
+      [ 885 ]  E ele não lh' há d' achar menos a principal peça e posto que a não conheça eu sei bem qu' há de folgar .
+      [ character:  Pero]
+      [ 886 ]  Deixemos nós isso agora .
+      [ character:  Velha]
+      [ 887 ]  I-vos pelo noivo embora .
+      [ character:  Pero]
+      [ 888 ]  Assi o quero ordenar .
+      [ character:  Velha]
+      [ 889 ]  Haveis logo de tornar .
+      [ character:  Pero]
+      [ 890 ]  Si , vossa mercê .
+      [ character:  Velha]
+      [ 890 ]  Ide embora .
+      [ 891 ]  Aqui se saia Pero Vaz .
+      [ 892 ]  Biatriz .
+      [ character:  Briatiz .]
+      [ 892 ]  Senhora .
+      [ character:  Velha]
+      [ 893 ]  Sai cá fora hoje neste dia .
+      [ character:  Briatiz]
+      [ 894 ]  Ora ês-m' aqui .
+      [ 895 ]  Que mandais ?
+      [ character:  Velha]
+      [ 895 ]  Não será bem que saiais desse pote d' aletria
+      [ character:  Briatiz]
+      [ 896 ]  Não sei em que vos salvais não entendo vosso jeito tendes forte condição .
+      [ character:  Velha]
+      [ 897 ]  De prata nam há chinfrão quant' agora é o feito feito trazeis grande alteração .
+      [ character:  Briatiz]
+      [ 898 ]  Mui bem se vê a qu' eu trago diga-o essa vizinhença sofrer-vos é pestilença nam sois molher mas sois drago .
+      [ 899 ]  Sois peçonha que noite e dia não sonha senão por dai-m' essa palha cortardes como navalha .
+      [ character:  Velha]
+      [ 900 ]  Como se desavergonha .
+      [ 901 ]  Tu tens enfinda rezão dizes verdade assi é mas ou vilão dá-lh' o pé e tomar-vos-á ele a mão .
+      [ 902 ]  Se t' eu a ti nam deixasse com tuas velhacarias à fé que tu me serias tam cortês que sobejasse .
+      [ 903 ]  Certo nam és tu a filha que me erguesse donde eu caio e porém al cuida el baio e al cuida quem no cilha pela alma deste meu saio .
+      [ 904 ]  Agora te casarei veremos como t' amanhas cumpre-te mudar as manhas e senão eu te direi sabe qu' a ti só t' arranhas .
+      [ 905 ]  O filho de Pero Vaz é dourado como o sol rico bom homem de prol e em quem aquisto jaz não no risco eu do meu rol .
+      [ 906 ]  Bem ouviste o que passamos .
+      [ 907 ] 
+      [ character:  Briatiz]
+      [ 908 ]  Eu bofé não ouvi nada .
+      [ character:  Velha]
+      [ 909 ]  Por que mentes desfaçada ?
+      [ 910 ]  Não ouviste o que falamos ?
+      [ 911 ]  Como és desavergonhada .
+      [ character:  Briatiz]
+      [ 911 ]  Eu estava lavando a louça e mais eu cousa que ouça não me fica na memória e mais será forte hestória casar eu com Joam da Bouça .
+      [ 912 ]  E ainda qu' ele tivesse mas do que dizês remuito queria saber que fruito fará tal homem como esse .
+      [ character:  Velha]
+      [ 913 ]  Nam curemos nós de mais se vós vos não contentais esse é outro cantar qués tu com ele casar ?
+      [ character:  Briatiz]
+      [ 914 ]  Farei o que me mandais .
+      [ character:  Velha]
+      [ 915 ]  Tudo está na tua palma não quero contiguo brigas nem quero depois que digas mau inferno me dê Deos à alma e mais com tais raparigas .
+      [ character:  Briatiz]
+      [ 916 ]  Digo e redigo ao presente e redigo ainda além que quero casar com quem vós fordes muito contente .
+      [ character:  Velha]
+      [ 917 ]  Isso me parece bem .
+      [ 918 ]  As moças obedientes a sas mães e a seus pais dá-lhes Deos as fadas tais como depois vem nas gentes e além disso muito mais .
+      [ 919 ]  Tu dizes qu' és aqui moura ?
+      [ character:  Briatiz]
+      [ 920 ]  Quant' a isso Deos o sabe .
+      [ character:  Velha]
+      [ 921 ]  Pera que se aquisto acabe tira lá essa debadoira .
+      [ 922 ]  Correge aquessas cadeiras despeja essa casa toda pois tua há de ser a boda ainda que tu não queiras .
+      [ 923 ]  Viste aquil' outra fraldilha e porás a beatilha que está dentro no escaninho e viste o gonete fino e cinge iss' outra mantilha .
+      [ 924 ]  Correge muito bem tudo essa negra lave os pratos e deita fora esses gatos não façam algum entruido . Nas preçolanas pintadas porás as fruitas das martes e nos çafatens os fartes com iss' outras girgilandas .
+      [ 925 ]  E essas truitas de freira porás por sua maneira nos outros pratos mais grandes e nas bandejas de frandes qu' estão dentro na taceira .
+      [ character:  Briatiz]
+      [ 926 ]  E os bolos de rodilha e ess' outras sensaborias ?
+      [ character:  Velha]
+      [ 926 ]  Virão lá nas almofias e sê tu agora boa filha e emenda os outros dias .
+      [ 927 ]  E aquesse frito qu' eu fiz deixa-o estar no alguidar que não há cá d' aportar .
+      [ 928 ]  Acaba filha Breatiz .
+      [ character:  Briatiz]
+      [ 929 ]  Há i mais que concertar ?
+      [ character:  Velha]
+      [ 929 ]  E diz àquesse cadelão que trabalhe e nam s' assente e mais dize-lhe que aquente água pera esse leitão
+      [ 930 ]  que depene essas galinhas e os patos e os coelhos a casa pareça espelhos que não digam as vezinhas que tenho aqui dous fedelhos .
+      [ 931 ]  Entra Pero Vaz e o filho e Joana Vaz molher de Pero Vaz .
+      [ character:  Pero]
+      [ 932 ]  As cousas bem concertadas às pedras parecem bem quanto mais quando em si têm serem por Deos ordenadas passam inda mais além .
+      [ 933 ]  Porque este mundo coitado é tal por nosso pecado que quem do leme descuda é necessário qu' acuda assi que vai afogado .
+      [ 934 ]  O mundo é como coceira se bem nele contemprais folgais quando vos coçais e arde-vos na derradeira .
+      [ 935 ]  Tão enganados vivemos e tão fora da estrada imos que s' agora o não sentimos lá no fim o sentiremos s' aqui nam nos resumimos .
+      [ 936 ]  Trago-t' esta concrusão porque diz lá Salamão que quem nam oulha ao diante do mal que vir nam s' espante pois tem juízo e rezão tu inda agora és moço e nam sentes o destroço traz-t' o mundo enganado nam és inda exprimentado pôr-t'-ão o jugo no pescoço e achar-t'-ás salteado .
+      [ 937 ]  Eu e ta mãe te criamos até esta hora em ponto afora o que te nam conto que é na vida que levamos que tudo tem seu desconto . Fui sempre de ti contente foste-nos obediente como filho virtuoso agora por meu reposo é mui bem que t' acrescente .
+      [ 938 ]  E pois da morte nam sabemos cada um em si aponte vai tudo de monte a monte cumpre-nos que nos velemos porque o mal nos nam afronte . Joana Vaz andai cá ta mãe também te dirá onde dá nossa tenção .
+      [ character:  Mãe .]
+      [ 939 ]  Haverás nossa bênção e Deos também ta dará .
+      [ 940 ]  E se sais à natureza manso homem de sossego nós partiremos contego daquessa nossa pobreza e teras em nós achego .
+      [ 941 ]  Sempre do milhor t' arrea e dar-nos-ás a nós descanso e mais o bezerro manso mama a sua mama e alhea .
+      [ 942 ]  E mais não passe por riso tu és moço de bons trinta e como t' a barba pinta logo é tempo de ter siso .
+      [ 943 ] 
+      [ character:  Noivo]
+      [ 944 ]  Eu estou sob vosso poder vós de mim podeis fazer como for vossa vontade .
+      [ character:  Pero]
+      [ 945 ]  Essa é toda a verdade .
+      [ character:  Noivo]
+      [ 946 ]  Pois qu' havia eu de dizer ?
+      [ 947 ]  Eu não respondo aqui mais senão que ambos façais como mãe e como pai e o que virdes ordenai com que não vos rependais .
+      [ 948 ]  Porque diz : antes que cases olha primeiro o que fazes não te venças por riquezas porque as cousas que mais prezas às vezes não são capazes
+      [ 949 ]  porque destes casamentos às vezes se seguem erros e os erros são desterros de próprios contentamentos .
+      [ 950 ]  Assi que neste casar sem homem se aconselhar com Deos e consigo mesmo se se casa assi a esmo vive pera mais cansar .
+      [ character:  Pero]
+      [ 951 ]  Tenho bem oulhado tudo deixa tu o cargo a mim porque tu verás no fim se o fiz como sesudo .
+      [ character:  Noivo]
+      [ 952 ]  Vós tendes a faca e o queijo cortai per onde quiserdes porque tudo o que fizerdes outra cousa nam desejo .
+      [ character:  Pero]
+      [ 953 ]  Esta molher que t' eu dou é pera casar c' um conde afora o que mais eſconde de que eu bem contente sou .
+      [ 954 ]  É vertuosa rica , e honrada e formosa que de bem em milhor caias porqu' estas são as alfaias pera lhe nam porem grosa .
+      [ character:  Noivo]
+      [ 955 ]  Eu tinha no pensamento dar primeiro ũa ida fora porque casar-me agora é cativar-me ante tempo .
+      [ character:  Pero]
+      [ 956 ]  Nam to tolho .
+      [ 957 ]  Vai embora .
+      [ character:  Noivo]
+      [ 958 ]  Eu nam digo agora isto por nada , bem tenho visto que me desejais proveito e por esse só respeito naquess' outro nam ensisto .
+      [ 959 ]  Mas pois vós vos contentais já vos digo estou cruzado e estou aparelhado a fazer o que mandais .
+      [ character:  Mãe]
+      [ 960 ]  Filho sejais bem logrado a bênção de Deos e a minha e a de vossos avós venha filho sobre vós .
+      [ character:  Noivo]
+      [ 961 ]  Que fazês ?
+      [ 962 ]  Vamos asinha .
+      [ character:  Pero]
+      [ 963 ]  Nam havemos d' ir tão sós .
+      [ 964 ]  Espero por João Duarte porqu' há omem de dar parte destas cousas òs amigos e mais aos que são antigos vertuoso por sua arte .
+      [ 965 ]  E aprende bem se viveres traze o amigo por estojo e s' ele sentir teu nojo dá-lhe parte dos prazeres .
+      [ 966 ]  Aqui entra o padrinho .
+      [ character:  Padrinho]
+      [ 967 ]  Ora Deos vos salve cá .
+      [ character:  Pero]
+      [ 968 ]  Venhais embora compadre .
+      [ 969 ] 
+      [ character:  Padrinho]
+      [ 970 ]  E qu' é de minha comadre ?
+      [ character:  Pero]
+      [ 971 ]  Não na vedes ?
+      [ 972 ]  Ei-la aqui está vós esperais que ladre ?
+      [ character:  Mãe]
+      [ 973 ]  J' eu cuidei que não viésseis .
+      [ character:  Padrinho]
+      [ 974 ]  Deixei-m' assi estar em práticas e então pessoas freimáticas em casa nunca quisésseis .
+      [ 975 ]  Entra Afonso Tomé , Fernão d' Andrade , Felipe Godinho , mancebos .
+      [ character:  Andrade]
+      [ 976 ]  Beijamos as dos senhores nam serei eu também sócio ?
+      [ 977 ]  Já entendo este negócio .
+      [ character:  Pero]
+      [ 978 ]  Somos vossos servidores .
+      [ character:  Andrade]
+      [ 979 ]  Vós sois o que vos culpais nam s' há d' ir por essa guisa é noivo furtado à sisa isto ou como lhe chamais .
+      [ character:  Pero]
+      [ 980 ]  A gente agora é sobeja há d' ir à porta da igreja este domingo que vem e entonces será bem qu' aquessa tal honra seja .
+      [ character:  Afonso]
+      [ 981 ]  Também nós cá somos gentes e honrados quanto monta e se bem lançarmos conta além d' amigos parentes .
+      [ 982 ]  E porém aqueste descuido vem de não sei e bem sei donde porqu' a mim nam se m' esconde o que é mal , e o qu' é bem .
+      [ character:  Godinho]
+      [ 983 ]  E eu nam quero falar nam me mandarem chamar sendo aqui tanto vizinho já is por outro caminho nam há i que confiar .
+      [ character:  Pero]
+      [ 984 ]  Tenho esta condição nam vos quis dar apressão que seríês acupados .
+      [ character:  Afonso]
+      [ 985 ]  Mas nós somos obrigados só pela conversação .
+      [ character:  Andrade]
+      [ 986 ]  Mas ele por nós nam dever virmos-lhe bailar na boda encobriu a festa toda .
+      [ character:  Pero]
+      [ 987 ]  Antes eu busco prazer .
+      [ character:  Godinho]
+      [ 988 ]  Isto em que ponto está ?
+      [ character:  Pero]
+      [ 989 ]  Agora imos pera lá .
+      [ character:  Afonso]
+      [ 990 ]  Ora pois sus sus partir .
+      [ character:  Pero]
+      [ 991 ]  Todavia quereis ir ?
+      [ character:  Godinho]
+      [ 992 ]  Pera isso vimos nós cá .
+      [ character:  Padrinho]
+      [ 993 ]  Vêm vossas mercês diante e o noivo aqui roçagante .
+      [ character:  Noivo]
+      [ 994 ]  Nunca tais consertos vi tanto monta aqui como ali .
+      [ character:  Andrade]
+      [ 995 ]  Falais como homem galante .
+      [ 996 ]  Nam sois noivo sapateiro qu' havês d' ir por trasfogueiro lá detrás no cu de judas porqu' as pessoas sesudas hão d' oulhar tudo primeiro .
+      [ character:  Pero]
+      [ 997 ]  Ou de dentro da pousada .
+      [ character:  Velha]
+      [ 998 ]  É de paz , podeis entrar .
+      [ character:  Padrinho]
+      [ 999 ]  Esse é mui bom falar .
+      [ character:  Velha]
+      [ 1000 ]  Venha embora a gente honrada ora sus , sus assentar .
+      [ 1001 ]  Cada um tome seu assento nam se peje a casa toda .
+      [ character:  Andrade]
+      [ 1002 ]  Onde a revolta de voda nam s' há de ter esse tento .
+      [ character:  Velha]
+      [ 1003 ]  Ui sequer vós Joam Duarte pondes-vos lá na traseira ?
+      [ 1004 ]  Per aqui tendes cadeira mudai-vos dest' outra parte .
+      [ 1005 ]  Senhor Afonso Tomé nem se vá a estar em pé .
+      [ character:  Afonso]
+      [ 1006 ]  Deixai-me vós a mi estar .
+      [ character:  Pero]
+      [ 1007 ]  Per aqui tendes lugar .
+      [ character:  Afonso]
+      [ 1008 ]  Esteja vossa mercê .
+      [ 1009 ] 
+      [ character:  Velha]
+      [ 1010 ]  Aqui vos assentareis ah senhor Fernão d' Andrade .
+      [ character:  Andrade]
+      [ 1011 ]  Estou à minha vontade .
+      [ character:  Velha]
+      [ 1012 ]  Acabai .
+      [ character:  Andrade]
+      [ 1012 ]  Oh não canseis .
+      [ character:  Velha]
+      [ 1013 ]  Agasalhar todos per i porqu' eu não tenho aqui mais assentos ao presente cuidei qu' era menos gente .
+      [ character:  Padrinho]
+      [ 1014 ]  Estamos mui bem assi .
+      [ character:  Velha]
+      [ 1015 ]  Perdoai que logo venho dou cá ũa chegada e trarei a desposada .
+      [ character:  Pero]
+      [ 1016 ]  Vinde logo .
+      [ character:  Velha]
+      [ 1017 ]  Logo nada me detenho .
+      [ character:  Padrinho]
+      [ 1018 ]  Casar filha lhe gram tormento dez mil fazendas consume .
+      [ character:  Andrade]
+      [ 1019 ]  Tem-se já tanto em costume que a sentir se agora é vento .
+      [ character:  Pero]
+      [ 1020 ]  Cada dia s' acontece e isto a todos empece and' esta cousa tão rasa que quem faz casa desfaz casa por quem lho não agardece .
+      [ character:  Noivo]
+      [ 1021 ]  Isso se dirá por mim oh com' isto estava certo .
+      [ character:  Afonso]
+      [ 1022 ]  Isso é a quem anda mais perto lá tiramos a otro fim mais sotil e mais secreto .
+      [ character:  Velha]
+      [ 1023 ]  Luzia , ouves cadela ?
+      [ character:  Negra]
+      [ 1024 ]  Seora .
+      [ character:  Velha]
+      [ 1024 ]  Traze cá esse gonetes e traze-me os alfenetes que ir noite pus na chumela .
+      [ 1025 ]  Oulha cá .
+      [ 1026 ]  Abre essa caxa e tira-me a minha faxa que está no fundo de tudo e a saia do cós de veludo que tem alforja mais baxa e traze-m' o meu cordão em qu' está atado o meu bonzo e isso que trouxe Afonso tira passo e tem bem mão .
+      [ 1027 ]  E dentro na condessinha acharás ũa rodelinha que é de pano d' almadraque tem um pouco d' estoraque traze-a cá e vem asinha .
+      [ character:  Negra]
+      [ 1028 ]  Nunca achar-se ũa não arca toro rebolbido saia santar secondido ou lebá ele ladrão .
+      [ 1029 ]  Toro casa a mim catá Jesu Jesu esse diabo levar .
+      [ character:  Velha]
+      [ 1030 ]  Cadela s' eu a vós vou quereis hoje vir de lá ?
+      [ character:  Negra]
+      [ 1031 ]  Fradia o gonete a mantia turo turo s' há furtado Jesu Jesu u-lo sá guardado ?
+      [ 1032 ]  Jesu Jesu briga Maria .
+      [ 1033 ]  U-lo chave desse porta ?
+      [ 1034 ]  Jesu esse casa não tem gente aquesse véia samente esse candea sá morta ele chama toro dia cadela nunca Luzia cadela como-te oio cadela deita-te moio .
+      [ character:  Velha]
+      [ 1035 ]  Tendes grande fantesia .
+      [ character:  Negra .]
+      [ 1036 ]  Dize verdade esse tem bradá bradá bosso bem nunca boso mim tendê proquê boso nam morê ?
+      [ 1037 ]  Mim dará boso bintém .
+      [ character:  Velha]
+      [ 1038 ]  Tudo m' esta Negra sume olhade aquele focinho tomai cadela um testinho e ponde aqui um prefume .
+      [ 1039 ]  Anda por aí diante tira por aquesse manto acaba acaba quebranto sê leda tem bom sembrante .
+      [ 1040 ] 
+      [ character:  Briatiz]
+      [ 1041 ]  J' aqui sois não bradeis tanto .
+      [ character:  Velha]
+      [ 1042 ]  Correge essa beatilha e tira essas crenchas fora ora sus andar em bora ergue mais essa fraldilha .
+      [ 1043 ]  Ui oulhai vós como m' eu ia sem véu e sem enxervia achava-me tão pejada .
+      [ character:  Comadre]
+      [ 1044 ]  Isso não releva nada .
+      [ character:  Velha]
+      [ 1045 ]  Que dirão ?
+      [ 1046 ]  Que sou sandia .
+      [ 1047 ]  Negra antes que m' esqueça a minha beatilha põe-na e dá-me cá essa peloina que t' arma essa cabeça .
+      [ character:  Briatiz]
+      [ 1048 ]  A fruita quem n' há de dar ?
+      [ character:  Velha]
+      [ 1049 ]  Mais empecilho acharemos ?
+      [ character:  Comadre]
+      [ 1050 ]  Mas hoje não acabaremos ?
+      [ 1051 ]  Dá-la-á quem se acertar ora sus comadre andemos .
+      [ character:  Velha]
+      [ 1052 ]  Assi como tu chegares farás a todos mesura ficarás muito segura sesuda sem te mudares .
+      [ 1053 ]  Perdoai que já tardava .
+      [ character:  Pero]
+      [ 1054 ]  Isso não releva nada .
+      [ character:  Padrinho]
+      [ 1055 ]  Não tarda quem arrecada .
+      [ character:  Afonso]
+      [ 1056 ]  Porém alguém se enfadava .
+      [ character:  Andrade]
+      [ 1057 ]  O noivo se s' acontece que é mal qu' às vezes acude .
+      [ character:  Padrinho]
+      [ 1058 ]  Tal seja minha saúde qual m' a noiva a mim parece .
+      [ character:  Pero]
+      [ 1059 ]  Pôs-lhe Deos sua vertude .
+      [ character:  Velha]
+      [ 1060 ]  Não corteis de duas gumes fique isso pera outro dia porque está na companhia quem vos pidirá ceúmes .
+      [ character:  Noivo]
+      [ 1061 ]  Isso quer ser zombaria .
+      [ character:  Velha]
+      [ 1062 ]  Não curem de se estender nem haja assi comprimentos façam seus prometimentos que há muito que fazer .
+      [ character:  Padrinho]
+      [ 1063 ]  Falais como quem no sente dizei filha sois contente de casar ?
+      [ 1064 ]  Dizei si ou não .
+      [ character:  Briatiz]
+      [ 1065 ]  Si sou .
+      [ character:  Padrinho]
+      [ 1065 ]  Ora dai cá a mão e dizei presente esta gente e vós também não vos vades decrarardes vos convém sois contente ?
+      [ character:  Noivo]
+      [ 1065 ]  Si .
+      [ character:  Padrinho]
+      [ 1065 ]  Está bem iguais estais nas vontades .
+      [ 1066 ]  Dai cá as mãos e dizei assi : digo eu Breatriz Varela que por meu marido e amigo recebo a vós , João Corrigo .
+      [ 1067 ]  Tomai agora a mão dela e dizei como eu disser : digo eu João Corrigo que com vontade singela recebo a vós Breatiz Varela por molher .
+      [ character:  Comadre]
+      [ 1068 ]  Que fazeis ?
+      [ 1069 ]  Deitai-lh' o trigo quis Deos que fosses casados pera que são mais trapaças ?
+      [ 1070 ]  Alçai as mãos dai-lhe graças filhos sejais bem logrados .
+      [ 1071 ]  Ela moça , e ele moço bem se foram ajuntar por vós se pode cantar deitem o noivo no poço se com a noiva não brincar .
+      [ 1072 ]  Entra a Grimanesa .
+      [ character:  Grimanesa]
+      [ 1073 ]  Manda aqui minha senhora que perdoe por agora e que saiba que é sua toda e que pera ajuda da boda manda isto .
+      [ character:  Velha]
+      [ 1073 ]  Venha embora .
+      [ character:  Grimanesa]
+      [ 1074 ]  E que lhe roga que ponha a noiva muita de festa .
+      [ 1075 ] 
+      [ character:  Velha]
+      [ 1076 ]  Aguardai levareis a cesta dize-lhe que já é vergonha de tanta mercê com' esta .
+      [ character:  Grimanesa]
+      [ 1077 ]  Manda mais vossa mercê ?
+      [ character:  Velha]
+      [ 1077 ]  Assentai-vos filha aí e como acabarmos aqui levar-lhe-eis não sei quê .
+      [ 1078 ]  E mais quero qu' estejais porque eu sei que vós cantais .
+      [ character:  Grimanesa]
+      [ 1079 ]  Eu bofé nunca cantei .
+      [ character:  Velha]
+      [ 1080 ]  Não já a mim que bem no sei .
+      [ character:  Padrinho]
+      [ 1081 ]  Não há 'qui que fazer mais .
+      [ character:  Velha]
+      [ 1082 ]  Não se bula aqui ninguém não é festa sem comer e o bô comer é o prazer e o prazer daquisto vem . Comadre soerguei-vos vós e levantade esses doairos .
+      [ character:  Andrade]
+      [ 1083 ]  Se formos lá necessairos também serviremos nós .
+      [ character:  Velha]
+      [ 1084 ]  Mana como são cossairos .
+      [ 1085 ]  Aqui trazem as comadres a consoada .
+      [ 1086 ]  A Velha e a Comadre e a Mãe do Noivo , e a Negra , e Pero Vaz lança o vinho .
+      [ character:  Velha]
+      [ 1087 ]  Ora sus de mano em mano lançai mão e bebereis .
+      [ character:  Afonso]
+      [ 1088 ]  Vós as pedras forçareis .
+      [ character:  Mãe .]
+      [ 1089 ]  Pois que vem de ano em ano vingai-vos .
+      [ character:  Pero]
+      [ 1089 ]  Mui bem dizês .
+      [ character:  Comadre]
+      [ 1090 ]  Comed' ora acabad' homem comede não hajais empacho .
+      [ character:  Padrinho]
+      [ 1091 ]  Achastes vós o mochacho que se peja muito onde come ?
+      [ character:  Comadre]
+      [ 1092 ]  Sempre vos eu assi acho .
+      [ character:  Velha]
+      [ 1093 ]  Vós Pero Vaz ao padrinho e senhor Felipe Godinho que fazeis Fernão d' Andrade ?
+      [ 1094 ]  Chegade sequer chegade .
+      [ character:  Pero]
+      [ 1095 ]  Peça quem quiser o vinho .
+      [ character:  Mãe .]
+      [ 1096 ]  E vós Afonso Tomé lançade a mão ou o pé .
+      [ character:  Afonso]
+      [ 1097 ]  Nisso sam eu bem galante .
+      [ character:  Velha]
+      [ 1098 ]  A taça ande por diante .
+      [ character:  Godinho]
+      [ 1099 ]  Bebamos pois qu' assi é .
+      [ character:  Velha]
+      [ 1100 ]  Entrementes que duramos que folguemos que comamos com fazer porém vertude porqu' a virtude acude à salvação qu' esperamos . Olha não se quebre nada leva lá dentro cadela a festa há de ser refestela .
+      [ character:  Padrinho]
+      [ 1101 ]  Vós falais como avisada .
+      [ character:  Comadre]
+      [ 1102 ]  Cantai vós de terreiro três por três de cada parte .
+      [ character:  Pero]
+      [ 1103 ]  Ordenai-vos por vossa arte qu' eu quero ser o primeiro .
+      [ character:  Velha]
+      [ 1104 ]  Eu e Afonso Tomé e Grimanesa , irgue-te em pé vós outros lá concertade o noivo e Fernão d' Andrade e Godinho .
+      [ character:  Godinho]
+      [ 1104 ]  Serei bofé .
+      [ character:  Velha]
+      [ 1105 ]  Ora pois sus começade .
+      [ 1106 ]  Cantam de terreiro qual quiserem três por três .
+      [ closing: 
+      [ 1107 ]  Fim .]
+      [ 1108 ]  
+      
+      [ play ]
+      [ title:  Auto terceiro . ]
+      [ 1108 ]  Per Antônio Ribeiro Chiado
+      [ title:  Prática dos compadres . ]
+      [ 1108 ]  Fernão d' Orta , Brásia Machada , Isabel , Vasco Lourenço , o Compadre , Silvestra , Moço , Namorado , a Comadre , Cavaleiro , Estevão .
+      [ 1108 ]  Com privilégio real .
+      [ 1109 ] 
+      [ character:  Fernão d' Orta .]
+      [ 1110 ]  O bater vem de sesudo .
+      [ 1111 ]  Ou da pousada ou de dentro .
+      [ 1112 ]  Quem fora ladrão do centro que furtara grudo e meúdo .
+      [ 1113 ]  Oulá nam é cá ninguém ?
+      [ 1114 ]  Nunca tal vi está bem .
+      [ 1115 ]  Por me nam terem por curto eu hei de fazer um furto nesta capa que aqui têm .
+      [ 1116 ]  S' há i mal arrecadada por certo que aqui a encontrem .
+      [ 1117 ]  Assi pudera ser outrem que despejara a pousada .
+      [ 1118 ]  Tal descuido m' embeleca esta casa está deserta bem dizem que n' arca aberta já sabeis o justo peca como esta velhice é certa .
+      [ 1119 ]  Mas todavia nô mais que per zombaria hei de furtar esta capa com que desgostem da trapa e guardem o seu outro dia .
+      [ character:  Brásia]
+      [ 1120 ]  Moça vê quem está batendo quem anda lá nessa porta .
+      [ 1121 ]  Tu és viva ou andas morta ?
+      [ 1122 ]  Abala-te vai correndo .
+      [ 1123 ]  As portas escancaradas .
+      [ 1124 ]  Cobriram-me negras fadas c' um quebranto que aqui tenho tamanho sem ter engenho .
+      [ 1125 ]  Que feitiboa osadas .
+      [ 1126 ]  Vê se entrou algum ladrão .
+      [ 1127 ]  Descansade lá sobr' ela .
+      [ 1128 ]  O comer sempre anda à vela mas os feitos que feitos são da minha fresca donzela ?
+      [ character:  Isabel]
+      [ 1129 ]  Eu nam lhe deitei aldraba .
+      [ character:  Brásia]
+      [ 1130 ]  Ainda tu falas ?
+      [ 1131 ]  Acaba .
+      [ 1132 ]  E qu' é da capa de teu pai ?
+      [ 1133 ]  Ora minha alma folgai e veremos quem s' agaba .
+      [ character:  Isabel]
+      [ 1134 ]  Gabe-se que se quiser eu pu-la , comi-a , ou dei-a tenho-a , vejo-a , ou furtei-a ou que quer isso dizer ?
+      [ character:  Brásia]
+      [ 1135 ]  Minha fazenda anda a risco pera que é vida ?
+      [ 1136 ]  Levai-me ou se nam desapressai-me de tamanho basilisco .
+      [ character:  Vasco]
+      [ 1137 ]  Que brados são esses lá ?
+      [ character:  Brásia]
+      [ 1138 ]  Que sei eu ?
+      [ 1139 ]  Saí vós cá com a muita da má hora .
+      [ character:  Vasco]
+      [ 1140 ]  Bem , a quê ?
+      [ character:  Brásia]
+      [ 1140 ]  Saí vos fora porque cá se vos dirá .
+      [ character:  Vasco]
+      [ 1141 ]  Que é isso pregunto eu .
+      [ character:  Brásia]
+      [ 1142 ]  Preguntai-o ao vosso Abel .
+      [ character:  Vasco]
+      [ 1143 ]  Que foi isso Isabel ?
+      [ character:  Brásia]
+      [ 1144 ]  Preguntai-lhe a quem vos deu vossa capa .
+      [ character:  Vasco]
+      [ 1144 ]  Qual capa ?
+      [ character:  Brásia]
+      [ 1145 ]  A d' ouropel .
+      [ 1146 ]  Quantas dúzias tendes delas ?
+      [ 1147 ]  Tendes vós mais dũa só ?
+      [ 1148 ]  Vós sempre fostes um Job por dá' lo vosso a donzelas .
+      [ 1149 ]  Cada um do mal nam s' aqueixe eu já canso de pregar mas alguém se há de coçar inda co a mão do peixe e nam lh' há d' aproveitar .
+      [ 1150 ]  Sai Vasco Lourenço fora e diz :
+      [ 1151 ]  Que novidades são estas ?
+      [ 1152 ]  Sam eu algum Jão das Bestas que me falais cá d' outeiro ou sam algum malhadeiro ou que sam ?
+      [ character:  Brásia]
+      [ 1153 ]  Nam me venhais com requestas que vos nam custei dinheiro .
+      [ character:  Vasco]
+      [ 1154 ]  Mas se vós topáreis c' um homem mais forte um pouco das gafas .
+      [ 1155 ] 
+      [ character:  Brásia]
+      [ 1156 ]  Nam morre ninguém d' abafas os ameaçados pão comem .
+      [ character:  Vasco]
+      [ 1157 ]  Não me deis essas repostas porque vos porei nas costas mil pancadas ouvis vós ?
+      [ 1158 ]  E venham vossos avós tirá-las depois de postas .
+      [ 1159 ]  Que a mi nam se põe albardas o por que andais eu o sei .
+      [ character:  Brásia]
+      [ 1160 ]  E que morgados vos achei ?
+      [ 1161 ]  Negregura e capas pardas .
+      [ character:  Vasco]
+      [ 1162 ]  Nam curemos nós de mais saibamos por que bradais dai-me conta desta trapa .
+      [ character:  Brásia]
+      [ 1163 ]  E onde pusestes a capa ?
+      [ character:  Vasco]
+      [ 1164 ]  Por i .
+      [ character:  Brásia]
+      [ 1165 ]  Vede por i se a achais .
+      [ character:  Vasco]
+      [ 1166 ]  Nam entendo essa rezão .
+      [ character:  Brásia]
+      [ 1167 ]  Quereis que vos fale Guiné ?
+      [ 1168 ]  Capa de vossa mercê já levou ele ladrão .
+      [ character:  Vasco]
+      [ 1168 ]  Estar assi muito bem tal vida sofrer nam posso .
+      [ character:  Brásia]
+      [ 1169 ]  Havei ũa escrava de vosso e nam bradeis com ninguém .
+      [ character:  Vasco]
+      [ 1170 ]  Ainda vós tendes língua ?
+      [ character:  Brásia]
+      [ 1171 ]  A minha língua que vos faz ?
+      [ character:  Vasco]
+      [ 1172 ]  Por isso sam eu capaz deixar-vos perder à míngua .
+      [ character:  Brásia]
+      [ 1173 ]  A que míngua ?
+      [ character:  Vasco]
+      [ 1173 ]  Hajamos paz .
+      [ character:  Brásia]
+      [ 1174 ]  Que culpa vos tenho eu ?
+      [ 1175 ]  E vós quereis que olhe eu por tudo .
+      [ character:  Vasco]
+      [ 1176 ]  Se eu fora mais sesudo eu tivera mais de meu .
+      [ 1177 ]  Mas como homem nam madruga co a vara eramaças .
+      [ character:  Brásia]
+      [ 1178 ]  Olhai nem grado nem graças quem vos houver medo fuja pelejai com esse quebranto que já nunca sossego e nam vos tomeis comego .
+      [ character:  Vasco]
+      [ 1179 ]  E vós fazeis outro tanto qu' isto é com qu' eu arrenego .
+      [ 1180 ]  Nenhum cego se conhece .
+      [ character:  Brásia]
+      [ 1181 ]  Que 'quilo ?
+      [ 1182 ]  Que vos parece ?
+      [ 1183 ]  Vasco Lourenço enfreai-vos .
+      [ character:  Vasco]
+      [ 1184 ]  Brásia Machada calai-vos que é milhor se s' acontece e venha a minha capa aqui pois que tam bém o fizestes .
+      [ character:  Brásia]
+      [ 1185 ]  Buscai-a donde a pusestes porqu' eu certo não na vi .
+      [ character:  Vasco]
+      [ 1186 ]  Eu digo que ma busqueis e que ma deis atentai no que vos falo se nam crede que sam Palo há d' andar como sabeis .
+      [ character:  Brásia]
+      [ 1187 ]  Sam muito forra e isenta e nam são cativa nam nem m' haveis de pôr a mão .
+      [ character:  Vasco]
+      [ 1188 ]  Já começa esta tormenta a língua d' escorpião .
+      [ 1189 ]  O diabo m' ajuntou com tam má casta , olhai quem .
+      [ character:  Brásia]
+      [ 1190 ]  Homem grande falai bem e eu que má molher sou ?
+      [ 1191 ]  E quem são vossos parentes ?
+      [ 1192 ]  Uns comestos de piolhos .
+      [ character:  Vasco]
+      [ 1193 ]  Nam me vades c' o dedo aos olhos que vos britarei esses dentes .
+      [ character:  Brásia Machada .]
+      [ 1194 ]  Eu nam vos fiz adultério .
+      [ 1195 ]  Donde veo este arqueduque que deu na cabaça o truque ?
+      [ 1196 ]  Quem vos deu tamanho império ?
+      [ character:  Vasco]
+      [ 1197 ]  Aquessa língua d' azougue é um Satanás ouvi-la .
+      [ character:  Brásia]
+      [ 1198 ]  Ih Jesu .
+      [ 1199 ]  Alcaladas à vila que bringelas há no açougue .
+      [ 1200 ] 
+      [ 1201 ]  Vistes tal ?
+      [ 1202 ]  Casar com tal enxoval dá o fruto que vós dais .
+      [ character:  Vasco]
+      [ 1203 ]  Vós por que vos nam calais ?
+      [ character:  Brásia]
+      [ 1204 ]  Calai-vos vós cardeal .
+      [ character:  Vasco]
+      [ 1205 ]  Sofrer-vos é um marteiro andais fora dos piós .
+      [ character:  Brásia]
+      [ 1206 ]  Homem tende-vos em vós olhai que vo-lo requeiro .
+      [ character:  Vasco Lourenço .]
+      [ 1207 ]  E vós nam agardeceis a honra que homem vos cata .
+      [ character:  Brásia]
+      [ 1208 ]  Áque-del-rei que me mata .
+      [ closing:  Vasco]
+      [ 1209 ]  Respondei e levareis .
+      [ character:  Brásia]
+      [ 1210 ]  Áque-del-rei acudi-me .
+      [ character:  Vasco]
+      [ 1211 ]  Assi se faz pois servi-me com' ũa cadela perra .
+      [ character:  Brásia]
+      [ 1212 ]  Muita justiça há na terra .
+      [ character:  Vasco]
+      [ 1213 ]  Muito embora persegui-me .
+      [ character:  Brásia]
+      [ 1214 ]  Nam se pode soportar tal vida tam manifesta nem dormirei eu com esta , que saiba desesperar .
+      [ 1215 ]  Eu me irei aos pés del rei e lhe direi cousas que nam s' escreveram .
+      [ character:  Vasco]
+      [ 1216 ]  Que já os judeus morreram ?
+      [ character:  Brásia]
+      [ 1216 ]  O que eu disser eu o sei .
+      [ 1217 ]  E quando achar o dereito como s' agora costuma lá está Deos que sabe a suma do que é bom e contrafeito .
+      [ 1218 ]  Que em Deos nam há deferença senam ser mui verdadeiro que aqui buli c' o dinheiro e pintai vós a sentença .
+      [ 1219 ]  E eu darei apontamentos que vos lancem no Brasil .
+      [ character:  Vasco]
+      [ 1220 ]  Aguardai : preso por mil preso por mil e quinhentos .
+      [ character:  Brásia]
+      [ 1221 ]  Deixai-me homem .
+      [ character:  Vasco]
+      [ 1221 ]  Ela abrange .
+      [ 1222 ]  A vós nada vos amansa .
+      [ 1223 ]  Ora veremos quem cansa s' o asno se quem no tange .
+      [ 1224 ]  Entra o compadre .
+      [ character:  Compadre]
+      [ 1225 ]  Vós outros tendes criança ?
+      [ 1226 ]  Vós sois pior que peçonha havei eramá vergonha sequer desta vizinhança .
+      [ 1227 ]  Ó homem de bem olhai cá nam lhe está bem ser sandeu .
+      [ character:  Brásia]
+      [ 1228 ]  Perguntai por que me deu esse quebranto que i está .
+      [ character:  Vasco]
+      [ 1229 ]  E vós quereis que torne eu ?
+      [ character:  Compadre]
+      [ 1229 ]  Aquisto parece graça o que vós tendes no centro e o das portas a dentro vos ham de saber na praça .
+      [ 1230 ]  Calai eramá calai-vos e embainhai-vos nam vades com tudo ao cabo .
+      [ character:  Vasco]
+      [ 1231 ]  Quem sofrerá um diabo ?
+      [ character:  Brásia]
+      [ 1231 ]  Que vos leve e enforcai-vos .
+      [ character:  Compadre]
+      [ 1232 ]  Vós sois dos mui mal sofridos e ela pior que vós .
+      [ 1233 ]  E vós quereis que os vossos lós sejam como anjos servidos .
+      [ 1234 ]  Virtudes tudo atalham isto haveis vós de saber e mais quando um nam quer crede que dous nam baralham .
+      [ 1235 ]  E eu também de vós m' espanto ao marido obediência que nam há tanta paciência nem quem possa sofrer tanto .
+      [ character:  Vasco]
+      [ 1236 ]  Molher está em preceito que ao marido os dentes quebre ?
+      [ character:  Brásia]
+      [ 1237 ]  E quem levantou a lebre ?
+      [ character:  Compadre]
+      [ 1238 ]  Nam aquilo é mal feito .
+      [ 1239 ]  Porém a cousa está rasa se brada vossa molher nam lh' haveis vós de tolher que nam brade em sua casa qu' esta regra haveis de ter .
+      [ 1240 ] 
+      [ 1241 ]  Porque o demo anda perdido por achar onde s' enfarne e há de ser unha e carne a molher com seu marido .
+      [ 1242 ]  E mais vós sois mui capaz qu' isto só de vós m' alegra e mais bem sabeis a regra de se queres viver em paz .
+      [ 1243 ]  Tua porta cerrarás ainda que não seja tua nam t' ouça ninguém na rua o que disseres .
+      [ 1244 ]  O segredo que souberes sê tu o senhor dele nam fales na alhea pele quando te nam relevar nam cures de porfiar sobre cousas que sam poucas .
+      [ 1245 ]  Tem sempre as orelhas moucas a puras murmurações guar-te de conversações sospeitosas arrenega das danosas como dos vivos diabos e nunca julgues os cabos pelos começos que vires .
+      [ 1246 ]  Avisa-te
+      [ 1247 ]  nam te tires das virtudes em que jazes atenta olha o que fazes nam estribes no que é vento e nam faças fundamento pelo que se torna terra nem tenhas contigo guerra nem tampouco com ninguém e assi porque aqui além etc .
+      [ 1248 ]  E estas palavras são mui muito sustanciais que quanto mais as tratais mais gosto vos deixarão . Que a virtude anda em destroço e a boa virtude somena que havia d' andar por nomena de contino ao pescoço .
+      [ character:  Vasco]
+      [ 1249 ]  Compadre nam estais comigo outra regra tenho eu que meu dono a meu pai deu e esta é a que eu sigo quer me tenham por sandeu .
+      [ 1249 ]  Regra :
+      [ 1250 ]  Tua porta cerrarás o milhor que ser poder .
+      [ 1251 ]  Tomarás tua molher com bom pau em que te tenham por mau nam te dê nada de nada .
+      [ 1252 ]  Dar-lhe-ás infinda pancada como em boi de concelho nunca tomes seu conselho ainda que te releve que tem a casa leve em que seja Salamoa .
+      [ 1253 ]  Faze-a à sua custa boa anda sempre sobre vela nam fies a chave dela por que nam seja senhora .
+      [ 1254 ]  Nam na deixes sair fora senam com tua licença que a molher é pestenença se lhe fazem a vontade dar-lhe sem necessidade e olhai nam na poupeis .
+      [ 1255 ]  E mais haveis d' ordenar que em lh' escrevendo no ar vos entenda o que quereis .
+      [ character:  Compadre]
+      [ 1256 ]  Longe is de boa entenção o marido que isso faz nam deseja de ter paz nem quer vir à concrusão .
+      [ character:  Vasco]
+      [ 1257 ]  Eu sam assi contumaz .
+      [ character:  Brásia]
+      [ 1258 ]  Aquessa regra assi tal cumpria no enxoval .
+      [ 1259 ]  Tendês ao crucifício eu nam vos fiz malefício .
+      [ 1260 ] 
+      [ 1261 ]  Ih Jesu mano quem no deu ?
+      [ 1262 ]  Oh quem pudesse falar .
+      [ character:  Compadre]
+      [ 1263 ]  Nam vos cureis vós d' estar em dize tu direi eu acabai de vos mudar .
+      [ character:  Vasco]
+      [ 1264 ]  E se m' ela desadora .
+      [ character:  Compadre]
+      [ 1265 ]  Tomai a capa e cobri-vos e saí-vos já por essa porta fora .
+      [ character:  Vasco]
+      [ 1266 ]  Ora agora ficareis entre venha quem quiser folgai e tomai prazer .
+      [ character:  Brásia]
+      [ 1267 ]  I que nunca vos torneis .
+      [ 1268 ]  Nam hajais medo que escorje ida de Joam Gomes sej' ela que foi de casa na sela e tornou no seu alforge .
+      [ 1269 ]  Sai Vasco Lourenço e o compadre .
+      [ character:  Brásia]
+      [ 1270 ]  Vós e vosso pai , que almas .
+      [ 1271 ]  Minha boneca folgai e se quiserdes bailhai qu' eu vos tangerei as palmas .
+      [ 1272 ]  Antes qu' eu beba nem coma vós ouvireis outra nova nam hei d' ir com esta à cova nem vós por pendença a Roma .
+      [ 1273 ]  Que quando vos eu disser : fecha a porta com a tranca que vos nam façais vós manca e que o vades logo fazer .
+      [ 1274 ]  Daqui avante si si si eu haverei meu acordo e far-vos-ei doutro bordo .
+      [ character:  Isabel]
+      [ 1275 ]  E Jesu nunca tal vi .
+      [ 1276 ]  Eu nam entendo esta dança .
+      [ 1277 ]  Vós cuidareis que nam sento ?
+      [ 1278 ]  Quem há de ter tanto tento : tento no asno , e na lança tento no ar , e no vento .
+      [ 1279 ]  Nam cuidem que sam de ferro que algũ' hora farei míngua .
+      [ character:  Brásia]
+      [ 1280 ]  Quem te cortasse essa língua .
+      [ character:  Isabel]
+      [ 1281 ]  Nam se jogata de fero .
+      [ character:  Brásia]
+      [ 1282 ]  Vós pondes-vos em pontinhos oh quem vergonha tivesse guardai nam vos arremesse este pantufo aos focinhos .
+      [ 1283 ]  Olhai-me esta lagariça nam ponhas aqui a gamela sumiço se faça dela e do saco de preguiça .
+      [ 1284 ]  Tudo encheu c' ũa barrela .
+      [ 1285 ]  É um costume que s' usa aosadas que torce e fila mas quem dará de rabo à vila e delito à enfusa .
+      [ 1286 ]  Querês acabar tarasca ?
+      [ character:  Isabel]
+      [ 1286 ]  Sempre hei de ser acanhada .
+      [ character:  Brásia]
+      [ 1287 ]  Ponde ao fogo ũa cenrada e escaldareis essa frasca .
+      [ 1288 ]  Acabai desavergonhada .
+      [ 1289 ]  E entramentas qu' eu vou cá dentro um pouco a rezar dai-me outra capa a furtar .
+      [ character:  Isabel]
+      [ 1290 ]  Hai lá mais ?
+      [ 1291 ]  Vai-s' acabar .
+      [ character:  Brásia]
+      [ 1292 ]  As portas nam nas fecheis e vereis o ganho que di tirais item nam vos lembre mais aquilo que já sabeis .
+      [ character:  Isabel]
+      [ 1293 ]  Qu' o mundo todo se teça sofrer mãe é um diabo que se a to mais polo rabo ela quer pola cabeça nam entendo seus desvios nunca já vos chamam filhas sam como negras duas ilhas que entendem por assovios .
+      [ 1294 ] 
+      [ 1295 ]  Silvestra mana Silvestra sois vós essa ?
+      [ character:  Silvestra]
+      [ 1295 ]  Por agora .
+      [ character:  Isabel]
+      [ 1296 ]  Silvestra fostes vós fora ?
+      [ character:  Silvestra]
+      [ 1296 ]  Estive em cás de minha mestra .
+      [ character:  Isabel]
+      [ 1297 ]  Sereis grande lavrandeira .
+      [ character:  Silvestra]
+      [ 1298 ]  Bofé nam sou .
+      [ character:  Isabel]
+      [ 1298 ]  Como nam ?
+      [ character:  Silvestra]
+      [ 1299 ]  Se vou lá um dia dez nam .
+      [ character:  Isabel]
+      [ 1300 ]  Quant' a daquessa maneira vosso trabalho é em vão .
+      [ character:  Silvestra]
+      [ 1301 ]  Ò lavrar quer-se costume e toda las cousas a eito .
+      [ character:  Isabel]
+      [ 1302 ]  E com costume bom jeito e o bom jeito traz lume ò que nam é contrafeito .
+      [ 1303 ]  E agora que lavrais ou em que vos acupais ?
+      [ character:  Silvestra]
+      [ 1303 ]  Nesses negros desfiados que já tenho os olhos quebrados .
+      [ character:  Isabel]
+      [ 1304 ]  Vós fazeis cousas reais .
+      [ character:  Silvestra]
+      [ 1305 ]  Meto-m' em suas monetas .
+      [ character:  Isabel]
+      [ 1306 ]  Mana sabeis ponto-chão ?
+      [ character:  Silvestra]
+      [ 1306 ]  Ponto-chão e de feição pesponto e cadanetas torcido e de cordão .
+      [ character:  Isabel]
+      [ 1307 ]  E sabeis ponto cruzado ?
+      [ character:  Silvestra]
+      [ 1307 ]  E lumilho e ponto-real .
+      [ character:  Isabel]
+      [ 1308 ]  E vós Silvestra sois tal também tereis namorado .
+      [ character:  Silvestra]
+      [ 1309 ]  O milhor de Portugal .
+      [ character:  Isabel]
+      [ 1310 ]  E quem é ?
+      [ character:  Silvestra]
+      [ 1311 ]  Quem se fala por mercê .
+      [ character:  Isabel]
+      [ 1312 ]  É duque , conde , ou fidalgo podengo , rafeiro ou galgo ?
+      [ character:  Silvestra]
+      [ 1312 ]  Nam lhe deis tanto de pé .
+      [ 1313 ]  O vosso que lhe diremos ?
+      [ character:  Isabel]
+      [ 1313 ]  Que o meu mais alto voga é távola que nam joga .
+      [ character:  Silvestra]
+      [ 1314 ]  Muito bem o conhecemos .
+      [ 1315 ]  É o Pinto criado doutro faminto fidalgo do rebotalho . Venha o vosso e o meu ao balho entam veremos se minto .
+      [ character:  Isabel]
+      [ 1316 ]  Que é aquilo ?
+      [ 1317 ]  O vosso rosto de grilo se há de pôr em disputa ?
+      [ 1318 ]  Tirar-lh'-ão a marmeluta do centro por novo estilo .
+      [ character:  Silvestra]
+      [ 1319 ]  Tal homem s' há d' alembrar .
+      [ character:  Isabel]
+      [ 1320 ]  Muito mal o conheceis .
+      [ character:  Silvestre]
+      [ 1321 ]  Ih Jesu nam lhe toqueis que esta pera pendurar .
+      [ 1322 ]  Quant' a agora nam há i mais
+      [ 1323 ]  sei que vos caiu em graça é um comesto da traça .
+      [ character:  Isabel]
+      [ 1324 ]  Mana enganada estais .
+      [ character:  Silvestra .]
+      [ 1325 ]  Mais enganada estais vós .
+      [ character:  Isabel]
+      [ 1326 ]  Bem em quê ?
+      [ 1327 ]  Andar embora .
+      [ character:  Silvestra]
+      [ 1328 ]  Nam falo mais por agora .
+      [ character:  Isabel]
+      [ 1329 ]  Falai que aqui estamos sós .
+      [ character:  Silvestre]
+      [ 1330 ]  Pode ser mais sensabor servidor qu' aqueste vosso rascão ?
+      [ 1331 ]  Tam parvo tam asneiram e quer ser coprejador .
+      [ character:  Isabel]
+      [ 1332 ]  Todo ele cai em comisso .
+      [ character:  Silvestre]
+      [ 1333 ]  É um parvo nas estrelas .
+      [ character:  Isabel]
+      [ 1334 ]  Minh' alma delas com delas também o vosso é remisso .
+      [ character:  Silvestra]
+      [ 1335 ]  Em quê remisso ou como ?
+      [ 1336 ]  É discreto a sete braças nesta só palavra assomo a porfia destas chaças .
+      [ 1337 ]  Dentro no meu coração trago ũa carta qu' ele fez ũa copra do jaez da mesma discrição .
+      [ character:  Isabel]
+      [ 1338 ]  Outra trago eu aqui tam sobeja de discreta que a vossa pode ser neta da minha e passa assi .
+      [ 1339 ] 
+      [ character:  Silvestra]
+      [ 1340 ]  Amostremo-las à gente e leam-se desd' o começo e entam darão o preço a quem souber .
+      [ character:  Isabel]
+      [ 1340 ]  Sam contente .
+      [ character:  Silvestra]
+      [ 1341 ]  O vosso tem fantesia ?
+      [ character:  Isabel]
+      [ 1342 ]  Nam gastemos mais parola .
+      [ character:  Silvestra]
+      [ 1343 ]  Chamai um moço d' escola .
+      [ character:  Isabel]
+      [ 1344 ]  Lê-las-á o nosso Garcia .
+      [ character:  Silvestra]
+      [ 1345 ]  Nam quero senam que seja de fora e moço pequeno .
+      [ character:  Isabel]
+      [ 1346 ]  Ei-lo .
+      [ character:  Silvestra]
+      [ 1346 ]  Ah como feno e aosadas que sobeja .
+      [ 1347 ]  E ver bem quem as lerá .
+      [ character:  Isabel]
+      [ 1348 ]  Rogai-lhe qu' eu vos alargo .
+      [ character:  Silvestra]
+      [ 1349 ]  Deixai-me a mi com o cargo que tudo se bem fará .
+      [ 1350 ]  Meu senhor se vos peitarem ou rogarem ireis depressa meu rei ?
+      [ character:  Moço .]
+      [ 1351 ]  Ainda que o vá farei tudo o que m' elas mandarem .
+      [ character:  Isabel]
+      [ 1352 ]  Vós falais como quem sente beijo as mãos desse desdém . E vós mano ledes bem ?
+      [ character:  Moço]
+      [ 1353 ]  Assi arrezoadamente .
+      [ 1354 ]  Pera mim .
+      [ character:  Isabel]
+      [ 1354 ]  Ora enfim lede-nos estas cartinhas .
+      [ character:  Moço]
+      [ 1355 ]  Que me praz minhas rainhas .
+      [ character:  Silvestra]
+      [ 1356 ]  E vós sois-me tam Merlim .
+      [ 1357 ]  Asinha vos veo a fevre sois-me destes lagarteiros e fedeis inda aos coleiros e já sabeis que tem lebre .
+      [ 1358 ]  Ora lede se souberdes esta carta que vos dou .
+      [ character:  Moço .]
+      [ 1359 ]  Eu cujo cativo sou mandai-me quanto quiserdes .
+      [ character:  Silvestra]
+      [ 1360 ]  Lede vós essa primeiro que são trovas despois ouviremos novas dess' outra por derradeiro .
+      [ 1361 ]  A das trovas é a sua logo achareis ensoada .
+      [ character:  Moço .]
+      [ 1362 ]  Senhora mais moderada nam vos amostreis tam crua .
+      [ character:  Isabel]
+      [ 1363 ]  Ora lede e acabai .
+      [ character:  Silvestra]
+      [ 1364 ]  Lede de vosso vagar primeiro há de soletrar mesmo o que na carta vai .
+      [ 1365 ]  Lê o Moço as trovas :
+      [ 1366 ]  Trovas per modo galante e estilo soberano feitas a um desengano per um discreto amante em saber o que nam se pode crer mandadas a sua dama e nam diz como se chama pelo ninguém entender .
+      [ comment: 
+      [ 1367 ]  Trovas .]
+      [ 1368 ]  Senhora minha senhora senhora cujo cativo fui e sam com seus olhos matadora me tem morto sendo vivo com paixão .
+      [ 1369 ]  Novas de mi vos darão dar-vos-ão mui certas novas deste vosso vosso é meu coração o qual contar-vos em trovas nunca posso .
+      [ 1370 ]  São parvoíces com cãs .
+      [ character:  Silvestra]
+      [ 1371 ]  Olhai-m' a sensaboria .
+      [ character:  Isabel]
+      [ 1372 ]  Mas afora zombaria nam vão muito cortesãs ?
+      [ character:  Silvestra]
+      [ 1373 ]  E como vão cheas de discrição assi como essa parede .
+      [ 1374 ] 
+      [ character:  Isabel]
+      [ 1375 ]  Ora crede que a enveja é perdição .
+      [ character:  Silvestra .]
+      [ 1376 ]  E que enveja hei de ter ?
+      [ character:  Isabel]
+      [ 1377 ]  Minh' alma nam mo negueis .
+      [ character:  Silvestra]
+      [ 1378 ]  Escutai a carta e vereis .
+      [ character:  Isabel]
+      [ 1379 ]  Isso quero agora ver .
+      [ 1379 ]  Lê o moço a carta :
+      [ 1379 ]  Carta .
+      [ 1380 ]  Senhora .
+      [ 1381 ]  Sam tam remoto e entregue a descontentamentos e a cuidados que da parte de vossa esquivança me vêm , que nam é em mi poder viver , ou ao menos poder-vos declarar os muitos enganos que me fazeis a troco do muito que vos quero .
+      [ 1382 ]  Nam sinto que sinta pera que sintais o muito que sinto , mas faço conta que nasci pera vosso , e nam posso dissimular tanto estas dores , que mas não enxerguem vossas saudades no rosto .
+      [ 1383 ]  Com esta vos tenho já escritas quatro , sem de nenhũa ver o retorno que era a vossa muito desejada resposta , pera me por ela reger ao tempo de vossos descuidos .
+      [ 1384 ]  Peço-vos minha senhora que respeiteis meu muito sofrimento , e que vos deis por entregue da má vida que por vos ser leal padeço .
+      [ 1385 ]  E em pago desta fé não quero mais que a terça parte do que vós minha senhora achardes que vos mereço e me deveis , cujas mãos beijo , etc .
+      [ character:  Silvestra]
+      [ 1386 ]  Ora olhai-me a deferença , que vai das trovas à carta .
+      [ character:  Isabel]
+      [ 1387 ]  Silvestra nunca sois farta sois pior que pestenença .
+      [ 1388 ]  Pôr-se a carta com as trovas isso tem .
+      [ character:  Moço .]
+      [ 1389 ]  A carta parece bem .
+      [ character:  Silvestra]
+      [ 1390 ]  Isabel ouvi estas novas .
+      [ character:  Isabel]
+      [ 1391 ]  Porventura ele é alguém ?
+      [ character:  Moço .]
+      [ 1392 ]  Isso é muito que tocar quê quê quê abrande vossa mercê .
+      [ character:  Isabel]
+      [ 1393 ]  Isso haveis vós de gabar ?
+      [ character:  Moço .]
+      [ 1394 ]  Essa cousa nam se vê .
+      [ character:  Isabel]
+      [ 1395 ]  Ide embora meu senhor não haveis de ser juiz .
+      [ character:  Moço .]
+      [ 1396 ]  Senhora eu que vos fiz ?
+      [ character:  Isabel]
+      [ 1397 ]  Não sejais tam sensabor .
+      [ 1398 ]  I-vos embora acolhendo e deixai pensamentos vãos .
+      [ character:  Moço .]
+      [ 1399 ]  Senhora beijo essas mãos porqu' eu vos vou entendendo .
+      [ character:  Isabel]
+      [ 1400 ]  Mas gabe-lhe o namorado seu enxoval da fronteira .
+      [ character:  Silvestra]
+      [ 1401 ]  Isabel sois tençoeira nam deis de vós mau recado .
+      [ 1402 ]  o meu seco andar da rua e o vosso de dez sobrados mas por escusarmos brados vou-me e saiba que sam sua .
+      [ character:  Isabel]
+      [ 1403 ]  Tornai cá .
+      [ character:  Silvestra]
+      [ 1404 ]  Bofé nam tornarei eu lá em que me façam condessa e vós mana sois-me essa alguém s' arrependerá .
+      [ 1405 ]  Vai-se Silvestra e entra o Namorado :
+      [ character:  Namorado]
+      [ 1406 ]  Oulá só estais senhora ?
+      [ character:  Isabel]
+      [ 1407 ]  Ih Jesu que medo que houve .
+      [ 1408 ] 
+      [ character:  Namorado]
+      [ 1409 ]  Porque minha alma vos louve nam mateis quem vos adora .
+      [ character:  Isabel]
+      [ 1410 ]  Dizeis que vos mato eu ?
+      [ character:  Namorado]
+      [ 1411 ]  Perguntai-o a mi de mim .
+      [ character:  Isabel]
+      [ 1412 ]  Pergunto .
+      [ character:  Namorado]
+      [ 1412 ]  O serafim por que m' enjeita de seu ?
+      [ character:  Isabel]
+      [ 1413 ]  Sede de quem vos cobiça e ser-lh'-eis milhor aceito .
+      [ character:  Namorado]
+      [ 1414 ]  Por que nam m' oulhais dereito ?
+      [ character:  Isabel]
+      [ 1415 ]  Vós tendes muita justiça .
+      [ character:  Namorado]
+      [ 1416 ]  Rides e eu arrenego .
+      [ character:  Isabel]
+      [ 1417 ]  Ora nam sejais tam tedro mana donde veo a Pedro falar agora galego ?
+      [ character:  Namorado]
+      [ 1418 ]  Abasta que me chamais galego malo vilhano folgo com tal desengano mas cuido que vós zombais .
+      [ 1419 ]  E mais e mais tende por certo que sois que sereis um anjo .
+      [ character:  Isabel]
+      [ 1420 ]  Bonitinho estar laranjo tínheis-m' aquisso encoberto já nam há nenhum marmanjo .
+      [ character:  Namorado]
+      [ 1421 ]  Pondes-m' as mãos pola mansa e fazeis-vos doutro bordo .
+      [ character:  Isabel]
+      [ 1422 ]  Senhor havei vosso acordo .
+      [ character:  Namorado]
+      [ 1423 ]  Acordo o mal que me cansa .
+      [ character:  Isabel]
+      [ 1424 ]  Quem vos deu essa canseira ?
+      [ character:  Namorado]
+      [ 1425 ]  Quem ainda que nam queira é anjo no quarto grau .
+      [ character:  Isabel]
+      [ 1426 ]  Nam é isso muito mau vós sois-me dessa maneira .
+      [ character:  Namorado]
+      [ 1427 ]  De zombarias nam tantas .
+      [ character:  Isabel]
+      [ 1428 ]  Vós sois Macias nas veas .
+      [ character:  Namorado]
+      [ 1429 ]  Ou Macias ou más ceas ou mal comes ou mal jantas .
+      [ 1430 ]  Senhora nam sois das feas .
+      [ 1431 ]  E nam digo disto mais e olhai que nam percais el amor que nos tenemos .
+      [ character:  Isabel]
+      [ 1432 ]  Tinha-vos em muito menos .
+      [ character:  Namorado]
+      [ 1433 ]  Senhora vós me minguais .
+      [ 1434 ]  Sois lua que míngua e cresce .
+      [ character:  Isabel]
+      [ 1435 ]  Nam é muita maravilha .
+      [ character:  Namorado]
+      [ 1436 ]  Sem mantilha e com mantilha ela sabe o que parece .
+      [ character:  Isabel]
+      [ 1437 ]  Quem vos deu tal liberdade ?
+      [ 1438 ]  Falais-me assi tam seguro .
+      [ character:  Namorado]
+      [ 1439 ]  Se meu mal achasse furo alguém diria a verdade .
+      [ character:  Isabel]
+      [ 1440 ]  Declarai-me esse achar furo nam entendo disso nada .
+      [ character:  Namorado]
+      [ 1441 ]  Ah malvada nam me entendais vós tam puro .
+      [ 1442 ]  Achar furo quer dizer achar caminho a meu mal o qual é tam desigual que estranha todo prazer .
+      [ character:  Isabel]
+      [ 1443 ]  Ora falemos em al .
+      [ 1444 ]  Bem vos entendo cossairo não m' estejais lisonjando .
+      [ character:  Namorado]
+      [ 1445 ]  E eu por cujo honrando nam tenhais disto o contrairo .
+      [ character:  Isabel]
+      [ 1446 ]  Vem meu pai e mais ouvi-me e senti-me pergunte-me algũa cousa .
+      [ character:  Namorado]
+      [ 1447 ]  Dizei senhora : onde pousa aqui um escrivão do crime ?
+      [ character:  Isabel]
+      [ 1448 ]  Nam sei bofé pergunte vossa mercê esses vezinhos per i .
+      [ character:  Vasco]
+      [ 1449 ]  Que busca este homem aqui ?
+      [ character:  Isabel]
+      [ 1450 ]  Pergunta por nam sei quê .
+      [ character:  Vasco]
+      [ 1451 ]  Por nam sei quê que será ?
+      [ character:  Namorado]
+      [ 1452 ]  Pergunto por um escrivão que chamam Tomé Leitão .
+      [ character:  Vasco]
+      [ 1453 ]  Nam sei , per i pousará .
+      [ 1454 ]  Isto há mester que ande doutro jeito desd' agora e vós nam saiais mais fora porque sois um pouco grande .
+      [ 1455 ]  E vós haveis de falar com ninguém e a porta aberta e estardes em referta c'os que passam .
+      [ 1456 ]  Passe esta , quero calar .
+      [ 1457 ] 
+      [ 1458 ]  Vós nam faleis com ninguém nem ninguém fale convosco qu' eu ainda nam sou tosco que vos nam entenda bem .
+      [ 1459 ]  O ensinar-te eu a ti é pregação em deserto quem na virtude anda certo ele mesmo vela a si .
+      [ 1460 ]  Naquele preceito aferra que diz hás obedecer ao pai se qués viver sobre a face da terra .
+      [ 1461 ]  E debaixo disto jaz que quem quiser pela paz terá paz com Deos c' o mundo consigo que é bem segundo se vê no fruto que faz .
+      [ 1462 ]  Nam sabes onde t' alastras a honra é de grã valia que se um pouco se desvia lá vai o ruço e as canastras .
+      [ 1463 ]  E a filha que má sai e tem a virtude na borra ainda que o sangue lhe corra a ferida é de seu pai .
+      [ 1464 ]  Porque o mundo está em estilo seu pai tem culpa naquilo , se a ele castigara .
+      [ 1465 ]  De modo que abrange a vara ao pai , se quer resisti-lo .
+      [ 1466 ]  Do que vos tenho pregado fazei em que nam queirais e senam vós perdeis mais qu' eu nam sam mais obrigado .
+      [ 1467 ]  Qu' é ta mãe ?
+      [ character:  Isabel]
+      [ 1467 ]  Está rezando .
+      [ character:  Vasco]
+      [ 1468 ]  Veo alguém em busca de mi ?
+      [ character:  Isabel]
+      [ 1469 ]  Nam .
+      [ character:  Vasco]
+      [ 1469 ]  Nam lhe digas que aqui vim que aqui ando passeando porqu' eu nam ando fugindo senam somente ao bradar e mais nam quero acordar ora o cão que jaz dormindo .
+      [ 1470 ]  Sai Vasco Lourenço e entra a comadre e diz :
+      [ character:  Comadre]
+      [ 1471 ]  Ou de casa .
+      [ character:  Isabel]
+      [ 1471 ]  Mas ou de lá quem é ?
+      [ character:  Comadre]
+      [ 1471 ]  Sam gente de paz .
+      [ character:  Isabel]
+      [ 1472 ]  Quem sois ?
+      [ character:  Comadre]
+      [ 1472 ]  Sam Lianor Vaz minha comadre esta cá ?
+      [ character:  Isabel]
+      [ 1473 ]  Lá está dentro na cozinha .
+      [ character:  Comadre]
+      [ 1474 ]  Sei que está ensaboando .
+      [ character:  Isabel]
+      [ 1475 ]  Nam bofé .
+      [ character:  Comadre]
+      [ 1475 ]  Está amassando ?
+      [ character:  Isabel]
+      [ 1475 ]  Nam nos deram ontem farinha .
+      [ character:  Comadre .]
+      [ 1476 ]  Assi fui esta somana levei lá uns três alqueires e ele nem hás nem queres foi o asno d' Arrifana .
+      [ character:  Brásia]
+      [ 1477 ]  Quem fala contigo Isabel ?
+      [ character:  Isabel]
+      [ 1478 ]  Senhora , Lianor Vaz .
+      [ character:  Brásia]
+      [ 1479 ]  Lianor Vaz .
+      [ character:  Comadre]
+      [ 1479 ]  Que vos praz ?
+      [ character:  Brásia]
+      [ 1480 ]  Dou-vos ao anjo Gabriel .
+      [ 1481 ]  E que vinda foi agora esta ?
+      [ character:  Comadre]
+      [ 1482 ]  Venho a saber desta festa do negro vosso marido que pera nada nam presta .
+      [ 1483 ]  Eu bem vos ouvi gritar mas quisera cá acudir e por m' ele nam sentir o deixei .
+      [ character:  Brásia]
+      [ 1484 ]  Que m' houvera de matar .
+      [ 1485 ]  Já em mi nam há ter força .
+      [ character:  Comadre]
+      [ 1486 ]  Ih que vós o mereceis .
+      [ 1487 ] 
+      [ character:  Brásia]
+      [ 1488 ]  Por quê ?
+      [ character:  Comadre]
+      [ 1488 ]  Que nam no ceveis assi como pato em sorça .
+      [ character:  Brásia]
+      [ 1489 ]  Coitada manso o dizeis ?
+      [ 1490 ]  Eu noite e dia cansando e renegando por lhe ganhar um real e o negro enxoval anda por i passeando .
+      [ 1491 ]  E com dous alqueires que amasso quer que tenha a casa chea .
+      [ character:  Comadre]
+      [ 1492 ]  Que marido e que prea .
+      [ character:  Brásia]
+      [ 1493 ]  Ui Comadre falai passo nam me dê sequer má cea .
+      [ 1494 ]  Parece-me que s' achasse quem m' este demo amansasse assi como eu quisesse que alma e vida lhe desse e mais se mais me custasse .
+      [ character:  Comadre]
+      [ 1495 ]  E como creo que é assi casei com ũa má ventura que nam tem remédio nem cura é um lião pera mi sospeitoso sotrancão malicioso a mesma peçonha mera um drago e besta fera .
+      [ 1496 ]  Ele sempre anda de ponta até as galinhas me conta e o pão no tabuleiro .
+      [ 1497 ]  Ele é o tisoureiro faz-se tam grande senhor que nam venha o emperador d' alta Hungria .
+      [ 1498 ]  Tem tamanha fantesia tam parvo e tam cebolo sem cabeça e sem miolo no bem um talou bolou é dos qu' o demo empenhou .
+      [ 1499 ]  Comadre que vos direi nem é cristão nem tem lei ũa condiçam tam crua que até as pedras da rua lhe querem mal figuedal .
+      [ character:  Brásia]
+      [ 1500 ]  Vede assi é o meu enxoval .
+      [ 1500 ]  Comadre .
+      [ 1501 ]  Comadre nam me digais o vosso já fala e ri mas o meu buscai per i .
+      [ character:  Brásia]
+      [ 1502 ]  Pois por que nam no amansais ?
+      [ character:  Comadre]
+      [ 1502 ]  Isso vos vou e ouvi : vi-me tam atangatada daqueste negro quebranto que faço ?
+      [ 1503 ]  Cobri o manto e desço-me pola escada .
+      [ 1504 ]  E dou comigo em Sam Vicente de Fora em hora boa em cás de ũa pessoa que o faz a pouca gente e digo : quero amansar um ĩmigo que a isso venho cá e conto-lhe pê-á-pá que a meu confessor nam digo .
+      [ 1505 ]  Quero que me façais mudo aqueste alão de filhar que a vida vos quero dar alma e fazenda e tudo
+      [ 1506 ]  Diz : por ventura quereis ũa boa beberagem com que fale outra linguagem ?
+      [ 1507 ]  Digo-vo-lo que ma ensineis por pouco que me vós deis vo-lo tornarei salvagem .
+      [ 1508 ]  Diz : isto é o que haveis de fazer .
+      [ 1509 ]  Tomareis ũa panela e nam metereis mais nela que quanto vos eu disser : os olhos do gato preto e o coração do galo .
+      [ 1510 ]  Atentai no que vos falo e tende-me isto em secreto que com isto o mundo abalo .
+      [ 1511 ] 
+      [ 1512 ]  E tomareis um morcego em nove águas bem lavado e as unhas do enforcado qu' isto é pera andar cego por vós e esbabacado .
+      [ 1513 ]  E tomai as penas da gaivota e as tripas e a ferçura e dê tudo ũa fervura com ũa posta de pexota .
+      [ 1514 ]  E depois arredá-lo-eis que esfrie um pouco , ouvis ? E coai-os por uns mandis novos que i achareis e aquilo que ficar ponde-o a secar num forno
+      [ 1515 ]  e tomai a ponta dum corno dum boi manso de lavrar .
+      [ 1516 ]  E pisai tudo num gral ao luar da quarta-feira e coai-o por ũa peneira nas costas dum alguidar .
+      [ 1517 ]  E depois daquisto feito dai-lho a beber no vinho e metê-lo-eis a caminho e fá-lo-eis andar a dereito .
+      [ 1518 ]  Torna a entrar Fernão d' Orta e diz :
+      [ 1519 ]  Prendem quem aqui s' acolhe ?
+      [ character:  Brásia]
+      [ 1520 ]  Vê quem é , já traz focinho .
+      [ character:  Isabel]
+      [ 1521 ]  Fernão d' Orta meu padrinho .
+      [ character:  Brásia]
+      [ 1522 ]  Entre embora , quem lho tolhe ?
+      [ 1523 ]  Tapa-lhe alguém o caminho ?
+      [ character:  Fernão .]
+      [ 1524 ]  Quem é discreto e quem viu há de bater antes qu' entre e isto trago eu do ventre da mãe que m' a mi pariu .
+      [ 1525 ]  Qual é a besta d' atafona que nam diz : oulá sou eu ?
+      [ character:  Brásia]
+      [ 1526 ]  Vós fazeis como quem deu bom couce em ventre de dona .
+      [ character:  Fernão .]
+      [ 1527 ]  Assegundo o mundo vai e a malícia é sobeja nam quereis vós que vos veja vossa mãe nem vosso pai ,
+      [ 1528 ]  que nos outros portugueses nam acho um só que me quadre .
+      [ character:  Brásia]
+      [ 1529 ]  Perdoai-me vós Comadre vejamo-nos muitas vezes , que tenho que vos falar .
+      [ character:  Comadre]
+      [ 1530 ]  Pois quando quereis que seja ?
+      [ character:  Brásia]
+      [ 1531 ]  Vejamo-nos na igreja domingo ante do jantar .
+      [ 1532 ]  Vai-se a comadre .
+      [ character:  Fernão .]
+      [ 1533 ]  Ora bem onde é ?
+      [ 1534 ]  Qu' é dele ?
+      [ character:  Brásia]
+      [ 1535 ]  Foi passear ao terreiro que já é negro escudeiro .
+      [ character:  Fernão .]
+      [ 1536 ]  Pois cumpre-lhe mudar a pele , que quem há d' andar em paço há de ser a mesma suma .
+      [ character:  Brásia]
+      [ 1537 ]  Nam é , ele ferveu com a escuma é fidalgo do retraço .
+      [ character:  Fernão .]
+      [ 1538 ]  Em que s' acupa ou que faz ?
+      [ character:  Brásia]
+      [ 1539 ]  Que faz ?
+      [ 1540 ]  Passear por i .
+      [ character:  Fernão .]
+      [ 1541 ]  Eu nunca tal casa vi nunca já estais em paz .
+      [ character:  Brásia]
+      [ 1542 ]  A culpa a quem na darão ?
+      [ character:  Fernão .]
+      [ 1543 ]  A ambos de dous a dou .
+      [ character:  Brásia]
+      [ 1544 ]  Mal pecado ou sempre sou a culpada sem razão .
+      [ character:  Fernão .]
+      [ 1545 ]  E agora como estais ?
+      [ character:  Brásia]
+      [ 1546 ]  Assi como o cão c'o gato .
+      [ character:  Fernão .]
+      [ 1547 ]  Eu quando me nam percato sobre nada pelejais .
+      [ 1548 ]  E sobre que foi a peleja ?
+      [ character:  Brásia]
+      [ 1549 ]  Que sei eu ?
+      [ 1550 ]  Tomado seja de trezentos mil diabos .
+      [ character:  Fernão .]
+      [ 1551 ]  Que começos pera cabos de quem nos também deseja .
+      [ character:  Brásia]
+      [ 1552 ]  Estava a porta igualada e entrou em hora minguada que nunca falta um ladrão .
+      [ 1553 ]  Levou a capa na mão e desce-se pola escada .
+      [ 1554 ] 
+      [ character:  Fernão .]
+      [ 1555 ]  A casa onde há recado o mesmo ladrão morre à fome e mais o gato nam come senam o que é mal guardado .
+      [ 1556 ]  Que s' eu quisera furtar quanto aqui está a barrisco que viera sam Francisco nam mo viera estorvar .
+      [ 1557 ]  Porqu' eu bati d' enfadado e estive feito brasa e entrei naquesta casa e estive aí assentado mais de ũa hora .
+      [ 1558 ]  E tornei a sair fora e tornei a entrar dentro descuidos com seu coentro nam nos vi senam agora .
+      [ 1559 ]  Nam são descuidos pequenos e os qu' o mau azo destapa porém eu furtei a capa que vós cá acháreis menos .
+      [ 1560 ]  E se quisera furtara e levara até as telhas do telhado outrora milhor recado ponde no que nunca sara .
+      [ character:  Brásia]
+      [ 1561 ]  Logo me deu na vontade nam és tu ladrão de longe .
+      [ character:  Fernão]
+      [ 1562 ]  Pudera ser outro monge que furtara de verdade .
+      [ character:  Brásia]
+      [ 1563 ]  Cumpre-me agora dizer que achei detrás dũa arca porque ele é de marca pera alcorjar e morrer .
+      [ character:  Vasco]
+      [ 1564 ]  Nam se fechará esta porta nem por mais que homem ladre ?
+      [ character:  Brásia]
+      [ 1565 ]  S' está cá vosso compadre .
+      [ character:  Vasco]
+      [ 1566 ]  Qual compadre ?
+      [ character:  Brásia]
+      [ 1566 ]  Fernão d' Orta .
+      [ character:  Vasco]
+      [ 1567 ]  Esteja embora .
+      [ character:  Fernão]
+      [ 1568 ]  Bem me tomais vós agora aqui com o furto nas mãos .
+      [ character:  Vasco]
+      [ 1569 ]  Nisso somos como irmãos e nam me toco d' espora .
+      [ 1570 ]  Há muito que cá estais ?
+      [ character:  Fernão]
+      [ 1571 ]  Eu inda agora cheguei e nunca me tanto enfadei como nestes dias tais .
+      [ character:  Vasco]
+      [ 1572 ]  Em dia santo achais-vos mais morto que na semana .
+      [ character:  Fernão]
+      [ 1573 ]  E com quanto homem a fana .
+      [ character:  Vasco]
+      [ 1574 ]  Pois ao domingo enfadai-vos que é outra tranquitana .
+      [ character:  Brásia]
+      [ 1575 ]  Ficai co a bênção de Deos .
+      [ character:  Fernão]
+      [ 1576 ]  Nosso senhor vá co ela .
+      [ character:  Vasco]
+      [ 1577 ]  Se lhe acháreis a trela vireis cair estes céus só os homens sam anfarismos as molheres Satanasas e s' elas tivessem asas voariam aos abismos .
+      [ character:  Fernão d' Orta .]
+      [ 1578 ]  Liber generationis da molher que sam convém a saber : as d' agora genuit tanta malícia em extremo e a milhor rema seu remo como outras quaisquer per i .
+      [ 1579 ]  Genuit cem mil mentiras fazem do branco bermelho maldito quem seu conselho nam fizesse tudo em tiras .
+      [ 1580 ]  É falar no escusado meter molher a caminho .
+      [ 1581 ]  Provastes já o vosso vinho ?
+      [ character:  Vasco]
+      [ 1582 ]  Si .
+      [ character:  Fernão]
+      [ 1582 ]  Como está ?
+      [ character:  Vasco]
+      [ 1582 ]  Arrezoado os vinhos dest' ano são verdetes .
+      [ character:  Fernão]
+      [ 1582 ]  Nam lhe choveu que vinho tive eu do céu a canada de tostão .
+      [ 1583 ] 
+      [ character:  Vasco]
+      [ 1584 ]  Tendes dele ?
+      [ character:  Fernão]
+      [ 1584 ]  Já morreu .
+      [ 1585 ]  Quando homem aí s' achega adubar e quando em empo peço a Deos vendima a tempo que me luza bem n' adega .
+      [ 1586 ]  Mas façamos sam Martinho .
+      [ character:  Vasco]
+      [ 1587 ]  Todavia bem será .
+      [ 1588 ]  Brásia Machada mandai cá um copo com desse vinho .
+      [ character:  Brásia]
+      [ 1589 ]  Ei-lo vai .
+      [ 1590 ]  Isabel leva a teu pai esse vinho do pichel .
+      [ character:  Vasco]
+      [ 1591 ]  Deita no copo , Isabel .
+      [ character:  Isabel]
+      [ 1592 ]  Tanto mandar , acabai .
+      [ character:  Vasco]
+      [ 1593 ]  Ai da puxa que manceba começai com vossos feros mandai cá um par de peros sobre qu' homem sequer beba .
+      [ 1594 ]  Aqui chega Isabel com o vinho e diz Fernão d' Orta :
+      [ character:  Fernão .]
+      [ 1595 ]  A ninguém por bom asseles a cor está robecunda quem se nestes vinhos funda é ruim alveitar deles .
+      [ 1596 ]  Todavia tem bom cheiro vejamos sua maneira oh como sabe a madeira val muito pouco dinheiro .
+      [ 1597 ]  Assopra .
+      [ 1598 ]  De fora sabre .
+      [ 1599 ]  Em que está este ?
+      [ character:  Vasco]
+      [ 1599 ]  Num quarto .
+      [ character:  Fernão .]
+      [ 1600 ]  Nunca ele morre de parto salvo se faz pelo jabre .
+      [ 1601 ]  Mas toda via tem mau saibo .
+      [ character:  Vasco]
+      [ 1602 ]  Por vossa vida .
+      [ character:  Fernão .]
+      [ 1602 ]  Pardelhas vinho de duas orelhas assentai que nunca , taibo .
+      [ character:  Vasco Lourenço .]
+      [ 1603 ]  Nam no acho bom nem mau .
+      [ character:  Fernão .]
+      [ 1604 ]  Ora tendes bom sojorno .
+      [ 1605 ]  Tirai-lo vós pelo torno ?
+      [ character:  Vasco]
+      [ 1606 ]  Nam senam polo argrau .
+      [ character:  Fernão .]
+      [ 1607 ]  Olhai-me essa paciência co menos daquisso afronto perdei-lo de todo ponto por parisma e negrigência .
+      [ 1608 ]  Torna a entrar o Compadre :
+      [ character:  Compadre]
+      [ 1609 ]  A bom tempo venho eu .
+      [ 1610 ]  Profaça .
+      [ character:  Fernão]
+      [ 1610 ]  A quem comer .
+      [ character:  Compadre]
+      [ 1611 ]  Nam sei vejo-vos beber .
+      [ character:  Vasco]
+      [ 1612 ]  Se bebo bebo do meu .
+      [ character:  Compadre]
+      [ 1613 ]  Como ele fala de papo como vos isto está feo .
+      [ 1614 ]  Como eu logo do alheo avarento como sapo ?
+      [ character:  Fernão .]
+      [ 1615 ]  Ora vós tendes vontade de bradar .
+      [ character:  Compadre]
+      [ 1615 ]  Com quem ou quando ?
+      [ character:  Fernão .]
+      [ 1616 ]  Está meu compadre zombando e ele toma-o de verdade .
+      [ character:  Compadre]
+      [ 1617 ]  Eu também nam estou singelo já má hora andei em paço .
+      [ character:  Fernão .]
+      [ 1618 ]  Paço chamo-lh' embaraço pera quem quiser sofrê-lo .
+      [ 1619 ]  Viestes à conjunção a milhor que nunca vi que haveis de provar aqui este vinho de Monção .
+      [ character:  Compadre]
+      [ 1620 ]  E ele é tal ?
+      [ character:  Vasco]
+      [ 1621 ]  O milhor de Portugal .
+      [ character:  Compadre]
+      [ 1622 ]  Este vinho está malato .
+      [ character:  Vasco]
+      [ 1623 ]  São fundagens de Gil Pato e vem-lhe parecer mal .
+      [ character:  Compadre]
+      [ 1624 ]  Este vinho é Campolide .
+      [ character:  Fernão .]
+      [ 1625 ]  E por que nam Caparica ?
+      [ character:  Compadre]
+      [ 1625 ]  Vinho vendi eu à bica que doutro milhor vos ride .
+      [ character:  Vasco]
+      [ 1626 ]  Tendes vós vinhas mui grande e é milhor vender em mosto .
+      [ character:  Compadre]
+      [ 1627 ]  Os meus vinhos são de posto que vos ride de mais Frandes .
+      [ character:  Fernão d' Orta .]
+      [ 1628 ] 
+      [ 1629 ]  Deixemos vinhos agora .
+      [ 1630 ]  Que será bem que façamos ?
+      [ 1631 ]  Nem jogamos nem folgamos ?
+      [ character:  Vasco]
+      [ 1632 ]  Joguemos logo ness' hora .
+      [ character:  Fernão .]
+      [ 1633 ]  Falta-nos um companheiro .
+      [ character:  Vasco]
+      [ 1634 ]  Ele é o Tejo que é mau d' ágoa .
+      [ 1635 ]  Nam nos ficará essa mágoa nunca faltou Jão d' Aveiro .
+      [ character:  Compadre]
+      [ 1636 ]  Quem é esse mata-sanos ?
+      [ character:  Vasco]
+      [ 1637 ]  É um cavaleiro honrado comendador .
+      [ character:  Fernão]
+      [ 1637 ]  E é casado ?
+      [ character:  Vasco]
+      [ 1638 ]  Casado há dez mil anos .
+      [ character:  Fernão .]
+      [ 1639 ]  É de Cristos a comenda ou Santiago ?
+      [ character:  Vasco]
+      [ 1639 ]  É d' Avis .
+      [ character:  Fernão]
+      [ 1640 ]  Comendador em ceitis é o que a traz sem renda .
+      [ 1641 ]  Já nam há virtude fixa pola maldade do povo nem achareis cristão novo que nam traga lagartixa .
+      [ 1642 ]  E cada um em seu efeito é um diabo infernal .
+      [ character:  Compadre]
+      [ 1643 ]  Pois em lugar de sinal trazem essa cruz no peito porém falemos em al .
+      [ character:  Vasco]
+      [ 1644 ]  Quereis que vamos chamar este escudeiro que digo ?
+      [ character:  Fernão .]
+      [ 1645 ]  Oh mandai será comigo .
+      [ character:  Compadre]
+      [ 1646 ]  Por quê ?
+      [ 1647 ]  Nam sabeis jogar ?
+      [ character:  Vasco]
+      [ 1648 ]  Estevão .
+      [ character:  Moço .]
+      [ 1648 ]  Que vos praz ?
+      [ character:  Vasco]
+      [ 1649 ]  Que estais lá empardeado dizei nam há ter recado de nada ?
+      [ 1650 ]  Falai , mengaz .
+      [ 1651 ]  I a este canto primeiro e perguntai por João d' Aveiro dizei há cá jogo arreio .
+      [ character:  Moço .]
+      [ 1652 ]  O homem que ontem cá veio ?
+      [ character:  Vasco]
+      [ 1653 ]  Esse .
+      [ 1654 ]  Acabai malhadeiro .
+      [ 1655 ]  E que está aqui um senhor muito grande jogador que me tem desafiado e que será mantenedor .
+      [ character:  Fernão .]
+      [ 1656 ]  Ele pousa longe ou perto ?
+      [ character:  Vasco]
+      [ 1657 ]  Saindo duas passadas .
+      [ character:  Compadre]
+      [ 1658 ]  Tendes cartas ?
+      [ character:  Vasco]
+      [ 1659 ]  Faltam-lhe duas espadas .
+      [ character:  Fernão]
+      [ 1660 ]  Nunca tendes jogo certo .
+      [ character:  Compadre]
+      [ 1661 ]  Já haveram mister barrelas .
+      [ character:  Vasco]
+      [ 1662 ]  Tenho-as nũa arca metidas .
+      [ character:  Fernão .]
+      [ 1663 ]  Como serão conhecidas .
+      [ character:  Vasco]
+      [ 1664 ]  Assi jogamos com elas .
+      [ character:  Compadre]
+      [ 1665 ]  Ora mandai-as trazer vestidas em suas martas .
+      [ character:  Vasco]
+      [ 1666 ]  Isabel dá cá essas cartas ei-las aqui que dizer ?
+      [ character:  Fernão .]
+      [ 1667 ]  Oh Jesu como estão Jó são muito sustanciais .
+      [ character:  Vasco]
+      [ 1668 ]  Que diabo as contais ?
+      [ 1669 ]  Nam falta mais dũa só .
+      [ 1670 ]  Entra o Cavaleiro e diz :
+      [ character:  Cavaleiro]
+      [ 1671 ]  Boas noites cá festejam ao som de tal fogueira .
+      [ character:  Vasco]
+      [ 1672 ]  Venha pera esta cadeira .
+      [ character:  Cavaleiro]
+      [ 1673 ]  Estai senhores estejam eu juro por vida minha que o al é zombaria .
+      [ character:  Vasco]
+      [ 1674 ]  Sempre homem neste dia deita mais ũa sardinha .
+      [ character:  Cavaleiro]
+      [ 1675 ]  Está isto de maneira que vos direi que nam venha o turco .
+      [ 1676 ]  Donde haveis tanta lenha ?
+      [ character:  Vasco]
+      [ 1677 ]  Daquessa ribeira .
+      [ character:  Cavaleiro]
+      [ 1678 ]  Eu comprei um pouco de cisco assi a peso de dinheiro em que entrava um trasfogueiro co alcepa de lentisco .
+      [ 1679 ]  É muito grande canseira comprar cargas .
+      [ character:  Fernão]
+      [ 1679 ]  Nam é nada como nam comprais barcada estais a pão de padeira .
+      [ 1680 ] 
+      [ character:  Cavaleiro]
+      [ 1681 ]  Ontem ao junco no cais era todo Portugal e nam parece Natal sem junco .
+      [ character:  Compadre]
+      [ 1681 ]  E vós zombais ?
+      [ 1682 ]  A festa já nam é nada sem candeas verdes , junquete coscorões , cidra fartete pinhões , figos , girgilada e com pedras de vinhete e mascarra de cortiça e outras cousas que calo e vir da missa do galo e almorçar linguiça .
+      [ 1683 ]  E outras festas per linha : jogar o jogo da brasa e eu ir a vossa casa e vós outra noite à minha a jogar tanger e sapatear e dar com a casa em baixo que foliões do Cartaxo nos não cheguem ao calcanhar .
+      [ 1684 ]  E magusto de castanha que isto é o que t' empolga e porém já ninguém folga porque o mundo tudo estranha .
+      [ character:  Cavaleiro]
+      [ 1685 ]  Mas que s' enforquem e que falem quando as honras nam perigam y una que me lo digan y otra me da que lo callen .
+      [ 1686 ]  se folgo como criatura e sem prejuízo de partes .
+      [ character:  Fernão .]
+      [ 1687 ]  O mundo tem essas artes que das virtudes murmura .
+      [ character:  Compadre]
+      [ 1688 ]  São cousas essas estranhas se o meu folgar não é vício .
+      [ character:  Vasco]
+      [ 1689 ]  É mundo que d' ab início tem já essas negras manhas .
+      [ 1690 ]  No mundo nada estranhemos mudai o vinte a outra parte porque nam há quem se farte de dizer mal como vemos e cada um por sua arte .
+      [ 1691 ]  Deixemos isto estar senhores quereis jogar ?
+      [ character:  Compadre]
+      [ 1691 ]  Joguemos tendes razão .
+      [ character:  Cavaleiro]
+      [ 1692 ]  Ora pois pôr em feição .
+      [ 1693 ]  Cada um em seu lugar .
+      [ character:  Vasco]
+      [ 1694 ]  Saibamos como quereis .
+      [ character:  Cavaleiro]
+      [ 1695 ]  Ordenai vós essa luta .
+      [ character:  Fernão .]
+      [ 1696 ]  Esse certo vinho e fruta si que vós nam no sabeis .
+      [ character:  Cavaleiro]
+      [ 1697 ]  Vós outros mudais-vos logo e jugais dinheiro seco .
+      [ character:  Compadre]
+      [ 1698 ]  Nam há cá ninguém tam peco que lhe lembre a esse jogo .
+      [ character:  Cavaleiro]
+      [ 1699 ]  Ora sus como seremos ?
+      [ character:  Vasco]
+      [ 1699 ]  Mesmo as cartas o dirão .
+      [ character:  Cavaleiro]
+      [ 1700 ]  Sabeis que jogador sam .
+      [ character:  Fernão .]
+      [ 1701 ]  Embora já o sabemos .
+      [ 1702 ]  Vós e ele , e ele , e eu quero ver se sois contente .
+      [ character:  Vasco]
+      [ 1703 ]  É jogador excelente e quer-me ganhar o meu isso aqui nam se consente .
+      [ 1704 ]  Nós ambos por mais serenos .
+      [ character:  Cavaleiro]
+      [ 1705 ]  Eu ?
+      [ 1706 ]  Milhor viva Diogo .
+      [ character:  Vasco]
+      [ 1707 ]  Nam podeis fugir ao jogo os mais c' os mais menos com menos .
+      [ character:  Compadre]
+      [ 1708 ]  Mas sejamos Fernão d' Orta e vós outros lá senhores .
+      [ character:  Cavaleiro]
+      [ 1709 ]  Os milhores jogadores .
+      [ 1710 ]  Aquisso nam se soporta .
+      [ 1711 ]  Seja com' eles disserem .
+      [ character:  Vasco]
+      [ 1712 ]  Muito embora , levantai .
+      [ character:  Fernão .]
+      [ 1713 ]  Saibamos a que se vai .
+      [ character:  Compadre]
+      [ 1714 ]  Vá-se ao qu' eles quiserem .
+      [ character:  Cavaleiro]
+      [ 1715 ]  Oito riscos um vintém que passa o jogo d' arte enfim um de dez à parte .
+      [ character:  Fernão .]
+      [ 1716 ]  Seja assi é muito bem .
+      [ 1717 ]  E quem mais perder mais pague .
+      [ character:  Vasco]
+      [ 1718 ]  Isso ninguém no defende .
+      [ character:  Cavaleiro]
+      [ 1719 ]  A envidar .
+      [ character:  Fernão]
+      [ 1719 ]  Assi s' entende .
+      [ character:  Compadre]
+      [ 1720 ]  Prometo qu' eu vos alague .
+      [ character:  Cavaleiro]
+      [ 1721 ]  Dentro somos nós piós dai-me agora a entender isto .
+      [ character:  Vasco]
+      [ 1722 ]  Vós nam vedes qu' está visto ?
+      [ 1723 ]  Vós e eu e ele e vós .
+      [ character:  Cavaleiro]
+      [ 1724 ]  Ora dai-me esse lugar ficaremos mais em jogo .
+      [ character:  Vasco]
+      [ 1725 ]  Vós arredai-vos do fogo .
+      [ character:  Cavaleiro]
+      [ 1726 ]  Si , nam se pode escusar .
+      [ character:  Compadre]
+      [ 1727 ]  Pois tomai esta cadeira .
+      [ character:  Cavaleiro]
+      [ 1728 ]  Bem estou aqui calai-vos .
+      [ 1729 ]  Meus senhores branqueai-vos .
+      [ character:  Vasco]
+      [ 1730 ]  Nam se há d' ir dessa maneira .
+      [ character:  Cavaleiro]
+      [ 1731 ]  Quejanda ?
+      [ 1732 ]  De que feição ?
+      [ character:  Fernão]
+      [ 1733 ]  Que tomemos um tostão e mande-se logo trazer o que s' houver de comer .
+      [ character:  Cavaleiro]
+      [ 1734 ]  Tendes infinda rezão .
+      [ 1735 ]  Entam cá o que perder pagará .
+      [ character:  Compadre]
+      [ 1736 ]  Pois nam há de ser assi .
+      [ 1737 ]  Estêvão .
+      [ character:  Estêvão]
+      [ 1737 ]  Praz .
+      [ character:  Vasco]
+      [ 1737 ]  Tom' aqui .
+      [ character:  Fernão]
+      [ 1738 ]  Este moço saberá ?
+      [ character:  Vasco]
+      [ 1739 ]  Porventura ele é argel ?
+      [ 1740 ]  Este moço é d' Alentejo .
+      [ character:  Compadre]
+      [ 1741 ]  Aosadas bem no vejo havei à mão um pichel .
+      [ character:  Cavaleiro]
+      [ 1742 ]  Quero ver com' o encaminha .
+      [ character:  Compadre]
+      [ 1743 ]  Eu a cás da Biscainha .
+      [ character:  Vasco]
+      [ 1744 ]  Que galante vinhateiro vinho de João Cavaleiro este cana a ladainha .
+      [ character:  Fernão d' Orta .]
+      [ 1745 ]  Mas às Fangas da Farinha no Beco do Chançarel lá irá o meu pichel .
+      [ character:  Compadre]
+      [ 1746 ]  Nam irá por vida minha .
+      [ character:  Vasco]
+      [ 1747 ]  Venha já e acabai .
+      [ character:  Compadre]
+      [ 1748 ]  Ora meu senhor tomai vedes aqui um tostão trazei um vintém de pão e num pé vos abalai .
+      [ 1749 ]  E meio vintém de queijo que são trinta .
+      [ character:  Vasco]
+      [ 1750 ]  Mal despendeis essa tinta .
+      [ character:  Compadre]
+      [ 1751 ]  Mandai-o vós , bem no vejo .
+      [ character:  Fernão .]
+      [ 1752 ]  Isso leva mau caminho de fruta seu vintenzinho outro de farténs quarenta e um de pão são sessenta e o outro todo em vinho .
+      [ 1753 ]  Diga-me vossa mercê quem nas há de dar ?
+      [ 1754 ]  Veremos .
+      [ character:  Vasco]
+      [ 1755 ]  Jogue , nam acabaremos ?
+      [ 1756 ]  A primeira d' espadas as dê .
+      [ character:  Cavaleiro]
+      [ 1757 ]  Ora embora levantai-as a primeira d' espada nô mais .
+      [ character:  Fernão .]
+      [ 1758 ]  Aqui somos vós las dais ora sus pois baralhai-as .
+      [ character:  Compadre]
+      [ 1759 ]  Val manilha ?
+      [ character:  Vasco]
+      [ 1759 ]  Sota e pau .
+      [ character:  Compadre]
+      [ 1760 ]  Oh valha manilha valha .
+      [ character:  Vasco]
+      [ 1761 ]  Valha , alço minha palha .
+      [ character:  Fernão .]
+      [ 1762 ]  Compadre como sois mau mostrai-ma se a levardes .
+      [ character:  Cavaleiro]
+      [ 1763 ]  Ora nam valha esta mão .
+      [ character:  Compadre]
+      [ 1764 ]  Por quê ?
+      [ 1765 ]  Nam tendes razão .
+      [ character:  Cavaleiro]
+      [ 1766 ]  Ora valha se mandardes .
+      [ character:  Vasco]
+      [ 1767 ]  Demando nove , senhores .
+      [ character:  Compadre]
+      [ 1768 ]  Nove tenho .
+      [ character:  Fernão .]
+      [ 1768 ]  E eu também .
+      [ character:  Vasco]
+      [ 1769 ]  Ora está assi muito bem .
+      [ 1770 ]  D' ouros são d' ouro quando las levo , d' amores jaço uma vez .
+      [ 1771 ]  Que jogará um ladrão que nam tem jogo na mão nem carta que valha dez ?
+      [ 1772 ] 
+      [ 1773 ]  Roubai parceiro essa sota .
+      [ character:  Fernão .]
+      [ 1774 ]  Guarda que é mau ladrão .
+      [ character:  Cavaleiro]
+      [ 1775 ]  Nunca vos por isso dão cent' açoutes na picota ?
+      [ character:  Fernão .]
+      [ 1776 ]  Nem menos m' enforcarão .
+      [ character:  Vasco]
+      [ 1777 ]  Cobri que vos vê o jogo eu nam sei que estais fazendo .
+      [ character:  Cavaleiro]
+      [ 1778 ]  Como lho posso estar vendo ?
+      [ character:  Vasco]
+      [ 1779 ]  Jogai .
+      [ character:  Cavaleiro]
+      [ 1779 ]  Nam vos agasteis que logo .
+      [ 1780 ]  Jugando cantarão a sumiça voz .
+      [ 1781 ]  Trunfai dai-lhe c' o milhor .
+      [ character:  Fernão .]
+      [ 1782 ]  Nam tenho trunfo que preste .
+      [ character:  Cavaleiro]
+      [ 1783 ]  Vós sois jogador de peste .
+      [ character:  Fernão .]
+      [ 1784 ]  Pois que quereis vós senhor ?
+      [ character:  Cavaleiro]
+      [ 1785 ]  Dai-lhe com essa guarita .
+      [ character:  Fernão .]
+      [ 1786 ]  Não m' ensineis qu' eu o sei há trunfo pera este rei ?
+      [ character:  Cavaleiro]
+      [ 1787 ]  E o jogo ressuscita .
+      [ character:  Compadre]
+      [ 1788 ]  Ora val três .
+      [ character:  Fernão .]
+      [ 1788 ]  Mas val quatro .
+      [ character:  Compadre]
+      [ 1789 ]  Mas val cinco .
+      [ character:  Cavaleiro]
+      [ 1789 ]  Eu nam quero bem conheço vosso fero pregais-me de feteatro .
+      [ 1790 ]  Já sabeis onde se perdeu ?
+      [ 1791 ]  Em atravessardes o conde .
+      [ character:  Fernão .]
+      [ 1792 ]  E vós ?
+      [ character:  Cavaleiro]
+      [ 1792 ]  E ainda me responde .
+      [ character:  Fernão .]
+      [ 1793 ]  E o trunfo qu' ele meteu ?
+      [ character:  Cavaleiro]
+      [ 1794 ]  E eu nam lhas tomava c' o meu ?
+      [ character:  Fernão .]
+      [ 1795 ]  E vós quereis que adevinhe eu que tendes trunfo ainda ?
+      [ character:  Vasco]
+      [ 1796 ]  Tendes muita culpa infinda no jogo sois mui sandeu .
+      [ character:  Compadre]
+      [ 1797 ]  Jogar mal é grã trabalho tomai lá compadre e dai-as .
+      [ character:  Vasco]
+      [ 1798 ]  Si darei .
+      [ character:  Cavaleiro]
+      [ 1798 ]  Oh baralhai-as .
+      [ character:  Vasco]
+      [ 1799 ]  Está bem nam nas baralho .
+      [ 1800 ]  Tornarão a cantar a sumiça voz .
+      [ character:  Fernão .]
+      [ 1801 ]  Levantai de paus agora .
+      [ character:  Vasco]
+      [ 1802 ]  Roubais vós com a manilha .
+      [ character:  Cavaleiro]
+      [ 1803 ]  Nam será grã maravilha .
+      [ character:  Fernão .]
+      [ 1804 ]  Ponde vós ũa carta fora e jogai .
+      [ character:  Cavaleiro]
+      [ 1805 ]  Ora meu senhor roubai quero que sejais ladrão .
+      [ character:  Compadre]
+      [ 1806 ]  Tendes boa condição ora jogai e acabai .
+      [ character:  Vasco]
+      [ 1807 ]  Nam me jogueis carta boa estai quedo jogai rei .
+      [ character:  Compadre]
+      [ 1808 ]  Abofé nam jogarei .
+      [ character:  Vasco]
+      [ 1809 ]  Por que nam sereis pessoa ?
+      [ 1810 ]  Pera que é isso jogado ?
+      [ character:  Compadre]
+      [ 1811 ]  Compadre eu jogo bem .
+      [ character:  Vasco]
+      [ 1812 ]  A desculpa qu' ele tem ora estais bem aviado .
+      [ character:  Cavaleiro]
+      [ 1813 ]  Parece que jogais com pena pera que é trunfo pequeno ?
+      [ character:  Fernão .]
+      [ 1814 ]  Un malo saca uno bueno pero no de la cadena .
+      [ character:  Vasco .]
+      [ 1815 ]  Sois jogador muito curto .
+      [ 1816 ]  Nam tem espadas nam será mau d' atentardes .
+      [ character:  Cavaleiro]
+      [ 1817 ]  Digo que se mas achardes que ma demandeis de furto que cartas são já jogadas .
+      [ 1818 ]  Trunfai c' o milhor diante dai-lhe com pau ou manilha ou sota , ou rei .
+      [ character:  Vasco]
+      [ 1818 ]  Nam lho pilha par Deos jogador galante .
+      [ character:  Fernão]
+      [ 1819 ]  Ora val quatro .
+      [ character:  Compadre]
+      [ 1819 ]  Mas val cinco .
+      [ character:  Fernão]
+      [ 1820 ]  Mas val seis .
+      [ character:  Compadre]
+      [ 1820 ]  Que valha sete .
+      [ character:  Vasco]
+      [ 1821 ]  Bonitinho está o joguete .
+      [ character:  Compadre]
+      [ 1822 ]  Eles cuidam que eu que brinco .
+      [ character:  Vasco]
+      [ 1823 ]  Sam dous jogos ao presente .
+      [ character:  Cavaleiro]
+      [ 1824 ]  Senhores nam jogo mais .
+      [ character:  Fernão .]
+      [ 1825 ]  Por quê ?
+      [ character:  Cavaleiro]
+      [ 1825 ]  Porque m' enfadais de jogardes ruimmente .
+      [ character:  Fernão]
+      [ 1826 ]  Vós falais mal e asinha temos de que nos queixar .
+      [ character:  Cavaleiro]
+      [ 1827 ]  Se vos eu mando trunfar pera que é jogar cartinha ?
+      [ 1828 ] 
+      [ character:  Vasco]
+      [ 1829 ]  Aqui é o moço co água .
+      [ 1830 ]  Isabel .
+      [ character:  Isabel]
+      [ 1830 ]  Senhor .
+      [ character:  Vasco]
+      [ 1830 ]  Dá cá as toalhas .
+      [ character:  Compadre]
+      [ 1830 ]  Bem será .
+      [ character:  Fernão]
+      [ 1831 ]  Mostra este mata a frágua .
+      [ 1832 ]  Vieste a horas boas .
+      [ character:  Moço]
+      [ 1833 ]  Foi cousa à Porta do Mar que se houveram de matar mais de trezentas pessoas .
+      [ character:  Vasco]
+      [ 1834 ]  Esse foi o teu tardar .
+      [ 1835 ]  Estendei essa toalha nam se vá às rebatinhas .
+      [ character:  Compadre]
+      [ 1836 ]  Estas duas serão minhas .
+      [ character:  Cavaleiro]
+      [ 1837 ]  Ora isso nam vai de valha .
+      [ character:  Vasco]
+      [ 1838 ]  Que estais olhai pecuro deita o vinho bestial .
+      [ character:  Cavaleiro]
+      [ 1839 ]  Dai-nos novas : ele é tal ?
+      [ character:  Fernão]
+      [ 1840 ]  Deita-lhe água que está puro .
+      [ character:  Vasco]
+      [ 1841 ]  E que quer isso dizer ?
+      [ 1842 ]  Assoviais como mocho .
+      [ character:  Compadre]
+      [ 1843 ]  Nam lh' arrendo eu o escamoucho .
+      [ character:  Fernão]
+      [ 1844 ]  Oh acabai de beber .
+      [ character:  Cavaleiro]
+      [ 1845 ]  Deixai-o ora .
+      [ character:  Fernão]
+      [ 1846 ]  Cuidais que amanhece agora ?
+      [ 1847 ]  Acolhamo-nos daqui .
+      [ character:  Cavaleiro]
+      [ 1848 ]  Vamo-nos qu' eu digo que si .
+      [ character:  Vasco]
+      [ 1849 ]  É cedo ved' ora i fora .
+      [ character:  Cavaleiro]
+      [ 1850 ]  O sino é já acabado e a justiça anda agora nós outros de casa fora cada um merece pingado .
+      [ character:  Fernão]
+      [ 1851 ]  Falais como cavaleiro acolhamo-nos asinha .
+      [ character:  Compadre]
+      [ 1852 ]  Alto sus com cantiguinha e alce la vela merinheiro .
+      [ closing: 
+      [ 1853 ]  Deo gracias .] 
+      

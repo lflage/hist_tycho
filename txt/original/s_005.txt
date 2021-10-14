@@ -1,0 +1,2904 @@
+
+|:| [START HEADER]|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|
+|:| PLEASE SET CHARACTER ENCODING SYSTEM TO UTF-8
+|:| Tycho Brahe Parsed Corpus of Historical Portuguese 
+|:| Document ID: s_005
+|:| Encoding: UTF-8
+|:| Last Saved: 24.10.2016
+|:| Title: Musa Jocosa de Vários Entremezes Portugueses e Castelhanos
+|:| Author: Sutil, Nuno Nisceno
+|:| Version: Simple Text, for Automatic Tools
+|:| Edition Type: Complete Modernization of Orthography
+|:| [END HEADER]|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|:|
+
+   
+      [ front ]
+      [ title:  MUSA JOCOSA DE VÁRIOS ENTREMEZES PORTUGUESES , E CASTELHANOS . ]
+      [ title:  Oferecidos ao excelentíssimo senhor Dom José Miguel João de Portugal , primogênito do excelentíssimo senhor Conde de Vimioso , etc. e compostos por Nuno Nisceno Sutil .]
+      [ 1 ]  Lisboa .
+      [ 2 ]  Na oficina de Miguel Manescal , impressor do Santo Ofício , e da sereníssima casa de Bragança .
+      [ 3 ]  Ano de 1709 .
+      [ 4 ]  Com todas as licenças necessárias . [ end front ] 
+      
+      [ title:  DEDICATÓRIA . ]
+      [ 5 ]  Ao excelentíssimo senhor Dom José Miguel João de Portugal , primogênito do excelentíssimo senhor Conde de Vimioso , etc.
+      [ 6 ]  Tanto que começa a arraiar o sol em o prólogo do dia , que na estação da primavera se mostra risonho , alegre , e engraçado , logo as aves com suaves harmonias , doces tonilhos , e afinadas vozes , oferecem , e dedicam a aquele grande planeta , ou apolo das musas , a composição de sua música ; por ser proporcionada uma oferta jocosa a um príncipe em o princípio da sua puerícia ( que é a primavera das idades ) com quem se dão bem as flores , as músicas , e os divertimentos .
+      [ 7 ]  À imitação das discretas aves ( que são musas dos montes , se as outras do Parnaso ) deve dedicar também esta Musa as vozes de sua jocosa poesia , a Vossa Senhoria pois somente na aurora de sua idade , e no abril , ou primavera de seus tenros anos , será oferta de seu agrado , que por ser de entretenimiento o assunto saberá lisonjear-lhe o gosto , e inclinar-lhe a vontade para lhe conceder o generoso patrocínio , que pretende conseguir contra a caluniosa censura dos detratores , mas desta ficará agora seguro este limitado livro que ponho aos pés de Vossa Senhoria , para que sendo com o seu ilustre , e respetivo nome intitulado , logre o privilégio dos que saem bem aceitos .
+      [ 8 ]  A pessoa de Vossa Senhoria guarde Deus em o progresso de dilatados anos , para grandes felicidades , como lhe desejam os seus afectuosos , e obrigados , dos quais eu sou um , particularmente .
+      [ 9 ]  De Vossa Senhoria .
+      [ 10 ]  Muito humilde criado .
+      [ 11 ]  Antônio Manescal .
+[ prologue ] 
+      [ title: 
+      [ 12 ]  Ao leitor . ]
+      [ 13 ]  Para entretenimento da inútil ociosidade , para alívio do molesto trabalho , e para divertimento de penosos cuidados fervem as poesias jocosas , e alegres , e os donaires graciosos , e burlescos , porque todos desterram a tristeza , que é lima surda da vida .
+      [ 14 ]  Por esta causa , amigo leitor , se aplicou a minha curiosidade , — por ser inclinada à lição da poesia — a compor vários entremezes na Língua Portuguesa , não tanto para com eles se divertir das fatigas de contínuas ocupações , como também para lisonjear o gosto de algumas pessoas de respeito , e de obrigação , que os pediram para alguns festins particulares , e ocasiões de recreação .
+      [ 15 ]  Porém depois , à instância de alguns amigos de bom humor se formou este resumo para se dar à impressão , por ver que havendo um só livrinho intitulado Musa Entretenida este se tinha impresso segunda vez pela falta que havia de entremezes portugueses .
+      [ 16 ]  Deste te faço agora oferta , ó leitor , se bem com grande desconfiança de te não agradar ; e não imagino que como mordaz zoilo censures os meus erros , porque se estes são dignos de me castigares com rigorosos golpes da tua língua , que a puras cutiladas me farei capaz ; e se também por serem ignorâncias , merecem repreensão , é certo , que se não forem necedades , não poderão ser ridículas para o entretenimento que nesta obra te inculco , prometendo-te , se ficares gostoso , continuar em outros resumos este meu obséquio ; e depois com outras matérias mais sérias , porque : Prius exerceri cupio in parvo opere , et veluti quaedam rubiginem Lingua abstere , ut venire possim ad altiorem Historiam .
+      [ closing: 
+      [ 17 ]  VALE .][ end prologue ] 
+      
+      [ title: 
+      [ 18 ]  Licenças do Santo Ofício . ]
+      [ 19 ]  O Padre Mestre Frei Inácio de Santa Maria Qualificador do Santo Ofício veja a musa jocosa de que trata esta petição , e informe com seu parecer .
+      [ 20 ]  Lisboa 8 de fevereiro de 1709 .
+      [ 21 ]  Carneiro .
+      [ 22 ]  Hasse .
+      [ 23 ]  Monteiro .
+      [ 24 ]  Ribeiro .
+      [ 25 ]  Rocha .
+      [ 26 ]  Frei Encarnação .
+      [ 27 ]  Barreto .
+      [ 28 ]  - - - [ separador ] - -
+      [ 29 ]  O Padre Mestre Frei Pedro Monteiro Qualificador do Santo Ofício veja a musa jocosa de que trata esta petição , e informe com seu parecer .
+      [ 30 ]  Lisboa 15 de fevereiro de 1709 .
+      [ 31 ]  Moniz .
+      [ 32 ]  Hasse .
+      [ 33 ]  Monteiro .
+      [ 34 ]  Bibeiro .
+      [ 35 ]  Rocha .
+      [ 36 ]  Frei Encarnação .
+      [ 37 ]  Barreto .
+      [ 38 ]  ILLUS .
+      [ 39 ]  ILUSTRÍSSIMO SENHOR .
+      [ 40 ]  Vi o livro intitulado , Musa Jocosa , e a censura , que sobre ele fez o Padre Mestre Frei Inácio de Santa Maria , e sou do mesmo parecer do douto Qualificador , que juntamente o censura , no que lhe nota , pelas mesmas razões , que alega .
+      [ 41 ]  São Domingos de Lisboa , 12 de março de 1709 .
+      [ 42 ]  Frei Pedro Monteiro .
+      [ 43 ]  - - - [ separador ] - - -
+      [ 44 ]  Pode-se imprimir o livro intitulado Musa Jocosa , de que trata esta petição menos o Entremez de Dom Faceira , e impresso tornará para se conferir , e dar licença que corra , e sem ela não correrá .
+      [ 45 ]  Lisboa 8 de abril de 1709 .
+      [ 46 ]  Moniz .
+      [ 47 ]  Hasse .
+      [ 48 ]  Monteiro .
+      [ 49 ]  Ribeiro .
+      [ 50 ]  Rocha .
+      [ 51 ]  Frei Encarnação .
+      [ 52 ]  Barreto .
+      [ 53 ]  - - - [ separador ] - - -
+      [ 54 ]  Vista a licença do Santo Ofício pode-se imprimir o livro Musa Jocosa exceto o Entremez de Dom Faceira , e depois de impresso torne para se dar licença para correr , e sem isso não correrá .
+      [ 55 ]  Lisboa 6 de junho de 1709 .
+      [ 56 ]  Bispo de Tagaste .
+      [ 57 ]  - - - [ separador ] - - -
+      [ title: 
+      [ 58 ]  Licenças do Paço . ]
+      [ 59 ]  Que se possa imprimir vistas as licenças do Santo Ofício , e depois de impresso tornará à Mesa para se taixar , e conferir , e sem isso não correrá .
+      [ 60 ]  Lisboa 19 de junho de 1709 .
+      [ 61 ]  Duque P .
+      [ 62 ]  Lacerda .
+      [ 63 ]  Carneiro .
+      [ 64 ]  Costa .
+      [ 65 ]  Andrade .
+      [ 66 ]  Botelho .
+      [ 67 ]  Oliveira .
+      [ 68 ]  Index dos entremezes deste livro .
+      [ 69 ]  1
+      [ 70 ]  Loa do Silêncio .
+      [ 71 ]  2 Entremez .
+      [ 72 ]  Do Santitrudo .
+      [ 73 ]  3 Entremez .
+      [ 74 ]  O que perde o mês não perde o ano .
+      [ 75 ]  4 Entremez .
+      [ 76 ]  Da vossa farinha que nanja da minha .
+      [ 77 ]  5 Entremez .
+      [ 78 ]  Das regateiras .
+      [ 79 ]  6 Entremez .
+      [ 80 ]  Muita bulha , e tudo nada .
+      [ 81 ]  7 Entremez .
+      [ 82 ]  Dos peixes .
+      [ 83 ]  8 Entremez .
+      [ 84 ]  Das fogueiras de São João .
+      [ 85 ]  9 Entremez .
+      [ 86 ]  Do estudante ferrolhado .
+      [ 87 ]  10 Entremez .
+      [ 88 ]  De los criados .
+      [ 89 ]  11 Entremez .
+      [ 90 ]  Del Soldado Auxiliar .
+      [ 91 ]  12 Entremez .
+      [ 92 ]  De Don Quixote .
+      [ comment: 
+      [ 93 ]  [ Nota dos editores : Nesta edição só se incluem os textos em português , isto é , de 1 a 9 . ]]
+      [ preface ]
+      [ title: 
+      [ 94 ]  Ao autor por um seu amigo DÉCIMA . ]
+      [ 95 ]  Mostrais como quase infusa muita graça , e discrição nesta primeira lição que nos dais hoje de musa .
+      [ 96 ]  Este livro não se escusa por ter matéria jocosa contra a tristeza enfadosa e contra o ócio importuno , que escrevestes Sutil Nuno em canora , e doce prosa . [ end preface ] 
+      
+      [ play ]
+      [ title: 
+      [ 97 ]  Loa do Silêncio ]
+      [ 98 ]  Falam nela : um Amo ; um seu criado .
+      [ 99 ]  Sai o Amo .
+      [ character:  Amo]
+      [ 100 ]  Para dar princípio à festa saio aqui neste teatro .
+      [ character:  Criado]
+      [ 101 ]  E eu por fim de razões também ao teatro saio .
+      [ character:  Amo]
+      [ 102 ]  Vai-te daí , não me envergonhes .
+      [ 103 ]  Não me estorves , mentecapto .
+      [ character:  Criado]
+      [ 104 ]  Sim , bem pode ir por diante que daqui não movo um passo .
+      [ character:  Amo]
+      [ 105 ]  Deixa-me , néscio , falar .
+      [ 106 ]  Entra para o vestuário .
+      [ character:  Criado]
+      [ 107 ]  Que já não saio , nem entro , mas retirar-me-ei a um lado .
+      [ character:  Amo]
+      [ 108 ]  Aí há cousa como esta ?
+      [ character:  Criado]
+      [ 109 ]  Há milhares destes casos .
+      [ character:  Amo]
+      [ 110 ]  Não me apures a paciência .
+      [ character:  Criado]
+      [ 111 ]  Pois disto está tão enfadado , se é obrigação dos servos irem atrás de seus amos ?
+      [ character:  Amo]
+      [ 112 ]  Por que vens atrás de mim ?
+      [ character:  Criado]
+      [ 113 ]  Por cuidar vinha apressado para se deitar no mar com tentações do Diabo .
+      [ character:  Amo]
+      [ 114 ]  Não sabes para o que venho .
+      [ character:  Criado]
+      [ 115 ]  Não me meto em saber tanto .
+      [ character:  Amo]
+      [ 116 ]  Venho deitar uma Loa que andei 'té 'gora estudando .
+      [ character:  Criado]
+      [ 117 ]  E deitar fora essa Leoa confia só do seu braço ?
+      [ character:  Amo]
+      [ 118 ]  Loa , não é animal , não me entendes o que falo ?
+      [ character:  Criado]
+      [ 119 ]  Bem entendo que a Leoa é mulher do Leão bravo , e que não é tão daninha , porque é fêmea , e ele macho ; e contudo ainda assim há de enfadar mais de quatro .
+      [ 120 ]  Você busca-a só por só ?
+      [ 121 ]  Não seja tão temerário , e deixe-me que o acompanhe que muita mercê lhe faço .
+      [ character:  Amo]
+      [ 122 ]  Há outro bruto como este ?
+      [ 123 ]  Não falo em Leoa , parvo , senão em Loa , que é louvar .
+      [ 124 ]  Ui , não te entra isto nos cascos ?
+      [ character:  Criado]
+      [ 125 ]  Ora digo que não sabe , senhor meu Amo , é um asno .
+      [ character:  Amo]
+      [ 126 ]  Deixa-me representar porque me estão esperando .
+      [ character:  Criado]
+      [ 127 ]  E você , que há de dizer ?
+      [ 128 ]  Faz algum sermão , acaso ?
+      [ character:  Amo]
+      [ 129 ]  Hei de louvar o silêncio , depois pedi-lo no cabo .
+      [ character:  Criado]
+      [ 130 ]  Se o pede para que ouçam do silêncio esses gabos , peça antes no princípio , que no fim está acabado .
+      [ 131 ]  E é cousa de proveito o silêncio ?
+      [ character:  Amo]
+      [ 132 ]  É um raro argumento da prudência .
+      [ character:  Criado]
+      [ 133 ]  Será , mas eu melhor acho ao vinho quando o bebo , e mais se mo dão fiado .
+      [ character:  Amo]
+      [ 134 ]  Cada um fala da festa donde lhe dão bom mercado e ninguém diz mal daquilo que tem por gosto , e regalo .
+      [ character:  Criado]
+      [ 135 ]  Perca-lhe você o feitio que eu não lhe perco o cuidado e hei de dizer bem dele que nada tenho de ingrato .
+      [ character:  Amo]
+      [ 136 ]  O vinho que tu me louvas é do silêncio contrário , que como tira o juízo não há bêbado calado .
+      [ character:  Criado]
+      [ 137 ]  Belamente diz você , um argumento lhe faço .
+      [ character:  Amo]
+      [ 138 ]  Põe-no tu , que eu me defendo .
+      [ character:  Criado]
+      [ 139 ]  Veja , se em forma reparo .
+      [ 140 ]  O vinho não tem silêncio .
+      [ character:  Amo]
+      [ 141 ]  Concedo a maior , que é claro .
+      [ character:  Criado]
+      [ 142 ]  Não está calado o bêbado .
+      [ character:  Amo]
+      [ 143 ]  Também pela menor passo .
+      [ character:  Criado]
+      [ 144 ]  Logo você está bêbado , porque não está calado .
+      [ character:  Amo]
+      [ 145 ]  Essa consequência nego .
+      [ character:  Criado]
+      [ 146 ]  Ai , nega o que está provado ?
+      [ character:  Amo]
+      [ 147 ]  E tu não falas também !
+      [ character:  Criado]
+      [ 148 ]  Verdade é , conheço o estado .
+      [ 149 ]  Mas quem julgará a mão ?
+      [ 150 ]  Qual de nós é mais borracho ?
+      [ character:  Amo]
+      [ 151 ]  O silêncio que só pode soltar da dúvida o laço .
+      [ character:  Criado]
+      [ 152 ]  Por que , o silêncio é meirinho ?
+      [ character:  Amo]
+      [ 153 ]  Não é , mas eu me declaro .
+      [ character:  Criado]
+      [ 154 ]  Ora diga , que eu o escuto .
+      [ character:  Amo]
+      [ 155 ]  Ora ouve .
+      [ character:  Criado]
+      [ 155 ]  Vamos ao caso .
+      [ character:  Amo]
+      [ 156 ]  Quem guarda sempre silêncio é mais mudo que letrado , assim como será louco o que falar solitário .
+      [ 157 ]  Todo o extremo é vicioso , todo o meio é acertado .
+      [ 158 ]  Falar a tempo é prudência , sem tempo desnecessário .
+      [ 159 ]  Quem cala quando convém dá mostras de si que é sábio .
+      [ character:  Criado]
+      [ 160 ]  Isso me tirou da boca , mas foi bom nom ser bocado .
+      [ character:  Amo]
+      [ 161 ]  Se me ouvires com atenção direi que és muito avisado .
+      [ 162 ]  Mas não haja chus , nem bus .
+      [ character:  Criado]
+      [ 163 ]  Que me diz , por que não caio ?
+      [ character:  Amo]
+      [ 164 ]  Que hás de estar como morto , mui quieto , e sossegado .
+      [ character:  Criado]
+      [ 165 ]  Bem está , mas estando assim , dar-me-á licença , meu amo , para assoar-me ou tossir , ou deitar fora um escarro ?
+      [ character:  Amo]
+      [ 166 ]  Nada mais que ver , e ouvir .
+      [ character:  Criado]
+      [ 167 ]  Pois como hei de estar , saibamos ?
+      [ character:  Amo]
+      [ 168 ]  Como sino de cortiça fora do seu campanário .
+      [ character:  Criado]
+      [ 169 ]  Para que é , senão também fazer-me de homem , cavalo .
+      [ 170 ]  Não me quadra esse conselho , não quero morrer de abafo , e assim se me parecer falarei de quando em quando .
+      [ character:  Amo]
+      [ 171 ]  Não vês que os mortos não bolem .
+      [ character:  Criado]
+      [ 172 ]  Não vê que estou vivo , e ando .
+      [ 173 ]  Ora boa graça é essa !
+      [ 174 ]  Querer fazer-me finado .
+      [ character:  Amo]
+      [ 175 ]  Pois como queres estar ?
+      [ character:  Criado]
+      [ 176 ]  Como tangendo , e cantando .
+      [ character:  Amo]
+      [ 177 ]  Isso não .
+      [ 178 ]  Ora eu começo .
+      [ character:  Criado]
+      [ 179 ]  Tenha mão , em que ficamos ?
+      [ character:  Amo]
+      [ 180 ]  Em que estarás como mudo enquanto estiver falando .
+      [ character:  Criado]
+      [ 181 ]  Como mudo ?
+      [ 182 ]  Não por certo , que ser mudo é arriscado .
+      [ character:  Amo]
+      [ 183 ]  Que risco pode haver nisso !
+      [ character:  Criado]
+      [ 184 ]  Mui grande , que ouvi há um ano dizer que se um mudo ouvira fora o seu desejo tanto de responder , que estourara .
+      [ 185 ]  E eu sou foguete de rabo ?
+      [ character:  Amo]
+      [ 186 ]  Não me botes a perder .
+      [ character:  Criado]
+      [ 187 ]  Nem eu nisso tenho ganho .
+      [ 188 ]  Só farei entre parentes e não serão muito largos .
+      [ character:  Amo]
+      [ 189 ]  Pois visto isso , eu começo .
+      [ character:  Criado]
+      [ 190 ]  Já havia ter acabado .
+      [ 191 ]  Vai o Amo lançando a Loa , e o criado interrompendo-o :
+      [ character:  Amo]
+      [ 192 ]  Pitágoras não ensinava a ninguém da sua escola , sem que primeiro cinco anos o silêncio fosse a prova .
+      [ character:  Criado]
+      [ 193 ]  O mesmo é cá nos frades dos que não têm 'inda coroa , porque se falam em noviços não lhe há de morder a mosca .
+      [ character:  Amo]
+      [ 194 ]  Marulo no livro quarto de certo abade nos conta , que em três anos de silêncio trouxe uma pedra na boca .
+      [ character:  Criado]
+      [ 195 ]  Novo modo de engastar é de pedra doença nova ; que se uma impede as ourinas , outra as palavras lhe estorva .
+      [ character:  Amo]
+      [ 196 ]  O filosófo Dion dezia que uma pessoa se tinha duas orelhas e somente uma boca , era porque a natureza a dispusera assim douta , porque fosse a criatura a ouvir mais que a falar pronta .
+      [ character:  Criado]
+      [ 197 ]  Desse filósofo as orelhas deviam de ser bem longas , pois não viu , que também serve para comermos a boca !
+      [ character:  Amo]
+      [ 198 ]  O mesmo disse Zenon , Demóstenes isto aprova ; e diz que convém ao sábio mais ouvir , que dar parolas .
+      [ character:  Criado]
+      [ 199 ]  Esse primeiro é um simples , o segundo um idiota , ou pode ser não soubesses soletrar carracachola .
+      [ character:  Amo]
+      [ 200 ]  Eurípedes nos declara com bem elegante prosa que o silêncio dos sábios é a mais alta retórica .
+      [ character:  Criado]
+      [ 201 ]  Pois diga-lhe que digo eu que tudo isso é bisborria e que não sabe qual é a mão direita , ou canhota .
+      [ character:  Amo]
+      [ 202 ]  E o insígne Estobeu em outro lugar aponta que o silêncio é tão seguro que nenhum perigo o assombra .
+      [ character:  Criado]
+      [ 203 ]  Esse falou mais verdade e com o rifão se conforma .
+      [ 204 ]  Pela boca morre o peixe por engolir a minhoca .
+      [ character:  Amo]
+      [ 205 ]  Erasmo diz que um mau homem a quem a razão não doma , mais o vencerão calando , do que dando-lhe reposta .
+      [ character:  Criado]
+      [ 206 ]  Por isso são desse autor defesas as mais das obras .
+      [ 207 ]  Mas se um for tão atrevido que contra outro diga afrontas , e se quem cala consente , haverá alguém que sofra só por parecer discreto que lhe enxovalhem a honra ?
+      [ character:  Amo]
+      [ 208 ]  Diz um autor dos modernos uma sentença famosa : que é sábio quem calar sabe por encobrir o que ignora .
+      [ character:  Criado]
+      [ 209 ]  Bem diz esse licenciado e um adágio no-lo mostra , que cuido , se não me engano , que diz assim , ora ouça : o parvo , se é calado , por sábio é reputado .
+      [ 210 ]  E outro provérbio diz , sem ir do proposto fora :
+      [ 211 ]  Fala pouco , e bem ter-te-ão por alguém .
+      [ 212 ]  Do calado ao sorrateiro a diferença é mui pouca .
+      [ 213 ]  O mesmo diz outro adágio , que tanto como isto monta :
+      [ 214 ]  Guar-te de homem que não fala e de cão que não ladra .
+      [ 215 ]  E os nossos antepassados diziam noutro axioma :
+      [ 216 ]  Mais val calar , que mal falar .
+      [ character:  Amo]
+      [ 217 ]  E também diz um político , que era cousa bem notória que nenhum néscio sabia estar calado na boda .
+      [ character:  Criado]
+      [ 218 ]  O mesmo ouvi num ditado que dizia minha sogra :
+      [ 219 ]  O convidado mostra-se amigo , e não letrado .
+      [ 220 ]  Assim também uma noite disse fiando na roca : grande saber é não escutar , e comer .
+      [ 221 ]  E costumava dizer ao Sol cozendo à porta : ovelha que muito berra , bocado perde .
+      [ 222 ]  E todos diziam bem que quem à mesa se encosta há de ser para comer , não para contar histórias ; porque o lugar o requere e a experiência mostra que falar não enche barriga senão só pão , vinho , e sopas .
+      [ character:  Amo]
+      [ 223 ]  Diógenes escreveu do silêncio numa folha , que quem não sabe calar saberá pouco idioma .
+      [ character:  Criado]
+      [ 224 ]  Não lhe respondo porque não sei se diz arredoma , que como não sei latim não entendo essas bazófias .
+      [ character:  Amo]
+      [ 225 ]  Em toda a parte o silêncio é moeda que se toma , e se o bom falar é prata o bom calar tudo doura .
+      [ character:  Criado]
+      [ 226 ]  Bem está : daí comeremos .
+      [ 227 ]  Desse metal encha a bolsa , daí mandará comprar , ao açougue carne gorda .
+      [ character:  Amo]
+      [ 228 ]  A brevidade na prática a este silêncio toca ; de donde a breviloquência era doutrina lacônica .
+      [ character:  Criado]
+      [ 229 ]  Ainda isso lhe faltava falar-nos por geringonça .
+      [ 230 ]  Se no falar não sois breve como o silêncio nos louva ?
+      [ character:  Amo]
+      [ 231 ]  Ainda falas asneirão , e taramela enfadonha .
+      [ character:  Criado]
+      [ 232 ]  Nenhum autor diz aquilo que é seu da sua cachola .
+      [ 233 ]  Enfim já descansará ; já morreu esta leoa .
+      [ 234 ]  Fale agora quem quiser se nossas faltas perdoa .
+      [ character:  Amo]
+      [ 235 ]  Quem nos perdoar as faltas também silêncio me otorga .
+      [ closing: 
+      [ 236 ]  FIM .] 
+      
+      [ play ]
+      [ title: 
+      [ 237 ]  ENTREMEZ DO SANTITRUDO . ]
+      [ 238 ]  FIGURAS
+      [ 239 ]  Gil Folgado .
+      [ 240 ]  Marta Farta .
+      [ 241 ]  Santitrudo .
+      [ 242 ]  Casamenteira .
+      [ 243 ]  Duas testemunhas .
+      [ 244 ]  Sai Gil Folgado , e Marta Farta com a Casamenteira .
+      [ character:  Casamenteira]
+      [ 245 ]  Como sou casamenteira a obrigação de meu cargo pede que este casamento agora fique ajustado .
+      [ 246 ]  Vós , senhora Marta Farta , e vós , senhor Gil Folgado , heis de declarar-me agora se estais já contentes ambos ?
+      [ character:  Gil]
+      [ 247 ]  Eu como gato com bofes .
+      [ character:  Marta]
+      [ 248 ]  Eu como gata , com rato .
+      [ character:  Casamenteira]
+      [ 249 ]  Folgo muito , ainda bem , Deus vos faça bem casados .
+      [ 250 ]  Também é razão digais — para que não haja engano — o que ambos tendes de dote que isto faz muito ao caso .
+      [ character:  Gil]
+      [ 251 ]  Tudo o que tenho de meu há de ser um bom pedaço , fora o que herdei de meu pai nom é pequeno bocado .
+      [ 252 ]  Também há bens de raízes que esses não faltam nos moços .
+      [ 253 ]  Tenho também dous sequeiros de nabos , coves , e rabos .
+      [ 254 ]  Os meus móveis não são poucos .
+      [ 255 ]  Tenho uma banca , e um banco , uma tripeça , uma caixa que tudo está bem usado ; casaca uma , três cilouras , porque as camisas são quatro .
+      [ character:  Casamenteira]
+      [ 256 ]  E que ofício é o vosso ?
+      [ character:  Gil]
+      [ 257 ]  Eu , ofício !
+      [ 258 ]  Mal pecado .
+      [ 259 ]  Vivo de rir , e folgar , por isso sou Gil Folgado .
+      [ character:  Casamenteira]
+      [ 260 ]  Pois que diz senhora Marta , quer assim tomar estado ?
+      [ character:  Marta]
+      [ 261 ]  Bom se quero , e mais que quero , que tendo marido ao lado tenho com que o sustentar sem haver mister ganhá-lo .
+      [ character:  Casamenteira]
+      [ 262 ]  E tem você para tudo ?
+      [ character:  Marta]
+      [ 263 ]  Bem à mão !
+      [ 264 ]  Que é escusado relatar o que possuo .
+      [ 265 ]  Tenho terras , tenho gado , tenho bois ,
+      [ 266 ]  e tenho ovelhas tenho porcos , e chibarros .
+      [ 267 ]  Tenho galinhas , perus .
+      [ 268 ]  Tenho adens , pombos , patos ; pois pumares , e olivais tantos são que enchem os campos .
+      [ character:  Gil]
+      [ 269 ]  Ainda aí falta o melhor .
+      [ character:  Marta]
+      [ 270 ]  O quê ?
+      [ character:  Gil]
+      [ 271 ]  O mais necessário .
+      [ 272 ]  Faltam vinhas que dêm uvas , e que haja bem de cachos de donde se faz , o vinho que sou devoto de Baco .
+      [ character:  Marta]
+      [ 273 ]  Vinhas tenho que por serem sem conto , nelas não falo .
+      [ character:  Casamenteira]
+      [ 274 ]  Por isso eu sempre ouvi que seu pai era morgado , e a riqueza que tinha , era por ser geração dos fartos .
+      [ character:  Gil]
+      [ 275 ]  Senhora Marta , eu nom sou como outros que há do meu pano , que casam por seu proveito , que isso é um termo mui baixo .
+      [ 276 ]  Mas eu não quero outro dote , mais do que ser seu criado .
+      [ character:  Marta]
+      [ 277 ]  Meu Gil , há muito me obriga esse dito que é honrado ; não o há de perder comigo .
+      [ character:  Gil]
+      [ 278 ]  Bem sei o muito que ganho .
+      [ character:  Casamenteira]
+      [ 279 ]  Minha Marta , esse seu homem mui de propósito o acho .
+      [ 280 ]  E assim sou de parecer , que já que estais ajustados , seja o casamento logo antes que lhe ponham embargos .
+      [ 281 ]  Que me diz , senhora Marta ?
+      [ 282 ]  Que diz , senhor Gil Folgado ?
+      [ character:  Gil]
+      [ 283 ]  Que não gastemos mais tempo .
+      [ character:  Marta]
+      [ 284 ]  Que senão dilate o prazo .
+      [ character:  Casamenteira]
+      [ 285 ]  Pois vou logo a toda apressa e as testemunhas trago .
+      [ 286 ]  Vai-se .
+      [ 287 ]  Fica Marta com Gil .
+      [ character:  Gil]
+      [ 288 ]  Está o negócio feito .
+      [ character:  Marta]
+      [ 289 ]  E mais que feito , acabado .
+      [ character:  Gil]
+      [ 290 ]  Agora não falta mais que chegar a consumá-lo .
+      [ character:  Marta]
+      [ 291 ]  E depois de consumi-lo não pode faltar o parto .
+      [ character:  Gil]
+      [ 292 ]  Digo que mate Deus com quem me entende o que falo .
+      [ character:  Marta]
+      [ 293 ]  E eu só quero viver , mas que outrem morra de abafo .
+      [ character:  Gil]
+      [ 294 ]  É gostoso o matrimônio .
+      [ character:  Marta]
+      [ 295 ]  Eu já dele vou gostando .
+      [ character:  Gil]
+      [ 296 ]  Dizei-me ora alguns amores com que me vá afeiçoando .
+      [ character:  Marta]
+      [ 297 ]  Vós mos haveis de dizer que eu sou fêmea , e vós sois macho .
+      [ character:  Gil]
+      [ 298 ]  Bom , se o sou !
+      [ 299 ]  Como coelho .
+      [ character:  Marta]
+      [ 300 ]  Tendes vós bem comparado , deveis de ser caçador pois vejo que sabeis tanto .
+      [ character:  Gil]
+      [ 301 ]  Seu dente de coelho tem , o saber ser bem casado , que é grã cargo o casamento , pois de uma costa do lado de Adão , quando nasceu Eva .
+      [ 302 ]  O homem então carregado ficou com a molher às costas , casando com seus encargos .
+      [ 303 ]  Pega Gil na mão a Marta .
+      [ character:  Marta]
+      [ 304 ]  Meu Gil , isso é doudice , tende mão , não sejais parvo .
+      [ character:  Gil]
+      [ 305 ]  Marta isto são mãos perdidas , que não posso esperar tanto .
+      [ character:  Marta]
+      [ 306 ]  Cá vem a Casamenteira .
+      [ 307 ]  Sai a Casamenteira , e traz duas Testemunhas .
+      [ character:  Casamenteira]
+      [ 308 ]  Aqui estou já que não tardo , e mais serão testemuhas estes senhores honrados .
+      [ character:  1.a Testemunha]
+      [ 309 ]  Seja muito para bem .
+      [ character:  2.a Testemunha]
+      [ 310 ]  E se vejam bem logrados .
+      [ character:  Gil]
+      [ 311 ]  Será para vos servir .
+      [ character:  Marta]
+      [ 312 ]  Estamos a seu mandado .
+      [ character:  Casamenteira]
+      [ 313 ]  Vossas mercês dêm fé de como estão ajustados a senhora Marta Farta com o senhor Gil Folgado .
+      [ 314 ]  Para na face da Igreja depois de corridos banhos ser do Cura recebidos .
+      [ character:  Todos]
+      [ 315 ]  Assim o testemunhamos .
+      [ character:  Gil]
+      [ 316 ]  Vamo-nos , aparelhar .
+      [ 316 ]  ( Vai-se )
+      [ character:  Marta]
+      [ 317 ]  Aparelharmo-nos vamos .
+      [ 317 ]  ( Vai-se . )
+      [ character:  Casamenteira]
+      [ 318 ]  Vou-me a bailar na roda .
+      [ character:  Testemunha]
+      [ 319 ]  Também nós por convidados .
+      [ 320 ]  Sai a Casamenteira , e as duas Testemunhas .
+      [ character:  Casamenteira]
+      [ 321 ]  Sempre tive boa mão de grande Casamenteira ; porque dos meus casamentos ninguém 'té 'gora se queixa .
+      [ 322 ]  Sempre todos os meus noivos se lograram sem moléstia , e nenhum me rogou pragas que do acerto é prova certa .
+      [ 323 ]  Do casamento que fiz de Marta , e Gil quem dissera que havia de nascer um monstro de tal torpeza ?
+      [ 324 ]  Mas assim havia ser que de tais pais , tal se engendra pois da fartura , e da folgança outra cousa senão espera .
+      [ character:  1.a Testemunha]
+      [ 325 ]  Sim que é aquele a que chamam o santitrudo as velhas , carnaval o italiano , carnes tolendas Castela .
+      [ character:  2.a Testemunha]
+      [ 326 ]  Já se chamou santo intróito em outras antigas eras , por ser dia antecedente antes de entrar a quaresma .
+      [ character:  1.a Testemunha]
+      [ 327 ]  É tempo de laranjadas e de jugar às panelas , de molhar com os esguichos das portas , e das janelas .
+      [ character:  2.a Testemunha]
+      [ 328 ]  É galhofa dos rapazes é dos magarefes festa , recreação para as damas , e liberdade às donzelas .
+      [ character:  1.a Testemunha]
+      [ 329 ]  Ferve o pingo , e azeite com ovos nas frigideiras , as filhós , e coscorões , os chouriços , e murcelas .
+      [ character:  Casamenteira]
+      [ 330 ]  Mas aí vem já chegando , dai-lhe lugar , que já entra .
+      [ 331 ]  Sai o santitrudo rídiculo com Gil , e Marta adiante .
+      [ character:  Marta]
+      [ 332 ]  Todo o fiel patife esteja mudo , haja silêncio , que vem meu filho entrudo .
+      [ character:  Gil]
+      [ 333 ]  Afasta , aparta , aparta , que aqui vem Gil Folgado , e Marta Farta .
+      [ character:  Santitrudo]
+      [ 334 ]  Aqui estou , conhecei-me beberrões maganos , e marotos , velhacões .
+      [ 335 ]  Vinde a mim que sou vosso patrão .
+      [ 336 ]  Vinde porque em mim tendes capitão , todos os fanfarrões , e amancebados , todos quantos abrange a maganice , todos quantos abarca a bebedice , e toda a rapazia que há na praça ; todo o que é vil por vício , ou por desgraça , todo o que vive aqui à mariola , todo o jugador da corriola , todo o que passeia em o Rocio , todo o que sem ofício anda vadio : embosteiros , ociosos , de maus tratos , que usais mil trapaças nos contratos , que todos sois da minha confraria .
+      [ 337 ]  Vinde a festejar este meu dia .
+      [ 338 ]  Vinde todos , chegai , e fazei bulha , e cada um vá deitando a sua pulha .
+      [ 339 ]  E logo meu pai Gil seja o primeiro , minha mãe , e os mais , eu derradeiro .
+      [ 340 ]  Começam as pulhas .
+      [ character:  Gil]
+      [ 341 ]  Aqui se quebrou uma panela , em que estava o remédio de uma velha .
+      [ character:  Marta]
+      [ 342 ]  E por que se quebrou ?
+      [ character:  Santitrudo]
+      [ 342 ]  Porque se achou que para ela untar o seu carão tinha sebo , alvaiade , e solimão .
+      [ character:  1.a Testemunha]
+      [ 343 ]  Aqui se quebrou uma frigideira no focinho de uma cozinheira .
+      [ character:  2.a Testemunha]
+      [ 344 ]  E por que se quebrou ?
+      [ character:  Santitrudo]
+      [ 344 ]  Porque se achou que a golosa com mel , manteiga , e ovos filhós nela fazia , e borrinholos .
+      [ character:  Casamenteira]
+      [ 345 ]  Aqui se quebrou uma campainha , porque era o retrato de ũa vizinha .
+      [ character:  Marta]
+      [ 346 ]  E por que se quebrou ?
+      [ character:  Santitrudo]
+      [ 346 ]  Porque se achou , que era grã chocalheira , e por sua língua , Não havia segredo na freguesia .
+      [ character:  2.a Testemunha]
+      [ 347 ]  Aqui se quebrou um espelho de uma viúva que ficou de um velho .
+      [ character:  1.a Testemunha]
+      [ 348 ]  E por que se quebrou ?
+      [ character:  Santitrudo]
+      [ 349 ]  Porque se achou , que com toda a paixão esta viúva nele compunha a cara de aleluia .
+      [ character:  Gil]
+      [ 350 ]  Aqui se quebrou um barril nas barbas , e bigodes do aguazil .
+      [ character:  Marta]
+      [ 351 ]  E por que se quebrou ?
+      [ character:  Santitrudo]
+      [ 351 ]  Porque se achou ser barril a barriga em tal corpinho em que como funil metia o vinho .
+      [ character:  1.a Testemunha]
+      [ 352 ]  Aqui se quebrou uma viola , que por ser de más vozes se quebre embora .
+      [ character:  2.a Testemunha]
+      [ 353 ]  E por que se quebrou ?
+      [ character:  Santitrudo]
+      [ 353 ]  Porque se achou , que era de uma beata que , sendo alcofa , bem mostrou serem falsas terceiras todas .
+      [ character:  Casamenteira]
+      [ 354 ]  Aqui se quebrou um pente por ser um instrumento pouco decente .
+      [ character:  Marta]
+      [ 355 ]  E por que se quebrou ?
+      [ character:  Santitrudo]
+      [ 355 ]  Porque se achou , que era de mau agouro para a cabeça , que não sendo de músico , o faz corneta .
+      [ character:  2.a Testemunha]
+      [ 356 ]  Aqui se quebrou uma pipa à porta de um estudante grão versita .
+      [ character:  1.a Testemunha]
+      [ 357 ]  E por que se quebrou ?
+      [ character:  Santitrudo]
+      [ 357 ]  Porque se achou , que eram mui necessárias as aduelas porque faltava uma a este poeta .
+      [ character:  Gil]
+      [ 358 ]  Aqui se entornará também o caldo , se o autor de um victor ficar baldo .
+      [ character:  Marta]
+      [ 359 ]  E por que ficará ?
+      [ character:  Santitrudo]
+      [ 359 ]  Porque se achará , que este entremez , suposto que se acabe , foi só como vinho que se fez vinagre .
+      [ closing: 
+      [ 360 ]  FIM .] 
+      
+      [ play ]
+      [ title: 
+      [ 361 ]  ENTREMEZ INTITULADO O QUE PERDE O MÊS , NAM PERDE O ANO . ]
+      [ 362 ]  FIGURAS :
+      [ 363 ]  Ratinho .
+      [ 364 ]  Matemático .
+      [ 365 ]  Sua mulher .
+      [ 366 ]  Médico .
+      [ 367 ]  Um juiz .
+      [ 368 ]  Contador .
+      [ 369 ]  Sai o Ratinho , e o Juiz .
+      [ character:  Ratinho]
+      [ 370 ]  Senhor Doutor , eu sou um ignorante .
+      [ character:  Juiz]
+      [ 371 ]  Dizei o mais , e ide por diante .
+      [ character:  Ratinho]
+      [ 372 ]  Pois como digo , sou homem casado .
+      [ character:  Juiz]
+      [ 373 ]  Vamos ao caso , que isso é escusado .
+      [ character:  Ratinho]
+      [ 374 ]  Ainda vossa mercê não tem ouvido .
+      [ character:  Juiz]
+      [ 375 ]  Ora dizei :
+      [ character:  Ratinho]
+      [ 375 ]  E sendo eu marido fui-me daí a pouco para fora .
+      [ 376 ]  Mas que fez a senhora ?
+      [ 377 ]  Como ela era da erva muito amiga fez-me à reveria uma barriga ; e depois de eu ser , vindo já no cabo , veio a parir um filho do diabo .
+      [ character:  Juiz]
+      [ 378 ]  E nisso há mistério .
+      [ character:  Ratinho]
+      [ 379 ]  Acho que me fez nisto adultério .
+      [ character:  Juiz]
+      [ 380 ]  Pois como , adultério no parir ?
+      [ character:  Ratinho]
+      [ 381 ]  Sim senhor , porque eu em ir , e vir gastei mais de um ano .
+      [ 382 ]  E estando em casa já — veja o engano — desde o dia que vim , daí a um mês — veja o que fez — e sem mais dilação logo pariu um fero rapagão .
+      [ 383 ]  Tamanho como um bode nascendo já com barba , e com bigode .
+      [ character:  Juiz]
+      [ 384 ]  Nisso culpa não tem vossa mulher que por parir , não vos pode ofender .
+      [ character:  Ratinho]
+      [ 385 ]  Senhor Doutor , você não está no caso , você há de fazer conta ao prazo do tempo , em que dela me ausentei , e então julgará se pela lei me deve ela a cabeça .
+      [ character:  Juiz]
+      [ 386 ]  Meu amigo a mulher tem grã defesa , porque tendo no ventre a criatura a fortiori dá-se a paridura .
+      [ character:  Ratinho]
+      [ 387 ]  Ainda meu senhor não fere o ponto .
+      [ character:  Juiz]
+      [ 388 ]  Vós deveis de estar tonto .
+      [ 389 ]  Pois que quereis ?
+      [ 390 ]  Que vindes perguntar ?
+      [ character:  Ratinho]
+      [ 391 ]  Que me diga se a posso eu matar pela culpa de me fazer cabrão .
+      [ character:  Juiz]
+      [ 392 ]  Nunca tal crime foi à relação , nem autor há que tal sentença dé .
+      [ character:  Ratinho]
+      [ 393 ]  Pois dessa sorte , nenhuma guarda fé .
+      [ 394 ]  Zombem de seus maridos as casadas já que fazendo o mal , são perdoadas .
+      [ character:  Juiz]
+      [ 395 ]  Aconselho-vos bem , e como amigo .
+      [ character:  Ratinho]
+      [ 396 ]  Outra cousa senhor agora digo que não morra a mulher , morra o rapaz pois ele a prova faz de que minha mulher me é traidora .
+      [ character:  Juiz]
+      [ 397 ]  Isso mor crueldade ainda fora .
+      [ character:  Ratinho]
+      [ 398 ]  Dê-me a razão , senhor , porque assim sente .
+      [ character:  Juiz]
+      [ 399 ]  Não vedes que matar a um inocente é seres outro Herodes ?
+      [ character:  Ratinho]
+      [ 400 ]  Já lhe disse senhor , que traz bigodes este filho do demo , e depois de criado , o que mais temo , é que sendo seu pai outro sojeito , a mim que o não sou , perca o respeito .
+      [ 401 ]  Veja agora se acha algum conselho , em algum dos doutores , o mais velho .
+      [ character:  Juiz]
+      [ 402 ]  Meu amigo , este caso é muito raro , porque nem Baldo , Phebus , Jucio Claro Pichardo , nem Valasco o trazem .
+      [ character:  Ratinho]
+      [ 402 ]  É mui bom , senhor , o casco .
+      [ 403 ]  Pois nesses só se encerra ?
+      [ 404 ]  Veja Pegas que é dos modernos , e não ande às cegas , Senhor Doutor , que é cousa mui precisa que estude o que é membro de justiça ; porque não fique algum ( como eu que o digo ) afrontado ; e a mulher só sem castigo .
+      [ 405 ]  Levanta-se o Juiz , e diz :
+      [ character:  Juiz]
+      [ 406 ]  Isto , amigo , tem mais que cuidar , e me parece o devo consultar com diversos talentos .
+      [ 407 ]  Vai-se .
+      [ character:  Ratinho]
+      [ 408 ]  E como ele outros tais entendimentos .
+      [ 409 ]  À parte , vai-se .
+      [ 410 ]  Sai a Mulher , e o Ratinho .
+      [ character:  Mulher]
+      [ 411 ]  Vindes marido , já desenganado da sospeita que haveis imaginado .
+      [ 412 ]  Contra a minha lealdade , e a minha honra ?
+      [ character:  Ratinho]
+      [ 413 ]  Ainda em pé está , mulher , minha desonra .
+      [ character:  Mulher]
+      [ 414 ]  Se está em pé , marido , assentai-a .
+      [ character:  Ratinho]
+      [ 415 ]  Tomara , eu que falara a vossa saia .
+      [ 416 ]  E o que cá fizestes , guarda pé , que eles testemunharão a vossa fé .
+      [ character:  Mulher]
+      [ 417 ]  Está galante a chança .
+      [ character:  Ratinho]
+      [ 418 ]  Daí nasceu a minha desconfiança junto com o que se viu no que em tão pouco tempo se pariu .
+      [ character:  Mulher]
+      [ 419 ]  Que chamais pouco tempo ?
+      [ 420 ]  Estais mui tonto .
+      [ character:  Ratinho]
+      [ 421 ]  Pois se vós o contais , também eu o conto .
+      [ character:  Mulher]
+      [ 422 ]  Nunca vistes parir setemesinho ?
+      [ 423 ]  Pois esse foi meu filho .
+      [ character:  Ratinho]
+      [ 423 ]  Coitadinho .
+      [ 424 ]  Ele já vem crescido , em boa idade , que tem mais de um ano , isto é verdade .
+      [ character:  Mulher]
+      [ 425 ]  Marido , deveis hoje de estar louco .
+      [ character:  Ratinho]
+      [ 426 ]  Ora ide vós comigo , pouco a pouco .
+      [ 427 ]  Dizei : quando me fui eu desta terra ?
+      [ 428 ]  Há já um ano ?
+      [ character:  Mulher]
+      [ 428 ]  Sim há .
+      [ character:  Ratinho]
+      [ 428 ]  Logo não erra quem fizer como eu agora a conta ; e tudo vem a dar na minha afronta .
+      [ character:  Mulher]
+      [ 429 ]  Ainda nisso estais ?
+      [ character:  Ratinho]
+      [ 430 ]  E que vós pague as páreas me obrigais ; que esta paga é pior , que para a cabra ; mas Deus não queira que este caminho se abra para que outras também desaforadas sigam vossas passadas .
+      [ character:  Mulher]
+      [ 431 ]  Vós tanto haveis de andar que haveis de endoudecer .
+      [ character:  Ratinho]
+      [ 431 ]  Mas não cansar .
+      [ character:  Mulher]
+      [ 432 ]  Vê-lo-eis desta vez .
+      [ character:  Ratinho]
+      [ 433 ]  Já o vi , que foi parto só de um mês .
+      [ character:  Mulher]
+      [ 434 ]  Pois como dizeis vós que foi de um ano .
+      [ character:  Ratinho]
+      [ 435 ]  Ah velhaca !
+      [ 436 ]  Aí vai o teu engano , que se digo que o parto é temporão .
+      [ 437 ]  Não me achas razão , e só para meu mal queres que o parto seja natural .
+      [ 438 ]  Mas andai , que não tendes consciência .
+      [ character:  Mulher]
+      [ 439 ]  Dizei homem : se nesta vossa ausência eu pejada fiquei da vossa sombra , que tendes que dizer ?
+      [ character:  Ratinho]
+      [ 439 ]  Isso me assombra .
+      [ character:  Mulher]
+      [ 440 ]  É razão clara , que por si se declara .
+      [ character:  Ratinho]
+      [ 441 ]  Cuidava eu que era escura que nem por sombra gerásseis criatura .
+      [ character:  Mulher]
+      [ 442 ]  Em vós imaginava muitas noites e por isso gerei .
+      [ character:  Ratinho]
+      [ 442 ]  Muitos açoites merecieis vos dessem com vergões .
+      [ 443 ]  Não se faz filhos por imaginações ; mas como filha sois de feiticeira o fareis assim dessa maneira que algum demônio dos que chamam incubos para vós conceberes trouxe os adubos .
+      [ character:  Mulher]
+      [ 444 ]  Em tudo o que dizeis , não dizeis nada .
+      [ character:  Ratinho]
+      [ 445 ]  Sois panela de muitos temp erada e querei-la cobrir com outro testo .
+      [ 446 ]  O mal é que já tudo é manifesto , e eu hei de prová-lo em juízo .
+      [ character:  Mulher]
+      [ 447 ]  Também eu , que fui casta .
+      [ character:  Ratinho]
+      [ 447 ]  E eu castiço .
+      [ character:  Mulher]
+      [ 448 ]  Pois quereis vós que vamos ao juiz ?
+      [ character:  Ratinho]
+      [ 449 ]  Vamos , e saberemos o que diz .
+      [ 450 ]  Vão-se .
+      [ 451 ]  Sai o Juiz com vara , senta-se em uma cadeira , e diz o seguinte :
+      [ character:  Juiz]
+      [ 452 ]  Hoje venho a julgar um caso que tem muito em que lidar .
+      [ 453 ]  É de uma parida que o não vi mais prenhe em minha vida , porém hoje o hei de decidir , e senão , não virá nunca a parir .
+      [ 454 ]  Olá quem está aí no corredor ?
+      [ 454 ]  Sai o Ratinho .
+      [ character:  Ratinho]
+      [ 455 ]  Estou eu , senhor Doutor .
+      [ 455 ]  Entra .
+      [ character:  Juiz]
+      [ 456 ]  E está mais alguém ?
+      [ character:  Mulher]
+      [ 457 ]  Sim , senhor , eu também .
+      [ 457 ]  Entra .
+      [ character:  Juiz]
+      [ 458 ]  E vós , mulher , que causa aqui vos traz ?
+      [ character:  Mulher]
+      [ 459 ]  Este homem , meu senhor , é quem me faz andar agora pelos auditórios .
+      [ character:  Ratinho]
+      [ 460 ]  É porque vossos crimes são notórios , que com aleivosia emprenhais , e paris à revelia .
+      [ character:  Juiz]
+      [ 461 ]  Logo esta agora é vossa mulher ?
+      [ character:  Ratinho]
+      [ 462 ]  Nunca ela o fora , por eu tal não ver .
+      [ character:  Mulher]
+      [ 463 ]  Senhor Juiz , este homem anda atentado .
+      [ character:  Juiz]
+      [ 464 ]  Logo há mister ser esconjurado ?
+      [ character:  Mulher]
+      [ 465 ]  Sim , senhor , que o engana o demônio .
+      [ character:  Ratinho]
+      [ 466 ]  Não desonrásseis vós o matrimônio fazendo cousa que não tem desculpa ?
+      [ 467 ]  E então pondes ao demo a culpa .
+      [ character:  Mulher]
+      [ 468 ]  Peço-lhe agora meu senhor Doutor faça justiça sobre este traidor .
+      [ character:  Juiz]
+      [ 469 ]  Sabei que eu da justiça , não me aparto , e que hoje por amor do vosso parto hei de aos homens de letras consultar , para junto com eles sentenciar esta intrincada causa , e façamos agora aqui pausa .
+      [ 470 ]  Chamam de dentro .
+      [ character:  Médico]
+      [ 471 ]  Só desembargador .
+      [ character:  Juiz]
+      [ 472 ]  Você bem pode entrar , senhor Doutor .
+      [ 472 ]  Entra .
+      [ character:  Matemático]
+      [ 473 ]  Poderei lá entrar ?
+      [ character:  Juiz]
+      [ 474 ]  Matemático sempre tem lugar .
+      [ 474 ]  Entra .
+      [ character:  Contador]
+      [ 475 ]  Entrarei , meu senhor ?
+      [ character:  Juiz]
+      [ 476 ]  A casa é de você , só Contador .
+      [ 476 ]  Entra .
+      [ 477 ]  Sentam-se todos , e diz a Mulher .
+      [ character:  Mulher]
+      [ 478 ]  Inda que mal pergunte , estes senhores são todos os doutores a quem vossa mercê mandou chamar ?
+      [ character:  Juiz]
+      [ 479 ]  Estes são que vos hão de sentenciar .
+      [ character:  Mulher]
+      [ 480 ]  Pois meus senhores , quero-lhe dizer , que de tudo que aqui se resolver mande o senhor Juiz , se me dê vista .
+      [ character:  Ratinho]
+      [ 481 ]  E como sois prevista !
+      [ character:  Juiz]
+      [ 482 ]  Mulher , de tudo vista vos darei .
+      [ 483 ]  Estai de parte , que eu vos chamarei .
+      [ 484 ]  Retira-se o Ratinho e Mulher para dentro .
+      [ 485 ]  Faz o Juiz proposta .
+      [ character:  Juiz]
+      [ 486 ]  Senhores , sabereis , que são os casos muito mais que as leis , e por quanto me acho embaraçado em um caso assaz bem intrincado que em todo o direito saída lhe não acho , nem tem jeito .
+      [ 487 ]  O quero aqui propor , e todo vem a ser deste teor .
+      [ 488 ]  Era um homem casado , e tendo só um mês de desposado , foi para a terra , e um ano lá tardou , até que para casa se tornou e só um mês que nela assistiu logo a mulher pariu .
+      [ 489 ]  Disto tem más suspeitas o marido por achar que na honra é ofendido , e tem contra a mulher articulado , que lhe fez adultério , e o tem provado .
+      [ 490 ]  Da parte da mulher há resistências , e nestas contingências , visto esta matéria ser tão grave fiz com que se juntasse este conclave .
+      [ 491 ]  Entre tão científicos doutores das mais nobres ciências professores , matemático , contador , e medicina , e cada um conforme sua doutrina no caso votará , e o senhor doutor principiará .
+      [ 492 ]  Vão votando .
+      [ character:  Médico]
+      [ 493 ]  Neste caso Galeno , e Avicena a mulher por adúltera condena .
+      [ character:  Juiz]
+      [ 494 ]  O senhor Matemático prossiga .
+      [ character:  Matemático]
+      [ 495 ]  Digo pois que me obriga que se passou do tempo mais um quarto , é certo ser adulterino o parto .
+      [ character:  Juiz]
+      [ 496 ]  O senhor Contador se segue agora .
+      [ character:  Contador]
+      [ 497 ]  Neste caso tirando os nove fora tudo o que vai de mais é conta errada e assim a mulher é condenada .
+      [ character:  Juiz]
+      [ 498 ]  Vistas essas razões , temos concluso o negócio que estava tão confuso , e demos vista à parte , para que da justiça bem se farte , porque é do que mais comem os escrivães , quando o processo está com dilações .
+      [ character:  Médico]
+      [ 499 ]  Senhor Doutor , não há já mais detença , dê-se vista às partes da sentença .
+      [ character:  Matemático]
+      [ 500 ]  É de razão , que se lhe deve dar , se tem alguma cousa que alegar .
+      [ character:  Contador]
+      [ 501 ]  E se for justa se deve admitir , que as partes sempre se devem ouvir .
+      [ character:  Juiz]
+      [ 502 ]  Parece-me isso tudo mui acertado .
+      [ 503 ]  Ouvis , homem honrado ?
+      [ character:  Ratinho]
+      [ 504 ]  Senhor , fala comigo ?
+      [ 504 ]  Sai .
+      [ 505 ]  Se eu honrado fico é meu amigo .
+      [ 505 ]  À parte .
+      [ character:  Juiz]
+      [ 506 ]  E também falo com vossa mulher .
+      [ character:  Ratinho]
+      [ 507 ]  Se for também honrada o quero ver .
+      [ character:  Molher]
+      [ 508 ]  Senhores aqui estou , tenho eu justiça ?
+      [ 508 ]  Sai .
+      [ character:  Juiz]
+      [ 509 ]  Diligência fareis contra a perguiça .
+      [ character:  Ratinho]
+      [ 510 ]  Fará , porque ela em tudo é preguiçosa .
+      [ 511 ]  Concebe à pressa , mas pare vagarosa .
+      [ character:  Mulher]
+      [ 512 ]  Tende pejo em dizer tal pachochada .
+      [ character:  Ratinho]
+      [ 513 ]  E tiveste-o vós , quando pejada ?
+      [ character:  Juiz]
+      [ 514 ]  Ora , mulher , está por nós julgado que tendes ao marido afrontado , porque partistes já depois de um ano , e em menos de um mês , se mostra , engano , que a mulher , se há peso , e medida no fim de nove meses vem parida .
+      [ 515 ]  E constou pela conta que o filho que paristes é de afronta , e é esta sentença das mais justas .
+      [ character:  Ratinho]
+      [ 516 ]  Mande também , senhor , que pague as custas .
+      [ character:  Mulher]
+      [ 517 ]  Isso são contos largos a que tenho legítimos embargos .
+      [ 518 ]  Da sentença senhor , peço revista para que outra justiça hoje me assista .
+      [ character:  Juiz]
+      [ 519 ]  Sou contente , mas há de ser cantado , tudo o que cada um tiver votado .
+      [ 520 ]  Baile .
+      [ character:  Médico]
+      [ 521 ]  Pela Medicina entendo , que os nove meses passados nunca o parto é natural , mas traz consigo a presunção de falso .
+      [ 521 ]  Baile , e cante .
+      [ character:  Mulher]
+      [ 522 ]  Pois eu , senhor doutor , agora digo , que sois um asno se nunca ouvistes dizer que o que perde o mês não perde o ano .
+      [ 522 ]  Baile e cante .
+      [ character:  Matemático]
+      [ 523 ]  Por matemática sei , que na casa sendo entrados áries , e capricórnio influirão adultério neste parto .
+      [ 523 ]  Baile e cante .
+      [ character:  Mulher]
+      [ 524 ]  Pois matemático eu agora digo que sois um asno se nunca ouvistes dizer , que o que perde o mês não perde o ano .
+      [ 524 ]  Baile e cante .
+      [ character:  Contador]
+      [ 525 ]  Pela aritmética vejo , que todo o tempo somado , pode o parto diminuí-lo , mas se o multiplicar , será velhaco .
+      [ 525 ]  Baile e cante .
+      [ character:  Mulher]
+      [ 526 ]  Pois eu meu contador agora digo , que sois um asno , se nunca ouvistes dizer , que o que perde o mês não perde o ano .
+      [ 526 ]  Baile e cante .
+      [ character:  Juiz]
+      [ 527 ]  Eu pelo direito julgo , que conforme as leis de Tauro , o parto de que se trata , por criminoso se acha condenado .
+      [ 527 ]  Baile e cante .
+      [ character:  Mulher]
+      [ 528 ]  Pois eu senhor juiz agora digo , que sois mais que asno , se nunca ouvistes dizer , que o que perde o mês , não perde o ano .
+      [ 529 ]  Estribilho .
+      [ character:  Todos]
+      [ 530 ]  E com este desengano pede o autor perdão de ser tão largo .
+      [ closing: 
+      [ 531 ]  FIM .] 
+      
+      [ play ]
+      [ title: 
+      [ 532 ]  ENTREMEZ INTITULADO DA VOSSA FARINHA , QUE nanja da minha ]
+      [ comment: 
+      [ 533 ]  Para se representar nos dias de Entrudo .]
+      [ 534 ]  FIGURAS
+      [ 535 ]  Pascoal , moleiro .
+      [ 536 ]  Sua Mulher .
+      [ 537 ]  Uma Comadre .
+      [ 538 ]  Um Cura .
+      [ 539 ]  Sai o moleiro Pascoal , e o Cura .
+      [ character:  Cura]
+      [ 540 ]  Pascoal Jorge sabei , que Deus não manda que trateis mal a vossa mulher ; porque anda assaz triste , chorosa , e mui sentida de que vós lhe dais sempre , mui má vida .
+      [ character:  Pascoal]
+      [ 541 ]  Faltei-lhe eu algum dia com o pão ?
+      [ character:  Cura]
+      [ 542 ]  Não compadre , mas dais-lho por reção e o que é bem casado , se é homem não mata sua molher assim de fome .
+      [ character:  Pascoal]
+      [ 543 ]  Basta que isso me diz , meu Padre Cura ?
+      [ 544 ]  Ora veja se pode por ventura desmanchar outra vez o matrimônio porque a molher que tenho , é um demônio .
+      [ 545 ]  É simulada , sonsa , e mui gulosa mil acintes me faz , e é a queixosa .
+      [ 546 ]  Se lhe digo o que é bem , diz que sou mau !
+      [ 547 ]  Mas eu nas costas lhe porei um pão , que não será de prancha , mas de gume para que lhe não vá fazer queixume .
+      [ character:  Cura]
+      [ 548 ]  Haveis de fazer tal ?
+      [ 549 ]  Vós estais loco .
+      [ 550 ]  E mais sendo caso de tão pouco ?
+      [ 551 ]  Não queirais que vos chamem vilão ruim , que ainda estais no princípio .
+      [ character:  Pascoal]
+      [ 551 ]  Fora ele o fim .
+      [ 552 ]  E vira-me eu viúvo , e livre dela que eu lhe dera compadre , uma vitela melhor do que a oferta que lhe dei quando com tal figura me casei .
+      [ 553 ]  Ora veja se pode , Padre Cura desatar esta minha atadura , que se me vejo livre da mulher verá quanto lho sei agradecer .
+      [ character:  Cura]
+      [ 554 ]  Já agora meu compadre , até a morte a haveis de sofrer .
+      [ character:  Pascoal]
+      [ 554 ]  É caso forte !
+      [ 555 ]  Tomara eu perguntar a um bacharel se se pode casar de aluguel .
+      [ 556 ]  Nem mais , nem menos como as casas são que se dão por Natal , e São João .
+      [ character:  Cura]
+      [ 557 ]  Para quê ?
+      [ character:  Pascoal]
+      [ 557 ]  Porque todo que casar aos seis meses pudesse despejar a sua casa , e botar fora a mulher , e tomar outra que lhe parecer .
+      [ character:  Cura]
+      [ 558 ]  Isso entre infiéis pode ser feito , que entre cristãos , é contra um preceito .
+      [ character:  Pascoal]
+      [ 559 ]  Esta mulher me pôs sal na moleira .
+      [ character:  Cura]
+      [ 560 ]  Como ela vós não põem outra manqueira haveis de a sofrer por ser honrada .
+      [ character:  Pascoal]
+      [ 561 ]  E a minha fazenda desperdiçada .
+      [ character:  Será bom ?]
+      [ 562 ]  E não haja outro meio por que a mulher não coma do alheio .
+      [ character:  Cura]
+      [ 563 ]  Ela come do alheio , e não do seu ?
+      [ character:  Pascoal]
+      [ 564 ]  Sim , do alheio come , e mais do meu , porque ela me furta os mais dos dias parte dos sacos , e parte das maquias .
+      [ character:  Cura]
+      [ 565 ]  E para que faz ela essas porções ?
+      [ character:  Pascoal]
+      [ 566 ]  Ela lá as amanha em coscorões , ou naquelas que chamam mal assadas .
+      [ 567 ]  São boas , Padre Cura , estas alhadas ?
+      [ 568 ]  Eu tornar a casar ?
+      [ 569 ]  Case algum Mouro , nem que outra mulher vomitara ouro .
+      [ 570 ]  Mas homem não adivinha , que não havia fiar dela a farinha .
+      [ 571 ]  Se eu soubera que ela era tão gulosa tão ladra , e aleivosa .
+      [ character:  Cura]
+      [ 572 ]  Não queirais levantar-lhe testemunho .
+      [ character:  Pascoal]
+      [ 573 ]  Quantas vezes lhe vi eu cheio o punho de farinha , e metia-a na algibeira .
+      [ 574 ]  E nisto é tão ligeira , que fica , se a apanho , mui sisuda e nunca a cor do rosto se lhe muda .
+      [ character:  Cura]
+      [ 575 ]  Não digais nem por toque , nem remoque mal de vossa mulher .
+      [ character:  Pascoal]
+      [ 575 ]  Guarde o botoque meu Padre Cura , se lhe ela for a casa , porque temo que algum feito lhe faça .
+      [ character:  Cura]
+      [ 576 ]  Eu com essa me vou . Adeus amigo .
+      [ 576 ]  Vai-se .
+      [ character:  Pascoal]
+      [ 577 ]  Não faça pouco caso do que digo .
+      [ 578 ]  Sai a mulher com a Comadre .
+      [ character:  Mulher]
+      [ 579 ]  Minha Comadre basta que me foge sabendo muito bem que dia é hoje , porque é das Comadres quinta-feira .
+      [ character:  Comadre]
+      [ 580 ]  Quer logo que eu lhe empreste a frigideira para fazer filhós , e coscorões ?
+      [ 581 ]  Eu lhe trarei .
+      [ 582 ]  E mel com uns torrões , que hei de inda ter de açúcar bem guardados , que são para estas cousas regalados .
+      [ character:  Mulher]
+      [ 583 ]  Pois Comadre , eu essa tenção tinha , se isto traz , eu porei cá a farinha .
+      [ 584 ]  E vou-me logo a fazer a massa antes que meu marido venha a casa .
+      [ character:  Comadre]
+      [ 585 ]  E se ele vier , e nos achar ?
+      [ character:  Mulher]
+      [ 586 ]  A tudo , bom remédio se há de dar .
+      [ character:  Comadre]
+      [ 587 ]  Mas esperai , lembrou-me de caminho que só nos falta uma vez de vinho .
+      [ character:  Mulher]
+      [ 588 ]  E donde se achará que seja pura ?
+      [ character:  Comadre]
+      [ 589 ]  Boa goteira tem o Padre Cura !
+      [ character:  Mulher]
+      [ 590 ]  Não quero mais saber , que do que vires , vos heis hoje benzer .
+      [ 590 ]  Vão-se .
+      [ 591 ]  Sai Pascoal com a Mulher .
+      [ character:  Pascoal]
+      [ 592 ]  Mulher , quero jantar , fecha o moinho .
+      [ character:  Mulher]
+      [ 593 ]  Mas vós não tendes ainda em casa o vinho , e me atrevo ir buscá-lo a casa do Cura se me favorecer minha ventura .
+      [ character:  Pascoal]
+      [ 594 ]  A bom tempo me dais vós essa novas e tirá-lo-eis vós de boa cova , porque ele lá o tem tão abafado , que ninguém lhe há de dar nele olhado .
+      [ character:  Mulher]
+      [ 595 ]  Quereis vós apostar , que da adega lho hei de ir tirar ?
+      [ character:  Pascoal]
+      [ 596 ]  Nem vós não ganhareis com essa cacha .
+      [ character:  Mulher]
+      [ 597 ]  Vós vereis como logo encho a borracha do que o Cura tem , que é excelente , sem o ele saber , secretamente .
+      [ character:  Pascoal]
+      [ 598 ]  Pois isso como ?
+      [ 599 ]  Ou de que maneira ?
+      [ character:  Mulher]
+      [ 600 ]  Ireis para me dar , eu de carreira hei de fugir , eis ele à porta chega .
+      [ 601 ]  Mete-me em casa , eu meto-me na adega .
+      [ 602 ]  Encho a borracha , escondo-a na saia .
+      [ 603 ]  Ele então me diz : Comadre saia , vá para casa que tudo está em paz , e dentro da borracha o vinho jaz .
+      [ character:  Pascoal]
+      [ 604 ]  Está feita a visita .
+      [ 605 ]  Sois mui destra , eu mestre sou , vós ainda sois mais mestra .
+      [ character:  Mulher]
+      [ 606 ]  Ora , começai vós que eu gritarei .
+      [ character:  Pascoal]
+      [ 607 ]  Velhaca , hei de te dar .
+      [ 608 ]  Corre atrás dele .
+      [ character:  Mulher]
+      [ 609 ]  Aqui d'el-Rei !
+      [ 610 ]  Acode o Cura à porta , e mete-a dentro .
+      [ character:  Cura]
+      [ 611 ]  Compadre , tende mão .
+      [ character:  Mulher]
+      [ 612 ]  Ai que me mata !
+      [ 613 ]  Meu Padre , confissão .
+      [ 614 ]  Entra .
+      [ character:  Pascoal]
+      [ 615 ]  Se não fora , compadre , o seu respeito havia hoje fazer aqui um feito , que havia ser soado .
+      [ character:  Cura]
+      [ 616 ]  Ora deixai de estar apaixonado .
+      [ character:  Pascoal]
+      [ 617 ]  Se vindo eu tão cansado do caminho me não tinha em casa ainda o vinho .
+      [ character:  Cura]
+      [ 618 ]  Pois meu compadre , o meu já se acabou .
+      [ character:  Pascoal]
+      [ 619 ]  Paciência , que Deus nunca faltou .
+      [ character:  Cura]
+      [ 620 ]  Comadre venha , e vá-se para casa que a meu compadre logo a ira passa , e o meu patrocínio seja muro .
+      [ 621 ]  Sai a mulher .
+      [ character:  Pascoal]
+      [ 622 ]  Ela comsigo traz mui bom seguro .
+      [ 623 ]  Recolhem-se todos .
+      [ 624 ]  Sai a Comadre , e a Mulher .
+      [ character:  Mulher]
+      [ 625 ]  Foi a peça do vinho bem pegada .
+      [ character:  Comadre]
+      [ 626 ]  Não pode ser melhor , sendo estudada .
+      [ 627 ]  Dele vosso marido se bebeu ; nós também , porque a todos abrangeu .
+      [ character:  Mulher]
+      [ 628 ]  Hoje também faremos outra festa , porque o que sabe bem é o que presta .
+      [ character:  Comadre]
+      [ 629 ]  Muito bem me souberam as filhós , que para as fazer bem , nascestes vós .
+      [ character:  Mulher]
+      [ 630 ]  Também vós no fazer dos coscorões podeis a muitas dar muitas lições .
+      [ character:  Comadre]
+      [ 631 ]  E que merenda tendes preparada ?
+      [ character:  Mulher]
+      [ 632 ]  Tenho agora uma grande tigelada de papas de farinha , ovos , e mel que podem carregar um azemel .
+      [ 633 ]  Tudo paga a farinha do moinho , e a pipa do cura de bom vinho , com que ambas nós faremos umas cabras e comeremos sem se ouvir palavras .
+      [ 634 ]  Vão para dentro , e trazem uma tigela grande de papas com duas colheres .
+      [ 635 ]  Sentam-se no chão com seus guardanapos , e vem espreitá-las Pascoal ao pano , e diz :
+      [ character:  Pascoal]
+      [ 636 ]  Oh , coitado moleiro , o que viestes ver por derradeiro , que desta vez lá vai toda a farinha ?
+      [ 637 ]  Pois que tendo mulher , que é tão daninha lhe não pusestes um arrocho às costas , e ela , e a Comadre estão postas com uma grande de papas tigelada metendo ambas a sua colherada ?
+      [ character:  Comadre]
+      [ 638 ]  Ai , Comadre , que vem vosso marido .
+      [ character:  Mulher]
+      [ 639 ]  Eu farei com que entre no partido .
+      [ 640 ]  Sai Pascoal .
+      [ character:  Pascoal]
+      [ 641 ]  Mulher , tu não te queres emendar .
+      [ 642 ]  Essa farinha custou pouco a ganhar ?
+      [ 643 ]  Quando não hás de ser golosa , quando ?
+      [ character:  Mulher]
+      [ 644 ]  Por vós estamos esperando porque como vós hoje fazeis anos por isso os festejamos .
+      [ character:  Pascoal]
+      [ 645 ]  Tais enganos só se podem achar nesta mulher .
+      [ 646 ]  Sai o Cura .
+      [ character:  Cura]
+      [ 647 ]  Eu vos hei de fazer , ladras , prender , que me tendes roubado todo o vinho .
+      [ character:  Comadre]
+      [ 648 ]  Eu não , senhor vizinho .
+      [ character:  Mulher]
+      [ 649 ]  Pois eu menos .
+      [ 650 ]  Ora olhe com que vem .
+      [ character:  Pascoal]
+      [ 651 ]  Não lho tinha eu dito ?
+      [ 652 ]  Inda bem .
+      [ character:  Cura]
+      [ 653 ]  Que fosse uma mulher dentro a casa e me furtasse o vinho com tal traça .
+      [ 654 ]  Não pode haver maior atrevimento .
+      [ character:  Mulher]
+      [ 655 ]  Não tome agora disso sentimento .
+      [ 656 ]  Sente-se para aqui com meu marido porque hoje faz um ano bem comprido que comigo é casado , e quero festejar o seu noivado .
+      [ 657 ]  Sentam-se todos , e a mulher põe um babadouro ao pescoço do marido , e vai com uma colher metendo-lhe as papas na boca .
+      [ 658 ]  E o mesmo fará a Comadre ao Cura .
+      [ character:  Mulher]
+      [ 659 ]  Abri a boca , tomai esta colher .
+      [ character:  Pascoal]
+      [ 660 ]  No que me dais , não me mateis , mulher .
+      [ character:  Comadre]
+      [ 661 ]  Tome , coma a seu gosto , senhor Padre .
+      [ character:  Cura]
+      [ 662 ]  Tomarei , ainda que pouco me quadre .
+      [ character:  Mulher]
+      [ 663 ]  Tomai est' outra , que não quebra o dente .
+      [ character:  Pascoal]
+      [ 664 ]  Deixai mais esfriar , que está mui quente .
+      [ character:  Comadre]
+      [ 665 ]  Esta vai , que parece de coscol .
+      [ character:  Cura]
+      [ 666 ]  Parece esteve ao lume , mais que ao sol .
+      [ character:  Pascoal]
+      [ 667 ]  E vós mulher , também não comeis nada ?
+      [ 668 ]  Eu hei de vos dar outra colherada .
+      [ character:  Cura]
+      [ 669 ]  Também provai agora minha amiga desta colher , metendo-a na barriga .
+      [ 670 ]  Metem-lhe ambos a um tempo as colheres na boca das duas mulheres , e dizem , levantando-se todos borrados .
+      [ character:  Comadre]
+      [ 671 ]  Ai Padre Cura que toda me queimou !
+      [ character:  Mulher]
+      [ 672 ]  Ai , ai , que toda a lengua me assou .
+      [ 672 ]  Cantam .
+      [ character:  Comadre]
+      [ 673 ]  Toda a Comadre sempre entra na dança dando o mel para a papa da criança .
+      [ character:  Cura]
+      [ 674 ]  O Cura que faz mal sua obrigação , bem lhe podem chamar papa de pão .
+      [ character:  Mulher]
+      [ 675 ]  Eu até ao marido dei papinha mas da sua farinha , e não da minha .
+      [ character:  Pascoal]
+      [ 676 ]  Muitas fazem o que esta mulher fez e com isto se acaba este entremez .
+      [ closing: 
+      [ 677 ]  FIM .] 
+      
+      [ play ]
+      [ title: 
+      [ 678 ]  ENTREMEZ DAS REGATEIRAS . ]
+      [ 679 ]  FIGURAS :
+      [ 680 ]  Maria André .
+      [ 681 ]  Alberto Paes .
+      [ 682 ]  Clara Vicente .
+      [ 683 ]  Sai Maria André .
+      [ character:  Maria André]
+      [ 684 ]  O Senhor dos senhores , vá comigo , e me livre das horas do inimigo ; a Rainha dos Anjos poderosa uma venda me dê muito fermosa .
+      [ 685 ]  Porque é certo que há já muitos dias trago em venda umas melancias , sem haver quem por elas me dê nada ; já a venda da Ribeira está acabada .
+      [ 686 ]  A fruta já lá vai , com isto aturdo , que por certo que é um ganho surdo , enfim nunca Deos falte aos animais quanto mais aos que são racionais .
+      [ 687 ]  Coitadinha de mim se Deos não fora : a castanha , se chega , venha embora com o seu ganho a gente se requebra que é fazenda segura sem ter quebra porque quando a vendeis como avelã tanto vale a podre , como a sã .
+      [ 688 ] 
+      [ 689 ]  Sai Clara Vicente .
+      [ character:  Clara Vicente]
+      [ 690 ]  Senhora Maria André muito madrugou por certo .
+      [ 691 ]  Parecem cuidados novos se já lhe enfadam os velhos .
+      [ 692 ] 
+      [ character:  Maria André]
+      [ 693 ]  Senhora Clara Vicente bom será que nos calemos , não queira que ponha em praça , o que põem da porta adentro .
+      [ character:  Clara Vicente]
+      [ 694 ]  Ai como está engraçada !
+      [ 695 ]  Remoques a mim ?
+      [ 696 ]  Por certo que antes de bolir c'os beiços , suas palavras entendo .
+      [ character:  Maria André]
+      [ 697 ]  Se me entende , tape a boca lembre-se do que tem feito ; mas por estas mal rezadas , que me não vingarão netos .
+      [ 698 ]  Cuida , porque dissimulo , que da vingança me esqueço ?
+      [ 699 ]  Quando menos o cuidar se há de ver muito somenos .
+      [ character:  Clara Vicente]
+      [ 700 ]  Todos sejam testemunhas , porque hão de ir ao juramento , se algum cão me mija à porta que a senhora é instrumento .
+      [ character:  Maria André]
+      [ 701 ]  Diga , infame desleal , acha que é de amiga efeito ir comer a minha casa e roubar-me o companheiro ?
+      [ 702 ] 
+      [ character:  Clara Vicente]
+      [ 703 ]  Ai , mana , sabe o que é isso ?
+      [ 704 ]  São gracinhas do Terreiro , olhai com que sai agora no cabo de tanto tempo .
+      [ 705 ]  Se o levei , fiz muito bem .
+      [ 706 ]  Que agravo lhe tenho feito ?
+      [ 707 ]  Ele não é seu marido , graças a Deos que é liberto .
+      [ character:  Maria André]
+      [ 708 ]  Se o não é , queria-o ser , que bem obrigado o tenho gastando com ele quanto Deos me dá de meu granjeo .
+      [ 709 ]  Duas vezes da cadea , onde a justiça o pôs preso o livrei com mil trabalhos sem ter hora de sossego .
+      [ 710 ]  Cem moedas de mil réis me custou seu livramento , tudo com boa tenção , não com modo desonesto ; por que a minha sempre foi atar-me c'o sacramento do matrimônio sagrado , mas o infame lisonjeiro depois de o pôr na rua , e de vender o que tenho , fez o que fazem os mais , que em lugar de comprimento , com suas falsas palavras ( que com as penas leva o vento ) me deixou , e pode ser por quem valha muito menos .
+      [ 711 ] 
+      [ character:  Clara Vicente]
+      [ 712 ]  Ai como está enfadada !
+      [ 713 ]  Diga , olhos de morcego , com essa cara de pantufo queria aquele mancebo ?
+      [ 714 ]  Está muito acabada mui gastada do direito , trate , se quer melhorar-se , de se virar do avesso .
+      [ character:  Maria André]
+      [ 715 ]  Ah infame resoluta , assim se perde o respeito a uma mulher como eu , filha de Antônio Alberto ?
+      [ 716 ] 
+      [ 717 ]  Comigo vos quereis pôr ?
+      [ 718 ]  Val mais um chinelo velho que boto naquela rua do que todo o vosso asseio .
+      [ 719 ]  Bendito sejais , senhor .
+      [ 719 ]  Ergue as mãos .
+      [ 720 ]  Quanto mais vivo , mais vejo .
+      [ 721 ]  Não vedes a fermosinha ajudada dos unguentos !
+      [ character:  Clara Vicente]
+      [ 722 ]  Que diz , mana de arrebiques , engana-se por inteiro , só dous dedos de brandura poderá dizer que tenho .
+      [ 723 ]  Essa de necessidade a ponho porque me vejo muitas vezes abrasada ; e assim o carão refresco , que o tenho muito mimoso e não como ela grosseiro .
+      [ character:  Maria André]
+      [ 724 ]  Quem não vê este mominho não vê nada do que eu vejo .
+      [ 725 ]  Dai graças ao artefício , que encobre vossos defeitos .
+      [ 726 ]  Se não fora a alimpadeira que vos vai tirar o pelo com a cerrinha de linha , com o vidrinho correndo , andáreis muito fermosa .
+      [ 727 ] 
+      [ 728 ]  Temo que metêsseis medo .
+      [ 729 ]  A sombrancelha afilada , não é toda de cabelo , embora vá o pão de alhos que chamuscado faz preto .
+      [ 730 ]  Pois que direi das lavagens , em que gastais o dinheiro ?
+      [ 731 ]  Mais miudezas gastais do que um rico avarento .
+      [ 732 ]  Começais com dormideiras com o trincal mui perfeito , a semente pedra-ume e de cabrito o sebo ; as pevides de cabaça , o rico sebo-confeito , limas , búzios , solimão e unto de gato negro ; o óleo de pés de bode , fel de vaca de setembro , também o aljôfar moído , que é para o lustro perfeito .
+      [ 733 ]  Com todas estas ajudas enganais a mais de cento que gostam que os rostos luzam como se foram espelhos .
+      [ 734 ]  Embora vá a limpeza , o que Deos dá é mui certo ; eu só com água da fonte a minha carinha enfeito .
+      [ 735 ] 
+      [ character:  Clara Vicente]
+      [ 736 ]  Com todas essas arengas não faço o rosto vermelho .
+      [ 737 ]  Vê , vê , olhe , não é nada .
+      [ 738 ]  O que tenho a Deos o devo .
+      [ 739 ]  Olhai o Caravelão , recolha esse pé eterno , que se fora pé de altar sustentara todo um reino .
+      [ character:  Maria André]
+      [ 740 ]  Em pontos de pé se põem , eu só num ponto me tenho .
+      [ 741 ]  Se fala no joanete , é verdade , eu não o nego .
+      [ 741 ]  Mostra o pé .
+      [ 742 ]  Porém saiba minha vida que não é nenhum defeito , não nasci desta maneira , foi isto um caso adverso .
+      [ 743 ]  Que sendo menina , um bicho me ferrou , com tal excesso , os dentes neste pezinho e cresceu o tornozelo porém se calço apertado , fica o pé todo perfeito .
+      [ 744 ]  O que importa minha mana é que não consinta dentro de casa aos meus amores , e se não tenha por certo , que em pessoa hei de tirá-lo por vida do que bem quero .
+      [ 745 ] 
+      [ character:  Clara Vicente]
+      [ 746 ]  Olha ora se estou redonda .
+      [ 746 ]  Dá uma volta .
+      [ character:  Maria André]
+      [ 747 ]  Responda ao que dito tenho .
+      [ character:  Clara Vicente]
+      [ 748 ]  Respondo que por meu gosto , para meu regalo o quero .
+      [ character:  Maria André]
+      [ 749 ]  Ah , grandíssima velhaca , não o terás um momento .
+      [ 750 ] 
+      [ character:  Clara Vicente]
+      [ 751 ]  Isso é pavana em que canto lhoco , lhoco , lhoca , lheco .
+      [ character:  Maria André]
+      [ 752 ]  Senhores , esta traidora me faz perder o sossego : pelas horas do senhor que lhe quebre esses quexos .
+      [ character:  Clara Vicente]
+      [ 753 ]  O dar dói minha senhora , tenha lá mão , manso , quedo .
+      [ character:  Maria André]
+      [ 754 ]  Acha que não dói , menina , o tirar-me o meu remédio ?
+      [ character:  Clara Vicente]
+      [ 755 ]  Como sem ele a deixou se gastou o seu dinheiro ?
+      [ character:  Maria André]
+      [ 756 ]  Como ?
+      [ 757 ]  Boa graça é essa !
+      [ 758 ]  Diga , mãe dos embelecos .
+      [ 759 ]  Se não desinquietara meus amores não é certo , que recebida com ele Deos me daria o remédio ?
+      [ 760 ]  E que ele por uma banda , e eu pela outra mexendo cresceria o cabedal , pois cresciam os granjeos ?
+      [ character:  Clara Vicente]
+      [ 761 ]  A más moros , más ganancia dezia um rifão velho .
+      [ 762 ]  Ela ganha para mim porque melhor lho mereço .
+      [ 763 ] 
+      [ character:  Maria André]
+      [ 764 ]  Sempre infames têm ventura .
+      [ character:  Clara Vicente]
+      [ 765 ]  Se a tenho , a Deos a agradeço .
+      [ character:  Maria André]
+      [ 766 ]  Agradeça , e veja que esses agradecimentos lhe podem custar bem caro .
+      [ character:  Clara Vicente]
+      [ 767 ]  Caro compro , e caro vendo .
+      [ 767 ]  Vai-se .
+      [ 768 ]  Sai Alberto Paes .
+      [ character:  Alberto Paes]
+      [ 769 ]  Minha Maria André , de minha vida , com que está a Ribeira guarnecida parece , ( e não me engano ) por Deos Santo , um jardim , e das almas doce encanto .
+      [ character:  Maria André]
+      [ 770 ]  Como vem lisonjeiro o fementido , em falsidade todo derretido ; dele a minha vontade a mão desabre , a ess' outra porta , que esta senão abre .
+      [ character:  Alberto Paes]
+      [ 771 ]  Que dizes ?
+      [ 772 ]  Estás fora de juízo ?
+      [ 773 ] 
+      [ character:  Maria André]
+      [ 774 ]  Querer-me-á emprestar você o seu siso ?
+      [ character:  Alberto Paes]
+      [ 775 ]  Sempre de rigurosa te prezastes , virando a cara agora me matastes ; que por Deos , a teus olhos matadores concedeu raios a deosa dos amores .
+      [ character:  Maria André]
+      [ 776 ]  Estudou essa arenga nestes dias !
+      [ 777 ]  Enfim as noites vão já muito frias .
+      [ 778 ]  Bem faz , fuja de casa , vá-se embora porque de tudo sou merecedora .
+      [ character:  Alberto Paes]
+      [ 779 ]  Por Cristo , que não sei o que me dizes .
+      [ character:  Maria André]
+      [ 780 ]  Já lhe chega a mostarda aos narizes .
+      [ 781 ]  Não se queime , meu santo , vá mui atento , não se mostre ao que digo tão isento .
+      [ 782 ]  Diga , infame ladrão , adonde andou , todo este tempo que em casa me faltou ?
+      [ closing:  Alberto Paes]
+      [ 783 ]  Estás fora de ti , e não me espanto que dessa sorte disbarates tanto .
+      [ 784 ]  Não te disse que a Torres me partia para ver a senhora minha tia , de quem espero uma grande herança de que o preveito só a ti te alcança ?
+      [ 785 ]  Pois tudo quanto tenho , e tiver , para ti minha vida há de ser .
+      [ 786 ]  Lá passei estes dias com bem penas e tu de riguroso me condenas .
+      [ character:  Maria André]
+      [ 787 ]  Penas sim , de galinha , minha vida , que a companheira está mui dolorida , quando lá na cabana as comprava !
+      [ 788 ]  A um doente disse que as levava .
+      [ 789 ]  Assim seria que o senhor Deos do amor também às vezes causa grande dor .
+      [ 790 ]  Como vem olheirento , e coadinho , enfim é moimento do caminho .
+      [ character:  Alberto Paes]
+      [ 791 ]  Juro pelo que posso em consciência , que me fazes perder a paciência .
+      [ 792 ]  Acaba , fala claro , dize tudo ; que de remoques , não andei no estudo .
+      [ character:  Maria André]
+      [ 793 ]  Quer que eu desabafe , pois por certo que de abafar estava já bem perto , assim se pagam as obrigações , que me deve por todas as razões !
+      [ 794 ] 
+      [ 795 ]  Não se lembra que entrou em meu poder ( que vergonha me veio de o ver ) que por ter empregado o cabedal sem que a mim me ficasse um só real as minhas contas com extremos de ouro , que valiam por belas um tesouro ?
+      [ 796 ]  Na rua dos Ourives descambei e pelo cobrir , sem ela me fiquei , fora obrigações que não relato que a todas , sem razão , quer ser ingrato .
+      [ 797 ]  Pois contra a lealdade que me deve a ofender-me traidor se atreve , e então c'uma baixa fementida , que há dous dias andava descozida .
+      [ 798 ]  De compaixão de a ver de tal maneira uma saia lhe dei nesta Ribeira , que tal foi a piedade que tomei que logo ali do corpo lha tirei .
+      [ 799 ] 
+      [ character:  Alberto Paes]
+      [ 800 ]  Com tais impertinências te declaro , que teu amor me vai custando caro ; declara-me quem é essa mulher , que embrulhadas tais te foi meter .
+      [ 801 ]  Aparece Clara Vicente ao pano , com o que espreita , e diz :
+      [ character:  Clara Vicente]
+      [ 802 ]  Daqui agora encoberta ouvirei , se é certo aquele empenho que tomei .
+      [ 803 ]  Quero ver se me cumpre com respeito as promessas que em casa me tem feito .
+      [ character:  Alberto Paes]
+      [ 804 ]  Que é isto ?
+      [ 805 ]  Emudecestes , minha rosa ?
+      [ 806 ]  Declara-me quem é essa fermosa com quem presumes façam falsidade sendo em teu amor a pura lealdade .
+      [ character:  Maria André]
+      [ 807 ]  Cuidei agora neste intervalo que é você tão leal , como um cavalo .
+      [ 808 ]  Senhor Alberto Paes , vá-se embora não queira ter comigo tão má hora .
+      [ 809 ]  Vá para essa senhora que lhe digo .
+      [ 810 ]  Estime-a muito bem , seja seu amigo que ela me vingará de seus rigores quando de março lhe puser as flores .
+      [ 811 ] 
+      [ character:  Alberto Paes]
+      [ 812 ]  Minha rica Maria dos meus olhos , flores me podeis dar em belos molhos , que a vossa graça da beleza espanto .
+      [ 813 ]  É uma primavera , é um encanto .
+      [ character:  Maria André]
+      [ 814 ]  Como vem de palavras afiado !
+      [ 815 ]  Não vedes como vem licenciado !
+      [ character:  Alberto Paes]
+      [ 816 ]  Deixa Maria paixões , deixa ciúmes porque o agravo , que de mim presumas tudo é uma pura falsidade que em mim sempre assistiu a lealdade .
+      [ character:  Maria André]
+      [ 817 ]  Assim me disse aqui certa senhora .
+      [ 818 ]  Ah falsa !
+      [ 819 ] 
+      [ 820 ]  Ah inimiga !
+      [ 821 ]  Ah traidora !
+      [ character:  Alberto Paes]
+      [ 822 ]  Não me dirás o nome dessa dama .
+      [ character:  Maria André]
+      [ 823 ]  Vá perguntá-lo acolá em Alfama .
+      [ character:  Alberto Paes]
+      [ 824 ]  Muitas vivem no bairro , e assim não sei .
+      [ 825 ]  Se acertar com ela eu poderei .
+      [ character:  Maria André]
+      [ 826 ]  Pois que sabê-lo quer tão dilegente , pergunte aonde está Clara Vicente .
+      [ 827 ]  Sai Clara Vicente , e fala à parte .
+      [ character:  Clara Vicente]
+      [ 828 ]  Declarou-se e todo esta senhora , mas o que lhe responderei agora ?
+      [ character:  Alberto Paes]
+      [ 829 ]  Com essa fermosinha me condenam , ela te causa todas essas penas .
+      [ 830 ]  Sossega que se agravos intentara houvera empregar-me em melhor cara .
+      [ character:  Clara Vicente]
+      [ 831 ]  Ah ladrão !
+      [ 832 ]  Ah tirano !
+      [ 833 ]  Ah fementido !
+      [ 834 ]  Isso é o que te tenho merecido ?
+      [ character:  Maria André]
+      [ 835 ]  Nada me mata senão ver o modo com que se põem a negar de todo em todo .
+      [ 836 ]  Confesse c'o Diabo a sua culpa a ver se meu amor lhe dá desculpa .
+      [ 837 ] 
+      [ character:  Alberto Paes]
+      [ 838 ]  O que aqui confesso , sempre confessei que sempre fui teu , e sempre teu serei .
+      [ character:  Maria André]
+      [ 839 ]  Senhor Deos , moderai-me esta paixão para sofrer tão grande sem-razão . basta que com ofensas tão ingratas mo vem vender agora pataratas .
+      [ character:  Alberto Paes]
+      [ 840 ]  Acaba que estás já impertinente .
+      [ 841 ]  Leve o Diabo amém , Clara Vicente .
+      [ 842 ]  Olhai com que mulher me foi culpar : c'uma tortinha , cara de luar , uma lombriga torta , caixa de ossos , em cujas mãos os dedos são tão grossos que bem podem servir , ( e com razão ) de mastros a qualquer embarcação .
+      [ 843 ]  Pois o cheiro da boca , é cousa rica , a fala tem tão grossa que salpica .
+      [ 844 ]  Os dentinhos parecem de instituto que pelos de seu pai , puseram luto .
+      [ 845 ]  Eu com tal mulher ?
+      [ 846 ] 
+      [ 847 ]  Antes na morte que ter na vida tão infame sorte .
+      [ character:  Clara Vicente]
+      [ 848 ]  Honrado seja você , como faz as honrarias .
+      [ 849 ]  Assim se tratam as mulheres ?
+      [ 850 ]  Diga , saco de mentiras ?
+      [ 851 ]  Depois de eu o ter em casa metido mais de dez dias , regalado como um príncipe , comendo à perna estendida , dizendo-me mil amores , fazendo-me mil carícias confessando que só eu era a gala das boninas , vem dizer essas blasfêmias ?
+      [ 852 ]  Por vida desta carinha ...
+      [ 853 ]  Põem a mão na barba .
+      [ 854 ]  Que tantas dissoluções lhe hão de custar a vida ver os enganos do infame , ver as cousas que dezia .
+      [ 854 ]  À parte .
+      [ 855 ] 
+      [ 856 ]  Enfim quem se fia em homens experimenta estas mofinas , pelas horas do senhor , que há de saber como pica .
+      [ 857 ]  À fé de Antônio Vaz , e de Joana André a filha , por um Mouro da Galé , por meu gosto , tais malícias o pago hão de colher mas que empenhe a gargantilha .
+      [ character:  Alberto Paes]
+      [ 858 ]  Molher , estás de ti fora ?
+      [ 859 ]  Fazer de mim zombaria ?
+      [ 860 ]  Eu entrei em tua casa ?
+      [ 861 ]  Disse-te algumas carícias ?
+      [ character:  Clara Vicente]
+      [ 862 ]  Viu-se tão pouca vergonha .
+      [ 862 ]  À parte .
+      [ 863 ]  Juro-vos por vida minha , senhora Maria André , que nunca falei fingida ; que muito peiores cousas de vós falou sua língua , prometendo-me o falsário que jamais vos falaria . e que gastara convosco todo o cabedal que tinha , pagando-lhe vós tão mal que por suspeitas colhia que vós mesma c'um framengo andáveis muito metida ; que vos não cruzava a cara porque mais mal vos fazia em vos deixar , que sujar as mãos na vossa carinha .
+      [ 864 ] 
+      [ character:  Maria André]
+      [ 865 ]  Justo juiz divinal !
+      [ 865 ]  Com as mãos na cabeça .
+      [ 866 ]  Almas santas , que sois guias dos pecadores errados , descobri estas malícias .
+      [ 867 ]  Eu , framengos !
+      [ 868 ]  C'os breados ?
+      [ 869 ]  Por certo que sou mui limpa , os erros não louvo muito , mas condeno as porcarias .
+      [ 870 ]  Nisso havia de parar o meu asseio ?
+      [ 871 ]  Bonita sou eu para sujidades quando só o ar me pisa .
+      [ 872 ] 
+      [ character:  Alberto Paes]
+      [ 873 ]  Por Cristo que estou perdido colheram-me na mentira .
+      [ 874 ]  Hei de negar a pés juntos , por mais cousas que me diga .
+      [ character:  Maria André]
+      [ 875 ]  Como está dissimulado ?
+      [ 876 ]  Faz-se que não é da briga , com estes olhos o vi por mais enredos que finja .
+      [ character:  Alberto Paes]
+      [ 877 ]  Se tal foi permita o céu minha querida Maria que antes que amanheça , Deos um raio me tire a vida .
+      [ character:  Clara Vicente]
+      [ 878 ]  Já não há quem sofra tanto , conheceis , mana , esta fita ?
+      [ 879 ]  Já sabereis que foi sua que no chapéu a trazia .
+      [ 880 ]  Com ela me quis prender , e na ponta da mantilha ma pôs dizendo : sou teu e serás minha querida .
+      [ character:  Maria André]
+      [ 881 ]  Negue agora , jure um pouco .
+      [ 882 ]  Perdoe Deos a quem fia destes infames a honra , que são uns cruéis Harpias .
+      [ 883 ] 
+      [ 884 ]  A ambas tem agravadas .
+      [ 885 ]  Façamo-nos vingativas .
+      [ 886 ]  Quien tal hace que tal pague .
+      [ 887 ]  Morra a chicheladas frias .
+      [ character:  Clara Vicente]
+      [ 888 ]  Começai , que eu vos ajudo .
+      [ 889 ]  Dai-lhe lá senhora minha .
+      [ 890 ]  Tomai , traidor ladroaço , falsário , fero homicida .
+      [ 891 ]  Tome , e assim conhecerá das nossas honras a ira .
+      [ 892 ]  Recolhem-se às pancadas .
+      [ closing: 
+      [ 893 ]  FIM .]
+      [ 894 ]  
+      
+      [ play ]
+      [ title: 
+      [ 895 ]  ENTREMEZ INTITULADO Muita bulha , e tudo nada . ]
+      [ title:  FIGURAS : ]
+      [ 896 ]  2 valentes .
+      [ 897 ]  2 irmãs .
+      [ 898 ]  1 ratinho .
+      [ 899 ]  1 alcaide .
+      [ 900 ]  Saem os dous valentes .
+      [ character:  1.o Valente]
+      [ 901 ]  Aqui há de ser , por vida de quem sou .
+      [ character:  2.o Valente]
+      [ 902 ]  Pois que é o que temos ?
+      [ 903 ]  Aqui estou .
+      [ character:  1.o Valente]
+      [ 904 ]  Puxe por essa espada , sou faceira ; e saberá quem é gente da beira .
+      [ 905 ] 
+      [ character:  2.o Valente]
+      [ 906 ]  Isso é o que quer , diga só , alarve ?
+      [ 907 ]  Pois agora verá a gente do Algarve .
+      [ 908 ]  Puxa ; o outro fica pasmado , sem arrancar , e diz :
+      [ character:  2.o Valente]
+      [ 909 ]  Espere , tenha mão , que não é pelejar minha tenção , que de você fui sempre muito amigo .
+      [ character:  2.o Valente]
+      [ 910 ]  Não puxa pela espada ?
+      [ 911 ]  Puxe .
+      [ character:  1.o Valente]
+      [ 911 ]  Digo que não posso agora em consciência pela espada tirar , nesta pendência .
+      [ character:  2.o Valente]
+      [ 912 ]  Ande que é um cobarde , é um galinha , pois não tira essa espada da bainha .
+      [ character:  1.o Valente]
+      [ 913 ]  E para quê , se não é necessário , nem creio que ninguém diga o contrário ? Pelejemos , que estou arrebentando .
+      [ character:  1.o Valente]
+      [ 914 ]  Se não há para quê , que estou zombando !
+      [ 915 ] 
+      [ character:  2.o Valente]
+      [ 916 ]  Se não cuidara que era zombaria nele havia fazer , muita fatia .
+      [ character:  1.o Valente]
+      [ 917 ]  Olhe que já não estou muito pão trigo , e lhe posso cortar também o embigo .
+      [ character:  2.o Valente]
+      [ 918 ]  Que é o que diz ?
+      [ character:  1.o Valente]
+      [ 918 ]  A cólera é chegada .
+      [ 918 ]  À parte .
+      [ character:  2.o Valente]
+      [ 919 ]  Que é o que há de fazer ?
+      [ 919 ]  Empunha a espada .
+      [ character:  1.o Valente]
+      [ 919 ]  Não farei nada .
+      [ character:  2.o Valente]
+      [ 920 ]  Isso agora é já outro cantar , porque por menos que isso , sei matar .
+      [ 921 ]  Você é para mim menos que um pinto .
+      [ character:  1.o Valente]
+      [ 922 ]  Se você é cristão , guarde o quinto .
+      [ character:  2.o Valente]
+      [ 923 ]  De força o mandamento hei de guardar , pois que agora escapou de lhe cascar .
+      [ character:  1.o Valente]
+      [ 924 ]  É parvoíce que se baja de perder um homem por amor de ũa mulher .
+      [ 925 ] 
+      [ character:  2.o Valente]
+      [ 926 ]  Dizeis bem , que eu também não acho graça buscar-se por mulheres a desgraça .
+      [ character:  1.o Valente]
+      [ 927 ]  Pois a nossa paixão se acabou logo .
+      [ character:  2.o Valente]
+      [ 928 ]  Já se apagou da cólera o meu fogo .
+      [ character:  1.o Valente]
+      [ 929 ]  Pois a Deus , camarada , não há mais que fazer .
+      [ character:  2.o Valente]
+      [ 929 ]  Não há mais nada .
+      [ 929 ]  Fazem cortesia , e vão-se .
+      [ 930 ]  Sai o ratinho com o alcaide dizendo dentro .
+      [ character:  Ratinho]
+      [ 931 ]  Venha , senhor , os passos apressando , que dous homens se estão aqui matando .
+      [ 931 ]  Sai .
+      [ character:  Alcaide]
+      [ 932 ]  Adonde é que estão em desafio ?
+      [ character:  Ratinho]
+      [ 933 ]  Senhor alcaide , aqui ( inda estou frio . )
+      [ 933 ]  À parte .
+      [ character:  Alcaide]
+      [ 934 ]  Em que lugar , dizei , porque os não vejo ?
+      [ character:  Ratinho]
+      [ 935 ]  Inda agora se iriam .
+      [ character:  Alcaide]
+      [ 935 ]  Tende pejo ,
+      [ 936 ]  Porque deveis estar muito borracho .
+      [ 937 ] 
+      [ character:  Ratinho]
+      [ 938 ]  Eu em jejum senhor ainda me acho .
+      [ 939 ]  Que se matavam vi com estes olhos .
+      [ character:  Alcaide]
+      [ 940 ]  Estariam matando alguns piolhos ...
+      [ 941 ]  Andai bêbado , andai cornudo tonto .
+      [ character:  Ratinho]
+      [ 942 ]  Oh meu senhor , isso agora , é outro ponto porque também você me não vê cornos .
+      [ character:  Alcaide]
+      [ 943 ]  Tende-los vós tamanhos como tornos .
+      [ 944 ]  E se a briga foi nada , est' outro é muito .
+      [ 944 ]  Vai-se .
+      [ character:  Ratinho]
+      [ 945 ]  Árvores na cabeça , dão má fruito , hei de de cortar-lhe os ramos que na minha linhagem não há gamos .
+      [ 945 ]  Vai-se .
+      [ 946 ]  Saem as duas irmãs pelejando uma atrás da outra com uma faca :
+      [ character:  1.a Irmã]
+      [ 947 ]  Ó muito má irmã !
+      [ 948 ]  Ó fementida !
+      [ 949 ]  Hás de pagar-me hoje com a vida .
+      [ character:  2.a Irmã]
+      [ 950 ]  Faço mui bem , não hei de consentir que aqui a esta a casa chegue a vir ( Sendo tu minha irmã , mulher casada ) um homem com quem andas infamada .
+      [ 951 ] 
+      [ character:  1.a Irmã]
+      [ 952 ]  Olha bem o que dizes ; e tu lula ; a quem a barriguinha já te pula , e sei que amassastes sem formento .
+      [ character:  2.a Irmã]
+      [ 953 ]  Tudo há de parar em casamento : mas tu qual mangalata , também queres meter a mão na massa .
+      [ character:  1.a Irmã]
+      [ 954 ]  Ora espera que te hei de amassar os narizes , e te hei de afincar na barriga esta faca .
+      [ character:  2.a Irmã]
+      [ 955 ]  Vem ora para cá ; a mim velhaca ?
+      [ character:  1.a Irmã]
+      [ 956 ]  Pois agora há de ser aqui o teu fim .
+      [ character:  2.a Irmã]
+      [ 957 ]  Tu te atreves com faca para mim ?
+      [ character:  1.a Irmã]
+      [ 958 ]  Não vem o tirolico , sirolico quem lhe daria agora tanto bico ?
+      [ 959 ]  Sai o ratinho .
+      [ character:  Ratinho]
+      [ 960 ]  Que vem a ser toda esta traquinada ?
+      [ 961 ] 
+      [ character:  1.a Irmã]
+      [ 962 ]  Vinde embora marido , não é nada .
+      [ character:  2.a Irmã]
+      [ 963 ]  São leves as paixões entre as amigas .
+      [ character:  Ratinho]
+      [ 964 ]  Renego do demônio .
+      [ 965 ]  Tantas brigas tenho hoje encontrado !
+      [ 966 ]  Mau agouro ...
+      [ 967 ]  Não seja isto ensaios para touro .
+      [ character:  1.a Irmã]
+      [ 968 ]  Por que correis perigo , meu marido ?
+      [ character:  Ratinho]
+      [ 969 ]  Não o sei , mas não deixo de vir corrido .
+      [ character:  1.a Irmã]
+      [ 970 ]  Nada vos dê cuidado , e descansai .
+      [ character:  Ratinho]
+      [ 971 ]  Sabei vós o que vai ?
+      [ character:  1.a Irmã]
+      [ 972 ]  É de mal , ou de bem ?
+      [ character:  Ratinho]
+      [ 973 ]  Suas dúvidas tem , porque dizem que anda um cavaleiro ( se vós lhe não quereis chamar toureiro ) não sei se pela praça , pretendendo ter sorte nesta casa .
+      [ character:  1.a Irmã]
+      [ 974 ]  Ai como tenho medo , que velhaca descubras o segredo .
+      [ 974 ]  Para a irmã aparte .
+      [ character:  2.a Irmã]
+      [ 975 ]  Mulher , não haja estrondo cala que lhe respondo .
+      [ 976 ] 
+      [ 976 ]  À parte .
+      [ 977 ]  Meu cunhado , acaso isso é paixão ?
+      [ character:  Ratinho]
+      [ 977 ]  É quase , quase adevinhação , que a minha mulher toca explicar .
+      [ 978 ]  Dizem que é proibido adevinhar , e eu nunca aprendi a feiticeira .
+      [ character:  Ratinho]
+      [ 979 ]  Não tivéreis vós outra peior manqueira .
+      [ character:  1.a Irmã]
+      [ 980 ]  Eu que manqueiras tenho ?
+      [ character:  Ratinho]
+      [ 981 ]  Não tendes mais que ter o andar gamenho , e ter grandes desejos de ser mãe , salvo com condição de eu não ser pai .
+      [ character:  1.a Irmã]
+      [ 982 ]  Que dizeis ?
+      [ 983 ]  Estais doudo , ou é zombando ?
+      [ character:  Ratinho]
+      [ 984 ]  Minha mulher já vai adevinhando , a adevinhação .
+      [ character:  2.a Irmã]
+      [ 985 ]  Meu cunhado , você não tem razão .
+      [ 986 ]  Para que quer agora dar disgosto a minha irmã , lançando-lhe em rosto uma aleivosia imaginada ?
+      [ character:  Ratinho]
+      [ 986 ]  Logo não é assim ?
+      [ character:  2.a Irmã]
+      [ 987 ]  Não .
+      [ 988 ] 
+      [ character:  Ratinho]
+      [ 988 ]  Pois é nada .
+      [ 989 ]  Tratemos de cear , e recolher porque de madrugada me hei de erguer .
+      [ 989 ]  Vai-se .
+      [ character:  1.a Irmã]
+      [ 990 ]  Ó mulher , não me metas em perigo .
+      [ 991 ]  Sê mui calada , e faze o que te digo .
+      [ 992 ]  Já que eu também encubro teus amores , não mo pagues com termos traidores .
+      [ character:  2.a Irmã]
+      [ 993 ]  Prometo-vos , irmã , de não falar , porque uma mão a outra há de lavar .
+      [ 993 ]  Vão-se .
+      [ 994 ]  Saem os dous valentes .
+      [ character:  1.o Valente]
+      [ 995 ]  Se estará já dormindo seu marido ?
+      [ character:  2.o Valente]
+      [ 996 ]  Isto é tarde , não deve estar erguido .
+      [ character:  1.o Valente]
+      [ 997 ]  Chegai vós ao Portal E fazei-lhe o sinal .
+      [ 997 ]  Dá dous golpes com a espada .
+      [ 998 ]  Saem as duas irmãs .
+      [ character:  1.a Irmã]
+      [ 999 ]  Já eu estava dizendo a minha irmã que não tardava já muito a manhã .
+      [ 1000 ] 
+      [ character:  1.a Irmã]
+      [ 1001 ]  Eu o digo também porque a aurora , amanhecendo em vós , me vem agora .
+      [ 1001 ]  Põem-se com ela à parte .
+      [ character:  2.a Irmã]
+      [ 1002 ]  De noite só vos vejo , meu emprego .
+      [ character:  1.a Irmã]
+      [ 1003 ]  Eu só da vossa sombra sou morcego .
+      [ character:  2.a Irmã]
+      [ 1004 ]  Como vos vai , dizei-me meu querido ?
+      [ character:  Ratinho]
+      [ 1005 ]  Ó mulher .
+      [ 1005 ]  Grita dentro o Ratinho .
+      [ character:  1.a Irmã]
+      [ 1005 ]  Ai que chama meu marido .
+      [ 1005 ]  Vai-se .
+      [ character:  2.a Irmã]
+      [ 1006 ]  Ide-vos que não posso mais falar .
+      [ 1006 ]  Vai-se .
+      [ character:  2.a Irmã]
+      [ 1007 ]  A Deos , nós falaremos devagar .
+      [ character:  1.a Irmã]
+      [ 1008 ]  Que não lograsse eu esta ocasião por amor de um vilão .
+      [ character:  2.a Irmã]
+      [ 1009 ]  Juro-vos pelas botas de Herodes que estou para cortar-lhe os bigodes .
+      [ 1010 ]  Sai o ratinho ao pano .
+      [ character:  Ratinho]
+      [ 1011 ]  Que quererão ali dous embuçados , que vejo à minha porta estar parados ?
+      [ 1012 ] 
+      [ character:  1.o Valente]
+      [ 1013 ]  Não é este que fala o seu marido ?
+      [ character:  2.o Valente]
+      [ 1014 ]  Assim me há parecido .
+      [ character:  1.o Valente]
+      [ 1015 ]  A graça é que nos venha desafiar , e que nos traga lã para tosquiar .
+      [ 1016 ]  Dizem as duas dentro ao ratinho :
+      [ character:  2.a Irmã]
+      [ 1017 ]  Meu cunhado , que vindes cá fazer ?
+      [ 1018 ]  Vós quereis-vos perder ?
+      [ character:  1.a Irmã]
+      [ 1019 ]  Lá lhe fala a cunhada vossa amante .
+      [ character:  Ratinho]
+      [ 1020 ]  Eu escuso por hora esse discante .
+      [ character:  1.a Irmã]
+      [ 1021 ]  Homem que fazes , que te chama a morte ?
+      [ character:  Ratinho]
+      [ 1022 ]  Por que , logo se morre desta sorte ?
+      [ character:  2.a Irmã]
+      [ 1023 ]  Aquela é sua mulher , a quem amais .
+      [ character:  1.a Irmã]
+      [ 1024 ]  Escutemos o que lhe dizem mais .
+      [ character:  Ratinho]
+      [ 1025 ]  Deixai-me vigiar a minha casa , que não deixa de nela haver trapaça e quero-a defender .
+      [ 1026 ]  E fora agora eu reconhecer aos dous , se me achara com dous dardos .
+      [ 1027 ] 
+      [ character:  1.a Irmã]
+      [ 1028 ]  De noite os gatos todos se vêm pardos .
+      [ 1029 ]  Que vos importa a vós ?
+      [ 1030 ]  Sois vós justiça ?
+      [ character:  Ratinho]
+      [ 1031 ]  Mas o certo é que o Demo vos atiça .
+      [ 1032 ]  Sim , que como este mês é de janeiro podem vir fazer casta ao meu palheiro e isso mesmo quero eu atalhar .
+      [ character:  2.a Irmã]
+      [ 1033 ]  Olhai que eles vos podem arranhar .
+      [ 1034 ]  E isto é mau .
+      [ character:  1.a Irmã]
+      [ 1035 ]  Miau .
+      [ character:  2.a Irmã]
+      [ 1035 ]  Miau , renhau .
+      [ character:  1.a Irmã]
+      [ 1036 ]  Eles são gatos .
+      [ character:  Ratinho]
+      [ 1037 ]  De gatos miadores nunca tive temores .
+      [ 1038 ] 
+      [ 1039 ]  Vão-se os dous chegando à porta , e diz o ratinho :
+      [ character:  Ratinho]
+      [ 1040 ]  Quem é o que está i , à minha porta ?
+      [ character:  1.o Valente]
+      [ 1041 ]  A ele que lhe importa ?
+      [ character:  Ratinho]
+      [ 1042 ]  Despeje logo a rua , que deve de ser gente de gazua .
+      [ 1043 ]  Pegam nele , e tiram-no para fora .
+      [ character:  2.o Valente]
+      [ 1044 ]  Ó vilão , vós sabeis com quem falais ?
+      [ character:  Ratinho]
+      [ 1045 ]  Perdoe , mei senhor , não farei mais .
+      [ character:  1.o Valente]
+      [ 1046 ]  Conheceis bem quem são estes ladrões ?
+      [ 1046 ]  Dá-lhe .
+      [ character:  Ratinho]
+      [ 1046 ]  Acudam-me senhores .
+      [ 1047 ]  Quadrilhões !
+      [ 1048 ]  Aqui d'el-Rei !
+      [ 1049 ]  Sai a mulher , irmã , e alcaide :
+      [ character:  1.a Irmã]
+      [ 1050 ]  Senhor alcaide , acuda !
+      [ 1051 ] 
+      [ character:  Alcaide]
+      [ 1052 ]  Eu pelo cheiro bem conheço a arruda .
+      [ 1053 ]  Muito há que estava isto esperando que me ia já cheirando .
+      [ 1054 ]  Dizei-me amigo , de quem vos queixais .
+      [ character:  Ratinho]
+      [ 1055 ]  Eu senhor , destas costas só nom mais , que inda me estão doendo .
+      [ character:  Alcaide]
+      [ 1056 ]  Que me dizem vocês ?
+      [ 1057 ]  Vão respondendo .
+      [ character:  1.a Irmã]
+      [ 1058 ]  Isto foi ilusão .
+      [ character:  2.a Irmã]
+      [ 1058 ]  Isto foi sonho .
+      [ character:  Ratinho]
+      [ 1059 ]  Do que foi mei senhor , eu me envergonho .
+      [ character:  Alcaide]
+      [ 1060 ]  E vocês , meus fidalgos , nestas horas ?
+      [ character:  1.o Valente]
+      [ 1061 ]  Acudimos às vozes das senhoras .
+      [ character:  2.o Valente]
+      [ 1062 ]  Eu também como pássaro ao reclamo .
+      [ character:  1.a Irmã]
+      [ 1063 ]  Discretamente respondeu meu damo .
+      [ 1063 ]  À parte .
+      [ 1064 ]  Meu marido , senhor , fez toda a bulha .
+      [ 1065 ] 
+      [ character:  Ratinho]
+      [ 1066 ]  Parece isto bulha .
+      [ character:  2.a Irmã]
+      [ 1067 ]  E a festa se dê por acabada .
+      [ 1068 ]  Do entremez : Muita bulha , e tudo nada .
+      [ closing: 
+      [ 1069 ]  FIM .]
+      [ 1070 ]  
+      
+      [ play ]
+      [ title: 
+      [ 1071 ]  ENTREMEZ DOS PEXES . ]
+      [ 1072 ]  FIGURAS :
+      [ 1073 ]  3 Bêbados .
+      [ 1074 ]  3 Mulheres .
+      [ 1075 ]  Saem dous bêbados empunhando as espadas que trarão às vessas ; um com a conteira para cima , e outro às canhotas .
+      [ character:  1.o Bêbado]
+      [ 1076 ]  Fuja , que já não tenho paciência !
+      [ 1077 ]  Inda não foge , faz-me resistência !
+      [ 1078 ]  Descortês , atrevido , pedintão !
+      [ 1079 ] 
+      [ 1080 ]  Que o enfie como a mexilhão .
+      [ 1081 ]  A mim por ninharias ?
+      [ 1082 ]  Pelas Ave-Marias que o faça amanhecer lá no inferno , sem por sua alma ter um reque eterno .
+      [ 1083 ]  Não me conhece ?
+      [ 1084 ]  Diga mal trapilho , não sabe que me chamo João Sarilho , e que na fortaleza deste braço mostro que filho sou de Gil Cabaço , neto por muitas linhas de Afons' Eanes o Matagalinhas ?
+      [ 1085 ]  A mim me chama bêbado ?
+      [ 1086 ]  A mim trela !
+      [ 1087 ]  Não sabe que na minha parentela todos meus descendentes nenhum pode ver vinho entre os dentes ?
+      [ 1088 ]  E os que vivos são circunvezinhos em Alcorvim , Ribeira dos Perrinhos , Pau gordo , Albarraques , Cabra Figa nunca meteram vinho na barriga .
+      [ 1089 ]  E os de Polima , Moxagato , Arneiro , jamais ao vinho lhe tomaram o cheiro ; e os de Alvide , c'os de Alcabedeche , não o bebem , nem sobre o escabeche ; e aqui no Linhó , e na Ribeira guerra lhe fazem como na fronteira .
+      [ 1090 ] 
+      [ 1091 ]  Não falo já em Sintra , e em Colares , que fazem vinho só para os altares .
+      [ 1092 ]  E todos nesta hora , à fé de amigo , tão isentos estão , como eu que o digo .
+      [ character:  2.o Bêbado]
+      [ 1093 ]  Pois sor banana , essa é a valentia , trazer contra um só tal companhia .
+      [ 1094 ]  Hei de quebrar a todos os focinhos , que todos para mim são uns cominhos .
+      [ 1095 ]  Não sabe que descendo de parentes que foram muito testos , e valentes ?
+      [ 1096 ]  Meu bisabô morava à Cruz do Pau , e a cara cruzou a um catimbau .
+      [ 1097 ]  Não sei se foi com faca , se navalha , que o deixou desfeito todo em palha .
+      [ 1098 ] 
+      [ 1099 ]  E sem temer justiça meu avô de noite pelo Bairro Alto andava só , e a oito , sem ser temeridade fez junto à esperança a caridade .
+      [ 1100 ]  Quer saber mais , já que não sabe nada ?
+      [ 1101 ]  Por que chamam do Congro à calçada ?
+      [ 1102 ]  Foi porque antigamente um meu tio em postas nela fez um grão safio , que por milagre se pescou à cana , e que fora com uma partasana ; e mudando-se o nome desta história foi Calçada do Congro por memória .
+      [ 1103 ]  Um primo que lá tive nos Cardais derrubou de um só tiro cem pardais dos que chamam de bicos amarelos , e com uma espingarda de farelos .
+      [ 1104 ]  E à vista de varões tão sinalados que valor herdarei de meus passados ?
+      [ 1105 ]  Ande que é um ninguém , é um cobarde , e agradeça a Deos ser já tão tarde e não vi-lo a saber minha mulher que lhe havia dar muito em que entender .
+      [ 1106 ] 
+      [ 1106 ]  Faz que vomita .
+      [ character:  1.o Bêbado]
+      [ 1107 ]  São Brás !
+      [ 1108 ]  Se tem catarro , não beba nunca vinho pelo jarro , que faz ventosidades .
+      [ character:  2.o Bêbado]
+      [ 1109 ]  Quem o mete a curar enfermidades ?
+      [ 1110 ]  Estudou algum' hora por Galeno ?
+      [ character:  1.o Bêbado]
+      [ 1111 ]  De medicina não , mas um pequeno aprendi de surgia e dous dedos também de alveitaria e porque da fortuna me não queixe sei muito bem nadar , porque sou peixe .
+      [ character:  2.o Bêbado]
+      [ 1112 ]  Pois é peixe você , não mo dezia ?
+      [ 1113 ]  Aposto que é linguado , ou azevia .
+      [ character:  1.o Bêbado]
+      [ 1114 ]  Não sou tão pouco , não , tenho mais bucho , mui bem se deixa ver que sou cachucho .
+      [ character:  2.o Bêbado]
+      [ 1115 ]  Pois por certo que estou muito espantado , ter tanta língua , e não ser linguado .
+      [ 1116 ] 
+      [ character:  1.o Bêbado]
+      [ 1117 ]  Postas as nossas ambas sobre uma arca sempre a vossa há de ser de mais de marca .
+      [ character:  2.o Bêbado]
+      [ 1118 ]  Com a vossa não faz esta parelha .
+      [ 1118 ]  Bota a língua fora .
+      [ character:  1.o Bêbado]
+      [ 1119 ]  Tinto devia ser , que está vermelha .
+      [ character:  2.o Bêbado]
+      [ 1120 ]  Olhe que o muito sal dana o pescado não venha a ser cachuchuo escalado .
+      [ 1121 ]  Ele deve fazer de mim babeca , não sabe que também eu sou faneca ?
+      [ character:  1.o Bêbado]
+      [ 1122 ]  Pela língua que tem de cor de vinho fora ruivo , senão santantoninho .
+      [ character:  1.o Bêbado]
+      [ 1123 ]  Os demais peixes ( dizer isto dexe ) conosco nem são carne , nem são peixe , isso bem claro está , eu bem o vejo .
+      [ 1124 ]  Caranguejo não é peixe , peixe não é caranguejo .
+      [ 1124 ]  Canta .
+      [ character:  1.o Bêbado]
+      [ 1125 ]  Ó meu faneca amigo , e companheiro , sempre frescal estejas em viveiro .
+      [ 1126 ] 
+      [ 1126 ]  Abraçam-se .
+      [ character:  2.o Bêbado]
+      [ 1127 ]  E tu cachucho amigo d' alma minha nunca te vejas posto em a espinha .
+      [ character:  1.o Bêbado]
+      [ 1128 ]  Ora nós , sendo pexes , que faremos ?
+      [ character:  2.o Bêbado]
+      [ 1129 ]  Havemos de nadar .
+      [ character:  1.o Bêbado]
+      [ 1129 ]  Logo , nademos .
+      [ 1130 ]  Deitam-se de bruços no chão fingindo que nadam .
+      [ character:  2.o Bêbado]
+      [ 1131 ]  Que pouca água que leva este rio !
+      [ character:  1.o Bêbado]
+      [ 1132 ]  Deve ser baxa-mar , e está vazio .
+      [ character:  2.o Bêbado]
+      [ 1133 ]  Inda não me dá a água pela barba .
+      [ character:  1.o Bêbado]
+      [ 1134 ]  Nem a mim me chegou inda ao pescoço , ou isto não é rio , ou está sequioso .
+      [ character:  2.o Bêbado]
+      [ 1135 ]  Disso tivera eu mágoa : dar-nos em seco , estando sobre água .
+      [ character:  1.o Bêbado]
+      [ 1136 ]  E que importava estar , o caso é que nadamos melhor em aguapé .
+      [ character:  2.o Bêbado]
+      [ 1137 ]  Isto parece praia , ou areal .
+      [ character:  1.o Bêbado]
+      [ 1138 ]  O escuro nos faz tão grande mal !
+      [ character:  2.o Bêbado]
+      [ 1139 ]  Inda assim não é tanto que não veja , o lugar onde esteja .
+      [ 1140 ]  Não vos dezia eu ?
+      [ 1141 ] 
+      [ 1142 ]  Eu sou bom moço , o mais certo é que já demos em seco .
+      [ character:  1.o Bêbado]
+      [ 1143 ]  Se será só aqui , e não adiante ?
+      [ 1144 ]  Demos ora alguns passos por davante .
+      [ 1145 ]  Mas esta inda é peior , ai tal desgraça !
+      [ 1146 ]  Que não me possa erguer , por mais que faça !
+      [ character:  2.o Bêbado]
+      [ 1147 ]  Disso vos agastais o pexe estando em seco não anda mais .
+      [ character:  1.o Bêbado]
+      [ 1148 ]  Estais mais sossegado , que sinto gente vir por este lado .
+      [ 1149 ]  Sai o terceiro bêbado .
+      [ character:  3.o Bêbado]
+      [ 1150 ]  Trapaças para mim ?
+      [ 1151 ]  A mim enganos ?
+      [ 1152 ]  Por onde se safaram os maganos ?
+      [ character:  1.o Bêbado]
+      [ 1152 ]  Quem é o que nos jura pela pele ?
+      [ character:  2.o Bêbado]
+      [ 1152 ]  Parece Brás , ou é o Demo por ele .
+      [ 1153 ] 
+      [ 1154 ]  Vai o terceiro bêbado chegando para o dous , e tropeça neles .
+      [ character:  1.o Bêbado]
+      [ 1155 ]  Não nos conhece ?
+      [ 1156 ]  É bem galante passo !
+      [ 1157 ]  Deve trazer os olhos no cachaço .
+      [ character:  2.o Bêbado]
+      [ 1158 ]  Não enxerga por donde põem os pés ?
+      [ character:  3.o Bêbado]
+      [ 1159 ]  Perdoem que já caio em vocês .
+      [ 1159 ]  Cai sobre ele .
+      [ character:  1.o Bêbado]
+      [ 1160 ]  Arre lá sor vizinho !
+      [ 1161 ]  Isso é gota-coral , ou vez de vinho .
+      [ character:  3.o Bêbado]
+      [ 1162 ]  É uma cãibra que me dá nas pernas , que me faz padecer dores internas .
+      [ character:  2.o Bêbado]
+      [ 1163 ]  Pois se quer ter saúde , guarde a boca , não seja tão guloso da minhoca , que os pexes que isto fazem sempre adrede caem logo , no anzol , pesca-os à rede .
+      [ character:  1.o Bêbado]
+      [ 1164 ]  É você também pexe como nós ?
+      [ character:  3.o Bêbado]
+      [ 1164 ]  Parece-vos a vós que posso ser algum ?
+      [ character:  1.o Bêbado]
+      [ 1164 ]  Pois não .
+      [ 1165 ] 
+      [ character:  3.o Bêbado]
+      [ 1165 ]  Pois sou atum .
+      [ character:  2.o Bêbado]
+      [ 1166 ]  Se já se não tivera declarado dissera que era atum por ser pesado .
+      [ character:  3.o Bêbado]
+      [ 1167 ]  Ai minha dona que chão para favas .
+      [ 1167 ]  Canta .
+      [ character:  1.o Bêbado]
+      [ 1168 ]  Como roncam de longe as ondas bravas !
+      [ character:  2.o Bêbado]
+      [ 1169 ]  Sobre isso beberemos .
+      [ character:  3.o Bêbado]
+      [ 1170 ]  Venha vinho , que todos brindaremos .
+      [ 1171 ]  Tira o segundo a borracha , e bebe de vagar .
+      [ character:  2.o Bêbado]
+      [ 1172 ]  À saúde de vossas senhorias , porque estão estas noites muito frias .
+      [ character:  3.o Bêbado]
+      [ 1173 ]  Boa viagem leva a Penha Longa parece quando bebe que se alonga .
+      [ character:  2.o Bêbado]
+      [ 1174 ]  Costumo no beber fazer remanso e via-me agora no descanso .
+      [ character:  1.o Bêbado]
+      [ 1175 ]  Caminha muito bem para a Ericeira com descansar assim na Pederneira .
+      [ character:  2.o Bêbado]
+      [ 1176 ]  Tire lá , ele é tolo , vai-me à mão ?
+      [ 1177 ]  Quer que o condene pela Imposição ?
+      [ character:  3.o Bêbado]
+      [ 1178 ]  Largue , que já bebeu .
+      [ 1179 ] 
+      [ 1180 ]  Parece se esqueceu .
+      [ 1180 ]  Pega-lhe na borracha .
+      [ character:  1.o Bêbado]
+      [ 1181 ]  Este pexe há no bairro da Pampulha , enfia-os mui bem o pexe-agulha .
+      [ character:  2.o Bêbado]
+      [ 1182 ]  Pois cuidam que é agulha de ferreiro .
+      [ 1183 ]  Você me ensinou a ser ronceiro .
+      [ character:  2.o Bêbado]
+      [ 1184 ]  Quando o enxergar bem , nisto consista .
+      [ 1185 ]  Estou à vista já , da Boavista .
+      [ character:  3.o Bêbado]
+      [ 1186 ]  Hei de brindar com outros lava-dentes à saúde de todos os presentes .
+      [ 1186 ]  Detém-se .
+      [ character:  1.o Bêbado]
+      [ 1187 ]  Mais arriba dous furos por honra dos passados , e futuros .
+      [ character:  2.o Bêbado]
+      [ 1188 ]  Disso vos espantais ?
+      [ 1189 ]  Beberá Caparicas , e Seixais .
+      [ character:  1.o Bêbado]
+      [ 1190 ]  Parece , quando bebe , que se esquece .
+      [ character:  3.o Bêbado]
+      [ 1191 ]  Isso é o que a você só lhe parece .
+      [ 1191 ]  Bebe .
+      [ character:  2.o Bêbado]
+      [ 1192 ]  Para tanta saúde era pouco de vinho um almude .
+      [ character:  3.o Bêbado]
+      [ 1193 ]  Parece fica um homem mais valente metendo em si a saúde de outra gente .
+      [ 1194 ] 
+      [ character:  1.o Bêbado]
+      [ 1195 ]  Assi é que depois desta potage se me infunde no peito outra corage .
+      [ character:  3.o Bêbado]
+      [ 1196 ]  Pois por isso o rifão diz que o vinho alegra o coração .
+      [ character:  1.o Bêbado]
+      [ 1197 ]  Mas com tal condição que ele fofoca quem deitando está sangue pela boca .
+      [ character:  1.o Bêbado]
+      [ 1198 ]  Vou-lhe agora que é cacha .
+      [ 1198 ]  Tira-lha .
+      [ character:  3.o Bêbado]
+      [ 1199 ]  Também você a ele não se agacha .
+      [ character:  2.o Bêbado]
+      [ 1200 ]  À saúde de todos em geral .
+      [ 1200 ]  Bebe .
+      [ character:  3.o Bêbado]
+      [ 1201 ]  Entender-se-á também no hospital .
+      [ character:  1.o Bêbado]
+      [ 1202 ]  A mim me cabe agora a minha vez .
+      [ 1202 ]  Descem-se .
+      [ character:  2.o Bêbado]
+      [ 1203 ]  Creio que achará no fundo o pez .
+      [ character:  1.o Bêbado]
+      [ 1204 ]  À saúde de toda esta casa .
+      [ 1204 ]  Torna a bebida .
+      [ character:  2.o Bêbado]
+      [ 1205 ]  Bom proveito lhe faça .
+      [ character:  3.o Bêbado]
+      [ 1206 ]  Assim o dera Deos pelos carrascos .
+      [ character:  1.o Bêbado]
+      [ 1207 ]  Soldado velho despeja bem os frascos .
+      [ 1208 ]  Acabe de beber o primeiro .
+      [ character:  3.o Bêbado]
+      [ 1209 ]  Amigo monsieur , quomodo vales ?
+      [ character:  1.o Bêbado]
+      [ 1210 ]  Pouco remédio acho nos meus males .
+      [ character:  2.o Bêbado]
+      [ 1211 ]  Pois não lhe pese , ainda que sofoca de deitar esse sangue pela boca .
+      [ 1212 ] 
+      [ character:  1.o Bêbado]
+      [ 1213 ]  Estava agora , ( crea-me isto , crea ) para quatro versinhos mui de vea .
+      [ character:  2.o Bêbado]
+      [ 1214 ]  Pois isso não se escusa e mais para quem tem ciência em infusa .
+      [ character:  1.o Bêbado]
+      [ 1215 ]  Ora vá , alguma cousa , como amigo .
+      [ character:  2.o Bêbado]
+      [ 1216 ]  Dizei , por vida vossa .
+      [ character:  3.o Bêbado]
+      [ 1217 ]  Digo , digo :
+      [ 1217 ]  Canta
+      [ 1218 ]  O Re o Ro da capé .
+      [ 1219 ]  Enforque-se o dia , vida que não chega a né .
+      [ 1220 ]  Manoel dá cá a borrá .
+      [ character:  1.o Bêbado]
+      [ 1221 ]  Bizarro por minha alta , toca , toca .
+      [ character:  3.o Bêbado]
+      [ 1222 ]  Que não sabeis tocar , nem valeis soca .
+      [ 1222 ]  Saem três mulheres .
+      [ character:  1.a Mulher]
+      [ 1223 ]  Que diz ela , que diz ?
+      [ 1224 ]  O seu marido é quem faz ao meu andar perdido .
+      [ character:  2.a Mulher]
+      [ 1225 ]  Que dores tão internas !
+      [ 1226 ]  Antes o seu mo traz pelas tavernas .
+      [ character:  3.a Mulher]
+      [ 1227 ]  É verdade , porque também o meu bebe com ele quanto tem de seu .
+      [ character:  1.o Bêbado]
+      [ 1228 ]  Quem são as chocalheiras !
+      [ character:  2.o Bêbado]
+      [ 1229 ]  Devem de ser sem falta as regateiras que vêm para a cabana a comprar pexe para esta somana .
+      [ character:  3.o Bêbado]
+      [ 1230 ]  Ai como me arrepiam as gadelhas , não vamos nós empostas nas suas celhas .
+      [ character:  1.a Mulher]
+      [ 1231 ]  Ali estão dous vultos .
+      [ 1232 ]  Quero ver se eles são , que estejam ocultos .
+      [ 1233 ]  Chega-te , e conhece-os .
+      [ 1234 ]  Seu marido aqui está feito caneca .
+      [ character:  1.o Bêbado]
+      [ 1235 ]  Afaste para lá , que sou faneca .
+      [ character:  2.a Mulher]
+      [ 1236 ]  Aqui está o seu santo , o seu capucho .
+      [ character:  2.o Bêbado]
+      [ 1237 ]  Tire-se para lá que sou cachucho .
+      [ character:  3.a Mulher]
+      [ 1238 ]  Cá está seu marido inda em jejum .
+      [ character:  3.o Bêbado]
+      [ 1239 ]  Retire-se , não vê que sou atum ?
+      [ character:  1.a Mulher]
+      [ 1240 ]  Que borrachos , que estão nossos maridos !
+      [ character:  2.a Mulher]
+      [ 1241 ]  Estão todos em pexes convertidos .
+      [ character:  1.o Bêbado]
+      [ 1242 ]  Bem podem por suas vidas , ir-se também meter nas convertidas .
+      [ character:  3.a Mulher]
+      [ 1243 ]  Não vedes o juiz que nos despacha que dos bêbados pode ter garnacha ?
+      [ character:  1.a Mulher]
+      [ 1244 ]  É papa-arroz que tem jurisdição para nos conceder dispensação com que possa soltar-se o matrimônio .
+      [ 1245 ]  Arrenego do vinho , e do demônio .
+      [ character:  2.a Mulher]
+      [ 1246 ]  Coitadinhos de vós , se não fôramos nós .
+      [ 1247 ]  Se mulheres não houvera , que fariam os homens , quantos males passariam ?
+      [ character:  2.o Bêbado]
+      [ 1248 ]  Pois isso quem o não há de assim crer ?
+      [ 1249 ]  Todos sem elas devíamos morrer ; porém só neste triste celibato estaria o vinho mais barato .
+      [ character:  3.a Mulher]
+      [ 1250 ]  O bigodes de vinho o que responde , quando numa qualquer mulher se esconde a discrição , a graça , e todo o asseio que da casa é governo , e é esteio .
+      [ 1251 ]  E um homem não presta , nem para odre .
+      [ character:  3.o Bêbado]
+      [ 1252 ]  Isso será quando ele é pexe podre .
+      [ 1253 ]  Mas c'o sangue na guelra , fresco , e vivo , fora chamar então joeira ao crivo .
+      [ character:  3.a Mulher]
+      [ 1254 ]  Que redículo está este entremez !
+      [ character:  2.a Mulher]
+      [ 1255 ]  Que tais estão as almas destes três !
+      [ character:  1.a Mulher]
+      [ 1256 ]  Que causa há para assim serem tratadas três mulheres casadas ?
+      [ character:  2.o Bêbado]
+      [ 1257 ]  Porque pexe com carne não convém , que o mal de São Lázaro daí vem .
+      [ character:  3.o Bêbado]
+      [ 1258 ]  E porque cada qual anda enfadado de ser carne , e quer antes ser pescado .
+      [ character:  2.a Mulher]
+      [ 1259 ]  A bebedice está bem engraçada , os pexes estão bons para ũa empada .
+      [ character:  2.o Bêbado]
+      [ 1260 ]  Se neste apartamento tiveres de ofender-me pensamento , lembre-vos mulher só esta palavra : que sou faneca , e não me façais cabra .
+      [ character:  1.a Mulher]
+      [ 1261 ]  Vós não me dizeis nada , e estais calado , que dizeis meu cachucho prateado ?
+      [ character:  1.o Bêbado]
+      [ 1261 ]  Advirto-vos mulher , que ando no mar e se acaso tiveres de jantar algum cachucho frito , ou cozido , por peixe não comais vosso marido .
+      [ character:  3.a Mulher]
+      [ 1262 ]  E só vós de palavras estais falto , dizei , meu atum do alto ?
+      [ character:  3.o Bêbado]
+      [ 1263 ]  Também a mim me toca nesta ausência fazer-vos esta breve advertência .
+      [ 1264 ]  Quando por almas quiseres rezar , vos lembreis que ando sobre águas do mar .
+      [ character:  1.o Bêbado]
+      [ 1265 ]  Deixemos esta praga infernal , vamos buscar o nosso natural .
+      [ 1266 ]  Nadam outra vez .
+      [ character:  1.a Mulher]
+      [ 1267 ]  Vedes assafema , e desassossego , cada qual deles nada como um prego .
+      [ character:  2.a Mulher]
+      [ 1268 ]  Fatal carregação !
+      [ 1269 ]  Lindo cardume , não é essa água a que mata esse lume .
+      [ character:  3.a Mulher]
+      [ 1270 ]  Nada , corpo pesado , que te afogas .
+      [ 1271 ]  Eu tenho bogas , bogas .
+      [ 1271 ]  Apregoa .
+      [ character:  1.a Mulher]
+      [ 1272 ]  Estou parva .
+      [ character:  1.o Bêbado]
+      [ 1272 ]  Estas cousas me consomem , vistes pexe mulher , nunca pexe homem ?
+      [ character:  2.a Mulher]
+      [ 1272 ]  Vede a lástima , olhai o desarranjo .
+      [ 1273 ]  Tal está que dirá que é pexe anjo .
+      [ character:  3.a Mulher]
+      [ 1274 ]  Que dizeis , meu pratinho de albafor ?
+      [ character:  3.o Bêbado]
+      [ 1275 ]  Guardai-vos vós do pexe roncador .
+      [ character:  3.a Mulher]
+      [ 1276 ]  Precatar-me-ei , que estou ameaçada ?
+      [ 1277 ]  Com risco ferir-me-á o pexe espada .
+      [ character:  2.o Bêbado]
+      [ 1278 ]  Olá compadre , ouve sor vizinho , venha uma vez de vinho .
+      [ character:  3.o Bêbado]
+      [ 1279 ]  Vinho ?
+      [ 1280 ]  Lambeatus es in Cartagena .
+      [ character:  2.o Bêbado]
+      [ 1280 ]  Não podia ouvir nova de mais pena , que há dias que não bebo ũa goteira e sábado que vem faz quinta-feira .
+      [ 1281 ]  Tangem dentro , e dizem :
+      [ character:  Todas .]
+      [ 1282 ]  Levantem-se os pexes , e bailemos .
+      [ character:  1.o Bêbado]
+      [ 1283 ]  Se prestamos para isso levantemos .
+      [ 1283 ]  Levantam-se .
+      [ character:  1.a Mulher]
+      [ 1284 ]  Sabereis vós cantar ?
+      [ character:  1.o Bêbado]
+      [ 1284 ]  Como uns prelados , cantarei filhos meus muito amados ao sarambeque que será um pasmo .
+      [ character:  2.o Bêbado]
+      [ 1285 ]  Inda estais mais pão trigo , que pão asmo .
+      [ character:  1.o Bêbado]
+      [ 1286 ]  Que diz que sou um asno só não mais !
+      [ 1287 ]  Pois companheiro pouco me gabais .
+      [ 1288 ]  Cantam , e bailam o seguinte :
+      [ character:  1.a Mulher]
+      [ 1289 ]  Venham ver o milagre que faz o vinho , que transformou em pexe , a três mosquitos .
+      [ 1289 ]  Repetem .
+      [ character:  2.a Mulher]
+      [ 1290 ]  Tudo neste entremez foram milagres , fazer a água , e o vinho entre si pazes .
+      [ 1290 ]  Repetem .
+      [ character:  3.a Mulher]
+      [ 1291 ]  Quem disser que o vinho com sal faz mal , mentirá , que esta vez teve sal .
+      [ 1291 ]  Repetem .
+      [ closing:  FIM .] 
+      
+      [ play ]
+      [ title: 
+      [ 1292 ]  ENTREMEZ DAS FOGUEIRAS de São João . ]
+      [ title:  FIGURAS : ]
+      [ 1293 ]  Velhos .
+      [ 1294 ]  Filha do velho .
+      [ 1295 ]  João , sobrinho do sancristão .
+      [ 1296 ]  Criada .
+      [ 1297 ]  Sancristão .
+      [ 1298 ]  Pedro , criado do sancristão .
+      [ 1299 ]  Sai João , e Pedro .
+      [ character:  João]
+      [ 1300 ]  Ó Pedro , olha que amanhã é do meu santo a véspora , e que havemos comprar muita cousa para a festa .
+      [ character:  Pedro]
+      [ 1301 ]  Bem o sei ; mas tem você já concertada a bandeira , que havemos pôr no mastro ?
+      [ character:  João]
+      [ 1301 ]  Está lindamente feita ; busca tu mastro primeiro e lenha para a fogueira .
+      [ character:  Pedro]
+      [ 1302 ]  Não faltará que queimar eu juntarei muita lenha .
+      [ character:  João]
+      [ 1303 ]  Pólvora é o principal , por tua vida não te esqueça .
+      [ character:  Pedro]
+      [ 1304 ]  Já eu a tenho guardado , debaixo está de coberta .
+      [ character:  João]
+      [ 1305 ]  Quem ta deu , ou donde a achaste ?
+      [ character:  Pedro]
+      [ 1306 ]  Aqui a trago na algibeira , pilhei-a ao senhor meu amo que a tinha para a escopeta .
+      [ character:  João]
+      [ 1307 ]  É grossa , ou é da fina ?
+      [ character:  Pedro]
+      [ 1307 ]  Parece boa que é preta , e a provei , e é tão forte , que pondo-a na língua , queima .
+      [ character:  João]
+      [ 1308 ]  Há de fazer bons foguetes , se ela é dessa maneira .
+      [ character:  Pedro]
+      [ 1309 ]  Faça você bem de traques para que assim mais nos renda .
+      [ character:  João]
+      [ 1310 ]  Foguetes não é melhor ?
+      [ character:  Pedro]
+      [ 1310 ]  Isso tem muita detença , porque tem muito feitio , e se estouram , já não presta .
+      [ character:  João]
+      [ 1311 ]  Homem , compra tu enxofre , e traze canas direitas que dos que eu fizer , verás cada um como rabea .
+      [ character:  Pedro]
+      [ 1312 ]  Eu trarei quanto me pede , mas logo digo , que veja que nos sai o fogo bom , porque a gente assim o espera .
+      [ character:  João]
+      [ 1313 ]  Também eu tenho apostado com o filho da forneira e com Domingos da Horta a ver quem melhor festeja .
+      [ 1314 ]  Agora vai tu tratar de tudo isto a toda a pressa .
+      [ character:  Pedro]
+      [ 1315 ]  Ora vamos , que é já tempo .
+      [ character:  João]
+      [ 1316 ]  De ser tão pouco , me pesa .
+      [ 1316 ]  Vão-se .
+      [ 1317 ]  Sai o velho , e o sancristão :
+      [ character:  Velho]
+      [ 1318 ]  Temos São João à porta .
+      [ character:  Sancristão]
+      [ 1319 ]  Eu o sentirei na igreja que esse dia é de trabalho inda que é de guarda a festa .
+      [ character:  Velho]
+      [ 1320 ]  Já eu receio , que o caseiro venha , e o aluguel me peça , da meia-paga vencida , que é homem que não sossega .
+      [ character:  Sancristão]
+      [ 1321 ]  Dinheiro é mau de ajuntar , e gasta-se bem depressa , tomara agora ter junto o que o aluguel me leva .
+      [ character:  Velho]
+      [ 1322 ]  Essa é a pensão que tem quem traz as casas de renda sem poder ter uns buracos seus próprios , em que se meta .
+      [ character:  Sancristão]
+      [ 1323 ]  Pois isto de andar mudando cada ano o fato , molesta , que sem se mostrar caqueiros , a mudança tudo quebra .
+      [ character:  Velho]
+      [ 1324 ]  Eu desta idade que sou ainda saber quisera porque em junho , e São João todas as casas despejam .
+      [ character:  Sancristão]
+      [ 1325 ]  Já ouvi dizer que o ano , assim como navio era : que no entrudo tem naufrágio , e no São João dá crena .
+      [ character:  Velho]
+      [ 1326 ]  Não foi fora da razão , porque no entrudo navega como por debaixo da água pois se molha das janelas .
+      [ 1327 ]  E como já derrotado ficara desta tormenta , muda-se a matalotage , dá-se-lhe fogo na crena .
+      [ character:  Sancristão]
+      [ 1328 ]  Quem se muda Deos o ajuda sempre foi moral sentença , que por não ter mau vizinho um prudente se desterra .
+      [ character:  Velho]
+      [ 1329 ]  Entre as mudanças das casas não sei qual mais justa seja , se fugir do mau vizinho se da alma que aí anda em pena ?
+      [ 1330 ]  Mas de tudo no mundo há , a maldade em tudo reina ?
+      [ 1331 ]  Nas casas se há cousa má também há más naturezas .
+      [ character:  Sancristão]
+      [ 1332 ]  O tempo também se muda , inda mal que se experimenta , porque nos tempos antigos corria outra moeda .
+      [ 1333 ]  Há na festa do São João hoje grande diferença que nos mastros que levantam do santo não há bandeiras .
+      [ character:  Velho]
+      [ 1334 ]  Foi indústria do Diabo que como é pai da inveja , pôs em lugar dos troféus , espantalhos de figueira .
+      [ 1335 ]  Como inimigo da cruz , a de Malta que era a empresa .
+      [ 1336 ]  Da santa , e militar ordem fez com que desapareça .
+      [ character:  Sancristão]
+      [ 1337 ]  Oh queira Deos que algum dia no mau costume haja emenda , porque a festa do São João seja de Deos bem aceita ; e se veja ainda exaltado , não nos mastros , nas estrelas aquele cordeiro que no precursor se venera .
+      [ character:  Velho]
+      [ 1338 ]  Meu sancristão o que diz assim passa na revera , e fala como cristão , quem o não crer , quer fogueira .
+      [ character:  Sancristão]
+      [ 1339 ]  Pois vamos dar orde à vida e à menhã não se esqueça de vir para minha casa porque espero com a cea .
+      [ character:  Velho]
+      [ 1340 ]  Eu estou já nesse foro de você me dar licença que o senhor seu sobrinho com suas festas nos recrea .
+      [ 1340 ]  Vão-se
+      [ 1341 ]  Sai a filha , e criada :
+      [ character:  Filha]
+      [ 1342 ]  Moça , fostes hoje à feira a comprar-me as alcachofras para à noite de São João deitar por certas pessoas ?
+      [ character:  Criada]
+      [ 1343 ]  Lá tem você uma dúzia bem crescidas , e fermosas .
+      [ character:  Filha]
+      [ 1344 ]  Achastes erva-pinheira ?
+      [ character:  Criada]
+      [ 1344 ]  Também truxe , mas é pouca .
+      [ character:  Filha]
+      [ 1345 ]  Deos me dê boa ventura para que deite em boa hora as alcachofras tosquiadas , que floridas saiam todas .
+      [ character:  Criada]
+      [ 1346 ]  Ele parece milagre ver que uma flor quase morta , e queimada , reverdeça em menos de doze horas .
+      [ character:  Filha]
+      [ 1347 ]  E não é mais o orinol cheio de água , em que se bota uma só gema de ovo , e que várias cousas mostra ?
+      [ character:  Criada]
+      [ 1348 ]  E quem as vem descobrir será médico , senhora ?
+      [ character:  Filha]
+      [ 1349 ]  Qual médico , nem cirurgião .
+      [ character:  Criada]
+      [ 1349 ]  Pois diga que não me toa .
+      [ 1350 ]  O médico pela urina que no orinol vê posta para curar ao enfermo não é só o que se informa ?
+      [ character:  Filha]
+      [ 1350 ]  Aqui não é necessário médico ; não sejas tola .
+      [ character:  Criada]
+      [ 1351 ]  Logo virá vedor de águas para ver se essas são boas , porque esse é o seu ofício buscar água para noras .
+      [ character:  Filha]
+      [ 1352 ]  Só quem faz esta experiência o vê , não é cousa nova .
+      [ character:  Criada]
+      [ 1353 ]  Pois nada verá , quem não for de São João devota .
+      [ character:  Filha]
+      [ 1354 ]  Pondo-se o urinol ao Sol verá quem para ele olha que o mesmo Sol vai bailando dando claramente voltas .
+      [ character:  Criada]
+      [ 1355 ]  Ai tal !
+      [ 1356 ]  Louvores a Deos !
+      [ 1357 ]  Também no céu há galhofas .
+      [ 1358 ]  Ora digo que São João merece maiores honras .
+      [ character:  Filha]
+      [ 1359 ]  Se viria já meu pai ?
+      [ character:  Criada]
+      [ 1359 ]  Ele há muito que foi fora .
+      [ character:  Filha]
+      [ 1360 ]  Vai tu ver se chegou já que ouço bater lá na porta .
+      [ character:  Vai .]
+      [ 1361 ]  Sai o velho , e Pedro com a criada :
+      [ character:  Pedro]
+      [ 1362 ]  Meu amo lhe beja as mãos e eu a estas senhoras .
+      [ 1363 ]  Ele diz que vão vocês , eu digo que logo corram .
+      [ 1364 ]  Que há muito fogo que ver e muito que ouvir de solfa , muito cheirar , e apalpar , c'os narizes , e com as bocas .
+      [ character:  Criada]
+      [ 1365 ]  Basta , que tudo isso há ?
+      [ character:  Pedro]
+      [ 1365 ]  Disto se espantou a mona .
+      [ character:  Criada]
+      [ 1366 ]  Tu , macaco com calções , que viestes nesta frota és Pedro de malas artes .
+      [ character:  Pedro]
+      [ 1366 ]  Inda não sabes das outras .
+      [ 1366 ]  Vai-se .
+      [ 1366 ]  Sai a filha .
+      [ character:  Velho]
+      [ 1367 ]  Filha , ide-vos compor porque o sancristão agora mandou por Pedro um recado que fosse eu convosco , e toda a casa , a ver as fogueiras e o fogo que há de rodas com foguetes , e montantes que tudo seu sobrinho obra , e como se chama João em louvor do Santo os bota .
+      [ character:  Filha]
+      [ 1368 ]  Ele é mui bem inclinado .
+      [ character:  Pedro]
+      [ 1369 ]  Já que lhe faz tanta honra não lhe faça a noite breve .
+      [ 1369 ]  Vai-se .
+      [ character:  Velho]
+      [ 1370 ]  Andai , filha , que são horas .
+      [ 1370 ]  Vão-se .
+      [ 1371 ]  Sai João , e Pedro .
+      [ character:  Pedro]
+      [ 1372 ]  Donde quer , senhor João , que façamos a fogueira ?
+      [ character:  João]
+      [ 1373 ]  Neste rocio a façamos e bem no meio aqui seja .
+      [ character:  Pedro]
+      [ 1374 ]  Parece-me isso mui bem .
+      [ character:  João]
+      [ 1374 ]  Ora eu vou fazer vir lenha e entre tanto pede tu em voz alta que se entenda , que te dêm os que puderem para este fogo matéria .
+      [ character:  Pedro]
+      [ 1375 ]  A matéria hei de pedir !
+      [ 1376 ]  Isso é cousa que se peça ?
+      [ 1377 ]  Eu , senhor , sou mui nojento .
+      [ 1378 ]  Declare que cousa é essa .
+      [ character:  João]
+      [ 1379 ]  Chama-se matéria tudo o que é de pau , e madeira .
+      [ character:  Pedro]
+      [ 1380 ]  Agora sim que já caiu , já me entrou cá na cabeça .
+      [ 1381 ]  Pois vá-se com Deos que eu fico fazendo essa diligência , hei de gritar como um surdo , serei uma taramela .
+      [ 1382 ]  Vai-se João , e Pedro apregoa .
+      [ character:  Pedro]
+      [ 1383 ]  Todos quantos me ouvirem me botem dessas janelas quantos trapos , e fragalhos tiverem de cousas velhas .
+      [ 1384 ]  Venha todo o fato à rua , venham caixões , e cadeiras , canastras , bancos , e bancas , cortiças , couros , rodelas ; portas , rotolas , adufas , tanhos , tripós , e tripesas , sestos , cabaças , cabazes , joeiras , crivos , peneiras ; taboleiro ; meio alqueire em afilado não seja e todos os mais tarecos , que nos desvãos , e trapeiras se acharem depositados , esquecidos , e com teas de aranha , ou com caruncho que tudo hoje aqui se aceita .
+      [ 1385 ]  E até de enxergões podres a palha senão enjeita , que com basculhos , bassouras com varas , e canas secas o pó lhe sacudiremos , e arderá , como candeas .
+      [ 1386 ]  Sai a filha , e criada .
+      [ character:  Pedro]
+      [ 1387 ]  Sejam vocês mui bem-vindas , que por vocês se esperava ; deixai passar a senhora que não importa a criada .
+      [ character:  Criada]
+      [ 1388 ]  Olhe quem nos aposenta !
+      [ 1389 ]  Não vem o que nos faz praça ?
+      [ character:  Pedro]
+      [ 1390 ]  Não fora ela cozinheira , seu dito diz com tal cara .
+      [ 1391 ]  Assente-se aqui , senhora .
+      [ 1391 ]  Para a Ama .
+      [ 1392 ]  Ela em pé será mais alta .
+      [ 1392 ]  Para a criada
+      [ 1393 ]  Ficam a um lado para ver ; sai o velho , e sancristão .
+      [ character:  Velho]
+      [ 1394 ]  A noite está bem quieta .
+      [ character:  Sancristão]
+      [ 1395 ]  Alegria lhe não falta .
+      [ character:  Pedro]
+      [ 1396 ]  Com hóspedes tão honrados será esta festa honrada .
+      [ character:  Sancristão]
+      [ 1397 ]  Chega a cadeira ao senhor , põe-lhe aos pés uma tábua .
+      [ character:  Velho]
+      [ 1398 ]  Bem mostra ser meu amigo pois que de mim tanto trata .
+      [ character:  Sancristão]
+      [ 1399 ]  Faço como para mim que um amigo do outro é alma .
+      [ character:  Pedro]
+      [ 1400 ]  Isso nunca pode ser , não entendo essa palavra .
+      [ character:  Sancristão]
+      [ 1401 ]  Eu te darei a reposta .
+      [ character:  Velho]
+      [ 1402 ]  A mim só me toca dá-la .
+      [ 1403 ]  Eu , e o senhor , ambos somos em um corpo duas almas ; por união de amizade a vida nunca se acaba .
+      [ character:  Sancristão]
+      [ 1404 ]  Entendestes já a razão .
+      [ character:  Pedro]
+      [ 1405 ]  Inda não alcanço a causa , que a alma se nom está no corpo a pessoa está finada .
+      [ character:  Sancristão]
+      [ 1406 ]  Tu não vês como estou vivo .
+      [ character:  Pedro]
+      [ 1406 ]  Como ?
+      [ 1407 ]  Você não repara que faz sua alma ao senhor ?
+      [ 1408 ]  Logo , se se acha apartada de você , que é o seu corpo , meu discurso nom me engana .
+      [ character:  Sancristão]
+      [ 1409 ]  Pois aquilo não é assim ?
+      [ character:  Pedro]
+      [ 1409 ]  Não podem mentir tais barbas que basta ao senhor dizê-lo , no desfaço na palavra .
+      [ 1410 ]  Chama dentro João por Pedro .
+      [ character:  João]
+      [ 1411 ]  Ajuda Pedro aqui , depressa , corre , que co a carga de lenha o burro morre .
+      [ 1412 ]  Vá Pedro buscar um fexe de lenha , e carqueja em um alguidar que servirá de fogueira no meio da fala , e acendida dirá :
+      [ character:  Pedro]
+      [ 1413 ]  Viva , viva a fogueira de São João .
+      [ character:  João]
+      [ 1414 ]  Ó Pedro , acende lá este murrão .
+      [ character:  Pedro]
+      [ 1415 ]  Dê-mo cá que lho quero acender logo .
+      [ character:  João]
+      [ 1416 ]  Ora avia , vai já buscar o fogo .
+      [ character:  Pedro]
+      [ 1417 ]  E donde tem você posto os foguetes ?
+      [ character:  João]
+      [ 1418 ]  Estão lá dentro em cima dos bofetes .
+      [ character:  Pedro]
+      [ 1419 ]  Pois hei de trazer muntos ?
+      [ character:  João]
+      [ 1419 ]  Já querias gastá-los todos juntos .
+      [ 1420 ]  Traze primeiro os grandes , que são do ar .
+      [ character:  Pedro]
+      [ 1421 ]  Quantos quer ?
+      [ 1422 ]  Quantos hão de lá ficar ?
+      [ character:  João]
+      [ 1422 ]  Traze-me os que quiseres , e aviemos .
+      [ 1422 ]  Vai buscá-los .
+      [ character:  Pedro]
+      [ 1423 ]  Aqui lhe trago todos , comecemos .
+      [ character:  João]
+      [ 1424 ]  Tens tu para os botar alguma luva ?
+      [ character:  Pedro]
+      [ 1425 ]  Não , mas irei pedi-la a ũa viúva .
+      [ character:  João]
+      [ 1426 ]  Ora vai , e avia que é já tarde .
+      [ character:  Pedro]
+      [ 1427 ]  Não se apresse , que o fogo logo arde .
+      [ character:  João]
+      [ 1428 ]  Ouves , traze também os buscapés .
+      [ character:  Pedro]
+      [ 1429 ]  Bem queria eu trazê-los de ũa vez .
+      [ character:  João]
+      [ 1430 ]  Vai buscá-los , vem logo aqui voando , que já se vai a lenha acabando .
+      [ character:  Pedro]
+      [ 1431 ]  Não se agaste que aqui trago mais lenha .
+      [ character:  João]
+      [ 1432 ]  Eu que tenho com isso ?
+      [ 1433 ]  Lá se avenha ,
+      [ 1434 ]  porque tanto que ela nos faltar , a festa na mesma hora há de acabar .
+      [ character:  Pedro]
+      [ 1435 ]  Ora dê-me um foguete .
+      [ character:  João]
+      [ 1435 ]  Ei-lo de rabo .
+      [ 1435 ]  Dá-lho .
+      [ character:  Pedro]
+      [ 1436 ]  Ui !
+      [ 1437 ]  Não queres pegar ?
+      [ 1438 ]  Valha-te o Diabo , as mãos que te fizeram , amém , amém .
+      [ character:  João]
+      [ 1439 ]  Queres tu que te ensine a falar bem ?
+      [ character:  Pedro]
+      [ 1439 ]  A falar bem não me há de ensinar , que os foguetes também os sei deitar .
+      [ character:  João]
+      [ 1440 ]  Ora vejamos , deita-o , avia ... não pega fogo .
+      [ character:  Pedro]
+      [ 1440 ]  Isto é porque a pólvora está fria .
+      [ 1441 ]  Dizem dentro dous :
+      [ character:  1.o [figurante]]
+      [ 1442 ]  Ah só mija na pólvora , dê fogo .
+      [ character:  Pedro]
+      [ 1443 ]  Espere , vê-lo-á logo .
+      [ character:  2.o [figurante]]
+      [ 1444 ]  Escorve-lhe esse ceves que se vai .
+      [ character:  Pedro]
+      [ 1445 ]  Escorvarei os cornos de teu pai .
+      [ character:  João]
+      [ 1446 ]  Ora eu o botarei , que tu tens medo .
+      [ character:  Pedro]
+      [ 1447 ]  Deixe-me que já o boto , esteja quedo .
+      [ 1448 ]  Faz com a boca que vai zunindo pelo ar .
+      [ character:  Pedro]
+      [ 1449 ]  Victor , Victor , este bem , alto subiu !
+      [ 1449 ]  Dentro .
+      [ character:  1.o [figurante]]
+      [ 1450 ]  O senhor bem o viu .
+      [ character:  João]
+      [ 1451 ]  Agora boto eu este bem alto .
+      [ 1451 ]  Dentro .
+      [ character:  1.o [figurante]]
+      [ 1452 ]  Não se queime , e nos dê um sobressalto .
+      [ character:  2.o [figurante]]
+      [ 1453 ]  Pegue-lhe pelo rabo .
+      [ character:  1.o [figurante]]
+      [ 1454 ]  Tanto monta o princípio , como o cabo .
+      [ character:  2.o [figurante]]
+      [ 1455 ]  A pólvora revolva que está seca .
+      [ character:  Pedro]
+      [ 1456 ]  Ques que vá lá , filho da puta , creca ?
+      [ 1457 ]  Bota , e dá com a boca estouro .
+      [ character:  João]
+      [ 1458 ]  Pois que vai ?
+      [ 1459 ]  Não deu este grande estouro ?
+      [ 1459 ]  Dentro .
+      [ character:  1.o [figurante]]
+      [ 1460 ]  Pois não ?
+      [ 1461 ]  Matou um mouro .
+      [ character:  João]
+      [ 1462 ]  Quem é que nos dá trela ?
+      [ character:  Pedro]
+      [ 1463 ]  É o filho da Adela .
+      [ character:  João]
+      [ 1464 ]  Cal-te magano , que eu te apanharei .
+      [ character:  Pedro]
+      [ 1465 ]  Se eu te for às orelhas , to direi .
+      [ character:  João]
+      [ 1466 ]  Vai agora buscar-me duas rodas .
+      [ character:  Pedro]
+      [ 1467 ]  Cuido que para cá já trouxe todas .
+      [ 1468 ]  E também os montantes .
+      [ character:  João]
+      [ 1469 ]  Eu não os vejo .
+      [ character:  Pedro]
+      [ 1469 ]  Salvo os estudantes , os levaram daí de donde estavam .
+      [ character:  João]
+      [ 1470 ]  Certo é que os furtaram .
+      [ character:  Pedro]
+      [ 1471 ]  E onde estão os traques ?
+      [ 1471 ]  Dentro .
+      [ character:  1.o [figurante]]
+      [ 1472 ]  Recolham-se , grandíssimos basbaques .
+      [ 1473 ]  Levanta-se o velho , e sancristão .
+      [ character:  Velho]
+      [ 1474 ]  Eu folguei muito de ver esta festa , e este fogo .
+      [ character:  Sancristão]
+      [ 1475 ]  É galhofa de rapazes , que os diverte de jogos .
+      [ character:  Velho]
+      [ 1476 ]  Fique nas horas de Deos que a mim já me dá o sono .
+      [ character:  Sancristão]
+      [ 1477 ]  Vá-se embora , meu amigo .
+      [ character:  Velho]
+      [ 1478 ]  Com bem amanheçam todos .
+      [ 1479 ]  Vão-se , e ficam ainda as mulheres com os da festa , e dizem :
+      [ character:  João]
+      [ 1480 ]  Dizei-me , minha senhora , foi a festa a vosso gosto ?
+      [ character:  Filha]
+      [ 1481 ]  Pois não esteve perfeita ; basta vós seres o dono .
+      [ 1481 ]  Falam à parte .
+      [ character:  Criada]
+      [ 1482 ]  Ah meu Pedro eu hei de ver se você é primoroso , e se amenhã me traz a capela que dão todos .
+      [ character:  Pedro]
+      [ 1483 ]  Donde a merece você ?
+      [ character:  Criada]
+      [ 1483 ]  Pois não te quero , meus olhos ?
+      [ character:  Pedro]
+      [ 1484 ]  E há de casar comigo ?
+      [ character:  Criada]
+      [ 1484 ]  Tu só hás de ser meu noivo .
+      [ character:  Pedro]
+      [ 1485 ]  Isso será se eu quiser .
+      [ character:  Criada]
+      [ 1485 ]  E porque valho eu tão pouco ?
+      [ character:  Pedro]
+      [ 1486 ]  Porque a mulher , e a galinha ambas põem do mesmo modo : que se a mulher cornos põe , também a galinha os ovos , e se te eu der capela , depois ma porás de cornos .
+      [ character:  Cura]
+      [ 1487 ]  Isto me hás de tu dizer ?
+      [ 1488 ]  Longe vá o teu agouro .
+      [ character:  Filha]
+      [ 1489 ]  A vossa há de ser de ginjas .
+      [ character:  João]
+      [ 1489 ]  E não há de ter caroços , mas tudo há de ser de flores com ramalhetes cheirosos .
+      [ character:  Filha]
+      [ 1490 ]  Ora eu aceito a palavra .
+      [ character:  João]
+      [ 1490 ]  Eu também a mão de esposo .
+      [ 1490 ]  Dá-lhe a mão ; e a criada a Pedro , e despedem-se .
+      [ character:  Cura]
+      [ 1491 ]  Hoje hei de comer à mesa .
+      [ character:  Pedro]
+      [ 1492 ]  Vamos roer este osso .
+      [ closing:  FIM .] 
+      
+      [ play ]
+      [ title: 
+      [ 1493 ]  ENTREMEZ DO ESTUDANTE ferrolhado . ]
+      [ title: 
+      [ 1494 ]  Para a noite de São Pedro .]
+      [ 1495 ]  FIGURAS :
+      [ 1496 ]  Um cura .
+      [ 1497 ]  Um estudante Sua sobrinha .
+      [ 1498 ]  Um Cego Um alcaide .
+      [ 1499 ]  Sai o cura , e a sobrinha .
+      [ character:  Cura]
+      [ 1500 ]  Ó Laiazinha .
+      [ character:  Sobrinha]
+      [ 1500 ]  Que me quer , meu tio ?
+      [ character:  Cura]
+      [ 1501 ]  Que te não fies de nenhum vadio ; e que sejas honesta , e recatada , porque assim não serás nunca enganada !
+      [ character:  Sobrinha]
+      [ 1502 ]  Por que me diz você agora isso ?
+      [ character:  Cura]
+      [ 1502 ]  Porque o meu discípulo estudante tem olhos de grandíssimo bargante ; e se alguma hora te chegar a ver pode alguma desgraça suceder .
+      [ character:  Sobrinha]
+      [ 1503 ]  Não sei que possa nisso haver risco .
+      [ 1504 ]  Há de me dar olhado ?
+      [ 1505 ]  É basilisco ?
+      [ 1506 ]  Não fale nisso , que é imaginação .
+      [ character:  Cura]
+      [ 1507 ]  Bom é fugir Olaia à tentação .
+      [ character:  Sobrinha]
+      [ 1508 ]  Eu a esse estudante nada gabo , porém ele não é nenhum Diabo .
+      [ 1509 ]  E quando o fora , c'o sinal da cruz me havia de livrar dele .
+      [ character:  Cura]
+      [ 1509 ]  Ora sus !
+      [ 1510 ]  Suposto o que dizes , já me alegro ; contudo o diabo sempre é negro , e por esta razão , quando o estudante vem a dar lição , não hás de tu estar aqui presente mas retirar-te logo em continente lá para dentro .
+      [ 1511 ]  Hás de isto fazer ?
+      [ character:  Sobrinha]
+      [ 1512 ]  Não deixarei , senhor , de obedecer .
+      [ character:  Cura]
+      [ 1513 ]  Ora a Deos , porque vou para a igreja .
+      [ 1513 ]  Vai-se .
+      [ character:  Sobrinha]
+      [ 1514 ]  Mil horas esquecidas lá esteja que tão aperreada aqui me tem .
+      [ 1515 ]  Eu havia deixar de querer bem ao meu rico estudante que tanto me adora , e é meu amante ?
+      [ 1516 ]  Não por certo que sempre o hei de amar , e quem mo impedir vá bugiar .
+      [ 1516 ]  Vai-se .
+      [ 1517 ]  Sai o estudante com uma arte na mão .
+      [ character:  Estudante]
+      [ 1518 ]  Mil voltas ando dando aos sentidos para ver meus desejos conseguidos , e mais me custa descobrir motivos que me custa estudar nominativos .
+      [ 1519 ]  Mas para que é saber falar latim , se não posso explicar-me a um serafim a uma bela flor , cheirosa Olaia por quem meu coração morre , e desmaia ?
+      [ 1520 ]  De todos meus alívios o desvio é a causa .
+      [ 1521 ]  Meu mestre , que é seu tio , é crelgo tão cruel , tão desconfiado , que não quer que ela tome algum recado .
+      [ 1522 ]  Nem que com ela chegue a falar gente , nem criado quer ter , nem ver parente ; mas a um cego só a deixa falar , que cada dia à porta vai rezar .
+      [ 1523 ]  E agora acho que por este meio melhor o meu intento negoceio .
+      [ 1523 ]  Sai o cego .
+      [ character:  Cego]
+      [ 1524 ]  Quem me manda rezar a São Pedro , à Virgem do Pilar ?
+      [ character:  Estudante]
+      [ 1525 ]  Mas o Cego é chegado , que pelo Deos Cupido vem mandado .
+      [ 1526 ]  Achegai para cá , ouvis meu irmão ?
+      [ character:  Cego]
+      [ 1527 ]  Quer que reze alguma oração ?
+      [ character:  Estudante]
+      [ 1528 ]  Não só quero , amigo , que rezeis , mas quero que por mim também oreis .
+      [ character:  Cego]
+      [ 1529 ]  Seja embora que , como me pagar , tanto me dá rezar , como orar .
+      [ 1530 ]  E há de ser aqui , ou isso é graça ?
+      [ character:  Estudante]
+      [ 1531 ]  Aqui não , mas verá lá para casa .
+      [ character:  Cego]
+      [ 1532 ]  E você , donde mora ?
+      [ character:  Estudante]
+      [ 1533 ]  Moro no coração de quem me adora que é ũa engraçada , e linda Olaia .
+      [ character:  Cego]
+      [ 1534 ]  Você parece que me quer dar vaia .
+      [ 1535 ]  Se não quer que daqui logo me parta , declare o que me quer .
+      [ character:  Estudante]
+      [ 1535 ]  Tenho uma carta de que só vós sereis o portador .
+      [ character:  Cego]
+      [ 1536 ]  Ainda não diz tudo , meu senhor , porque de cartas há várias maneiras : há carta de seguro , e mandadeiras , cartas de excomunhão , e de marear , cartas de propriedade , e de julgar , cartas de desafio , e de favores .
+      [ character:  Estudante]
+      [ 1537 ]  Aí faltam as de amores .
+      [ character:  Cego]
+      [ 1538 ]  Logo a sua é dessa qualidade ?
+      [ character:  Estudante]
+      [ 1539 ]  Assim é que falastes a verdade .
+      [ character:  Cego]
+      [ 1540 ]  Com que por derradeiro você quer-me fazer alcoviteiro .
+      [ character:  Estudante]
+      [ 1541 ]  Alcoviteiro não , tal cousa nego .
+      [ character:  Cego]
+      [ 1542 ]  Nega , como ?
+      [ character:  Estudante]
+      [ 1543 ]  Ora vede .
+      [ character:  Cego]
+      [ 1544 ]  Se eu sou cego , e nada posso ver , você é tonto ?
+      [ character:  Estudante]
+      [ 1545 ]  Escutai pois , e ouvireis um conto .
+      [ 1546 ]  Conheceis , por ventura a sobrinha do nosso Padre Cura ?
+      [ character:  Cego]
+      [ 1547 ]  Sempre lhe vou rezar à sua porta .
+      [ character:  Estudante]
+      [ 1548 ]  Bem está ; pois a mim muito me importa que quando vós lá fores a rezar esta carta na mão lhe hajais de dar .
+      [ 1549 ]  E se vos der reposta , trazei-ma pela posta .
+      [ character:  Cego]
+      [ 1550 ]  E dando-me esse exercício , diga como se chama este ofício , e se é bom que eu tome aquele de alcofa infame nome ?
+      [ character:  Estudante]
+      [ 1551 ]  Tão fora estais de ser alcoviteiro , que provo , de Cupido sois parceiro ; que se este Deos é cego por vendado , vós cego sois Cupido retratado .
+      [ 1552 ]  Logo desta maneira não pode , a de amor , ser vil cegueira .
+      [ character:  Cego]
+      [ 1553 ]  Ora , pelo que tendes praticado ou vós sois estudante , ou letrado .
+      [ 1554 ]  E à cega lagarta Levar quero agora a vossa carta .
+      [ character:  Estudante]
+      [ 1555 ]  Ei-la aqui , com o porte ; tende mão .
+      [ character:  Cego]
+      [ 1556 ]  Olá !
+      [ 1557 ]  Isto é dinheiro .
+      [ 1557 ]  Apalpa o dinheiro .
+      [ 1558 ]  Digo que o ofício é bom de alcoviteiro ; porém sabei , se for com má tenção que há de ser o demônio .
+      [ 1558 ]  À parte .
+      [ character:  Estudante]
+      [ 1559 ]  Tudo é para fim do matrimônio .
+      [ 1559 ]  Vão-se .
+      [ 1559 ]  Sai o Cura com a Sobrinha .
+      [ character:  Cura]
+      [ 1560 ]  Vem cá , Olaia , que temos que falar .
+      [ character:  Sobrinha]
+      [ 1561 ]  Senhor , nunca você me há de deixar ?
+      [ character:  Cura]
+      [ 1562 ]  Hás de agora ter santa paciência .
+      [ character:  Sobrinha]
+      [ 1563 ]  Vem outra vez com alguma impertinência ?
+      [ character:  Cura]
+      [ 1564 ]  Quero me digas que te disse o Cego .
+      [ character:  Sobrinha]
+      [ 1565 ]  Que me havia dizer ?
+      [ 1566 ]  Eu o renego !
+      [ 1567 ]  O cego vem aqui mais que a rezar ?
+      [ 1568 ]  The de um Cego você me quer ciar .
+      [ 1569 ]  Da vista do estudante , menos fora , mas cego que não vê , como namora .
+      [ 1570 ]  Certo que em seu poder sou disgraçada .
+      [ character:  Cura]
+      [ 1571 ]  Olhai , não haja aqui alguma alhada ; porque não sou como cuidais macio .
+      [ character:  Sobrinha]
+      [ 1572 ]  Perdeu já o juízo , senhor tio !
+      [ 1573 ]  De me dizer você isso me espanto .
+      [ character:  Cura]
+      [ 1574 ]  Vá para dentro , e meta-se num canto , porque se mais a cólera me provoca lhe hei de tapar a boca .
+      [ 1575 ]  Vai-se a sobrinha , e põe-se ao pano a espreitar , e fazer gestos ao estudante , que bem a dar lição :
+      [ character:  Estudante]
+      [ 1576 ]  Senhor mestre , se agora tem paixão , eu virei noutra hora a dar lição .
+      [ character:  Cura]
+      [ 1577 ]  Se a lição não trazeis bem na memória haveis hoje provar a palmatória , que estou pouco pão trigo .
+      [ character:  Estudante]
+      [ 1578 ]  Também me há de abranger esse castigo , se eu sou diligente ?
+      [ character:  Cura]
+      [ 1579 ]  Antes vejo que aqui sereis manente .
+      [ 1580 ]  E trazeis vós lição ?
+      [ character:  Estudante]
+      [ 1581 ]  Trago a conjugação do verbo amo , amas que é o primeiro .
+      [ character:  Cura]
+      [ 1582 ]  Andais mui de lampeiro .
+      [ 1583 ]  Já quereis amo , amas conjugar não sabendo vós inda declinar , bem os nominativos ?
+      [ 1584 ]  Isso não .
+      [ character:  Estudante]
+      [ 1585 ]  Cuidei que me louvava a inclinação , porque era ter desejo de estudar , querer por amo , amas conjugar .
+      [ character:  Cura]
+      [ 1586 ]  Recordai vós primeiro o estudado que amo , amas por hora é escusado .
+      [ 1587 ]  Grã bacharel está !
+      [ 1587 ]  À parte .
+      [ character:  Estudante]
+      [ 1587 ]  Que impertinente .
+      [ 1587 ]  À parte .
+      [ character:  Cura]
+      [ 1588 ]  Dai lição .
+      [ character:  Estudante]
+      [ 1588 ]  Digo assim .
+      [ 1589 ]  Tempo presente : Amo , eu amo ; amas , vós me amais .
+      [ 1589 ]  Para Cura .
+      [ character:  Cura]
+      [ 1590 ]  Adiante .
+      [ character:  Estudante]
+      [ 1590 ]  Eu não estudei mais .
+      [ character:  Cura]
+      [ 1591 ]  Pois só duas pessoas são bastantes .
+      [ character:  Estudante]
+      [ 1592 ]  Sim senhor , porque são dous os amantes .
+      [ character:  Cura]
+      [ 1593 ]  Vamos ao pretérito perfeito .
+      [ character:  Estudante]
+      [ 1594 ]  Ainda não o vi .
+      [ character:  Cura]
+      [ 1594 ]  Por que respeito ?
+      [ character:  Estudante]
+      [ 1595 ]  Porque amavi diz ter já amado e amo tem presente , e não passado .
+      [ character:  Cura]
+      [ 1596 ]  Estais na arte de amandi , grão Doutor .
+      [ character:  Estudante]
+      [ 1597 ]  Aos que amam faz sábios amor .
+      [ character:  Cura]
+      [ 1598 ]  Com isso vós haveis de vir a achar , e por doceo vos hei de ensinar , e com muita evidência , e brevidade .
+      [ character:  Estudante]
+      [ 1599 ]  Oh queira Deos que seja isso verdade .
+      [ character:  Cura]
+      [ 1600 ]  Ide embora .
+      [ 1600 ]  Vai-se , e diz à sobrinha :
+      [ character:  Sobrinha]
+      [ 1600 ]  E vinde muito cedo ; olhai não me falteis .
+      [ character:  Estudante]
+      [ 1600 ]  Não hajais medo .
+      [ 1600 ]  Vão-se .
+      [ 1601 ]  Sai o cura com a sobrinha .
+      [ character:  Cura]
+      [ 1602 ]  Ó Olaia .
+      [ character:  Sobrinha]
+      [ 1602 ]  Senhor .
+      [ character:  Cura]
+      [ 1602 ]  Dizem lá que as três sempre são más , porque o demo as fez .
+      [ 1603 ]  Esta é a terceira amoestação que te faço .
+      [ character:  Sobrinha]
+      [ 1603 ]  Pois já temos sermão .
+      [ character:  Cura]
+      [ 1604 ]  Não te engane ninguém , nem sejas tola ; vindo o cego rezar , dá-lhe a esmola , e fecha logo a porta , porque isto é o que muito te importa ; e honra , e mais honra .
+      [ character:  Sobrinha]
+      [ 1605 ]  Fiz algum dia eu cousa de desonra ?
+      [ 1606 ]  De mim ninguém tal cousa lhe diria .
+      [ character:  Cura]
+      [ 1607 ]  Num' hora cai a casa , não cada dia .
+      [ 1608 ]  Eu vou-me para a igreja que é dia de São Pedro , e se festeja , e tenho hoje muito em que entender .
+      [ character:  Sobrinha]
+      [ 1609 ]  Também muita alegria hei de ter .
+      [ 1609 ]  À parte vão-se .
+      [ 1610 ]  Sai o cego .
+      [ character:  Cego]
+      [ 1611 ]  Parece que inda é mui de madrugada , porque de gente não sinto pegada ; mas vamos mole , e mole , que Deos deparará quem nos console .
+      [ 1612 ]  Pede em voz alta .
+      [ 1613 ]  Mandem-me dar uma esmola seja à honra de São Pedro e pelo amor de Deos favoreçam este cego .
+      [ 1614 ]  Nom haverá quem me guie assim Deos lhe dê o prêmio , até à porta do cura , que aqui cuido que está perto .
+      [ 1615 ]  Sai o estudante , e o vai guiando .
+      [ character:  Estudante]
+      [ 1616 ]  Eu vos encaminharei , meu amigo , que sou o mesmo de quem levastes a carta à sobrinha desse clérigo .
+      [ character:  Cego]
+      [ 1617 ]  Pois seja por caridade o favor , meu cavalheiro .
+      [ character:  Estudante]
+      [ 1618 ]  Já aqui estais no portal .
+      [ character:  Cego]
+      [ 1619 ]  Por tal honra a mão lhe bejo .
+      [ character:  Estudante]
+      [ 1620 ]  Amigo , eu subo acima e tende nisto segredo que eu vos saberei pagar .
+      [ character:  Cego]
+      [ 1621 ]  Meu senhor , eu mais lhe devo .
+      [ 1622 ]  E aqui fico rezando porque tenha bom sucesso .
+      [ 1623 ]  Entra o estudante , e reza o cego .
+      [ character:  Cego]
+      [ 1624 ]  Para que possa rezar de São Pedro glorioso me dê o divino esprito de sua graça o socorro .
+      [ 1625 ]  A este apóstolo sagrado escolheu Cristo entre todos os discípulos por cabeça de seu colégio mimoso .
+      [ 1626 ]  Foi pontífice da igreja e teve em Roma seu trono , onde foi obedecido governando o mundo todo .
+      [ 1627 ]  Entregou-lhe logo as chaves fazendo-o tão poderoso , que pode fechar , e abrir do céu portas , e ferrolhos .
+      [ 1628 ]  Vem o cura com as chaves , e fecha a porta ao estudante , e vai-se .
+      [ 1629 ]  Todos os fiéis cristãos dele devem ser devotos para os livrar dos apertos que há na vida em vários modos .
+      [ 1630 ]  Torna o cura , e traz consigo o alcaide .
+      [ 1631 ]  Porque inda que se acham presos em penas do Purgatório por a sua interseção poderão hoje ser soltos .
+      [ character:  Cura]
+      [ 1632 ]  Senhor alcaide a diligência faça , aqui lhe entrego as chaves desta casa e toda em cobro ponha por me tirar as barbas de vergonha .
+      [ character:  Alcaide]
+      [ 1633 ]  Se eu achar com alguém sua sobrinha o hei de fustigar com esta varinha .
+      [ 1634 ]  Abre o alcaide a porta , e saem o estudante , e a sobrinha do cura .
+      [ closing:  Sobrinha]
+      [ 1635 ]  Para que é fazer tanto arruído , se eu venho aqui já com meu marido ?
+      [ character:  Alcaide]
+      [ 1636 ]  Para bem seja senhor lecenciado .
+      [ character:  Cego]
+      [ 1637 ]  Para bem seja o ter já enforcado o hábito de estudante .
+      [ character:  Estudante]
+      [ 1638 ]  Aceito os parabéns porque sou amante .
+      [ character:  Sobrinha]
+      [ 1639 ]  E com ele comigo quis casar de amo amas nunca quis passar .
+      [ character:  Cura]
+      [ 1640 ]  Isso conheci eu como prudente que havia ficar aqui manente .
+      [ character:  Alcaide]
+      [ 1641 ]  O passado passado : festejemos agora este noivado .
+      [ character:  Cura]
+      [ 1642 ]  De que maneira !
+      [ character:  Cego]
+      [ 1643 ]  Desta sorte : não tenho já cegueira .
+      [ 1644 ]  Baila , e repetem todos .
+      [ character:  Sobrinha]
+      [ 1645 ]  Meu estudante vaia .
+      [ character:  Estudante]
+      [ 1646 ]  Chega-te para mim , minha Olaia .
+      [ 1646 ]  Baila , e repete .
+      [ character:  Cura]
+      [ 1647 ]  Eu inda que sou cura tenho parte também nesta ventura .
+      [ 1647 ]  Baila , e repete .
+      [ character:  Sobrinha]
+      [ 1648 ]  E perdoai aqui nobre senado .
+      [ character:  Estudante]
+      [ 1649 ]  As faltas deste amante ferrolhado .
+      [ 1649 ]  Repetem e bailam .
+      [ closing: 
+      [ 1650 ]  FIM .] 
+      
